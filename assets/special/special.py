@@ -1,10 +1,10 @@
 import urllib.request
 from urllib.parse import urlparse
 from datetime import datetime, timedelta, timezone
+import os
 from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 from cryptography.hazmat.primitives import padding
 from cryptography.hazmat.backends import default_backend
-import os
 
 #读取文本方法
 def read_txt_to_array(file_name):
@@ -107,54 +107,46 @@ try:
 
 except Exception as e:
     print(f"保存文件时发生错误：{e}")
-	
-	
 
 
-# 定义加密函数
-def encrypt_file(file_in, file_out, key):
+
+
+# 定义加密函数，接受文件路径和密码，加密文件内容并写回原文件
+def encrypt_file(file_path, password):
     try:
+        # 读取文件内容
+        with open(file_path, 'rb') as file:
+            plaintext = file.read()
+        
+        # 将密码转换为字节串（确保密码是字节串类型）
+        password_bytes = password.encode('utf-8')
+        
         # 生成一个随机的初始化向量（IV）
         iv = os.urandom(16)
-
-        # 读取文件内容
-        with open(file_in, 'rb') as f:
-            plaintext = f.read()
-
+        
         # 填充明文
         padder = padding.PKCS7(algorithms.AES.block_size).padder()
         padded_plaintext = padder.update(plaintext) + padder.finalize()
-
+        
         # 创建AES加密器
-        cipher = Cipher(algorithms.AES(key), modes.CFB(iv), backend=default_backend())
+        cipher = Cipher(algorithms.AES(password_bytes), modes.CFB(iv), backend=default_backend())
         encryptor = cipher.encryptor()
-
+        
         # 加密明文
-        ciphertext = iv + encryptor.update(padded_plaintext) + encryptor.finalize()  # 将IV附加到密文前面
-
-        # 写入加密后的内容到文件
-        with open(file_out, 'wb') as f:
-            f.write(ciphertext)
+        ciphertext = iv + encryptor.update(padded_plaintext) + encryptor.finalize()
+        
+        # 将加密后的内容写回原文件
+        with open(file_path, 'wb') as file:
+            file.write(ciphertext)
+        
+        print(f"文件 {file_path} 已成功加密。")
+    
     except Exception as e:
-        print(f"Error encrypting file: {e}")
+        print(f"加密文件时发生错误：{e}")
 
-# 将密码"abcd"转换为字节串（需要是16、24或32字节长度，这里使用32字节长度的密钥作为示例）
-# 注意：在实际应用中，应该使用更安全的密钥生成方法
-password = b'abcd' * 8  # 重复密码以匹配AES密钥长度要求
+# 指定文件路径和密码
+file_path = 'assets/special/special.txt'  # 替换为你的文件路径
+password = 'abcd'  # 指定密码为'abcd'
 
-# 获取当前目录中的所有文件
-current_directory = os.getcwd()  # 获取当前工作目录
-files = os.listdir(current_directory)  # 列出当前目录中的所有文件和文件夹
-
-# 遍历所有文件，找到后缀为9847.txt的文件并进行加密
-for file in files:
-    if file.endswith('special.txt'):
-        # 构建输入和输出文件的完整路径
-        file_in = os.path.join(current_directory, file)
-        # 修改文件名以反映其已加密的状态，例如将"example9847.txt"改为"example9847已加密.txt"
-        file_base = os.path.splitext(file)[0]  # 获取文件的基本名（不带扩展名）
-        file_out = os.path.join(current_directory, f"{file_base}已加密.txt")
-
-        # 对文件进行加密
-        encrypt_file(file_in, file_out, password)
-        print(f"{file_in} 加密完成 - 输出文件为：{file_out}")	
+# 调用加密函数
+encrypt_file(file_path, password)
