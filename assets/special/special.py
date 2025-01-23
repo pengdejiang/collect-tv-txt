@@ -5,6 +5,7 @@ import os
 from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 from cryptography.hazmat.primitives import padding
 from cryptography.hazmat.backends import default_backend
+import tempfile
 
 #读取文本方法
 def read_txt_to_array(file_name):
