@@ -1,3 +1,5 @@
+Thrill,[SD]Thrill
+
 北京卫视,[BD]brtv新闻
 
 
@@ -527,6 +529,7 @@ CN卡通,[BD]cn卡通
 tvbs歡樂,[BD]tvbs歡樂
 緯來電影,[BD]緯來電影
 緯來體育,[BD]緯來體育
+緯來日本,[HD]緯來日本
 影迷數位電影,[BD]影迷數位電影
 華視,[BD]華視
 華視新聞,[BD]華視新聞
@@ -607,8 +610,6 @@ tvbs歡樂,[BD]tvbs歡樂
 amc电影,[HD]amc电影
 elta生活英语,[HD]elta生活英语
 tvbs欢乐,[HD]tvbs欢乐
-緯來日本,[HD]緯來日本
-緯來體育,[HD]緯來體育
 華視,[HD]華視
 華視新聞,[HD]華視新聞
 公视戏剧,[HD]公视戏剧
@@ -645,7 +646,7 @@ tvbs欢乐,[HD]tvbs欢乐
 动物星球,[HD]动物星球
 华视新闻,[HD]华视新闻
 历史频道,[HD]历史频道
-纬来体育,[HD]纬来体育
+纬来体育,[HD]纬来体育,[HD]緯來體育
 经典电影,[HD]经典电影
 镜新闻,[HD]镜新闻
 龙华日韩,[HD]龙华日韩
@@ -660,6 +661,7 @@ tvbs亞洲,[BD]tvbs亞洲
 tvbs新聞,[BD]tvbs新聞
 tvbs新闻,[BD]tvbs新闻
 凤凰中文,[BD]凤凰中文
+凤凰卫视,[HD]凤凰卫视
 凤凰资讯,[BD]凤凰资讯
 国际,[BD]国际
 无线财经,[BD]无线财经
@@ -690,3 +692,9 @@ tvb星河,[HD]tvb星河
 耀才财经,[HD]耀才财经
 香港c+,[HD]香港c+
 香港有线新闻,[HD]香港有线新闻
+DAZN1,[BD]dazn sport 1
+DAZN2,[HD]dazn sport 2
+nba tv,[HD]nba tv
+nba tv,[BD]nba tv
+skysports,[BD]skysports
+usa nba,[HD]usa nba
