@@ -111,42 +111,43 @@ except Exception as e:
 
 
 
-# 定义加密函数，接受文件路径和密码，加密文件内容并写回原文件
-def encrypt_file(file_path, password):
-    try:
-        # 读取文件内容
-        with open(file_path, 'rb') as file:
-            plaintext = file.read()
-        
-        # 将密码转换为字节串（确保密码是字节串类型）
-        password_bytes = password.encode('utf-8')
-        
-        # 生成一个随机的初始化向量（IV）
-        iv = os.urandom(16)
-        
-        # 填充明文
-        padder = padding.PKCS7(algorithms.AES.block_size).padder()
-        padded_plaintext = padder.update(plaintext) + padder.finalize()
-        
-        # 创建AES加密器
-        cipher = Cipher(algorithms.AES(password_bytes), modes.CFB(iv), backend=default_backend())
-        encryptor = cipher.encryptor()
-        
-        # 加密明文
-        ciphertext = iv + encryptor.update(padded_plaintext) + encryptor.finalize()
-        
-        # 将加密后的内容写回原文件
-        with open(file_path, 'wb') as file:
-            file.write(ciphertext)
-        
-        print(f"文件 {file_path} 已成功加密。")
+def encrypt_file_inplace(file_path, key):
+    # 生成一个随机的初始化向量（IV）
+    iv = os.urandom(16)
     
-    except Exception as e:
-        print(f"加密文件时发生错误：{e}")
+    # 读取文件内容
+    with open(file_path, 'rb') as f:
+        plaintext = f.read()
+    
+    # 填充明文
+    padder = padding.PKCS7(algorithms.AES.block_size).padder()
+    padded_plaintext = padder.update(plaintext) + padder.finalize()
+    
+    # 创建AES加密器
+    cipher = Cipher(algorithms.AES(key), modes.CFB(iv), backend=default_backend())
+    encryptor = cipher.encryptor()
+    
+    # 加密明文
+    ciphertext = iv + encryptor.update(padded_plaintext) + encryptor.finalize()
+    
+    # 使用临时文件存储加密后的内容
+    with tempfile.NamedTemporaryFile(delete=False) as temp_file:
+        temp_file_path = temp_file.name
+        with open(temp_file_path, 'wb') as f:
+            f.write(ciphertext)
+    
+    # 覆盖原始文件
+    os.replace(temp_file_path, file_path)
+    
+    print(f"文件 {file_path} 已成功加密并覆盖原始文件。")
 
-# 指定文件路径和密码
+# 将密码"abcd"（需要是16、24或32字节长度）转换为字节串
+# 注意：这里为了示例，简单地将密码重复以匹配AES密钥长度要求
+# 在实际应用中，应该使用更安全的密钥生成方法，如密码哈希或密钥派生函数
+password = b'abcd' * 8  # 重复密码以匹配AES-256的32字节密钥长度要求
+
+# 指定要加密的文件路径
 file_path = 'assets/special/special.txt'  # 替换为你的文件路径
-password = 'abcd'  # 指定密码为'abcd'
 
 # 调用加密函数
-encrypt_file(file_path, password)
+encrypt_file_inplace(file_path, password)
