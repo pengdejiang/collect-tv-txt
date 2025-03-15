@@ -19,7 +19,7 @@ try:
     ftp.set_pasv(True)  # 将FTP连接设置为被动模式
     logging.info('FTP连接已设置为被动模式')
     
-    ftp.cwd('/luffy9847-out')  # 切换到FTP服务器的指定目录
+    ftp.cwd('/github-jump')  # 切换到FTP服务器的指定目录
     logging.info(f'已切换到FTP服务器的目录: /luffy9847-out')
 
     # 设置本地目录以查找文件
