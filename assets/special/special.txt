@@ -3254,34 +3254,33 @@ NBA 经典,https://tv.iill.top/migu/nba
 中国足球风云,https://tv.iill.top/migu/zqfy
 掼蛋精英赛,https://tv.iill.top/migu/dds
 咪咕24小时体育台,https://tv.iill.top/migu/mgty
-「西甲」03/28 03:45 联赛 巴塞罗那 vs 奥萨苏纳 张昊泽 李欣,https://tv.iill.top/FB/UJT32F
-「中超」03/28 18:30 联赛 青岛西海岸 vs 上海海港 娄一晨 刘越 孙蕊,https://tv.iill.top/FB/EV11Cz
-「中超」03/28 18:30 联赛 青岛西海岸 vs 上海海港 赛场原声,https://tv.iill.top/FB/Y7vuHd
-「中超」03/28 19:20 联赛 武汉三镇 vs 浙江 张昊泽 于海,https://tv.iill.top/FB/eDU6P0
-「中超」03/28 19:20 联赛 武汉三镇 vs 浙江 赛场原声,https://tv.iill.top/FB/4eSSe7
-「中超」03/28 19:45 联赛 深圳新鹏城 vs 云南玉昆 鹿中原 雷腾龙,https://tv.iill.top/FB/rFP6hv
-「中超」03/28 19:45 联赛 深圳新鹏城 vs 云南玉昆 赛场原声,https://tv.iill.top/FB/VAy7ZW
-「NBA」03/28 06:55 常规赛 步行者vs奇才 罗森,https://tv.iill.top/NBA/CsnQqS
-「NBA」03/28 06:55 常规赛 马刺vs骑士 王晓晨,https://tv.iill.top/NBA/ZNxlSR
-「NBA」03/28 06:55 常规赛 独行侠vs魔术 邵化谦,https://tv.iill.top/NBA/n6DZbM
-「NBA」03/28 07:25 常规赛 老鹰vs热火 王琰博,https://tv.iill.top/NBA/yEZBK3
-「NBA」03/28 07:55 常规赛 灰熊vs雷霆 邢晨,https://tv.iill.top/NBA/cTy7Kp
-「NBA」03/28 07:45 常规赛 湖人vs公牛 姜帆 马健 秋童,https://tv.iill.top/NBA/NTKtpq
-「NBA」03/28 07:55 常规赛 湖人vs公牛 郑泽鹏,https://tv.iill.top/NBA/cDFVWA
-「NBA」03/28 08:55 常规赛 火箭vs爵士 周鹏,https://tv.iill.top/NBA/183k3a
-「NBA」03/28 09:55 常规赛 开拓者vs国王 殷文玉,https://tv.iill.top/NBA/U0FYhH
-「WTA」03/28 03:00 萨巴伦卡PK保利尼 佩古拉迎战黑马伊埃拉 萨巴伦卡PK保利尼 佩古拉迎战黑马伊埃拉 萨巴伦卡 vs 保利尼（李宁）,https://tv.iill.top/Migu/8T58DE
-「WTA」03/28 08:30 萨巴伦卡PK保利尼 佩古拉迎战黑马伊埃拉 萨巴伦卡PK保利尼 佩古拉迎战黑马伊埃拉 佩古拉 vs 伊埃拉（单文强）,https://tv.iill.top/Migu/zvFbKr
-「WTA」03/28 03:00 萨巴伦卡PK保利尼 佩古拉迎战黑马伊埃拉 萨巴伦卡PK保利尼 佩古拉迎战黑马伊埃拉 清流播出,https://tv.iill.top/Migu/8AmkYb
-「WTT」03/28 13:30 混双1/4决赛及半决赛、单打1/16决赛 混双1/4决赛及半决赛、单打1/16决赛 周冠达 周泽昊,https://tv.iill.top/Migu/nI8JZ7
-「WTT」03/28 13:30 混双1/4决赛及半决赛、单打1/16决赛 混双1/4决赛及半决赛、单打1/16决赛 1号桌,https://tv.iill.top/Migu/Tdkqsf
-「WTT」03/28 13:30 混双1/4决赛及半决赛、单打1/16决赛 混双1/4决赛及半决赛、单打1/16决赛 2号桌,https://tv.iill.top/Migu/d6Uzvs
-「WTT」03/28 13:30 混双1/4决赛及半决赛、单打1/16决赛 混双1/4决赛及半决赛、单打1/16决赛 3号桌,https://tv.iill.top/Migu/tHTK43
-「WTT」03/28 13:30 混双1/4决赛及半决赛、单打1/16决赛 混双1/4决赛及半决赛、单打1/16决赛 4号桌,https://tv.iill.top/Migu/fWg3DP
-「WTT」03/28 19:30 混双1/4决赛及半决赛、单打1/16决赛 混双1/4决赛及半决赛、单打1/16决赛 周泽昊 肖扬,https://tv.iill.top/Migu/QvtYuv
-「LPL」03/28 15:40 2025LPL第二赛段小组赛Day7 2025LPL第二赛段小组赛Day7 官方解说,https://tv.iill.top/Migu/PwGsHD
-「KPL」03/28 16:40 深圳KLG vs 上海RNG.M 深圳KLG vs 上海RNG.M 官方解说,https://tv.iill.top/Migu/7Ed1UQ
-「KPL」03/28 20:00 成都AG超玩会 vs Hero久竞 成都AG超玩会 vs Hero久竞 官方解说,https://tv.iill.top/Migu/VjGLbl
+「西甲」03:45 联赛 巴塞罗那 vs 奥萨苏纳 张昊泽 李欣,https://tv.iill.top/FB/8OBlhC
+「中超」18:30 联赛 青岛西海岸 vs 上海海港 娄一晨 刘越 孙蕊,https://tv.iill.top/FB/sIDz3x
+「中超」18:30 联赛 青岛西海岸 vs 上海海港 赛场原声,https://tv.iill.top/FB/vnnjvV
+「中超」19:20 联赛 武汉三镇 vs 浙江 张昊泽 于海,https://tv.iill.top/FB/QAlV0r
+「中超」19:20 联赛 武汉三镇 vs 浙江 赛场原声,https://tv.iill.top/FB/JPxpDx
+「中超」19:45 联赛 深圳新鹏城 vs 云南玉昆 鹿中原 雷腾龙,https://tv.iill.top/FB/v4dERV
+「中超」19:45 联赛 深圳新鹏城 vs 云南玉昆 赛场原声,https://tv.iill.top/FB/J8qc1w
+「NBA」06:55 常规赛 步行者vs奇才 罗森,https://tv.iill.top/NBA/EFOFJL
+「NBA」06:55 常规赛 马刺vs骑士 王晓晨,https://tv.iill.top/NBA/IilbsJ
+「NBA」06:55 常规赛 独行侠vs魔术 邵化谦,https://tv.iill.top/NBA/ZUUn1J
+「NBA」07:25 常规赛 老鹰vs热火 王琰博,https://tv.iill.top/NBA/SuNLSM
+「NBA」07:55 常规赛 灰熊vs雷霆 邢晨,https://tv.iill.top/NBA/lg2kDK
+「NBA」07:45 常规赛 湖人vs公牛 姜帆 马健 秋童,https://tv.iill.top/NBA/IK7MLn
+「NBA」07:55 常规赛 湖人vs公牛 郑泽鹏,https://tv.iill.top/NBA/dcMHAP
+「NBA」08:55 常规赛 火箭vs爵士 周鹏,https://tv.iill.top/NBA/R6bYml
+「NBA」09:55 常规赛 开拓者vs国王 殷文玉,https://tv.iill.top/NBA/0j1fPm
+「WTA」08:30 萨巴伦卡2-0保利尼 佩古拉迎战伊埃拉 萨巴伦卡2-0保利尼 佩古拉迎战伊埃拉 佩古拉 vs 伊埃拉（单文强）,https://tv.iill.top/Migu/1JUF42
+「WTA」08:30 萨巴伦卡2-0保利尼 佩古拉迎战伊埃拉 萨巴伦卡2-0保利尼 佩古拉迎战伊埃拉 清流播出,https://tv.iill.top/Migu/SIpYgx
+「WTT」13:30 黄镇廷/杜凯琹冲四强 早田希娜出战 黄镇廷/杜凯琹冲四强 早田希娜出战 周冠达 周泽昊,https://tv.iill.top/Migu/wZEtXg
+「WTT」13:30 黄镇廷/杜凯琹冲四强 早田希娜出战 黄镇廷/杜凯琹冲四强 早田希娜出战 1号桌,https://tv.iill.top/Migu/DxBILI
+「WTT」13:30 黄镇廷/杜凯琹冲四强 早田希娜出战 黄镇廷/杜凯琹冲四强 早田希娜出战 2号桌,https://tv.iill.top/Migu/QGPD2y
+「WTT」13:30 黄镇廷/杜凯琹冲四强 早田希娜出战 黄镇廷/杜凯琹冲四强 早田希娜出战 3号桌,https://tv.iill.top/Migu/6WYVw2
+「WTT」13:30 黄镇廷/杜凯琹冲四强 早田希娜出战 黄镇廷/杜凯琹冲四强 早田希娜出战 4号桌,https://tv.iill.top/Migu/doJMs9
+「WTT」19:30 黄镇廷/杜凯琹冲四强 早田希娜出战 黄镇廷/杜凯琹冲四强 早田希娜出战 周泽昊 肖扬,https://tv.iill.top/Migu/NCcouZ
+「LPL」15:40 2025LPL第二赛段小组赛Day7 2025LPL第二赛段小组赛Day7 官方解说,https://tv.iill.top/Migu/CIbHFx
+「KPL」16:40 深圳KLG vs 上海RNG.M 深圳KLG vs 上海RNG.M 官方解说,https://tv.iill.top/Migu/wadjxm
+「KPL」20:00 成都AG超玩会 vs Hero久竞 成都AG超玩会 vs Hero久竞 官方解说,https://tv.iill.top/Migu/noHNPK
 鳳凰衛視·中文「限UA」,http://dns.yiandrive.com:15907/phenix/fhzw
 鳳凰衛視·資訊「限UA」,http://dns.yiandrive.com:15907/phenix/fhzx
 鳳凰衛視·香港「限UA」,http://dns.yiandrive.com:15907/phenix/fhhk
