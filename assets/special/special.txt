@@ -4540,34 +4540,43 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-「英超」02:35 联赛 伯恩茅斯 vs 伊普斯维奇 涂远,https://tv.iill.top/FB/itUM5G
-「英超」02:35 联赛 纽卡斯尔联 vs 布伦特福德 刘焕,https://tv.iill.top/FB/EgiWGu
-「英超」02:35 联赛 南安普敦 vs 水晶宫 黄航,https://tv.iill.top/FB/Pt91yd
-「英超」02:35 联赛 布莱顿 vs 阿斯顿维拉 苗锟,https://tv.iill.top/FB/vUHioo
-「英超」02:30 联赛 曼城 vs 莱斯特城 刘畅 颜强,https://tv.iill.top/FB/lPxgMx
-「英超」02:45 联赛 利物浦 vs 埃弗顿 詹俊 张路 林梦鸽,https://tv.iill.top/FB/DT5vas
-「英超」02:50 联赛 利物浦 vs 埃弗顿 江忠德,https://tv.iill.top/FB/rn67RG
-「英超」02:50 联赛 利物浦 vs 埃弗顿 洪荒,https://tv.iill.top/FB/65Pfv7
-「英超」02:50 联赛 利物浦 vs 埃弗顿 陈渤胄,https://tv.iill.top/FB/bPPp16
-「英超」02:45 联赛 利物浦 vs 埃弗顿 詹俊 张路 林梦鸽,https://tv.iill.top/FB/xkss21
-「意大利杯」02:45 半决赛 AC米兰vs国际米兰 石庆圣 李彦,https://tv.iill.top/FB/MLzhBt
-「意大利杯」02:50 半决赛 AC米兰vs国际米兰 刘腾,https://tv.iill.top/FB/FtmtoJ
-「意大利杯」02:45 半决赛 AC米兰vs国际米兰 石庆圣 李彦,https://tv.iill.top/FB/O2nfu9
-「NBA」06:55 常规赛 尼克斯VS骑士 李天宇 张兆旭,https://tv.iill.top/NBA/ZdELgN
-「NBA」06:55 常规赛 黄蜂VS步行者 王琰博,https://tv.iill.top/NBA/VwL4NS
-「NBA」06:55 常规赛 国王VS奇才 王凯,https://tv.iill.top/NBA/yb8WgY
-「NBA」07:25 常规赛 热火VS凯尔特人 蔡凯臣 刘铁,https://tv.iill.top/NBA/LXFZzY
-「NBA」07:55 常规赛 爵士VS火箭 陈鑫隆,https://tv.iill.top/NBA/KCVThR
-「NBA」08:25 常规赛 老鹰VS独行侠 刘芳宇,https://tv.iill.top/NBA/vNQket
-「NBA」08:55 常规赛 马刺VS掘金 孔德昕,https://tv.iill.top/NBA/8mAIAP
-「NBA」09:25 常规赛 活塞VS雷霆 罗森,https://tv.iill.top/NBA/bGhDnu
-「NBA」10:15 常规赛 鹈鹕VS快船 庄宁宇 陈正昊 魏欣怡,https://tv.iill.top/NBA/Jc16WY
-「WTT」18:00 向鹏冲八强 张本智和、伊藤美诚出战 向鹏冲八强 张本智和、伊藤美诚出战 马特,https://tv.iill.top/Migu/XLYuxu
-「WTT」11:00 向鹏冲八强 张本智和、伊藤美诚出战 向鹏冲八强 张本智和、伊藤美诚出战 清流,https://tv.iill.top/Migu/SHsp5P
-「WTT」11:00 向鹏冲八强 张本智和、伊藤美诚出战 向鹏冲八强 张本智和、伊藤美诚出战 英文解说,https://tv.iill.top/Migu/TS4nf6
-「斯诺克」20:00 丁俊晖迎战囧哥 肖国栋PK希金斯 丁俊晖迎战囧哥 肖国栋PK希金斯 1号桌,https://tv.iill.top/Migu/L342S7
-「斯诺克」20:00 丁俊晖迎战囧哥 肖国栋PK希金斯 丁俊晖迎战囧哥 肖国栋PK希金斯 2号桌,https://tv.iill.top/Migu/slk2Me
-「WTA」23:00 阿尼西莫娃、佩古拉出战 郑钦文PK梅尔滕斯 阿尼西莫娃、佩古拉出战 郑钦文PK梅尔滕斯 赛场原声,https://tv.iill.top/Migu/M23igz
+「英超」04/04 02:45 联赛 切尔西 vs 托特纳姆热刺 娄一晨 刘越 姚安妮,https://tv.iill.top/FB/tOsftQ
+「英超」04/04 02:45 联赛 切尔西 vs 托特纳姆热刺 娄一晨 刘越 姚安妮,https://tv.iill.top/FB/zhYExi
+「NBA」04/04 06:55 常规赛 雄鹿VS76人 连睿,https://tv.iill.top/NBA/J87YVl
+「NBA」04/04 06:55 常规赛 魔术vs奇才 王琰博,https://tv.iill.top/NBA/4EaLrB
+「NBA」04/04 07:25 常规赛 灰熊vs热火 孙博 贾磊,https://tv.iill.top/NBA/9zvuLx
+「NBA」04/04 07:25 常规赛 森林狼vs篮网 邢晨,https://tv.iill.top/NBA/OLm72i
+「NBA」04/04 07:25 常规赛 开拓者vs猛龙 刘芳宇,https://tv.iill.top/NBA/8ENISm
+「NBA」04/04 09:45 常规赛 勇士vs湖人 杨健 马健 小七,https://tv.iill.top/NBA/RXcibH
+「NBA」04/04 09:45 常规赛 勇士vs湖人 郑泽鹏,https://tv.iill.top/NBA/IUtLLU
+「NBA」04/04 09:45 常规赛 勇士vs湖人 董倡硕,https://tv.iill.top/NBA/AsCSBz
+「NBA」04/04 09:45 常规赛 勇士vs湖人 莫俊祺,https://tv.iill.top/NBA/SEbn2q
+「NBA」04/04 09:45 常规赛 勇士vs湖人 洪荒,https://tv.iill.top/NBA/WRRlHK
+「WTA」04/03 23:00 纳瓦罗、佩古拉出战 郑钦文凌晨亮相 纳瓦罗、佩古拉出战 郑钦文凌晨亮相 赛场原声,https://tv.iill.top/Migu/hdPg9R
+「WTA」04/04 02:00 纳瓦罗、佩古拉出战 郑钦文凌晨亮相 纳瓦罗、佩古拉出战 郑钦文凌晨亮相 郑钦文 vs 梅尔滕斯,https://tv.iill.top/Migu/pUJG9R
+「WTA」04/04 02:00 纳瓦罗、佩古拉出战 郑钦文凌晨亮相 纳瓦罗、佩古拉出战 郑钦文凌晨亮相 郑钦文 vs 梅尔滕斯（赛场原声）,https://tv.iill.top/Migu/RB08Ao
+「WTA」04/04 01:00 奥索里奥出战 奥索里奥出战 赛场原声,https://tv.iill.top/Migu/N5BiJN
+「WTT」04/04 11:00 国乒德比王艺迪vs钱天一 国乒德比王艺迪vs钱天一 小马哥 周冠达,https://tv.iill.top/Migu/R3YwI8
+「WTT」04/04 11:00 国乒德比王艺迪vs钱天一 国乒德比王艺迪vs钱天一 清流,https://tv.iill.top/Migu/9b21Hi
+「WTT」04/04 11:00 国乒德比王艺迪vs钱天一 国乒德比王艺迪vs钱天一 英文解说,https://tv.iill.top/Migu/1HWCWw
+「中乙」04/04 15:20 中乙联赛 泉州亚新vs广西恒宸 解说,https://tv.iill.top/Migu/syQUoB
+「中乙」04/04 15:20 中乙联赛 昆明城星vs赣州瑞狮 解说,https://tv.iill.top/Migu/LA0sTt
+「中乙」04/04 15:20 中乙联赛 杭州临平吴越vs北京理工 解说,https://tv.iill.top/Migu/iW30Dv
+「中乙」04/04 15:50 中乙联赛 贵州筑城竞技vs广州铭途 解说,https://tv.iill.top/Migu/udfEqq
+「中乙」04/04 15:50 中乙联赛 深圳二零二八vs温州俱乐部 解说,https://tv.iill.top/Migu/0XjwxY
+「中乙」04/04 18:50 中乙联赛 成都蓉城B队vs武汉三镇B队 解说,https://tv.iill.top/Migu/UxaiXn
+「中乙」04/04 19:20 中乙联赛 广西蓝航vs广州蒲公英 解说,https://tv.iill.top/Migu/f8iMLm
+「CBA」04/04 18:00 季后赛12进8 青岛国信制药vs浙江稠州金租 庄宁宇 张兆旭 魏欣怡,https://tv.iill.top/Migu/Ct7mri
+「CBA」04/04 19:25 季后赛12进8 青岛国信制药vs浙江稠州金租 刘沛元,https://tv.iill.top/Migu/H7FRtW
+「CBA」04/04 19:25 季后赛12进8 青岛国信制药vs浙江稠州金租 金哲豪,https://tv.iill.top/Migu/bdCS2t
+「CBA」04/04 19:25 季后赛12进8 青岛国信制药vs浙江稠州金租 现场原声,https://tv.iill.top/Migu/eSl5f1
+「斯诺克」04/04 20:00 半决赛：希金斯PK霍金斯 半决赛：希金斯PK霍金斯 1号桌,https://tv.iill.top/Migu/CeGoIA
+「CBA」04/04 18:00 季后赛12进8 新疆伊力特vs南京头排苏酒 新疆vs南京（AVS3）,https://tv.iill.top/Migu/Wt5faf
+「CBA」04/04 19:25 季后赛12进8 新疆伊力特vs南京头排苏酒 王港,https://tv.iill.top/Migu/wkqtmw
+「CBA」04/04 19:25 季后赛12进8 新疆伊力特vs南京头排苏酒 盛哲,https://tv.iill.top/Migu/YvoTes
+「CBA」04/04 19:25 季后赛12进8 新疆伊力特vs南京头排苏酒 现场原声,https://tv.iill.top/Migu/vrxBNa
+「国际马联场地障碍世界杯」04/04 19:55 总决赛第一轮 总决赛第一轮 尹少坤,https://tv.iill.top/Migu/KmOudl
+「WTA」04/04 23:00 WTA查尔斯顿站1/4决赛 WTA查尔斯顿站1/4决赛 赛场原声,https://tv.iill.top/Migu/834msV
 鳳凰衛視·中文「限UA」,http://dns.yiandrive.com:15907/phenix/fhzw
 鳳凰衛視·資訊「限UA」,http://dns.yiandrive.com:15907/phenix/fhzx
 鳳凰衛視·香港「限UA」,http://dns.yiandrive.com:15907/phenix/fhhk
