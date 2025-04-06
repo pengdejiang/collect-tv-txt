@@ -9421,92 +9421,80 @@ Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc
 咪咕直播 𝟛𝟞「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
 咪咕直播 𝟛𝟟「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
 咪咕直播 𝟛𝟠「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
-「德甲」04/05 21:20 联赛 美因茨 vs 荷尔斯泰因基尔 刘洪新,https://tv.iill.top/FB/ZYK407
-「德甲」04/05 21:20 联赛 波鸿 vs 斯图加特 王子睿,https://tv.iill.top/FB/AOtJQI
-「德甲」04/05 21:20 联赛 RB莱比锡 vs 霍芬海姆 刘洋,https://tv.iill.top/FB/pIKmXR
-「德甲」04/05 21:15 联赛 弗赖堡 vs 多特蒙德 涂远 秦游夏,https://tv.iill.top/FB/ubZJSF
-「德甲」04/05 21:20 联赛 海登海姆 vs 勒沃库森 胡小凡 马延峰,https://tv.iill.top/FB/N12aIK
-「德甲」04/05 21:20 联赛 海登海姆 vs 勒沃库森 智能字幕,https://tv.iill.top/FB/blwjUM
-「英超」04/05 21:50 联赛 西汉姆联 vs 伯恩茅斯 黄航,https://tv.iill.top/FB/yiihUm
-「英超」04/05 21:50 联赛 伊普斯维奇 vs 狼队 郭灿亮,https://tv.iill.top/FB/3KUmhW
-「英超」04/05 21:50 联赛 水晶宫 vs 布莱顿 林梦鸽,https://tv.iill.top/FB/c7eWqE
-「西甲」04/05 22:00 联赛 皇家马德里 vs 瓦伦西亚 孙雷 贺宇 李子琪,https://tv.iill.top/FB/4c5Unk
-「法甲」04/05 22:45 联赛 巴黎圣日耳曼 vs 昂热 鹿中原 王宇,https://tv.iill.top/FB/rDtqQI
-「意甲」04/05 23:45 联赛 帕尔马 vs 国际米兰 刘腾 黄健翔,https://tv.iill.top/FB/XbvgcD
-「英超」04/06 00:20 联赛 阿斯顿维拉 vs 诺丁汉森林 苗锟,https://tv.iill.top/FB/FaGeul
-「西甲」04/06 00:20 联赛 马略卡 vs 塞尔塔 张天翼,https://tv.iill.top/FB/kqMD8E
-「德甲」04/06 00:20 联赛 不来梅 vs 法兰克福 鲁靖明,https://tv.iill.top/FB/Nouled
-「法甲」04/06 00:50 联赛 布雷斯特 vs 摩纳哥 乔迁,https://tv.iill.top/FB/OWsWR3
-「意甲」04/06 02:30 联赛 AC米兰 vs 佛罗伦萨 石庆圣 李彦,https://tv.iill.top/FB/sElLa2
-「意甲」04/06 02:30 联赛 AC米兰 vs 佛罗伦萨 石庆圣 李彦,https://tv.iill.top/FB/vfmAvj
-「西甲」04/06 02:45 联赛 巴塞罗那 vs 皇家贝蒂斯 张昊泽 李欣,https://tv.iill.top/FB/csR3X0
-「西甲」04/06 02:45 联赛 巴塞罗那 vs 皇家贝蒂斯 张昊泽 李欣,https://tv.iill.top/FB/UMbprJ
-「法甲」04/06 02:55 联赛 里昂 vs 里尔 邵煊,https://tv.iill.top/FB/myqzYx
-「中甲」04/06 14:50 联赛 辽宁铁人 vs 延边龙鼎 解说,https://tv.iill.top/FB/LIXOVU
-「中超」04/06 15:00 联赛 长春亚泰 vs 山东泰山 苏东 徐阳 林梦鸽,https://tv.iill.top/FB/J2Ycbf
-「中超」04/06 15:15 联赛 长春亚泰 vs 山东泰山 赛场原声,https://tv.iill.top/FB/cIwuCN
-「中甲」04/06 15:20 联赛 佛山南狮 vs 陕西联合 解说,https://tv.iill.top/FB/FM1ARI
-「中甲」04/06 15:20 联赛 深圳青年人 vs 重庆铜梁龙 解说,https://tv.iill.top/FB/oyVkFQ
-「意甲」04/06 18:20 联赛 莱切 vs 威尼斯 谭逸雄,https://tv.iill.top/FB/M1LeTC
-「中超」04/06 18:15 联赛 青岛西海岸 vs 天津津门虎 张昊泽 冯潇霆,https://tv.iill.top/FB/VEfKc1
-「中超」04/06 18:15 联赛 青岛西海岸 vs 天津津门虎 赛场原声,https://tv.iill.top/FB/PZ7LXn
-「中超」04/06 18:30 联赛 成都蓉城 vs 大连英博 李欣 杨晨 郭小仙儿,https://tv.iill.top/FB/PCuklz
-「中超」04/06 18:45 联赛 成都蓉城 vs 大连英博 赛场原声,https://tv.iill.top/FB/hOsLtC
-「中超」04/06 18:45 联赛 梅州客家 vs 武汉三镇 张天翼 徐云龙,https://tv.iill.top/FB/St6dRZ
-「中超」04/06 18:45 联赛 梅州客家 vs 武汉三镇 赛场原声,https://tv.iill.top/FB/Ss2kLF
-「中甲」04/06 19:20 联赛 南京城市 vs 南通支云 解说,https://tv.iill.top/FB/gxT0gs
-「中超」04/06 19:20 联赛 北京国安 vs 浙江 孙雨轩 黄健翔,https://tv.iill.top/FB/bLg3Fr
-「中超」04/06 19:20 联赛 北京国安 vs 浙江 赛场原声,https://tv.iill.top/FB/go4X5m
-「中超」04/06 18:00 联赛 上海海港 vs 上海申花 娄一晨 刘越,https://tv.iill.top/FB/7lCpjI
-「中超」04/06 18:00 联赛 上海海港 vs 上海申花 石庆圣 李彦 魏欣怡,https://tv.iill.top/FB/o5Biyg
-「中超」04/06 19:20 联赛 上海海港 vs 上海申花 陈渤胄,https://tv.iill.top/FB/vlJfA4
-「中超」04/06 19:20 联赛 上海海港 vs 上海申花 4K赛场原声,https://tv.iill.top/FB/QZb3oe
-「西甲」04/06 19:50 联赛 拉斯帕尔马斯 vs 皇家社会 李霄,https://tv.iill.top/FB/phGwsW
-「中超」04/06 19:45 联赛 云南玉昆 vs 青岛海牛 袁甲 李毅,https://tv.iill.top/FB/OYI8MX
-「中超」04/06 19:45 联赛 云南玉昆 vs 青岛海牛 赛场原声,https://tv.iill.top/FB/SV6Kpz
-「英超」04/06 20:45 联赛 富勒姆 vs 利物浦 苏东 徐阳 李子琪,https://tv.iill.top/FB/s5RahJ
-「英超」04/06 20:30 联赛 布伦特福德 vs 切尔西 詹俊 张路,https://tv.iill.top/FB/OmSt4n
-「英超」04/06 20:45 联赛 托特纳姆热刺 vs 南安普敦 颜强 贺宇,https://tv.iill.top/FB/nkbpoz
-「意甲」04/06 20:50 联赛 都灵 vs 维罗纳 张昊泽,https://tv.iill.top/FB/TAzfl1
-「法甲」04/06 20:50 联赛 朗斯 vs 圣埃蒂安 盛斌,https://tv.iill.top/FB/vdyRPI
-「意甲」04/06 20:50 联赛 恩波利 vs 卡利亚里 吴奕博,https://tv.iill.top/FB/mYKOes
-「德甲」04/06 21:20 联赛 圣保利 vs 门兴格拉德巴赫 周楚雄,https://tv.iill.top/FB/2eFND1
-「西甲」04/06 22:05 联赛 塞维利亚 vs 马德里竞技 涂远 梁祥宇,https://tv.iill.top/FB/dUfHlh
-「西甲」04/06 22:05 联赛 塞维利亚 vs 马德里竞技 星际广场,https://tv.iill.top/FB/Ahc2RQ
-「法甲」04/06 23:05 联赛 蒙彼利埃 vs 勒阿弗尔 张天翼,https://tv.iill.top/FB/bJhzA9
-「法甲」04/06 23:05 联赛 雷恩 vs 欧塞尔 解说,https://tv.iill.top/FB/sVjP4V
-「法甲」04/06 23:05 联赛 兰斯 vs 斯特拉斯堡 鹿中原,https://tv.iill.top/FB/ziEtmt
-「英超」04/06 23:15 联赛 曼联 vs 曼城 詹俊 张路 林梦鸽,https://tv.iill.top/FB/nbwpWs
-「英超」04/06 23:20 联赛 曼联 vs 曼城 江忠德,https://tv.iill.top/FB/uwbBzi
-「英超」04/06 23:20 联赛 曼联 vs 曼城 洪荒,https://tv.iill.top/FB/wxiZ39
-「英超」04/06 23:20 联赛 曼联 vs 曼城 陈渤胄,https://tv.iill.top/FB/ncSN84
-「英超」04/06 23:30 联赛 曼联 vs 曼城 球星点亮,https://tv.iill.top/FB/mdKDYc
-「英超」04/06 23:15 联赛 曼联 vs 曼城 詹俊 张路 林梦鸽,https://tv.iill.top/FB/zaFzGU
-「德甲」04/06 23:20 联赛 柏林联合 vs 沃尔夫斯堡 吴子越,https://tv.iill.top/FB/efKjji
-「意甲」04/06 23:50 联赛 亚特兰大 vs 拉齐奥 刘焕,https://tv.iill.top/FB/WeFl1x
-「NBA」04/06 02:55 常规赛 尼克斯vs老鹰 金哲豪,https://tv.iill.top/NBA/HVAwqK
-「NBA」04/06 06:55 常规赛 森林狼vs76人 邢晨,https://tv.iill.top/NBA/S0aBn9
-「NBA」04/06 06:55 常规赛 灰熊vs活塞 徐秦威,https://tv.iill.top/NBA/G80pW1
-「NBA」04/06 07:55 常规赛 雄鹿vs热火 邵化谦 贾磊,https://tv.iill.top/NBA/o5Ypwi
-「NBA」04/06 10:15 常规赛 独行侠vs快船 姜帆 马健 秋童,https://tv.iill.top/NBA/AfIDoI
-「WTA」04/06 00:30 奥索里奥vs里埃拉 奥索里奥vs里埃拉 赛场原声,https://tv.iill.top/Migu/hjRuDy
-「WTA」04/06 01:00 佩古拉冲决赛 阿尼西莫娃对决肯宁 佩古拉冲决赛 阿尼西莫娃对决肯宁 佩古拉 vs 亚历山德洛娃（刘钟鸣）,https://tv.iill.top/Migu/eJ8prT
-「WTA」04/06 01:00 佩古拉冲决赛 阿尼西莫娃对决肯宁 佩古拉冲决赛 阿尼西莫娃对决肯宁 赛场原声,https://tv.iill.top/Migu/f0z3IH
-「WTA」04/06 02:30 佩古拉冲决赛 阿尼西莫娃对决肯宁 佩古拉冲决赛 阿尼西莫娃对决肯宁 阿尼西莫娃 vs 肯宁（李宁）,https://tv.iill.top/Migu/Uh8ld7
-「UFC格斗之夜」04/06 05:55 UFC格斗之夜：艾米特VS墨菲 UFC格斗之夜：艾米特VS墨菲 王琰博 郝俊,https://tv.iill.top/Migu/RZbwa8
-「UFC格斗之夜」04/06 05:55 UFC格斗之夜：艾米特VS墨菲 UFC格斗之夜：艾米特VS墨菲 英文原声,https://tv.iill.top/Migu/BghdyI
-「逐马计划」04/06 07:00 逐马计划—2025中国田径协会10公里精英赛（北京·海淀站） 逐马计划—2025中国田径协会10公里精英赛（北京·海淀站） 北京·海淀站,https://tv.iill.top/Migu/liUqAU
-「WTT」04/06 11:00 2025WTT仁川冠军赛Day6 2025WTT仁川冠军赛Day6 周雨,https://tv.iill.top/Migu/u45aTp
-「WTT」04/06 11:00 2025WTT仁川冠军赛Day6 2025WTT仁川冠军赛Day6 清流,https://tv.iill.top/Migu/Fcqdcw
-「WTT」04/06 11:00 2025WTT仁川冠军赛Day6 2025WTT仁川冠军赛Day6 英文解说,https://tv.iill.top/Migu/sIuaVz
-「KPL」04/06 13:40 苏州KSG vs 武汉eStarPro 苏州KSG vs 武汉eStarPro 官方解说,https://tv.iill.top/Migu/3Rg0Pu
-「LPL」04/06 14:30 JDG vs NIP JDG vs NIP 官方解说,https://tv.iill.top/Migu/R2vzgF
-「LPL」04/06 17:00 FPX vs TT FPX vs TT 官方解说,https://tv.iill.top/Migu/St5nAW
-「KPL」04/06 17:00 北京WB vs 上海EDG.M 北京WB vs 上海EDG.M 官方解说,https://tv.iill.top/Migu/lPA8nV
-「LPL」04/06 19:00 BLG vs IG BLG vs IG 官方解说,https://tv.iill.top/Migu/azp71t
-「国际马联场地障碍世界杯」04/06 19:40 总决赛第三轮 总决赛第三轮 尹少坤,https://tv.iill.top/Migu/jtciPN
-「斯诺克」04/06 20:00 决赛：希金斯出战 决赛：希金斯出战 1号桌,https://tv.iill.top/Migu/Sdl4Dm
-「KPL」04/06 20:00 杭州LGD.NBW vs 重庆狼队 杭州LGD.NBW vs 重庆狼队 官方解说,https://tv.iill.top/Migu/X1cB7d
+「英超」00:20 联赛 阿斯顿维拉 vs 诺丁汉森林 苗锟,https://tv.iill.top/FB/oViUg3
+「西甲」00:20 联赛 马略卡 vs 塞尔塔 张天翼,https://tv.iill.top/FB/jmSXAb
+「德甲」00:20 联赛 不来梅 vs 法兰克福 鲁靖明,https://tv.iill.top/FB/pF35sw
+「法甲」00:50 联赛 布雷斯特 vs 摩纳哥 乔迁,https://tv.iill.top/FB/JUpRwG
+「意甲」02:30 联赛 AC米兰 vs 佛罗伦萨 石庆圣 李彦,https://tv.iill.top/FB/98eH50
+「意甲」02:30 联赛 AC米兰 vs 佛罗伦萨 石庆圣 李彦,https://tv.iill.top/FB/1Ck8Mb
+「西甲」02:45 联赛 巴塞罗那 vs 皇家贝蒂斯 张昊泽 李欣,https://tv.iill.top/FB/XgYqNq
+「西甲」02:45 联赛 巴塞罗那 vs 皇家贝蒂斯 张昊泽 李欣,https://tv.iill.top/FB/KvQlF5
+「法甲」02:55 联赛 里昂 vs 里尔 邵煊,https://tv.iill.top/FB/SlUlz3
+「中甲」14:50 联赛 辽宁铁人 vs 延边龙鼎 解说,https://tv.iill.top/FB/c55cAo
+「中超」15:00 联赛 长春亚泰 vs 山东泰山 苏东 徐阳 林梦鸽,https://tv.iill.top/FB/vEDhn8
+「中超」15:15 联赛 长春亚泰 vs 山东泰山 赛场原声,https://tv.iill.top/FB/FVQ3WL
+「中甲」15:20 联赛 佛山南狮 vs 陕西联合 解说,https://tv.iill.top/FB/QbmNPE
+「中甲」15:20 联赛 深圳青年人 vs 重庆铜梁龙 解说,https://tv.iill.top/FB/1NF3Qv
+「意甲」18:20 联赛 莱切 vs 威尼斯 谭逸雄,https://tv.iill.top/FB/z0LprI
+「中超」18:15 联赛 青岛西海岸 vs 天津津门虎 张昊泽 冯潇霆,https://tv.iill.top/FB/D0xAHC
+「中超」18:15 联赛 青岛西海岸 vs 天津津门虎 赛场原声,https://tv.iill.top/FB/dPDCLl
+「中超」18:30 联赛 成都蓉城 vs 大连英博 李欣 杨晨 郭小仙儿,https://tv.iill.top/FB/3RFCci
+「中超」18:45 联赛 成都蓉城 vs 大连英博 赛场原声,https://tv.iill.top/FB/zx3xS0
+「中超」18:45 联赛 梅州客家 vs 武汉三镇 张天翼 徐云龙,https://tv.iill.top/FB/tngcLD
+「中超」18:45 联赛 梅州客家 vs 武汉三镇 赛场原声,https://tv.iill.top/FB/LQz7zI
+「中甲」19:20 联赛 南京城市 vs 南通支云 解说,https://tv.iill.top/FB/AKUfPM
+「中超」19:20 联赛 北京国安 vs 浙江 孙雨轩 黄健翔,https://tv.iill.top/FB/rwJKgJ
+「中超」19:20 联赛 北京国安 vs 浙江 赛场原声,https://tv.iill.top/FB/uHZlwh
+「中超」18:00 联赛 上海海港 vs 上海申花 娄一晨 刘越,https://tv.iill.top/FB/lcvCNS
+「中超」18:00 联赛 上海海港 vs 上海申花 石庆圣 李彦 魏欣怡,https://tv.iill.top/FB/fb1oiy
+「中超」19:20 联赛 上海海港 vs 上海申花 陈渤胄,https://tv.iill.top/FB/IkIbqn
+「中超」19:20 联赛 上海海港 vs 上海申花 4K赛场原声,https://tv.iill.top/FB/zMHadT
+「西甲」19:50 联赛 拉斯帕尔马斯 vs 皇家社会 李霄,https://tv.iill.top/FB/cH9FE8
+「中超」19:45 联赛 云南玉昆 vs 青岛海牛 袁甲 李毅,https://tv.iill.top/FB/D4stY1
+「中超」19:45 联赛 云南玉昆 vs 青岛海牛 赛场原声,https://tv.iill.top/FB/yUUZ2L
+「英超」20:45 联赛 富勒姆 vs 利物浦 苏东 徐阳 李子琪,https://tv.iill.top/FB/yCvuZz
+「英超」20:30 联赛 布伦特福德 vs 切尔西 詹俊 张路,https://tv.iill.top/FB/lyKwX7
+「英超」20:45 联赛 托特纳姆热刺 vs 南安普敦 颜强 贺宇,https://tv.iill.top/FB/VBnwrX
+「意甲」20:50 联赛 都灵 vs 维罗纳 张昊泽,https://tv.iill.top/FB/nLNSOZ
+「法甲」20:50 联赛 朗斯 vs 圣埃蒂安 盛斌,https://tv.iill.top/FB/AOR9z9
+「意甲」20:50 联赛 恩波利 vs 卡利亚里 吴奕博,https://tv.iill.top/FB/URrCrR
+「德甲」21:20 联赛 圣保利 vs 门兴格拉德巴赫 周楚雄,https://tv.iill.top/FB/FSm8WQ
+「西甲」22:05 联赛 塞维利亚 vs 马德里竞技 涂远 梁祥宇,https://tv.iill.top/FB/Cosdbt
+「西甲」22:05 联赛 塞维利亚 vs 马德里竞技 星际广场,https://tv.iill.top/FB/nECO5S
+「法甲」23:05 联赛 蒙彼利埃 vs 勒阿弗尔 张天翼,https://tv.iill.top/FB/m0rBDo
+「法甲」23:05 联赛 雷恩 vs 欧塞尔 解说,https://tv.iill.top/FB/1102Ge
+「法甲」23:05 联赛 兰斯 vs 斯特拉斯堡 鹿中原,https://tv.iill.top/FB/c6ULSA
+「英超」23:15 联赛 曼联 vs 曼城 詹俊 张路 林梦鸽,https://tv.iill.top/FB/98Cho4
+「英超」23:20 联赛 曼联 vs 曼城 江忠德,https://tv.iill.top/FB/g3A1U7
+「英超」23:20 联赛 曼联 vs 曼城 洪荒,https://tv.iill.top/FB/B861Yv
+「英超」23:20 联赛 曼联 vs 曼城 陈渤胄,https://tv.iill.top/FB/bbSBng
+「英超」23:30 联赛 曼联 vs 曼城 球星点亮,https://tv.iill.top/FB/dCqy02
+「英超」23:15 联赛 曼联 vs 曼城 詹俊 张路 林梦鸽,https://tv.iill.top/FB/i3iqlU
+「德甲」23:20 联赛 柏林联合 vs 沃尔夫斯堡 吴子越,https://tv.iill.top/FB/0fy15U
+「意甲」23:50 联赛 亚特兰大 vs 拉齐奥 刘焕,https://tv.iill.top/FB/xtwUZ9
+「NBA」02:55 常规赛 尼克斯VS老鹰 金哲豪,https://tv.iill.top/NBA/S9OVfg
+「NBA」06:55 常规赛 森林狼VS76人 邢晨,https://tv.iill.top/NBA/IhlO74
+「NBA」06:55 常规赛 灰熊VS活塞 徐秦威,https://tv.iill.top/NBA/ZiKd14
+「NBA」07:55 常规赛 雄鹿VS热火 邵化谦 贾磊,https://tv.iill.top/NBA/4vElCy
+「NBA」10:15 常规赛 独行侠VS快船 姜帆 马健 秋童,https://tv.iill.top/NBA/tyJ0Oj
+「WTA」00:30 奥索里奥进决赛 卡瓦淘汰小将帕雷哈 奥索里奥进决赛 卡瓦淘汰小将帕雷哈 赛场原声,https://tv.iill.top/Migu/eQ0nUp
+「WTA」02:30 佩古拉苦战晋级 阿尼西莫娃因伤退赛 佩古拉苦战晋级 阿尼西莫娃因伤退赛 阿尼西莫娃 vs 肯宁（李宁）,https://tv.iill.top/Migu/erIxYa
+「WTA」01:00 佩古拉苦战晋级 阿尼西莫娃因伤退赛 佩古拉苦战晋级 阿尼西莫娃因伤退赛 赛场原声,https://tv.iill.top/Migu/cZPeNX
+「UFC格斗之夜」05:55 墨菲判定击败艾米特16战不败 墨菲判定击败艾米特16战不败 王琰博 郝俊,https://tv.iill.top/Migu/GgAiGD
+「UFC格斗之夜」05:55 墨菲判定击败艾米特16战不败 墨菲判定击败艾米特16战不败 英文原声,https://tv.iill.top/Migu/UyFFP6
+「逐马计划」07:00 逐马计划—2025中国田径协会10公里精英赛（北京·海淀站） 逐马计划—2025中国田径协会10公里精英赛（北京·海淀站） 北京·海淀站,https://tv.iill.top/Migu/JcMOJX
+「马拉松系列赛」07:20 海宁追潮半程马拉松赛 海宁追潮半程马拉松赛 清流播出,https://tv.iill.top/Migu/7XuwP6
+「KPL」13:40 苏州KSG vs 武汉eStarPro 苏州KSG vs 武汉eStarPro 官方解说,https://tv.iill.top/Migu/3lJAa6
+「LPL」14:30 JDG vs NIP JDG vs NIP 官方解说,https://tv.iill.top/Migu/kPOity
+「LPL」17:20 FPX vs TT FPX vs TT 官方解说,https://tv.iill.top/Migu/aGc4ZT
+「KPL」17:00 北京WB vs 上海EDG.M 北京WB vs 上海EDG.M 官方解说,https://tv.iill.top/Migu/aZQxlg
+「WTT」18:00 王艺迪成功问鼎 向鹏横扫夺冠 王艺迪成功问鼎 向鹏横扫夺冠 周雨,https://tv.iill.top/Migu/1OJEIE
+「WTT」11:00 王艺迪成功问鼎 向鹏横扫夺冠 王艺迪成功问鼎 向鹏横扫夺冠 清流,https://tv.iill.top/Migu/CZ4uvo
+「WTT」11:00 王艺迪成功问鼎 向鹏横扫夺冠 王艺迪成功问鼎 向鹏横扫夺冠 英文解说,https://tv.iill.top/Migu/Rynzr2
+「国际马联场地障碍世界杯」19:40 总决赛第三轮 总决赛第三轮 尹少坤,https://tv.iill.top/Migu/b2ebpg
+「斯诺克」20:00 决赛：希金斯PK塞尔比 决赛：希金斯PK塞尔比 1号桌,https://tv.iill.top/Migu/OVooHg
+「KPL」20:00 杭州LGD.NBW vs 重庆狼队 杭州LGD.NBW vs 重庆狼队 官方解说,https://tv.iill.top/Migu/tPaWnF
+「LPL」21:00 BLG vs IG BLG vs IG 官方解说,https://tv.iill.top/Migu/6hKTpC
 鳳凰衛視·中文「限UA」,http://dns.yiandrive.com:15907/phenix/fhzw
 鳳凰衛視·資訊「限UA」,http://dns.yiandrive.com:15907/phenix/fhzx
 鳳凰衛視·香港「限UA」,http://dns.yiandrive.com:15907/phenix/fhhk
