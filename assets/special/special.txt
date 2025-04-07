@@ -9334,95 +9334,83 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 av91.top,https://wbug.xyz/videos/0f58e89f018ae20404e4c7cbc48352f9/g.m3u8?h=3121efe8979c635
 mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h=3121efe8979c635
 免费订阅：请勿贩卖...,https://epg.iill.top/v/302.mp4
-维护时间：2025-4-1#佛系维护...,https://epg.iill.top/v/301.mp4
-维护内容：维护内容：维护 Gather「删除 •咪咕源 / 当作节目表吧」,https://epg.iill.top/v/302.mp4
+维护时间：2025-4-8 #佛系维护...,https://epg.iill.top/v/301.mp4
+维护内容：维护内容：维护 Gather「恢复 •咪咕源」,https://epg.iill.top/v/302.mp4
 公告说明：推流源·暂不提供,https://epg.iill.top/v/301.mp4
 限制条件：请到 Github 了解详情「限制IP·UA」,https://epg.iill.top/v/302.mp4
 Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-晴彩广场舞「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
-晴彩少年「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
-晴彩竞技「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
-晴彩篮球「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
-咪咕直播4K「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
-咪咕直播 𝟙「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
-咪咕直播 𝟚「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
-咪咕直播 𝟛「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
-咪咕直播 𝟜「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
-咪咕直播 𝟝「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
-咪咕直播 𝟞「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
-咪咕直播 𝟟「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
-咪咕直播 𝟠「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
-咪咕直播 𝟡「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
-咪咕直播 𝟙𝟘「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
-咪咕直播 𝟙𝟙「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
-咪咕直播 𝟙𝟚「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
-咪咕直播 𝟙𝟛「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
-咪咕直播 𝟙𝟜「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
-咪咕直播 𝟙𝟝「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
-咪咕直播 𝟙𝟞「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
-咪咕直播 𝟙𝟟「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
-咪咕直播 𝟙𝟠「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
-咪咕直播 𝟙𝟡「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
-咪咕直播 𝟚𝟘「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
-咪咕直播 𝟚𝟙「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
-咪咕直播 𝟚𝟚「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
-咪咕直播 𝟚𝟛「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
-咪咕直播 𝟚𝟜「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
-咪咕直播 𝟚𝟝「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
-咪咕直播 𝟚𝟞「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
-咪咕直播 𝟚𝟟「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
-咪咕直播 𝟚𝟠「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
-咪咕直播 𝟚𝟡「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
-咪咕直播 𝟛𝟘「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
-咪咕直播 𝟛𝟙「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
-咪咕直播 𝟛𝟚「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
-咪咕直播 𝟛𝟛「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
-咪咕直播 𝟛𝟜「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
-咪咕直播 𝟛𝟝「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
-咪咕直播 𝟛𝟞「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
-咪咕直播 𝟛𝟟「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
-咪咕直播 𝟛𝟠「IPV4」,https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
-「西甲」00:20 联赛 巴拉多利德 vs 赫塔费 周楚雄,https://tv.iill.top/FB/8kiN4k
-「法甲」02:35 联赛 马赛 vs 图卢兹 盛斌,https://tv.iill.top/FB/Z5vtfQ
-「意甲」02:30 联赛 罗马 vs 尤文图斯 石庆圣 李彦,https://tv.iill.top/FB/hftMse
-「意甲」02:30 联赛 罗马 vs 尤文图斯 石庆圣 李彦,https://tv.iill.top/FB/bztoPD
-「西甲」02:50 联赛 比利亚雷亚尔 vs 毕尔巴鄂竞技 兰子非,https://tv.iill.top/FB/WCJOQd
-「NBA」00:55 常规赛 公牛VS黄蜂 吴博文,https://tv.iill.top/NBA/qB8qLN
-「NBA」03:25 常规赛 猛龙VS篮网 张泽欣,https://tv.iill.top/NBA/cymg5v
-「NBA」03:25 常规赛 湖人VS雷霆 邢晨,https://tv.iill.top/NBA/3o8zfZ
-「NBA」03:25 常规赛 湖人VS雷霆 郑泽鹏,https://tv.iill.top/NBA/eUhDsN
-「NBA」05:55 常规赛 国王VS骑士 邵化谦,https://tv.iill.top/NBA/85npTn
-「NBA」05:55 常规赛 奇才VS凯尔特人 蔡凯臣,https://tv.iill.top/NBA/P9fWmd
-「NBA」05:55 常规赛 爵士VS老鹰 周赫,https://tv.iill.top/NBA/4Vptws
-「NBA」05:55 常规赛 马刺VS开拓者 王冠证,https://tv.iill.top/NBA/y2IVzq
-「NBA」06:55 常规赛 太阳VS尼克斯 陈鑫隆,https://tv.iill.top/NBA/p6Lvg5
-「NBA」07:55 常规赛 步行者VS掘金 庄宁宇 殷文玉,https://tv.iill.top/NBA/Rjmrn8
-「NBA」08:15 常规赛 火箭VS勇士 连睿 马健 小七,https://tv.iill.top/NBA/FBrr5A
-「NBA」08:25 常规赛 火箭VS勇士 拜月宁,https://tv.iill.top/NBA/UnzdUh
-「NBA」08:25 常规赛 火箭VS勇士 周鹏,https://tv.iill.top/NBA/3WmsXx
-「NBA」08:25 常规赛 雄鹿VS鹈鹕 刘芳宇,https://tv.iill.top/NBA/N09d0C
-「WTA」01:00 奥索里奥获个人赛会第三冠 奥索里奥获个人赛会第三冠 赛场原声,https://tv.iill.top/Migu/0h24K1
-「WTA」02:30 佩古拉夺得赛季第二冠 佩古拉夺得赛季第二冠 赛场原声,https://tv.iill.top/Migu/hThkMy
-「LPL」16:30 LNG vs EDG LNG vs EDG 官方解说,https://tv.iill.top/Migu/65hR1G
-「斯诺克」17:00 巩晨智出战 赵心童21:30登场 巩晨智出战 赵心童21:30登场 3号桌,https://tv.iill.top/Migu/czSVWu
-「斯诺克」17:00 巩晨智出战 赵心童21:30登场 巩晨智出战 赵心童21:30登场 1号桌,https://tv.iill.top/Migu/JdzIuH
-「斯诺克」17:00 巩晨智出战 赵心童21:30登场 巩晨智出战 赵心童21:30登场 2号桌,https://tv.iill.top/Migu/q0RfrL
-「斯诺克」17:00 巩晨智出战 赵心童21:30登场 巩晨智出战 赵心童21:30登场 4号桌,https://tv.iill.top/Migu/N8R737
-「斯诺克」17:00 巩晨智出战 赵心童21:30登场 巩晨智出战 赵心童21:30登场 5号桌,https://tv.iill.top/Migu/aWPF1Z
-「斯诺克」17:00 巩晨智出战 赵心童21:30登场 巩晨智出战 赵心童21:30登场 6号桌,https://tv.iill.top/Migu/6hwFBP
-「斯诺克」17:00 巩晨智出战 赵心童21:30登场 巩晨智出战 赵心童21:30登场 8号桌,https://tv.iill.top/Migu/rnSwLG
-「斯诺克」17:00 巩晨智出战 赵心童21:30登场 巩晨智出战 赵心童21:30登场 7号桌,https://tv.iill.top/Migu/pk0krG
-「LPL」19:00 TES vs WBG TES vs WBG 官方解说,https://tv.iill.top/Migu/2mHqXw
-「CBA」18:45 季后赛12进8 浙江稠州金租vs青岛国信制药 孙博 刘铁 李根,https://tv.iill.top/Migu/YcxiOh
-「CBA」18:45 季后赛12进8 浙江稠州金租vs青岛国信制药 南京vs新疆,https://tv.iill.top/Migu/oFgynb
-「CBA」19:25 季后赛12进8 浙江稠州金租vs青岛国信制药 金哲豪,https://tv.iill.top/Migu/tIulia
-「CBA」19:25 季后赛12进8 浙江稠州金租vs青岛国信制药 刘沛元,https://tv.iill.top/Migu/fOjceG
-「CBA」19:25 季后赛12进8 浙江稠州金租vs青岛国信制药 现场原声,https://tv.iill.top/Migu/ejvcfx
-「CBA」19:25 季后赛12进8 南京头排苏酒vs新疆伊力特 王港,https://tv.iill.top/Migu/uTQbXN
-「CBA」19:25 季后赛12进8 南京头排苏酒vs新疆伊力特 盛哲,https://tv.iill.top/Migu/q2BYLf
-「CBA」19:25 季后赛12进8 南京头排苏酒vs新疆伊力特 现场原声,https://tv.iill.top/Migu/YW4tps
+CCTV 1 综合,https://tv.iill.top/migu/cctv1
+CCTV 2 财经,https://tv.iill.top/migu/cctv2
+CCTV 3 综艺,https://tv.iill.top/migu/cctv3
+CCTV 4 中文国际,https://tv.iill.top/migu/cctv4
+CCTV 4 中文国际·美洲,https://tv.iill.top/migu/cctv4m
+CCTV 4 中文国际·欧洲,https://tv.iill.top/migu/cctv4o
+CCTV 5 体育,https://tv.iill.top/migu/cctv5
+CCTV 5+ 体育赛事,https://tv.iill.top/migu/cctv5p
+CCTV 6 电影,https://tv.iill.top/migu/cctv6
+CCTV 7 国防军事,https://tv.iill.top/migu/cctv7
+CCTV 8 电视剧,https://tv.iill.top/migu/cctv8
+CCTV 9 纪录,https://tv.iill.top/migu/cctv9
+CCTV 10 科教,https://tv.iill.top/migu/cctv10
+CCTV 11 戏曲,https://tv.iill.top/migu/cctv11
+CCTV 12 社会与法,https://tv.iill.top/migu/cctv12
+CCTV 13 新闻,https://tv.iill.top/migu/cctv13
+CCTV 14 少儿,https://tv.iill.top/migu/cctv14
+CCTV 15 音乐,https://tv.iill.top/migu/cctv15
+CCTV 17 农村农业,https://tv.iill.top/migu/cctv17
+CETV 1 中国教育,https://tv.iill.top/migu/cetv1
+CETV 2 中国教育,https://tv.iill.top/migu/cetv2
+CETV 4 中国教育,https://tv.iill.top/migu/cetv4
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+江苏卫视,https://tv.iill.top/migu/jsws
+东方卫视,https://tv.iill.top/migu/dfws
+上视东方影视,https://tv.iill.top/migu/shys
+CHC 家庭影院,https://tv.iill.top/migu/jtyy
+红色轮播台,https://tv.iill.top/migu/hslb
+金色剧场,https://tv.iill.top/migu/jsjc
+NBA 经典,https://tv.iill.top/migu/nba
+五大联赛经典,https://tv.iill.top/migu/lsjd
+中国足球风云,https://tv.iill.top/migu/zqfy
+咪咕24小时体育台,https://tv.iill.top/migu/mgty
+「意甲」04/08 02:35 联赛 博洛尼亚 vs 那不勒斯 刘腾,https://tv.iill.top/FB/7Fnj6S
+「英超」04/08 02:50 联赛 莱斯特城 vs 纽卡斯尔联 刘焕,https://tv.iill.top/FB/rZAw9r
+「西甲」04/08 02:50 联赛 莱加内斯 vs 奥萨苏纳 孙雨轩,https://tv.iill.top/FB/Q3bDOV
+「NBA」04/08 06:55 常规赛 国王vs活塞 王琰博,https://tv.iill.top/NBA/wbs4o8
+「NBA」04/08 07:25 常规赛 76人vs热火 吴博文,https://tv.iill.top/NBA/lPUUvT
+「WTT」04/08 10:00 男女单打资格赛小组赛第一、二轮 男女单打资格赛小组赛第一、二轮 1号桌,https://tv.iill.top/Migu/ywbssc
+「WTT」04/08 10:00 男女单打资格赛小组赛第一、二轮 男女单打资格赛小组赛第一、二轮 2号桌,https://tv.iill.top/Migu/GuxStU
+「WTT」04/08 10:00 男女单打资格赛小组赛第一、二轮 男女单打资格赛小组赛第一、二轮 3号桌,https://tv.iill.top/Migu/6xC6Rp
+「中乙」04/08 15:20 中乙联赛 赣州瑞狮vs深圳二零二八 解说,https://tv.iill.top/Migu/t6V1hK
+「中乙」04/08 15:20 中乙联赛 广东铭途vs广州蒲公英 解说,https://tv.iill.top/Migu/Eodr1j
+「中乙」04/08 15:20 中乙联赛 昆明城星vs泉州亚新 解说,https://tv.iill.top/Migu/b3U7ks
+「中乙」04/08 15:20 中乙联赛 广西恒宸vs成都蓉城B队 解说,https://tv.iill.top/Migu/bFWBoj
+「中乙」04/08 15:50 中乙联赛 贵州筑城竞技vs广西蓝航 解说,https://tv.iill.top/Migu/q4daLv
+「LPL」04/08 16:30 TES vs FPX TES vs FPX 官方解说,https://tv.iill.top/Migu/jO5uMB
+「斯诺克」04/08 17:00 周金豪出战 赵心童vs张家玮争晋级 周金豪出战 赵心童vs张家玮争晋级 1号桌,https://tv.iill.top/Migu/QEF1bn
+「斯诺克」04/08 17:00 周金豪出战 赵心童vs张家玮争晋级 周金豪出战 赵心童vs张家玮争晋级 2号桌,https://tv.iill.top/Migu/ATxscS
+「斯诺克」04/08 17:00 周金豪出战 赵心童vs张家玮争晋级 周金豪出战 赵心童vs张家玮争晋级 5号桌,https://tv.iill.top/Migu/Vlh62b
+「斯诺克」04/08 17:00 周金豪出战 赵心童vs张家玮争晋级 周金豪出战 赵心童vs张家玮争晋级 6号桌,https://tv.iill.top/Migu/ULKRZT
+「斯诺克」04/08 17:00 周金豪出战 赵心童vs张家玮争晋级 周金豪出战 赵心童vs张家玮争晋级 3号桌,https://tv.iill.top/Migu/7v8iix
+「斯诺克」04/08 17:00 周金豪出战 赵心童vs张家玮争晋级 周金豪出战 赵心童vs张家玮争晋级 4号桌,https://tv.iill.top/Migu/CK7Rop
+「斯诺克」04/08 17:00 周金豪出战 赵心童vs张家玮争晋级 周金豪出战 赵心童vs张家玮争晋级 7号桌,https://tv.iill.top/Migu/aXOv27
+「斯诺克」04/08 17:00 周金豪出战 赵心童vs张家玮争晋级 周金豪出战 赵心童vs张家玮争晋级 8号桌,https://tv.iill.top/Migu/UM1FCb
+「CBA」04/08 18:30 上海vs广东赛前训练 上海vs广东赛前训练 陈渤胄,https://tv.iill.top/Migu/v8B4AN
+「CBA」04/08 18:30 上海vs广东赛前训练 上海vs广东赛前训练 翻译小余,https://tv.iill.top/Migu/yhUkhD
+「LPL」04/08 19:00 IG vs AL IG vs AL 官方解说,https://tv.iill.top/Migu/jfkyj8
+「WCBA」04/08 19:20 总决赛 四川蜀道远达 VS 东莞新彤盛 吕程 赵爽,https://tv.iill.top/Migu/F6Usz7
+「中乙」04/08 19:20 中乙联赛 武汉三镇B队vs温州俱乐部 解说,https://tv.iill.top/Migu/ypdZJt
+王薪凯,https://tv.iill.top/Migu/Le8cPG
+「CBA」04/08 19:25 季后赛12进8 上海久事vs广东东阳光 陈渤胄,https://tv.iill.top/Migu/FH4dmH
+「CBA」04/08 19:25 季后赛12进8 上海久事vs广东东阳光 翻译小余,https://tv.iill.top/Migu/ARfYZk
+「CBA」04/08 19:25 季后赛12进8 上海久事vs广东东阳光 明星机位-洛夫顿,https://tv.iill.top/Migu/LgNJDP
+「CBA」04/08 19:25 季后赛12进8 上海久事vs广东东阳光 明星机位-胡明轩,https://tv.iill.top/Migu/tCYAfR
+「CBA」04/08 19:25 季后赛12进8 上海久事vs广东东阳光 现场原声,https://tv.iill.top/Migu/9QLVhd
+李根,https://tv.iill.top/Migu/IRzvto
+「CBA」04/08 19:25 季后赛12进8 北京控股vs山东高速 周赫,https://tv.iill.top/Migu/MJpWOf
+「CBA」04/08 19:25 季后赛12进8 北京控股vs山东高速 王新通,https://tv.iill.top/Migu/8JBntU
+「CBA」04/08 19:25 季后赛12进8 北京控股vs山东高速 现场原声,https://tv.iill.top/Migu/uqnbUe
 鳳凰衛視·中文「限UA」,http://dns.yiandrive.com:15907/phenix/fhzw
 鳳凰衛視·資訊「限UA」,http://dns.yiandrive.com:15907/phenix/fhzx
 鳳凰衛視·香港「限UA」,http://dns.yiandrive.com:15907/phenix/fhhk
