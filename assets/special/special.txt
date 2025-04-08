@@ -9171,44 +9171,43 @@ NBA 经典,https://tv.iill.top/migu/nba
 五大联赛经典,https://tv.iill.top/migu/lsjd
 中国足球风云,https://tv.iill.top/migu/zqfy
 咪咕24小时体育台,https://tv.iill.top/migu/mgty
-「意甲」02:35 联赛 博洛尼亚 vs 那不勒斯 刘腾,https://tv.iill.top/FB/QcLXLY
-「英超」02:50 联赛 莱斯特城 vs 纽卡斯尔联 刘焕,https://tv.iill.top/FB/ZVU1za
-「西甲」02:50 联赛 莱加内斯 vs 奥萨苏纳 孙雨轩,https://tv.iill.top/FB/SJy1WF
-「NBA」06:55 常规赛 国王VS活塞 王琰博,https://tv.iill.top/NBA/lcTSX9
-「NBA」07:25 常规赛 76人VS热火 吴博文,https://tv.iill.top/NBA/G5CRP3
-「中乙」15:20 中乙联赛 赣州瑞狮vs深圳二零二八 解说,https://tv.iill.top/Migu/APyE1o
-「中乙」15:20 中乙联赛 广东铭途vs广州蒲公英德桦绿建 解说,https://tv.iill.top/Migu/SfSkHv
-「中乙」15:20 中乙联赛 昆明城星vs泉州亚新 解说,https://tv.iill.top/Migu/MEaUOP
-「中乙」15:20 中乙联赛 广西恒宸vs成都蓉城B队 解说,https://tv.iill.top/Migu/bhLy7K
-「中乙」15:50 中乙联赛 贵州筑城竞技vs广西蓝航 解说,https://tv.iill.top/Migu/kvgFII
-「WTT」10:00 徐海东速胜 徐奕3-1江芷林 徐海东速胜 徐奕3-1江芷林 1号桌,https://tv.iill.top/Migu/AdqZZ3
-「WTT」10:00 徐海东速胜 徐奕3-1江芷林 徐海东速胜 徐奕3-1江芷林 2号桌,https://tv.iill.top/Migu/v0smMO
-「WTT」10:00 徐海东速胜 徐奕3-1江芷林 徐海东速胜 徐奕3-1江芷林 3号桌,https://tv.iill.top/Migu/gaYTDl
-「LPL」16:30 TES vs FPX TES vs FPX 官方解说,https://tv.iill.top/Migu/OB3wNH
-「斯诺克」17:00 老将吉米·怀特登场 周金豪、赵心童出战 老将吉米·怀特登场 周金豪、赵心童出战 1号桌,https://tv.iill.top/Migu/V3zGJO
-「斯诺克」17:00 老将吉米·怀特登场 周金豪、赵心童出战 老将吉米·怀特登场 周金豪、赵心童出战 7号桌,https://tv.iill.top/Migu/nnOKyw
-「斯诺克」17:00 老将吉米·怀特登场 周金豪、赵心童出战 老将吉米·怀特登场 周金豪、赵心童出战 2号桌,https://tv.iill.top/Migu/t9GwXC
-「斯诺克」17:00 老将吉米·怀特登场 周金豪、赵心童出战 老将吉米·怀特登场 周金豪、赵心童出战 3号桌,https://tv.iill.top/Migu/5c3bej
-「斯诺克」17:00 老将吉米·怀特登场 周金豪、赵心童出战 老将吉米·怀特登场 周金豪、赵心童出战 4号桌,https://tv.iill.top/Migu/0kov1H
-「斯诺克」17:00 老将吉米·怀特登场 周金豪、赵心童出战 老将吉米·怀特登场 周金豪、赵心童出战 5号桌,https://tv.iill.top/Migu/wVhuQc
-「斯诺克」17:00 老将吉米·怀特登场 周金豪、赵心童出战 老将吉米·怀特登场 周金豪、赵心童出战 6号桌,https://tv.iill.top/Migu/ls6pwo
-「斯诺克」17:00 老将吉米·怀特登场 周金豪、赵心童出战 老将吉米·怀特登场 周金豪、赵心童出战 8号桌,https://tv.iill.top/Migu/EZ8vEt
-「CBA」18:30 上海vs广东赛前训练 上海vs广东赛前训练 陈渤胄,https://tv.iill.top/Migu/j4Osze
-「CBA」18:30 上海vs广东赛前训练 上海vs广东赛前训练 翻译小余,https://tv.iill.top/Migu/U45kIM
-「LPL」19:00 IG vs AL IG vs AL 官方解说,https://tv.iill.top/Migu/qrcbOT
-「WCBA」19:20 总决赛 四川蜀道远达 VS 东莞新彤盛 吕程 赵爽,https://tv.iill.top/Migu/5jeXNS
-「WCBA」19:20 总决赛 四川蜀道远达 VS 东莞新彤盛 现场解说,https://tv.iill.top/Migu/3bJ8Bj
-「中乙」19:20 中乙联赛 武汉三镇B队vs温州俱乐部中胤 解说,https://tv.iill.top/Migu/JBnIiF
-「CBA」18:30 季后赛12进8 上海久事vs广东东阳光 李天宇、陈正昊、王薪凯,https://tv.iill.top/Migu/dEDZQC
-「CBA」18:30 季后赛12进8 上海久事vs广东东阳光 北控vs山东,https://tv.iill.top/Migu/NI6U0A
-「CBA」19:25 季后赛12进8 上海久事vs广东东阳光 陈渤胄,https://tv.iill.top/Migu/eAEu0N
-「CBA」19:25 季后赛12进8 上海久事vs广东东阳光 翻译小余,https://tv.iill.top/Migu/Rr1K3X
-「CBA」19:25 季后赛12进8 上海久事vs广东东阳光 明星机位-洛夫顿,https://tv.iill.top/Migu/dnOAJ3
-「CBA」19:25 季后赛12进8 上海久事vs广东东阳光 明星机位-胡明轩,https://tv.iill.top/Migu/8v0sOq
-「CBA」19:25 季后赛12进8 上海久事vs广东东阳光 现场原声,https://tv.iill.top/Migu/vS0pnX
-「CBA」19:25 季后赛12进8 北京控股vs山东高速 周赫,https://tv.iill.top/Migu/9ZpBMg
-「CBA」19:25 季后赛12进8 北京控股vs山东高速 王新通,https://tv.iill.top/Migu/JIeTG9
-「CBA」19:25 季后赛12进8 北京控股vs山东高速 现场原声,https://tv.iill.top/Migu/qakeWH
+「亚冠二级」04/09 01:50 半决赛 布赖代合作 vs 沙亚赫 鹿中原,https://tv.iill.top/FB/oR4KMw
+「亚冠二级」04/09 19:50 半决赛 本国联队 vs 悉尼FC 谭逸雄,https://tv.iill.top/FB/uufcc9
+「NBA」04/09 06:55 常规赛 奇才vs步行者 王凯,https://tv.iill.top/NBA/1T5bdt
+「NBA」04/09 06:55 常规赛 公牛vs骑士 王冠证,https://tv.iill.top/NBA/z4DGoa
+「NBA」04/09 06:55 常规赛 灰熊vs黄蜂 刘芳宇,https://tv.iill.top/NBA/Pb5jiN
+「NBA」04/09 06:55 常规赛 老鹰vs魔术 张泽欣,https://tv.iill.top/NBA/F4QX0D
+「NBA」04/09 07:25 常规赛 鹈鹕vs篮网 邵化谦,https://tv.iill.top/NBA/g7Paqg
+「NBA」04/09 07:25 常规赛 凯尔特人vs尼克斯 姜帆 季孟年,https://tv.iill.top/NBA/K5MdCV
+「NBA」04/09 07:55 常规赛 森林狼vs雄鹿 张浩岳,https://tv.iill.top/NBA/PdrMtz
+「NBA」04/09 07:45 常规赛 湖人vs雷霆 杨健 苏群 秋童,https://tv.iill.top/NBA/Sb6hqT
+「NBA」04/09 07:55 常规赛 湖人vs雷霆 郑泽鹏,https://tv.iill.top/NBA/tbeDy0
+「NBA」04/09 09:45 常规赛 勇士vs太阳 李天宇 陈正昊 魏欣怡,https://tv.iill.top/NBA/eIWzwL
+「NBA」04/09 09:55 常规赛 勇士vs太阳 拜月宁,https://tv.iill.top/NBA/kc0pgo
+「NBA」04/09 09:55 常规赛 勇士vs太阳 莫俊祺,https://tv.iill.top/NBA/oyIiWZ
+「NBA」04/09 09:55 常规赛 勇士vs太阳 洪荒,https://tv.iill.top/NBA/7Z2GdY
+「NBA」04/09 10:25 常规赛 马刺vs快船 连睿 闫宇峰,https://tv.iill.top/NBA/jr6Ns5
+「WTT」04/09 10:00 徐奕迎战黄凯彤 徐海东PK周哲宇 徐奕迎战黄凯彤 徐海东PK周哲宇 1号桌,https://tv.iill.top/Migu/wsVuX3
+「WTT」04/09 10:00 徐奕迎战黄凯彤 徐海东PK周哲宇 徐奕迎战黄凯彤 徐海东PK周哲宇 2号桌,https://tv.iill.top/Migu/oF3K5P
+「WTT」04/09 10:00 徐奕迎战黄凯彤 徐海东PK周哲宇 徐奕迎战黄凯彤 徐海东PK周哲宇 3号桌,https://tv.iill.top/Migu/LUJNUV
+「中乙」04/09 14:50 中乙联赛 长春喜都vs江西庐山 解说,https://tv.iill.top/Migu/Wy1SYI
+「中乙」04/09 14:50 中乙联赛 山西崇德荣海vs杭州临平吴越 解说,https://tv.iill.top/Migu/D7ovK4
+「中乙」04/09 14:50 中乙联赛 北京理工vs上海海港富盛经开 解说,https://tv.iill.top/Migu/bYs7pZ
+「中乙」04/09 15:20 中乙联赛 海门珂缔缘vs泰安天贶 解说,https://tv.iill.top/Migu/3Ljpda
+「LPL」04/09 16:30 LGD vs OMG LGD vs OMG 官方解说,https://tv.iill.top/Migu/V0bLXB
+「KPL」04/09 16:40 苏州KSG vs 济南RW侠 苏州KSG vs 济南RW侠 官方解说,https://tv.iill.top/Migu/Dl7gvU
+「斯诺克」04/09 17:00 白雨露、老将达赫迪出战 白雨露、老将达赫迪出战 1号桌,https://tv.iill.top/Migu/rhzyzq
+「斯诺克」04/09 17:00 白雨露、老将达赫迪出战 白雨露、老将达赫迪出战 2号桌,https://tv.iill.top/Migu/xDoRFx
+「斯诺克」04/09 17:00 白雨露、老将达赫迪出战 白雨露、老将达赫迪出战 3号桌,https://tv.iill.top/Migu/2uafyQ
+「斯诺克」04/09 17:00 白雨露、老将达赫迪出战 白雨露、老将达赫迪出战 4号桌,https://tv.iill.top/Migu/VxyuKR
+「斯诺克」04/09 17:00 白雨露、老将达赫迪出战 白雨露、老将达赫迪出战 5号桌,https://tv.iill.top/Migu/90O454
+「斯诺克」04/09 17:00 白雨露、老将达赫迪出战 白雨露、老将达赫迪出战 7号桌,https://tv.iill.top/Migu/bRZbp4
+「斯诺克」04/09 17:00 白雨露、老将达赫迪出战 白雨露、老将达赫迪出战 6号桌,https://tv.iill.top/Migu/eRRILQ
+「斯诺克」04/09 17:00 白雨露、老将达赫迪出战 白雨露、老将达赫迪出战 8号桌,https://tv.iill.top/Migu/qOlZLj
+「中乙」04/09 18:50 中乙联赛 兰州陇原竞技vs湖北青年星 解说,https://tv.iill.top/Migu/hnxPX5
+「中乙」04/09 18:50 中乙联赛 山东泰山B队vs无锡吴钩 解说,https://tv.iill.top/Migu/JVVrdd
+「LPL」04/09 19:00 WE vs JDG WE vs JDG 官方解说,https://tv.iill.top/Migu/2b0CSW
+「KPL」04/09 20:00 杭州LGD.NBW vs 佛山DRG 杭州LGD.NBW vs 佛山DRG 官方解说,https://tv.iill.top/Migu/XQsfRw
 鳳凰衛視·中文「限UA」,http://dns.yiandrive.com:15907/phenix/fhzw
 鳳凰衛視·資訊「限UA」,http://dns.yiandrive.com:15907/phenix/fhzx
 鳳凰衛視·香港「限UA」,http://dns.yiandrive.com:15907/phenix/fhhk
