@@ -4579,36 +4579,35 @@ NBA 经典,https://tv.iill.top/migu/nba
 五大联赛经典,https://tv.iill.top/migu/lsjd
 中国足球风云,https://tv.iill.top/migu/zqfy
 咪咕24小时体育台,https://tv.iill.top/migu/mgty
-「西甲」01:00 -联赛-巴列卡诺 vs 皇家贝蒂斯-兰子非,https://tv.iill.top/FB/AWwe7b
-「西甲」01:00 -联赛-奥萨苏纳 vs 马德里竞技-梁祥宇 贺宇,https://tv.iill.top/FB/IkhiXG
-「西甲」01:00 -联赛-奥萨苏纳 vs 马德里竞技-梁祥宇 贺宇,https://tv.iill.top/FB/IzanFn
-「西甲」03:30 -联赛-赫塔费 vs 毕尔巴鄂竞技-洪宇青,https://tv.iill.top/FB/EAtO2h
-「西甲」03:30 -联赛-西班牙人 vs 巴塞罗那-张昊泽 李欣,https://tv.iill.top/FB/N8XTP6
-「中甲」19:00 -联赛-大连鲲城 vs 深圳青年人-解说,https://tv.iill.top/FB/eVMTsB
-「中甲」19:30 -联赛-南京城市 vs 苏州东吴-解说,https://tv.iill.top/FB/jQLJ9a
-「中甲」19:30 -联赛-广西平果 vs 佛山南狮-解说,https://tv.iill.top/FB/xev8Uh
-「中超」19:35 -联赛-浙江 vs 河南-孙雨轩 徐云龙,https://tv.iill.top/FB/7pSeq8
-「中超」19:35 -联赛-浙江 vs 河南-赛场原声,https://tv.iill.top/FB/vDSRbx
-「中超」20:00 -联赛-云南玉昆 vs 梅州客家-张昊泽 于海,https://tv.iill.top/FB/VWspPJ
-「中超」20:00 -联赛-云南玉昆 vs 梅州客家-赛场原声,https://tv.iill.top/FB/Paer0X
-「NBA」08:30 -季后赛-雷霆VS掘金-杨健 刘晓宇 苏群,https://tv.iill.top/NBA/WUgks0
-「NBA」08:30 -季后赛-雷霆VS掘金-英文原声,https://tv.iill.top/NBA/JArQSb
-「WTA」02:30 -罗马站半决赛：郑钦文PK高芙 保利尼率先晋级-郑钦文PK高芙 保利尼率先晋级-单文强,https://tv.iill.top/Migu/fbH0UZ
-「WTA」02:30 -罗马站半决赛：郑钦文PK高芙 保利尼率先晋级-郑钦文PK高芙 保利尼率先晋级-清流播出,https://tv.iill.top/Migu/sR2HEf
-「全国体操锦标赛」10:00 -全国体操锦标赛：女子预赛-周雅琴、邱祺缘领衔出战-综合信号,https://tv.iill.top/Migu/FDt537
-「全国体操锦标赛」10:00 -全国体操锦标赛：女子预赛-周雅琴、邱祺缘领衔出战-明星机位,https://tv.iill.top/Migu/YfPt1t
-「全国体操锦标赛」10:00 -全国体操锦标赛：女子预赛-周雅琴、邱祺缘领衔出战-跳马,https://tv.iill.top/Migu/OWSVyB
-「全国体操锦标赛」10:00 -全国体操锦标赛：女子预赛-周雅琴、邱祺缘领衔出战-高低杠,https://tv.iill.top/Migu/wP6mFz
-「全国体操锦标赛」10:00 -全国体操锦标赛：女子预赛-周雅琴、邱祺缘领衔出战-平衡木,https://tv.iill.top/Migu/dccWeM
-「全国体操锦标赛」10:00 -全国体操锦标赛：女子预赛-周雅琴、邱祺缘领衔出战-自由操,https://tv.iill.top/Migu/IIxeRR
-「多哈世乒赛」14:00 -【重温经典】世乒赛拾忆盲盒-【重温经典】世乒赛拾忆盲盒-重温经典,https://tv.iill.top/Migu/irTAUg
-「中乙」15:00 -联赛-长春喜都vs海门珂缔缘-解说,https://tv.iill.top/Migu/oI0MFb
-「中乙」15:00 -联赛-山西崇德荣海vs山东泰山B队-解说,https://tv.iill.top/Migu/YMIleC
-「中乙」15:00 -联赛-无锡吴钩vs杭州临平吴越-解说,https://tv.iill.top/Migu/1gqTD5
-「中乙」16:00 -联赛-深圳二零二八vs贵州筑城竞技-解说,https://tv.iill.top/Migu/PrwzNj
-「中乙」16:00 -联赛-广州蒲公英德桦绿建vs广西恒宸-解说,https://tv.iill.top/Migu/Qaeev7
-「LPL」16:30 -FPX vs JDG-FPX vs JDG-官方解说,https://tv.iill.top/Migu/4bk5wd
-「LPL」20:00 -IG vs NIP-IG vs NIP-官方解说,https://tv.iill.top/Migu/X3tzbd
+「西甲」01:00 -联赛-巴列卡诺 vs 皇家贝蒂斯-兰子非,https://tv.iill.top/FB/dsKXFz
+「西甲」01:00 -联赛-奥萨苏纳 vs 马德里竞技-梁祥宇 贺宇,https://tv.iill.top/FB/6Lzfez
+「西甲」01:00 -联赛-奥萨苏纳 vs 马德里竞技-梁祥宇 贺宇,https://tv.iill.top/FB/NzhDWo
+「西甲」03:30 -联赛-赫塔费 vs 毕尔巴鄂竞技-洪宇青,https://tv.iill.top/FB/FEKGyn
+「西甲」03:30 -联赛-西班牙人 vs 巴塞罗那-张昊泽 李欣,https://tv.iill.top/FB/fyPjHm
+「中甲」19:00 -联赛-大连鲲城 vs 深圳青年人-解说,https://tv.iill.top/FB/JejlG9
+「中甲」19:30 -联赛-南京城市 vs 苏州东吴-解说,https://tv.iill.top/FB/IdPqsP
+「中甲」19:30 -联赛-广西平果 vs 佛山南狮-解说,https://tv.iill.top/FB/XlLTgw
+「中超」19:35 -联赛-浙江 vs 河南-孙雨轩 徐云龙,https://tv.iill.top/FB/MhJ1uf
+「中超」19:35 -联赛-浙江 vs 河南-赛场原声,https://tv.iill.top/FB/o7rBt1
+「中超」20:00 -联赛-云南玉昆 vs 梅州客家-张昊泽 于海,https://tv.iill.top/FB/pfDxoo
+「中超」20:00 -联赛-云南玉昆 vs 梅州客家-赛场原声,https://tv.iill.top/FB/aXRDCY
+「NBA」08:30 -季后赛-雷霆VS掘金-杨健 刘晓宇 苏群,https://tv.iill.top/NBA/XawmBJ
+「NBA」08:30 -季后赛-雷霆VS掘金-英文原声,https://tv.iill.top/NBA/XBfzX1
+「WTA」02:30 -罗马站半决赛：郑钦文止步4强 高芙、保利尼会师罗马站决赛-郑钦文止步4强 高芙、保利尼会师罗马站决赛-清流播出,https://tv.iill.top/Migu/uGes7A
+「全国体操锦标赛」10:00 -全国体操锦标赛：女子预赛-周雅琴、邱祺缘领衔出战-综合信号,https://tv.iill.top/Migu/c4Wooa
+「全国体操锦标赛」10:00 -全国体操锦标赛：女子预赛-周雅琴、邱祺缘领衔出战-明星机位,https://tv.iill.top/Migu/mfUzLh
+「全国体操锦标赛」10:00 -全国体操锦标赛：女子预赛-周雅琴、邱祺缘领衔出战-跳马,https://tv.iill.top/Migu/f5I5zo
+「全国体操锦标赛」10:00 -全国体操锦标赛：女子预赛-周雅琴、邱祺缘领衔出战-高低杠,https://tv.iill.top/Migu/0maseO
+「全国体操锦标赛」10:00 -全国体操锦标赛：女子预赛-周雅琴、邱祺缘领衔出战-平衡木,https://tv.iill.top/Migu/aulfUS
+「全国体操锦标赛」10:00 -全国体操锦标赛：女子预赛-周雅琴、邱祺缘领衔出战-自由操,https://tv.iill.top/Migu/vPi8S1
+「多哈世乒赛」14:00 -【重温经典】世乒赛拾忆盲盒-【重温经典】世乒赛拾忆盲盒-重温经典,https://tv.iill.top/Migu/QfiRjk
+「中乙」15:00 -联赛-长春喜都vs海门珂缔缘-解说,https://tv.iill.top/Migu/teCstw
+「中乙」15:00 -联赛-山西崇德荣海vs山东泰山B队-解说,https://tv.iill.top/Migu/PsKC5U
+「中乙」15:00 -联赛-无锡吴钩vs杭州临平吴越-解说,https://tv.iill.top/Migu/8lrQQu
+「中乙」16:00 -联赛-深圳二零二八vs贵州筑城竞技-解说,https://tv.iill.top/Migu/oJzHmP
+「中乙」16:00 -联赛-广州蒲公英德桦绿建vs广西恒宸-解说,https://tv.iill.top/Migu/YeU9rs
+「LPL」16:30 -FPX vs JDG-FPX vs JDG-官方解说,https://tv.iill.top/Migu/NMy61D
+「LPL」20:00 -IG vs NIP-IG vs NIP-官方解说,https://tv.iill.top/Migu/aHBWnv
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
 鳳凰衛視·中文「限UA」,https://tv.iill.top/phenix/fhzw
