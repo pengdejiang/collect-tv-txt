@@ -4579,31 +4579,29 @@ NBA 经典,https://tv.iill.top/migu/nba
 五大联赛经典,https://tv.iill.top/migu/lsjd
 中国足球风云,https://tv.iill.top/migu/zqfy
 咪咕24小时体育台,https://tv.iill.top/migu/mgty
-「意甲」02:45 -联赛-恩波利 vs 维罗纳-【全场回放】恩波利vs维罗纳 (吴奕博),https://tv.iill.top/FB/Lv4aVz
-「意甲」02:45 -联赛-都灵 vs 罗马-【全场回放】都灵vs罗马 (谭逸雄),https://tv.iill.top/FB/KrNK0Y
-「意甲」02:45 -联赛-威尼斯 vs 尤文图斯-【全场回放】威尼斯vs尤文图斯 (吴桐、刘腾),https://tv.iill.top/FB/ZOnUBi
-「意甲」02:45 -联赛-乌迪内斯 vs 佛罗伦萨-【全场回放】乌迪内斯vs佛罗伦萨,https://tv.iill.top/FB/JJ42sT
-「意甲」02:45 -联赛-拉齐奥 vs 莱切-【全场回放】拉齐奥vs莱切 (刘焕),https://tv.iill.top/FB/SSsnvW
-「意甲」02:45 -联赛-亚特兰大 vs 帕尔马-【全场回放】 亚特兰大vs帕尔马 (乔迁),https://tv.iill.top/FB/fIhecq
-「西甲」03:00 -联赛-毕尔巴鄂竞技 vs 巴塞罗那-【全场回放】毕尔巴鄂竞技vs巴塞罗那 (张昊泽、李欣),https://tv.iill.top/FB/s6qbkB
-「中甲」15:00 -联赛-延边龙鼎 vs 定南赣联-解说,https://tv.iill.top/FB/VlU6pl
-「中甲」15:30 -联赛-青岛红狮 vs 南通支云-解说,https://tv.iill.top/FB/57HspG
-「中甲」19:30 -联赛-深圳青年人 vs 广东广州豹-解说,https://tv.iill.top/FB/1dEKAt
-「NBA」08:00 -季后赛-尼克斯VS步行者-连睿 周琦 周鹏,https://tv.iill.top/NBA/sxebp7
-「NBA」08:00 -季后赛-尼克斯VS步行者-英文原声,https://tv.iill.top/NBA/XZnA3j
-「NBA」08:00 -季后赛-尼克斯VS步行者-球场十倍镜,https://tv.iill.top/NBA/NcJMxi
-「NBA」08:00 -季后赛-尼克斯VS步行者-VIP前排视角,https://tv.iill.top/NBA/23kQGb
-「中乙」15:00 -联赛-北京理工vs兰州陇原竞技-解说,https://tv.iill.top/Migu/EgAxAL
-「全国跳水冠军赛」15:00 -2025全国跳水冠军赛：男子3米跳板决赛-男子3米跳板决赛-清流播出,https://tv.iill.top/Migu/3XSrpY
-「中乙」16:00 -联赛-上海海港富盛经开vs无锡吴钩-解说,https://tv.iill.top/Migu/gwCQCH
-「中乙」16:00 -联赛-杭州临平吴越vs长春喜都-解说,https://tv.iill.top/Migu/6We5Pt
-「LPL」16:30 -WE vs LGD-WE vs LGD-官方解说,https://tv.iill.top/Migu/1gwfxt
-「斯诺克」17:00 -欧洲Q-School第一站职业资格获得轮-职业资格获得轮-1号桌,https://tv.iill.top/Migu/oBXksL
-「斯诺克」17:00 -欧洲Q-School第一站职业资格获得轮-职业资格获得轮-2号桌,https://tv.iill.top/Migu/sv67Jr
-「斯诺克」17:00 -欧洲Q-School第一站职业资格获得轮-职业资格获得轮-3号桌,https://tv.iill.top/Migu/inTBGI
-「斯诺克」17:00 -欧洲Q-School第一站职业资格获得轮-职业资格获得轮-4号桌,https://tv.iill.top/Migu/0xrFEC
-「中乙」19:00 -联赛-山东泰山B队vs江西庐山-解说,https://tv.iill.top/Migu/uLIjyL
-「中乙」19:30 -联赛-成都蓉城B队vs深圳二零二八-解说,https://tv.iill.top/Migu/t4o7hz
+「意甲」02:45 -联赛-恩波利 vs 维罗纳-【全场回放】恩波利vs维罗纳 (吴奕博),https://tv.iill.top/FB/8XYmln
+「意甲」02:45 -联赛-都灵 vs 罗马-【全场回放】都灵vs罗马 (谭逸雄),https://tv.iill.top/FB/zWcMfE
+「意甲」02:45 -联赛-威尼斯 vs 尤文图斯-【全场回放】威尼斯vs尤文图斯 (吴桐、刘腾),https://tv.iill.top/FB/h2pETN
+「意甲」02:45 -联赛-乌迪内斯 vs 佛罗伦萨-【全场回放】乌迪内斯vs佛罗伦萨（鲁靖明）,https://tv.iill.top/FB/LUyVaj
+「意甲」02:45 -联赛-拉齐奥 vs 莱切-【全场回放】拉齐奥vs莱切 (刘焕),https://tv.iill.top/FB/7SxtEg
+「意甲」02:45 -联赛-亚特兰大 vs 帕尔马-【全场回放】 亚特兰大vs帕尔马 (乔迁),https://tv.iill.top/FB/4tpoil
+「西甲」03:00 -联赛-毕尔巴鄂竞技 vs 巴塞罗那-【全场回放】毕尔巴鄂竞技vs巴塞罗那 (张昊泽、李欣),https://tv.iill.top/FB/uS4FyI
+「中甲」15:00 -联赛-延边龙鼎 vs 定南赣联-解说,https://tv.iill.top/FB/m9Nyel
+「中甲」15:30 -联赛-青岛红狮 vs 南通支云-解说,https://tv.iill.top/FB/uKUTdg
+「中甲」19:30 -联赛-深圳青年人 vs 广东广州豹-解说,https://tv.iill.top/FB/Sqaq61
+「NBA」08:00 -季后赛-尼克斯VS步行者-全场回放（连睿、周琦、周鹏、裴优）,https://tv.iill.top/NBA/LlENTX
+「中乙」15:00 -联赛-北京理工vs兰州陇原竞技-解说,https://tv.iill.top/Migu/sdnxlI
+「中乙」16:00 -联赛-上海海港富盛经开vs无锡吴钩-解说,https://tv.iill.top/Migu/Lhwm4O
+「中乙」16:00 -联赛-杭州临平吴越vs长春喜都-解说,https://tv.iill.top/Migu/6OauEO
+「LPL」16:30 -WE vs LGD-WE vs LGD-官方解说,https://tv.iill.top/Migu/YG5oB2
+「斯诺克」17:00 -欧洲Q-School第一站职业资格获得轮-决出四个职业资格-1号桌,https://tv.iill.top/Migu/oxcVxD
+「斯诺克」17:00 -欧洲Q-School第一站职业资格获得轮-决出四个职业资格-2号桌,https://tv.iill.top/Migu/j1P7QS
+「斯诺克」17:00 -欧洲Q-School第一站职业资格获得轮-决出四个职业资格-3号桌,https://tv.iill.top/Migu/PRWkb6
+「斯诺克」17:00 -欧洲Q-School第一站职业资格获得轮-决出四个职业资格-4号桌,https://tv.iill.top/Migu/L2R85E
+「全国跳水冠军赛」18:30 -2025全国跳水冠军赛：男子3米跳板决赛-王宗源3米跳板夺冠 陈芋汐出战-解说,https://tv.iill.top/Migu/Ql6ZyC
+「全国跳水冠军赛」18:30 -2025全国跳水冠军赛：男子3米跳板决赛-王宗源3米跳板夺冠 陈芋汐出战-清流播出,https://tv.iill.top/Migu/O42M8C
+「中乙」19:00 -联赛-山东泰山B队vs江西庐山-解说,https://tv.iill.top/Migu/De9q3T
+「中乙」19:30 -联赛-成都蓉城B队vs深圳二零二八-解说,https://tv.iill.top/Migu/5AeMDI
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
 鳳凰衛視·中文「限UA」,https://tv.iill.top/phenix/fhzw
