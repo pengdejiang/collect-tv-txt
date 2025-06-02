@@ -4746,11 +4746,11 @@ i-Fun 動漫,https://tv.iill.top/litv/litv-ftv15
 東森購物 四,https://tv.iill.top/4gtv/286
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-广州综合,https://tv.iill.top/gztv/zhonghe
-广州新闻,https://tv.iill.top/gztv/xinwen
-广州法治,https://tv.iill.top/gztv/fazhi
-广州影视,https://tv.iill.top/gztv/yingshi
-广州南国都市,https://tv.iill.top/gztv/shenghuo
+广州综合,http://dns.yiandrive.com:13571/gztv/zhonghe
+广州新闻,http://dns.yiandrive.com:13571/gztv/xinwen
+广州法治,http://dns.yiandrive.com:13571/gztv/fazhi
+广州影视,http://dns.yiandrive.com:13571/gztv/yingshi
+广州南国都市,http://dns.yiandrive.com:13571/gztv/shenghuo
 斯诺克 𝟙,https://live.iill.top/huya/880214
 斯诺克 𝟚,https://live.iill.top/huya/880625
 UFC,https://live.iill.top/huya/880223
