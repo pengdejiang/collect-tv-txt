@@ -4539,7 +4539,7 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 av91.top,https://wbug.xyz/videos/0f58e89f018ae20404e4c7cbc48352f9/g.m3u8?h=3121efe8979c635
 mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h=3121efe8979c635
 免费订阅：请勿贩卖...,https://epg.iill.top/v/302.mp4
-维护时间：2025-4-8 #佛系维护...,https://epg.iill.top/v/301.mp4
+维护时间：2025-5-20 #佛系维护...,https://epg.iill.top/v/301.mp4
 维护内容：维护内容：维护 Gather「恢复 •咪咕源」,https://epg.iill.top/v/302.mp4
 公告说明：推流源·「时间段 0:00-6:00 关闭」,https://epg.iill.top/v/301.mp4
 限制条件：请到 Github 了解详情「限制IP·UA」,https://epg.iill.top/v/302.mp4
@@ -4579,9 +4579,8 @@ NBA 经典,https://tv.iill.top/migu/nba
 五大联赛经典,https://tv.iill.top/migu/lsjd
 中国足球风云,https://tv.iill.top/migu/zqfy
 咪咕24小时体育台,https://tv.iill.top/migu/mgty
-「马拉松系列赛」12:30 2025香格里拉越野赛 2025香格里拉越野赛 清流播出,https://tv.iill.top/Migu/39xqyQ
-「国际马联场地障碍世界杯」16:00 第二比赛日 第二比赛日 清流播出,https://tv.iill.top/Migu/mYls2j
-「LPL」16:30 TES vs BLG TES vs BLG 官方解说,https://tv.iill.top/Migu/kv29EJ
+「国际马联场地障碍世界杯」16:00 第二比赛日 第二比赛日 清流播出,https://tv.iill.top/Migu/4wEBA5
+「LPL」16:30 TES vs BLG TES vs BLG 官方解说,https://tv.iill.top/Migu/mhaSE2
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
 鳳凰衛視·中文「限UA」,https://tv.iill.top/phenix/fhzw
