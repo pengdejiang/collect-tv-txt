@@ -4592,30 +4592,35 @@ CHC 家庭影院,https://tv.iill.top/migu/chcjt
 新动解码在一线,https://tv.iill.top/migu/xdjm
 开封鼓楼,https://tv.iill.top/migu/kfgl
 钱塘江,https://tv.iill.top/migu/qtj
-「KPL」13:40 佛山DRG vs 南通Hero久竞 佛山DRG vs 南通Hero久竞 官方解说,https://tv.iill.top/Migu/wHHP08
-「全运会男篮资格赛」13:50 全运会男篮资格赛B组-河北59:81江苏 全运会男篮资格赛B组-河北59:81江苏 刘圳展,https://tv.iill.top/Migu/acXQvt
-「全运会男篮资格赛」13:50 全运会男篮资格赛B组-河北59:81江苏 全运会男篮资格赛B组-河北59:81江苏 现场原声,https://tv.iill.top/Migu/ppzD7u
-「全运会男篮资格赛」14:50 全运会男篮资格赛A组-山东88:71北京 全运会男篮资格赛A组-山东88:71北京 邵化谦,https://tv.iill.top/Migu/7wX02I
-「全运会男篮资格赛」14:50 全运会男篮资格赛A组-山东88:71北京 全运会男篮资格赛A组-山东88:71北京 现场原声,https://tv.iill.top/Migu/3QNKpg
-「中乙」15:50 中乙联赛 长春喜都vs北京理工 解说,https://tv.iill.top/Migu/ImB1xY
-「中乙」15:50 中乙联赛 山西崇德荣海vs上海海港富盛经开 解说,https://tv.iill.top/Migu/yPAijI
-「LPL」16:30 WBG vs IG WBG vs IG 官方解说,https://tv.iill.top/Migu/J4D8qa
-「全运会男篮资格赛」16:20 全运会男篮资格赛B组-上海vs吉林 全运会男篮资格赛B组-上海vs吉林 李天宇,https://tv.iill.top/Migu/my8lZ0
-「全运会男篮资格赛」16:20 全运会男篮资格赛B组-上海vs吉林 全运会男篮资格赛B组-上海vs吉林 现场原声,https://tv.iill.top/Migu/TLqzUn
-「KPL」17:10 杭州LGD.NBW vs 北京WB 杭州LGD.NBW vs 北京WB 官方解说,https://tv.iill.top/Migu/r6tAkr
-「全运会男篮资格赛」17:20 全运会男篮资格赛A组-河南vs四川 全运会男篮资格赛A组-河南vs四川 周鹏,https://tv.iill.top/Migu/j5vpth
-「全运会男篮资格赛」17:20 全运会男篮资格赛A组-河南vs四川 全运会男篮资格赛A组-河南vs四川 现场原声,https://tv.iill.top/Migu/qODjxf
-「UFC前瞻与回顾」18:30 激战前夜：UFC316特辑 激战前夜：UFC316特辑 王琰博,https://tv.iill.top/Migu/pSFQTP
-「亚洲篮球冠军联赛」18:50 野马vs浙江广厦 野马vs浙江广厦 连睿,https://tv.iill.top/Migu/bhjM4t
-「亚洲篮球冠军联赛」18:50 野马vs浙江广厦 野马vs浙江广厦 现场原声,https://tv.iill.top/Migu/r7YVgm
-「中乙」19:20 中乙联赛 广西蓝航vs赣州瑞狮 解说,https://tv.iill.top/Migu/VnlXj2
-「中乙」19:20 中乙联赛 贵州筑城竞技vs广西恒宸 解说,https://tv.iill.top/Migu/iJnTqz
-「中乙」19:20 中乙联赛 江西庐山vs杭州临平吴越 解说,https://tv.iill.top/Migu/uk2hf4
-「全运会男篮资格赛」19:20 全运会男篮资格赛B组-浙江vs天津 全运会男篮资格赛B组-浙江vs天津 孔德昕,https://tv.iill.top/Migu/JSnKZh
-「全运会男篮资格赛」19:20 全运会男篮资格赛B组-浙江vs天津 全运会男篮资格赛B组-浙江vs天津 现场原声,https://tv.iill.top/Migu/yUywqs
-「KPL」20:00 成都AG超玩会 vs 上海RNG.M 成都AG超玩会 vs 上海RNG.M 官方解说,https://tv.iill.top/Migu/v1MtAu
-「全运会男篮资格赛」19:50 全运会男篮资格赛A组-新疆vs辽宁 全运会男篮资格赛A组-新疆vs辽宁 季孟年,https://tv.iill.top/Migu/tbCHc9
-「全运会男篮资格赛」19:50 全运会男篮资格赛A组-新疆vs辽宁 全运会男篮资格赛A组-新疆vs辽宁 现场原声,https://tv.iill.top/Migu/lRVh0Z
+「西甲」06/08 02:50 西乙半决赛首回合 阿尔梅里亚vs奥维耶多 李霄,https://tv.iill.top/FB/vECNwk
+「NBA」06/08 09:55 《周刊》总决赛G2特别节目 《周刊》总决赛G2特别节目 清流播出,https://tv.iill.top/NBA/XtIolb
+「UFC数字赛」06/08 05:50 UFC第316期：梅拉布VS奥马利2 王聪冲排名 UFC第316期：梅拉布VS奥马利2 王聪冲排名 王琰博 李景亮 郝俊,https://tv.iill.top/Migu/g3FJDE
+「UFC数字赛」06/08 05:50 UFC第316期：梅拉布VS奥马利2 王聪冲排名 UFC第316期：梅拉布VS奥马利2 王聪冲排名 陈瑞阳 汪乐 郑文祺,https://tv.iill.top/Migu/2wWPw9
+「UFC数字赛」06/08 05:50 UFC第316期：梅拉布VS奥马利2 王聪冲排名 UFC第316期：梅拉布VS奥马利2 王聪冲排名 英文原声,https://tv.iill.top/Migu/RC8fKs
+「KPL」06/08 13:40 长沙TES.A vs 武汉eStarPro 长沙TES.A vs 武汉eStarPro 官方解说,https://tv.iill.top/Migu/RgwBYS
+「全运会男篮资格赛」06/08 13:50 全运会男篮资格赛B组-江苏vs吉林 全运会男篮资格赛B组-江苏vs吉林 刘圳展,https://tv.iill.top/Migu/NVdKhU
+「全运会男篮资格赛」06/08 13:50 全运会男篮资格赛B组-江苏vs吉林 全运会男篮资格赛B组-江苏vs吉林 现场原声,https://tv.iill.top/Migu/fJH2Xs
+「全运会男篮资格赛」06/08 14:50 全运会男篮资格赛A组-北京vs新疆 全运会男篮资格赛A组-北京vs新疆 孙博,https://tv.iill.top/Migu/rekHhL
+「全运会男篮资格赛」06/08 14:50 全运会男篮资格赛A组-北京vs新疆 全运会男篮资格赛A组-北京vs新疆 现场原声,https://tv.iill.top/Migu/qYAJMx
+「中乙」06/08 15:50 中乙联赛 昆明城星vs温州俱乐部中胤 解说,https://tv.iill.top/Migu/s8CqPj
+「中乙」06/08 15:50 中乙联赛 泰安天贶vs无锡吴钩 解说,https://tv.iill.top/Migu/xcfZ3c
+「中乙」06/08 16:20 中乙联赛 湖北青年星vs山东泰山B队 解说,https://tv.iill.top/Migu/qIa5oN
+「LPL」06/08 16:30 TES vs WE TES vs WE 官方解说,https://tv.iill.top/Migu/PJqwci
+「全运会男篮资格赛」06/08 16:20 全运会男篮资格赛B组-河北vs天津 全运会男篮资格赛B组-河北vs天津 姜帆,https://tv.iill.top/Migu/J7TWET
+「全运会男篮资格赛」06/08 16:20 全运会男篮资格赛B组-河北vs天津 全运会男篮资格赛B组-河北vs天津 现场原声,https://tv.iill.top/Migu/ZS11VM
+「KPL」06/08 17:00 北京JDG vs 深圳DYG 北京JDG vs 深圳DYG 官方解说,https://tv.iill.top/Migu/h0xU9H
+「中乙」06/08 17:20 中乙联赛 泉州亚新vs武汉三镇B队 解说,https://tv.iill.top/Migu/EbM7CK
+「全运会男篮资格赛」06/08 17:20 全运会男篮资格赛A组-辽宁vs河南 全运会男篮资格赛A组-辽宁vs河南 周鹏,https://tv.iill.top/Migu/fGWzoU
+「全运会男篮资格赛」06/08 17:20 全运会男篮资格赛A组-辽宁vs河南 全运会男篮资格赛A组-辽宁vs河南 现场原声,https://tv.iill.top/Migu/Nvdk4A
+「中乙」06/08 18:50 中乙联赛 兰州陇原竞技vs海门珂缔缘 解说,https://tv.iill.top/Migu/so2lIy
+「亚洲篮球冠军联赛」06/08 18:50 浙江广厦vs塔比亚特 浙江广厦vs塔比亚特 连睿,https://tv.iill.top/Migu/Qaib1s
+「亚洲篮球冠军联赛」06/08 18:50 浙江广厦vs塔比亚特 浙江广厦vs塔比亚特 现场原声,https://tv.iill.top/Migu/mJMItg
+「中乙」06/08 19:20 中乙联赛 深圳二零二八vs广州蒲公英德桦绿建 解说,https://tv.iill.top/Migu/5TN7KD
+「全运会男篮资格赛」06/08 19:20 全运会男篮资格赛B组-上海vs湖北 全运会男篮资格赛B组-上海vs湖北 孔德昕,https://tv.iill.top/Migu/l7Fu9a
+「全运会男篮资格赛」06/08 19:20 全运会男篮资格赛B组-上海vs湖北 全运会男篮资格赛B组-上海vs湖北 现场原声,https://tv.iill.top/Migu/ERMj0G
+「KPL」06/08 20:00 上海EDG.M vs 重庆狼队 上海EDG.M vs 重庆狼队 官方解说,https://tv.iill.top/Migu/FqHiaz
+「全运会男篮资格赛」06/08 19:50 全运会男篮资格赛A组-四川vs山东 全运会男篮资格赛A组-四川vs山东 庄宁宇,https://tv.iill.top/Migu/l8zueG
+「全运会男篮资格赛」06/08 19:50 全运会男篮资格赛A组-四川vs山东 全运会男篮资格赛A组-四川vs山东 现场原声,https://tv.iill.top/Migu/Z7sDQX
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
 鳳凰衛視·中文「限UA」,https://tv.iill.top/phenix/fhzw
