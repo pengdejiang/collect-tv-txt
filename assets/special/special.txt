@@ -4592,31 +4592,35 @@ CHC 家庭影院,https://tv.iill.top/migu/chcjt
 新动解码在一线,https://tv.iill.top/migu/xdjm
 开封鼓楼,https://tv.iill.top/migu/kfgl
 钱塘江,https://tv.iill.top/migu/qtj
-「西甲」02:50 西乙半决赛首回合 米兰德斯vs桑坦德竞技 周楚雄,https://tv.iill.top/FB/IQkyR3
-「中超」19:20 联赛 大连英博 vs 梅州客家 刘腾 徐云龙,https://tv.iill.top/FB/CsxCkM
-「中超」19:20 联赛 大连英博 vs 梅州客家 赛场原声,https://tv.iill.top/FB/hkXvsb
-「中超」19:45 联赛 武汉三镇 vs 青岛海牛 张天翼 于海,https://tv.iill.top/FB/gnwXqJ
-「中超」19:45 联赛 武汉三镇 vs 青岛海牛 赛场原声,https://tv.iill.top/FB/3T5NXx
-「NBA」09:55 《周刊》总决赛G4特别节目 《周刊》总决赛G4特别节目 清流播出,https://tv.iill.top/NBA/3jVkVR
-「超三联赛」12:50 超三联赛上海争霸赛小组赛Day1下午场 超三联赛上海争霸赛小组赛Day1下午场 李嘉伟 王冠证,https://tv.iill.top/Migu/oyFmzC
-「KPL」13:40 南通Hero久竞 vs 苏州KSG 南通Hero久竞 vs 苏州KSG 官方解说,https://tv.iill.top/Migu/IPtmlc
-「LPL」16:30 BLG vs IG BLG vs IG 官方解说,https://tv.iill.top/Migu/vftq2A
-「KPL」17:00 济南RW侠 vs 北京JDG 济南RW侠 vs 北京JDG 官方解说,https://tv.iill.top/Migu/jKNhbL
-「WTA」17:00 袁悦迎战梅尔滕斯冲四强 袁悦迎战梅尔滕斯冲四强 赛场原声,https://tv.iill.top/Migu/5DaeoN
-「WTA」17:00 袁悦迎战梅尔滕斯冲四强 袁悦迎战梅尔滕斯冲四强 英文原声,https://tv.iill.top/Migu/i5UWZz
-「WTT」17:00 李和宸/石洵瑶冲混双4强 纵歌曼出战 李和宸/石洵瑶冲混双4强 纵歌曼出战 周冠达 周泽昊,https://tv.iill.top/Migu/y4zJwx
-「WTT」17:00 李和宸/石洵瑶冲混双4强 纵歌曼出战 李和宸/石洵瑶冲混双4强 纵歌曼出战 1号桌,https://tv.iill.top/Migu/2Uf7hT
-「WTT」17:00 李和宸/石洵瑶冲混双4强 纵歌曼出战 李和宸/石洵瑶冲混双4强 纵歌曼出战 2号桌,https://tv.iill.top/Migu/e0g2sG
-「WTT」17:00 李和宸/石洵瑶冲混双4强 纵歌曼出战 李和宸/石洵瑶冲混双4强 纵歌曼出战 3号桌,https://tv.iill.top/Migu/p6yvHb
-「WTT」17:00 李和宸/石洵瑶冲混双4强 纵歌曼出战 李和宸/石洵瑶冲混双4强 纵歌曼出战 1号桌英文解说,https://tv.iill.top/Migu/gsmdke
-「超三联赛」18:25 超三联赛上海争霸赛开幕式及小组赛Day1晚间场 超三联赛上海争霸赛开幕式及小组赛Day1晚间场 王冠证,https://tv.iill.top/Migu/8sFRa2
-「WTA」19:00 郑钦文迎战拉杜卡努冲四强 郑钦文迎战拉杜卡努冲四强 赛场原声,https://tv.iill.top/Migu/7gJ5V3
-「WTA」19:00 郑钦文迎战拉杜卡努冲四强 郑钦文迎战拉杜卡努冲四强 英文原声,https://tv.iill.top/Migu/VSU886
-「国青男篮国际挑战赛」19:25 国青男篮国际挑战赛 中国U19男篮vs埃及青年队 金哲豪,https://tv.iill.top/Migu/EamWah
-「国青男篮国际挑战赛」19:25 国青男篮国际挑战赛 中国U19男篮vs埃及青年队 清流播出,https://tv.iill.top/Migu/OBxB6t
-「中国女篮系列热身赛」19:10 中国女篮系列热身赛 中国vs波黑 吕程,https://tv.iill.top/Migu/nXfRPC
-「中国女篮系列热身赛」19:10 中国女篮系列热身赛 中国vs波黑 清流播出,https://tv.iill.top/Migu/Flol8n
-「KPL」20:00 重庆狼队 vs 深圳DYG 重庆狼队 vs 深圳DYG 官方解说,https://tv.iill.top/Migu/XpGwf3
+「西甲」02:50 西乙半决赛首回合 米兰德斯vs桑坦德竞技 周楚雄,https://tv.iill.top/FB/WmfPZp
+「中超」19:20 联赛 大连英博 vs 梅州客家 刘腾 徐云龙,https://tv.iill.top/FB/bSMCWF
+「中超」19:20 联赛 大连英博 vs 梅州客家 赛场原声,https://tv.iill.top/FB/SaYvBV
+「中超」19:20 联赛 大连英博 vs 梅州客家 AVS3,https://tv.iill.top/FB/hPLxG6
+「中超」19:45 联赛 武汉三镇 vs 青岛海牛 张天翼 于海,https://tv.iill.top/FB/MWbrcG
+「中超」19:45 联赛 武汉三镇 vs 青岛海牛 赛场原声,https://tv.iill.top/FB/xixKvT
+「中超」19:45 联赛 武汉三镇 vs 青岛海牛 AVS3,https://tv.iill.top/FB/nj1UDC
+「NBA」09:55 《周刊》总决赛G4特别节目 《周刊》总决赛G4特别节目 清流播出,https://tv.iill.top/NBA/zAC2Ky
+「超三联赛」12:50 超三联赛上海争霸赛小组赛Day1下午场 超三联赛上海争霸赛小组赛Day1下午场 李嘉伟 王冠证,https://tv.iill.top/Migu/es6nX0
+「KPL」13:40 南通Hero久竞 vs 苏州KSG 南通Hero久竞 vs 苏州KSG 官方解说,https://tv.iill.top/Migu/53ewir
+「LPL」16:30 BLG vs IG BLG vs IG 官方解说,https://tv.iill.top/Migu/4HPG8S
+「KPL」17:00 济南RW侠 vs 北京JDG 济南RW侠 vs 北京JDG 官方解说,https://tv.iill.top/Migu/Ip8hVt
+「WTA」17:00 袁悦迎战梅尔滕斯冲四强 袁悦迎战梅尔滕斯冲四强 赛场原声,https://tv.iill.top/Migu/UDvzTz
+「WTA」17:00 袁悦迎战梅尔滕斯冲四强 袁悦迎战梅尔滕斯冲四强 英文原声,https://tv.iill.top/Migu/c68kZq
+「WTT」17:00 李和宸/石洵瑶速胜 纵歌曼出战 李和宸/石洵瑶速胜 纵歌曼出战 周冠达 周泽昊,https://tv.iill.top/Migu/7DBzS2
+「WTT」17:00 李和宸/石洵瑶速胜 纵歌曼出战 李和宸/石洵瑶速胜 纵歌曼出战 1号桌,https://tv.iill.top/Migu/Go5roi
+「WTT」17:00 李和宸/石洵瑶速胜 纵歌曼出战 李和宸/石洵瑶速胜 纵歌曼出战 2号桌,https://tv.iill.top/Migu/1iWcSV
+「WTT」17:00 李和宸/石洵瑶速胜 纵歌曼出战 李和宸/石洵瑶速胜 纵歌曼出战 3号桌,https://tv.iill.top/Migu/0J9zwB
+「WTT」17:00 李和宸/石洵瑶速胜 纵歌曼出战 李和宸/石洵瑶速胜 纵歌曼出战 1号桌英文解说,https://tv.iill.top/Migu/7ADOJR
+「超三联赛」18:25 超三联赛上海争霸赛开幕式及小组赛Day1晚间场 超三联赛上海争霸赛开幕式及小组赛Day1晚间场 王冠证,https://tv.iill.top/Migu/7jiGf3
+「WTA」19:00 郑钦文迎战拉杜卡努冲四强 郑钦文迎战拉杜卡努冲四强 赛场原声,https://tv.iill.top/Migu/uEe4BW
+「WTA」19:00 郑钦文迎战拉杜卡努冲四强 郑钦文迎战拉杜卡努冲四强 英文原声,https://tv.iill.top/Migu/Fz19aL
+「WTA」22:00 郑钦文迎战拉杜卡努冲四强 郑钦文迎战拉杜卡努冲四强 郑钦文 vs 拉杜卡努-佟艺,https://tv.iill.top/Migu/HBqHI1
+「国青男篮国际挑战赛」19:25 国青男篮国际挑战赛 中国U19男篮vs埃及青年队 金哲豪,https://tv.iill.top/Migu/CaPNpB
+「国青男篮国际挑战赛」19:25 国青男篮国际挑战赛 中国U19男篮vs埃及青年队 清流播出,https://tv.iill.top/Migu/ieBrnw
+「中乙」19:20 中乙联赛 温州俱乐部中胤vs深圳二零二八 解说,https://tv.iill.top/Migu/JWo1Cl
+「中国女篮系列热身赛」19:20 中国女篮系列热身赛 中国vs波黑 吕程,https://tv.iill.top/Migu/0Lmhu2
+「中国女篮系列热身赛」19:20 中国女篮系列热身赛 中国vs波黑 清流播出,https://tv.iill.top/Migu/CjB72e
+「KPL」20:00 重庆狼队 vs 深圳DYG 重庆狼队 vs 深圳DYG 官方解说,https://tv.iill.top/Migu/NZyLhD
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
 鳳凰衛視·中文「限UA」,https://tv.iill.top/phenix/fhzw
