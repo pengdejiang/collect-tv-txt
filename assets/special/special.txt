@@ -4592,62 +4592,60 @@ CHC 家庭影院,https://tv.iill.top/migu/chcjt
 新动解码在一线,https://tv.iill.top/migu/xdjm
 开封鼓楼,https://tv.iill.top/migu/kfgl
 钱塘江,https://tv.iill.top/migu/qtj
-「中超」15:00 联赛 浙江 vs 上海海港 李欣 贺宇 李子琪,https://tv.iill.top/FB/1jynMK
-「中超」15:15 联赛 浙江 vs 上海海港 涂远,https://tv.iill.top/FB/3EMrAe
-「中超」15:15 联赛 浙江 vs 上海海港 赛场原声,https://tv.iill.top/FB/6Aw5Hg
-「中超」18:30 联赛 北京国安 vs 长春亚泰 孙雨轩 黄健翔,https://tv.iill.top/FB/G0sUVI
-「中超」18:45 联赛 北京国安 vs 长春亚泰 赛场原声,https://tv.iill.top/FB/qetX1N
-「中超」18:45 联赛 青岛西海岸 vs 云南玉昆 张昊泽 李毅,https://tv.iill.top/FB/E2PYjx
-「中超」18:45 联赛 青岛西海岸 vs 云南玉昆 赛场原声,https://tv.iill.top/FB/d7VKXN
-「中甲」18:50 联赛 辽宁铁人 vs 上海嘉定汇龙 解说,https://tv.iill.top/FB/3xdNI1
-「中甲」19:20 联赛 佛山南狮 vs 延边龙鼎 解说,https://tv.iill.top/FB/vdUW2G
-「中甲」19:20 联赛 广西平果 vs 南通支云 解说,https://tv.iill.top/FB/xBDavz
-「中甲」19:20 联赛 重庆铜梁龙 vs 大连鲲城 解说,https://tv.iill.top/FB/k6GXAm
-「中超」19:00 联赛 河南 vs 成都蓉城 袁甲 杨晨 李子琪,https://tv.iill.top/FB/zxQyOP
-「中超」19:20 联赛 河南 vs 成都蓉城 赛场原声,https://tv.iill.top/FB/3VspGR
-「中超」19:00 联赛 河南 vs 成都蓉城 袁甲 杨晨 李子琪,https://tv.iill.top/FB/SIWIz9
-「中超」19:00 联赛 深圳新鹏城 vs 上海申花 娄一晨 刘越 魏欣怡,https://tv.iill.top/FB/kHBWyB
-「中超」19:20 联赛 深圳新鹏城 vs 上海申花 赛场原声,https://tv.iill.top/FB/aExZDa
-「中超」19:30 联赛 天津津门虎 vs 山东泰山 涂远 石庆圣 邵凌霄,https://tv.iill.top/FB/TnAsmw
-「中超」19:45 联赛 天津津门虎 vs 山东泰山 赛场原声,https://tv.iill.top/FB/NF0k4U
-「NBA」07:45 总决赛 雷霆VS步行者 杨健 刘晓宇 苏群,https://tv.iill.top/NBA/axsBBG
-「NBA」08:20 总决赛 雷霆VS步行者 蔡凯臣 陈正昊,https://tv.iill.top/NBA/6mLaZi
-「NBA」08:25 总决赛 雷霆VS步行者 罗森,https://tv.iill.top/NBA/MEge9m
-「NBA」08:25 总决赛 雷霆VS步行者 仔涛,https://tv.iill.top/NBA/P6UMOy
-「NBA」08:25 总决赛 雷霆VS步行者 英文原声,https://tv.iill.top/NBA/FdTTr8
-「NBA」08:25 总决赛 雷霆VS步行者 莫俊祺,https://tv.iill.top/NBA/Y0xBqd
-「NBA」08:25 总决赛 雷霆VS步行者 洪荒,https://tv.iill.top/NBA/nAc9Kh
-「NBA」08:25 总决赛 雷霆VS步行者 VIP前排视角,https://tv.iill.top/NBA/JPKNaI
-「NBA」08:25 总决赛 雷霆VS步行者 球场十倍镜,https://tv.iill.top/NBA/W94IJE
-「NBA」08:25 总决赛 雷霆VS步行者 英文原声审片前,https://tv.iill.top/NBA/HrEGHS
-「全国夏季游泳锦标赛」09:20 男子100米蝶泳等多项预赛 男子100米蝶泳等多项预赛 清流播出,https://tv.iill.top/Migu/19nQR5
-「超三联赛」12:50 超三联赛上海争霸赛小组赛Day2下午场 超三联赛上海争霸赛小组赛Day2下午场 魏铭 李嘉伟,https://tv.iill.top/Migu/c6cbjD
-「KPL」13:40 常山UUG vs 长沙TES.A 常山UUG vs 长沙TES.A 官方解说,https://tv.iill.top/Migu/Wpou1p
-「江苏城市足球联赛」14:50 江苏城市足球联赛 淮安队vs南京队 解说,https://tv.iill.top/Migu/Siu7PT
-「江苏城市足球联赛」14:50 江苏城市足球联赛 扬州队vs泰州队 解说,https://tv.iill.top/Migu/Fbb24x
-「中乙」15:50 中乙联赛 赣州瑞狮vs昆明城星 解说,https://tv.iill.top/Migu/PUp2zZ
-「中乙」15:50 中乙联赛 广东铭途vs贵州筑城竞技 解说,https://tv.iill.top/Migu/fL95Uj
-「中乙」15:50 中乙联赛 上海海港富盛经开vs江西庐山 解说,https://tv.iill.top/Migu/0kGTde
-「LPL」16:30 AL vs BLG AL vs BLG 官方解说,https://tv.iill.top/Migu/YC97ut
-「中乙」16:50 中乙联赛 广西恒宸vs泉州亚新 解说,https://tv.iill.top/Migu/xkAUoM
-「KPL」17:00 上海RNG.M vs 桐乡情久 上海RNG.M vs 桐乡情久 官方解说,https://tv.iill.top/Migu/WG7sRU
-「WTA」17:00 梅尔滕斯迎战亚历山德洛娃 梅尔滕斯迎战亚历山德洛娃 赛场原声,https://tv.iill.top/Migu/xtjSWO
-「WTA」17:00 梅尔滕斯迎战亚历山德洛娃 梅尔滕斯迎战亚历山德洛娃 英文原声,https://tv.iill.top/Migu/QeQlig
-「WTT」17:00 国乒德比！纵歌曼对阵范姝涵争4强 国乒德比！纵歌曼对阵范姝涵争4强 周冠达 小马哥,https://tv.iill.top/Migu/QHDbxg
-「WTT」17:00 国乒德比！纵歌曼对阵范姝涵争4强 国乒德比！纵歌曼对阵范姝涵争4强 1号桌,https://tv.iill.top/Migu/uWLLUe
-「WTT」17:00 国乒德比！纵歌曼对阵范姝涵争4强 国乒德比！纵歌曼对阵范姝涵争4强 2号桌,https://tv.iill.top/Migu/g696BR
-「WTT」17:00 国乒德比！纵歌曼对阵范姝涵争4强 国乒德比！纵歌曼对阵范姝涵争4强 1号桌英文解说,https://tv.iill.top/Migu/Q90Fu7
-「超三联赛」18:50 超三联赛上海争霸赛小组赛Day2晚间场 超三联赛上海争霸赛小组赛Day2晚间场 王冠证,https://tv.iill.top/Migu/njLGTX
-「国青男篮国际挑战赛」19:25 国青男篮国际挑战赛 中国U19男篮vs德国青年队 金哲豪,https://tv.iill.top/Migu/O1CwRW
-「国青男篮国际挑战赛」19:25 国青男篮国际挑战赛 中国U19男篮vs德国青年队 清流播出,https://tv.iill.top/Migu/sqMTFO
-「中乙」19:20 中乙联赛 海门珂缔缘vs无锡吴钩 解说,https://tv.iill.top/Migu/w9e5ap
-「中乙」19:20 中乙联赛 武汉三镇B队vs成都蓉城B队 解说,https://tv.iill.top/Migu/vBkPQC
-「全国夏季游泳锦标赛」19:20 陈俊儿冲男子100米蝶泳冠军 陈俊儿冲男子100米蝶泳冠军 清流播出,https://tv.iill.top/Migu/KNkQrt
-「KPL」20:00 成都AG超玩会 vs 武汉eStarPro 成都AG超玩会 vs 武汉eStarPro 官方解说,https://tv.iill.top/Migu/cHaHZ1
-「WTA」20:30 郑钦文迎战阿尼西莫娃冲决赛 郑钦文迎战阿尼西莫娃冲决赛 李宁,https://tv.iill.top/Migu/0VGzWp
-「WTA」20:30 郑钦文迎战阿尼西莫娃冲决赛 郑钦文迎战阿尼西莫娃冲决赛 赛场原声,https://tv.iill.top/Migu/2q2wNh
-「WTA」20:30 郑钦文迎战阿尼西莫娃冲决赛 郑钦文迎战阿尼西莫娃冲决赛 英文原声,https://tv.iill.top/Migu/dS6tu3
-「WTA」22:00 郑钦文迎战阿尼西莫娃冲决赛 郑钦文迎战阿尼西莫娃冲决赛 房朕,https://tv.iill.top/Migu/nVsaUm
+「世俱杯」06/15 06:00 小组赛 开罗国民 vs 迈阿密国际 詹俊 张路 孙继海,https://tv.iill.top/FB/ttLeZ3
+「世俱杯」06/15 07:25 小组赛 开罗国民 vs 迈阿密国际 孙杨,https://tv.iill.top/FB/nGFDQs
+「世俱杯」06/15 07:45 小组赛 开罗国民 vs 迈阿密国际 江忠德,https://tv.iill.top/FB/edtyRt
+「世俱杯」06/15 07:45 小组赛 开罗国民 vs 迈阿密国际 陈渤胄,https://tv.iill.top/FB/x44uzV
+「世俱杯」06/15 07:40 小组赛 开罗国民 vs 迈阿密国际 洪荒,https://tv.iill.top/FB/Gxm0kX
+「世俱杯」06/15 07:45 小组赛 开罗国民 vs 迈阿密国际 智能文字解说,https://tv.iill.top/FB/7W8LGW
+「世俱杯」06/15 07:45 小组赛 开罗国民 vs 迈阿密国际 赛场原声,https://tv.iill.top/FB/5VlG1T
+「世俱杯」06/15 06:00 小组赛 开罗国民 vs 迈阿密国际 詹俊 张路 孙继海,https://tv.iill.top/FB/Wkh0No
+「中甲」06/15 19:20 联赛 深圳青年人 vs 石家庄功夫 解说,https://tv.iill.top/FB/pLBUkA
+「中甲」06/15 19:20 联赛 定南赣联 vs 南京城市 解说,https://tv.iill.top/FB/u5A3te
+「中甲」06/15 19:20 联赛 青岛红狮 vs 陕西联合 解说,https://tv.iill.top/FB/TNA7ro
+「中甲」06/15 19:20 联赛 广东广州豹 vs 苏州东吴 解说,https://tv.iill.top/FB/O2vVtX
+「世俱杯」06/15 23:45 小组赛 拜仁慕尼黑 vs 奥克兰城 胡小凡 王多多,https://tv.iill.top/FB/wCUD0o
+「世俱杯」06/15 23:45 小组赛 拜仁慕尼黑 vs 奥克兰城 智能文字解说,https://tv.iill.top/FB/RQ4hlL
+「世俱杯」06/15 23:45 小组赛 拜仁慕尼黑 vs 奥克兰城 赛场原声,https://tv.iill.top/FB/zgLmRc
+「世俱杯」06/15 23:45 小组赛 拜仁慕尼黑 vs 奥克兰城 胡小凡 王多多,https://tv.iill.top/FB/xZ2k5A
+「WTA」06/14 22:00 郑钦文迎战阿尼西莫娃冲决赛 郑钦文迎战阿尼西莫娃冲决赛 房朕,https://tv.iill.top/Migu/mbHFhV
+「WTT」06/14 23:30 冲决赛！袁嘉楠对阵石洵瑶 冲决赛！袁嘉楠对阵石洵瑶 周泽昊,https://tv.iill.top/Migu/iKq3N5
+「UFC格斗之夜」06/15 06:50 乌斯曼VS巴克利 罗斯出战 乌斯曼VS巴克利 罗斯出战 王琰博 郝俊,https://tv.iill.top/Migu/f8nM8b
+「UFC格斗之夜」06/15 06:50 乌斯曼VS巴克利 罗斯出战 乌斯曼VS巴克利 罗斯出战 英文原声,https://tv.iill.top/Migu/O4sko1
+「马拉松系列赛」06/15 07:20 贵阳马拉松、巴林左旗半马 贵阳马拉松、巴林左旗半马 清流播出,https://tv.iill.top/Migu/PuAU8N
+「马拉松系列赛」06/15 07:20 贵阳马拉松、巴林左旗半马 贵阳马拉松、巴林左旗半马 辽上京·2025巴林左旗半程马拉松,https://tv.iill.top/Migu/LoMVVp
+「全国夏季游泳锦标赛」06/15 09:20 女子50米蝶泳等多项预赛 女子50米蝶泳等多项预赛 清流播出,https://tv.iill.top/Migu/zyEsuK
+「KPL」06/15 13:40 北京WB vs 西安WE 北京WB vs 西安WE 官方解说,https://tv.iill.top/Migu/7HAh8S
+「超三联赛」06/15 13:50 上海争霸赛四分之一决赛 上海争霸赛四分之一决赛 李嘉伟 王冠证,https://tv.iill.top/Migu/QqG5rf
+「中女超」06/15 15:50 联赛 上海农商银行女足VS江苏无锡女足 清流播出,https://tv.iill.top/Migu/1Ho37V
+「中乙」06/15 15:50 联赛 长春喜都vs泰安天贶 解说,https://tv.iill.top/Migu/wmrx2A
+「中乙」06/15 15:50 联赛 山西崇德荣海vs湖北青年星 解说,https://tv.iill.top/Migu/ukXVNL
+「中乙」06/15 15:50 联赛 北京理工vs杭州临平吴越 解说,https://tv.iill.top/Migu/KXLQ0F
+「江苏城市足球联赛」06/15 15:50 徐州队vs镇江队 解说,https://tv.iill.top/Migu/Yzayuq
+「中乙」06/15 16:20 联赛 广州蒲公英德桦绿建vs广西蓝航 解说,https://tv.iill.top/Migu/cQLnNC
+「KPL」06/15 17:00 杭州LGD.NBW vs 南通Hero久竞 杭州LGD.NBW vs 南通Hero久竞 官方解说,https://tv.iill.top/Migu/YuxIZk
+「全运会男篮资格赛」06/15 17:20 全运会男篮附加赛-河南vs河北 全运会男篮附加赛-河南vs河北 季孟年,https://tv.iill.top/Migu/y2qkM4
+「全运会男篮资格赛」06/15 17:20 全运会男篮附加赛-河南vs河北 全运会男篮附加赛-河南vs河北 现场原声,https://tv.iill.top/Migu/wxdV6x
+「WTA」06/15 18:00 斯海尔托亨博斯站决赛 斯海尔托亨博斯站决赛 赛场原声,https://tv.iill.top/Migu/SbUGNb
+「WTA」06/15 18:00 斯海尔托亨博斯站决赛 斯海尔托亨博斯站决赛 英文原声,https://tv.iill.top/Migu/a9it2i
+「中乙」06/15 18:50 联赛 山东泰山B队vs兰州陇原竞技 解说,https://tv.iill.top/Migu/vrEUMG
+「超三联赛」06/15 18:50 上海争霸赛半决赛及决赛 上海争霸赛半决赛及决赛 李嘉伟 王冠证,https://tv.iill.top/Migu/C3myVX
+「江苏城市足球联赛」06/15 18:50 连云港队vs苏州队 解说,https://tv.iill.top/Migu/uUXs2w
+「国青男篮国际挑战赛」06/15 19:25 中国U19男篮vs美国青年队 金哲豪,https://tv.iill.top/Migu/LlQWPp
+「国青男篮国际挑战赛」06/15 19:25 中国U19男篮vs美国青年队 清流播出,https://tv.iill.top/Migu/Rtd3ix
+「中国女篮系列热身赛」06/15 19:10 中国vs波黑 吕程,https://tv.iill.top/Migu/odw2H0
+「中国女篮系列热身赛」06/15 19:10 中国vs波黑 清流播出,https://tv.iill.top/Migu/psu2CF
+「江苏城市足球联赛」06/15 19:20 无锡队vs常州队 解说,https://tv.iill.top/Migu/A4AT6g
+「全国夏季游泳锦标赛」06/15 19:20 男子100仰等多项决赛 男子100仰等多项决赛 清流播出,https://tv.iill.top/Migu/wIo20l
+「KPL」06/15 20:00 重庆狼队 vs 广州TTG 重庆狼队 vs 广州TTG 官方解说,https://tv.iill.top/Migu/12WAbX
+「WTA」06/15 20:00 伦敦站决赛 伦敦站决赛 赛场原声,https://tv.iill.top/Migu/toU5DJ
+「WTA」06/15 20:00 伦敦站决赛 伦敦站决赛 英文原声,https://tv.iill.top/Migu/2JvfJC
+「WTA」06/15 20:30 伦敦站决赛 伦敦站决赛 单文强 邱超,https://tv.iill.top/Migu/hlf6ii
+「WTT」06/15 20:00 男女单双打决赛 男女单双打决赛 周泽昊,https://tv.iill.top/Migu/NYEaGm
+「WTT」06/15 20:00 男女单双打决赛 男女单双打决赛 1号桌,https://tv.iill.top/Migu/xQD56l
+「WTT」06/15 20:00 男女单双打决赛 男女单双打决赛 英文解说,https://tv.iill.top/Migu/AOMs40
+「全运会男篮资格赛」06/15 19:50 全运会男篮附加赛-湖北vs新疆 全运会男篮附加赛-湖北vs新疆 李天宇,https://tv.iill.top/Migu/jlVNxJ
+「全运会男篮资格赛」06/15 19:50 全运会男篮附加赛-湖北vs新疆 全运会男篮附加赛-湖北vs新疆 现场原声,https://tv.iill.top/Migu/80ZNFN
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
 鳳凰衛視·中文「限UA」,https://tv.iill.top/phenix/fhzw
