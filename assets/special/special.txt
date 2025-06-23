@@ -4592,37 +4592,38 @@ CHC 家庭影院,https://tv.iill.top/migu/chcjt
 新动解码在一线,https://tv.iill.top/migu/xdjm
 开封鼓楼,https://tv.iill.top/migu/kfgl
 钱塘江,https://tv.iill.top/migu/qtj
-「世俱杯」02:45 小组赛 皇家马德里 vs 帕丘卡 孙雷 李霄,https://tv.iill.top/FB/xOSeXG
-「世俱杯」02:45 小组赛 皇家马德里 vs 帕丘卡 赛场原声,https://tv.iill.top/FB/c67Vvw
-「世俱杯」02:45 小组赛 皇家马德里 vs 帕丘卡 孙雷 李霄,https://tv.iill.top/FB/2ws1M5
-「世俱杯」05:45 小组赛 萨尔茨堡红牛 vs 利雅得新月 张昊泽,https://tv.iill.top/FB/d2gPLa
-「世俱杯」05:45 小组赛 萨尔茨堡红牛 vs 利雅得新月 赛场原声,https://tv.iill.top/FB/374xJT
-「世俱杯」05:45 小组赛 萨尔茨堡红牛 vs 利雅得新月 张昊泽,https://tv.iill.top/FB/lKGBEW
-「世俱杯」08:45 小组赛 曼城 vs 艾因 刘畅 颜强,https://tv.iill.top/FB/2cEMBZ
-「世俱杯」08:45 小组赛 曼城 vs 艾因 赛场原声,https://tv.iill.top/FB/LoWQmR
-「世俱杯」08:45 小组赛 曼城 vs 艾因 刘畅 颜强,https://tv.iill.top/FB/imQjm3
-「NBA」07:15 总决赛 步行者VS雷霆 杨健 刘晓宇 金佳悦,https://tv.iill.top/NBA/oNlyzm
-「NBA」07:50 总决赛 步行者VS雷霆 蔡凯臣 陈正昊,https://tv.iill.top/NBA/QvlouO
-「NBA」07:55 总决赛 步行者VS雷霆 莫俊祺,https://tv.iill.top/NBA/8iKSRk
-「NBA」07:55 总决赛 步行者VS雷霆 洪荒,https://tv.iill.top/NBA/ltdLki
-「NBA」07:55 总决赛 步行者VS雷霆 英文原声,https://tv.iill.top/NBA/xzHK57
-「NBA」07:55 总决赛 步行者VS雷霆 VIP前排视角,https://tv.iill.top/NBA/GWwOys
-「NBA」07:55 总决赛 步行者VS雷霆 球场十倍镜,https://tv.iill.top/NBA/6OkQNF
-「NBA」07:55 总决赛 步行者VS雷霆 英文原声审片前,https://tv.iill.top/NBA/9kwboX
-「KPL」13:40 常山UUG vs 桐乡情久 常山UUG vs 桐乡情久 官方解说,https://tv.iill.top/Migu/PsMYKO
-「KPL」17:00 济南RW侠 vs 上海EDG.M 济南RW侠 vs 上海EDG.M 官方解说,https://tv.iill.top/Migu/NqwvEp
-「KPL」17:00 济南RW侠 vs 上海EDG.M 济南RW侠 vs 上海EDG.M 第一视角5,https://tv.iill.top/Migu/lj06T4
-「斯诺克」17:00 白雨露PK吕昊天 张安达出战 白雨露PK吕昊天 张安达出战 4号桌,https://tv.iill.top/Migu/vjXRqy
-「斯诺克」17:00 白雨露PK吕昊天 张安达出战 白雨露PK吕昊天 张安达出战 桌次切换,https://tv.iill.top/Migu/bwN33T
-「斯诺克」17:00 白雨露PK吕昊天 张安达出战 白雨露PK吕昊天 张安达出战 2号桌,https://tv.iill.top/Migu/GCa5VZ
-「斯诺克」17:00 白雨露PK吕昊天 张安达出战 白雨露PK吕昊天 张安达出战 3号桌,https://tv.iill.top/Migu/wN1r0i
-「斯诺克」17:00 白雨露PK吕昊天 张安达出战 白雨露PK吕昊天 张安达出战 5号桌,https://tv.iill.top/Migu/HcZ4zm
-「斯诺克」17:00 白雨露PK吕昊天 张安达出战 白雨露PK吕昊天 张安达出战 6号桌,https://tv.iill.top/Migu/uCYPak
-「斯诺克」17:00 白雨露PK吕昊天 张安达出战 白雨露PK吕昊天 张安达出战 7号桌,https://tv.iill.top/Migu/vUM54o
-「WTA」17:30 维基奇PK施耐德 大坂直美出战 维基奇PK施耐德 大坂直美出战 赛场原声,https://tv.iill.top/Migu/gvvKgg
-「WTA」17:30 维基奇PK施耐德 大坂直美出战 维基奇PK施耐德 大坂直美出战 英文原声,https://tv.iill.top/Migu/c1HcPx
-「国青女篮国际挑战赛」19:25 中国U19女篮vs新西兰U19选拔队 清流播出,https://tv.iill.top/Migu/ub87Bk
-「KPL」20:00 佛山DRG vs 苏州KSG 佛山DRG vs 苏州KSG 官方解说,https://tv.iill.top/Migu/slFGU5
+「世俱杯」06/24 02:45 小组赛 马德里竞技 vs 博塔福戈 梁祥宇 李霄,https://tv.iill.top/FB/eXBQJJ
+「世俱杯」06/24 02:45 小组赛 马德里竞技 vs 博塔福戈 赛场原声,https://tv.iill.top/FB/zKTeGn
+「世俱杯」06/24 02:45 小组赛 马德里竞技 vs 博塔福戈 梁祥宇 李霄,https://tv.iill.top/FB/QwWFit
+「世俱杯」06/24 02:45 小组赛 西雅图海湾人 vs 巴黎圣日耳曼 鹿中原 王宇,https://tv.iill.top/FB/nSSvEO
+「世俱杯」06/24 02:45 小组赛 西雅图海湾人 vs 巴黎圣日耳曼 赛场原声,https://tv.iill.top/FB/r20Xjz
+「世俱杯」06/24 02:45 小组赛 西雅图海湾人 vs 巴黎圣日耳曼 鹿中原 王宇,https://tv.iill.top/FB/ST5dhn
+「世俱杯」06/24 08:45 小组赛 波尔图 vs 开罗国民 鲁靖明,https://tv.iill.top/FB/umzoro
+「世俱杯」06/24 08:45 小组赛 波尔图 vs 开罗国民 赛场原声,https://tv.iill.top/FB/BkYMwq
+「世俱杯」06/24 08:45 小组赛 波尔图 vs 开罗国民 鲁靖明,https://tv.iill.top/FB/19VAGu
+「世俱杯」06/24 08:45 小组赛 迈阿密国际 vs 帕尔梅拉斯 石庆圣 李彦,https://tv.iill.top/FB/kxdiiE
+「世俱杯」06/24 08:45 小组赛 迈阿密国际 vs 帕尔梅拉斯 赛场原声,https://tv.iill.top/FB/La9TCu
+「世俱杯」06/24 08:45 小组赛 迈阿密国际 vs 帕尔梅拉斯 石庆圣 李彦,https://tv.iill.top/FB/mdzvHp
+「超三联赛」06/24 12:50 武汉赛区 小组赛第一轮及第二轮 武汉赛区 小组赛第一轮及第二轮 清流播出,https://tv.iill.top/Migu/9hr28a
+「WTT」06/24 16:00 男女单打资格赛小组赛第一、二轮 男女单打资格赛小组赛第一、二轮 1号桌,https://tv.iill.top/Migu/DlTjav
+「WTT」06/24 16:00 男女单打资格赛小组赛第一、二轮 男女单打资格赛小组赛第一、二轮 2号桌,https://tv.iill.top/Migu/wqrK4c
+「WTT」06/24 16:00 男女单打资格赛小组赛第一、二轮 男女单打资格赛小组赛第一、二轮 3号桌,https://tv.iill.top/Migu/3lD6zk
+「WTT」06/24 16:00 男女单打资格赛小组赛第一、二轮 男女单打资格赛小组赛第一、二轮 4号桌,https://tv.iill.top/Migu/Am7Dd8
+「WTT」06/24 16:00 男女单打资格赛小组赛第一、二轮 男女单打资格赛小组赛第一、二轮 5号桌,https://tv.iill.top/Migu/x7zRzt
+「WTT」06/24 16:00 男女单打资格赛小组赛第一、二轮 男女单打资格赛小组赛第一、二轮 6号桌,https://tv.iill.top/Migu/I1zY9T
+「斯诺克」06/24 17:00 雷佩凡迎战吴安仪 傅家俊PK韦克林 雷佩凡迎战吴安仪 傅家俊PK韦克林 1号桌,https://tv.iill.top/Migu/nsn65D
+「斯诺克」06/24 17:00 雷佩凡迎战吴安仪 傅家俊PK韦克林 雷佩凡迎战吴安仪 傅家俊PK韦克林 2号桌,https://tv.iill.top/Migu/ZbfuxR
+「斯诺克」06/24 17:00 雷佩凡迎战吴安仪 傅家俊PK韦克林 雷佩凡迎战吴安仪 傅家俊PK韦克林 3号桌,https://tv.iill.top/Migu/891DH4
+「斯诺克」06/24 17:00 雷佩凡迎战吴安仪 傅家俊PK韦克林 雷佩凡迎战吴安仪 傅家俊PK韦克林 4号桌,https://tv.iill.top/Migu/54GzBr
+「斯诺克」06/24 17:00 雷佩凡迎战吴安仪 傅家俊PK韦克林 雷佩凡迎战吴安仪 傅家俊PK韦克林 5号桌,https://tv.iill.top/Migu/xwReqH
+「斯诺克」06/24 17:00 雷佩凡迎战吴安仪 傅家俊PK韦克林 雷佩凡迎战吴安仪 傅家俊PK韦克林 6号桌,https://tv.iill.top/Migu/5YI3Nv
+「斯诺克」06/24 17:00 雷佩凡迎战吴安仪 傅家俊PK韦克林 雷佩凡迎战吴安仪 傅家俊PK韦克林 7号桌,https://tv.iill.top/Migu/Kunow3
+「国际篮联三人篮球世界杯」06/24 17:00 男子小组赛-中国vs波多黎各 男子小组赛-中国vs波多黎各 CCTV5,https://tv.iill.top/Migu/xJ6zby
+「WTA」06/24 17:30 巴特洪堡站第三日 巴特洪堡站第三日 赛场原声,https://tv.iill.top/Migu/417rWi
+「WTA」06/24 17:30 巴特洪堡站第三日 巴特洪堡站第三日 英文原声,https://tv.iill.top/Migu/jPfg7c
+「超三联赛」06/24 18:50 武汉赛区 小组赛第三轮 武汉赛区 小组赛第三轮 解说,https://tv.iill.top/Migu/dZoQ7Y
+「国际篮联三人篮球世界杯」06/24 19:00 男子小组赛-加拿大vs中国 男子小组赛-加拿大vs中国 CCTV5,https://tv.iill.top/Migu/5LOIYz
+「国青女篮国际挑战赛」06/24 19:25 中国U19女篮vs塞尔维亚NIBAK俱乐部 清流播出,https://tv.iill.top/Migu/ZoCuJJ
 鳳凰衛視·中文「限UA」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「限UA」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「限UA」,https://tv.iill.top/phenix/fhhk
