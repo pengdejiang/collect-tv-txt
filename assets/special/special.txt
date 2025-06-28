@@ -4592,48 +4592,53 @@ CHC 家庭影院,https://tv.iill.top/migu/chcjt
 新动解码在一线,https://tv.iill.top/migu/xdjm
 开封鼓楼,https://tv.iill.top/migu/kfgl
 钱塘江,https://tv.iill.top/migu/qtj
-「中甲」18:50 联赛 苏州东吴 vs 重庆铜梁龙 解说,https://tv.iill.top/FB/8CUR8C
-「中甲」18:50 联赛 上海嘉定汇龙 vs 广西平果 解说,https://tv.iill.top/FB/cZj6cb
-「中甲」18:50 联赛 陕西联合 vs 大连鲲城 解说,https://tv.iill.top/FB/LzUSgN
-「中甲」18:50 联赛 辽宁铁人 vs 南京城市 解说,https://tv.iill.top/FB/ngn1dB
-「中甲」19:20 联赛 深圳青年人 vs 定南赣联 解说,https://tv.iill.top/FB/mCo8Gd
-「世俱杯」23:00 八分之一决赛 帕尔梅拉斯 vs 博塔弗戈 詹俊 张路 李子琪,https://tv.iill.top/FB/NwYHo7
-「世俱杯」23:45 八分之一决赛 帕尔梅拉斯 vs 博塔弗戈 赛场原声,https://tv.iill.top/FB/G0jDWo
-「世俱杯」23:00 八分之一决赛 帕尔梅拉斯 vs 博塔弗戈 詹俊 张路 李子琪,https://tv.iill.top/FB/fWoVnm
-「MSI」02:40 G2 vs FUR G2 vs FUR 官方解说,https://tv.iill.top/Migu/vovXCm
-「MSI」08:00 BLG vs GAM BLG vs GAM 官方解说,https://tv.iill.top/Migu/azKStY
-「超三联赛」12:50 德清赛区第2站 小组赛第一轮及第二轮 德清赛区第2站 小组赛第一轮及第二轮 清流播出,https://tv.iill.top/Migu/FbaZJ6
-「KPL」13:40 深圳DYG vs 上海RNG.M 深圳DYG vs 上海RNG.M 官方解说,https://tv.iill.top/Migu/7xVzZy
-「全运会体操青年资格赛」14:20 -第三日 -第三日 清流播出,https://tv.iill.top/Migu/N3Anth
-「中乙」15:50 联赛 长春喜都vs山西崇德荣海 解说,https://tv.iill.top/Migu/CevnQc
-「中乙」15:50 联赛 北京理工vs江西庐山 解说,https://tv.iill.top/Migu/Ht0shM
-「斯诺克」17:00 雷佩凡、范争一、许医尘出战 雷佩凡、范争一、许医尘出战 1号桌,https://tv.iill.top/Migu/cNK2rX
-「斯诺克」17:00 雷佩凡、范争一、许医尘出战 雷佩凡、范争一、许医尘出战 2号桌,https://tv.iill.top/Migu/RbTxPH
-「斯诺克」17:00 雷佩凡、范争一、许医尘出战 雷佩凡、范争一、许医尘出战 3号桌,https://tv.iill.top/Migu/Kd9Jas
-「WTT」17:00 混双争冠！黄友政/陈熠vs林仲勋/申裕斌 混双争冠！黄友政/陈熠vs林仲勋/申裕斌 周泽昊 周冠达,https://tv.iill.top/Migu/2YSI7Q
-「WTT」17:00 混双争冠！黄友政/陈熠vs林仲勋/申裕斌 混双争冠！黄友政/陈熠vs林仲勋/申裕斌 1号桌,https://tv.iill.top/Migu/BQ95Q6
-「WTT」17:00 混双争冠！黄友政/陈熠vs林仲勋/申裕斌 混双争冠！黄友政/陈熠vs林仲勋/申裕斌 2号桌,https://tv.iill.top/Migu/Qzh6Pa
-「WTT」17:00 混双争冠！黄友政/陈熠vs林仲勋/申裕斌 混双争冠！黄友政/陈熠vs林仲勋/申裕斌 1号桌英文解说,https://tv.iill.top/Migu/aKogPZ
-「KPL」17:00 南通Hero久竞 vs 长沙TES.A 南通Hero久竞 vs 长沙TES.A 官方解说,https://tv.iill.top/Migu/aeeCVu
-「JCK」18:55 凯皇出征！吕凯对阵战斗民族不败悍将 凯皇出征！吕凯对阵战斗民族不败悍将 官方解说,https://tv.iill.top/Migu/SGAWmj
-「中乙」18:50 联赛 兰州陇原竞技vs无锡吴钩 解说,https://tv.iill.top/Migu/x0LzBv
-「中乙」18:50 联赛 山东泰山B队vs泰安天贶 解说,https://tv.iill.top/Migu/4ypL7Z
-「江苏城市足球联赛」18:30 连云港队vs淮安队 解说,https://tv.iill.top/Migu/XOCIfF
-「超三联赛」18:50 德清赛区第2站 小组赛第三轮 德清赛区第2站 小组赛第三轮 张俊卿,https://tv.iill.top/Migu/qQsuwW
-「中乙」19:20 联赛 贵州筑城竞技vs温州俱乐部中胤 解说,https://tv.iill.top/Migu/2AuHSx
-「江苏城市足球联赛」19:00 盐城队vs镇江队 解说,https://tv.iill.top/Migu/sHVgAO
-「WTA」19:30 佩古拉PK斯瓦泰克争冠 佩古拉PK斯瓦泰克争冠 刘钟鸣 单文强,https://tv.iill.top/Migu/ptnNck
-「WTA」18:00 佩古拉PK斯瓦泰克争冠 佩古拉PK斯瓦泰克争冠 赛场原声,https://tv.iill.top/Migu/Eg8QVU
-「WTA」19:30 佩古拉PK斯瓦泰克争冠 佩古拉PK斯瓦泰克争冠 英文原声,https://tv.iill.top/Migu/PfZdJe
-「NBL」19:20 香港金牛vs长沙勇胜 解说,https://tv.iill.top/Migu/Z0z1TJ
-「NBL」19:20 香港金牛vs长沙勇胜 赛场原声,https://tv.iill.top/Migu/PEhY4u
-「国际篮联U19男篮世界杯」19:55 国际篮联U19世界杯小组赛 中国vs加拿大 王冠证,https://tv.iill.top/Migu/nrHtJr
-「国际篮联U19男篮世界杯」19:55 国际篮联U19世界杯小组赛 中国vs加拿大 现场原声,https://tv.iill.top/Migu/d3OBh8
-「KPL」20:00 重庆狼队 vs 苏州KSG 重庆狼队 vs 苏州KSG 官方解说,https://tv.iill.top/Migu/yzWrdq
-「国青男篮国际挑战赛」19:55 U16 中国U16男篮vs澳大利亚U16男篮 清流播出,https://tv.iill.top/Migu/k2v4xt
-「UFC前瞻与回顾」20:00 激战前夜：UFC317特辑 回顾拉哥与托普里亚崛起之路 激战前夜：UFC317特辑 回顾拉哥与托普里亚崛起之路 陈瑞阳,https://tv.iill.top/Migu/fdq6p0
-「WTA」20:30 乔恩特PK伊埃拉争冠 乔恩特PK伊埃拉争冠 赛场原声,https://tv.iill.top/Migu/Q1Aa3c
-「WTA」20:30 乔恩特PK伊埃拉争冠 乔恩特PK伊埃拉争冠 英文原声,https://tv.iill.top/Migu/EMrk1x
+「世俱杯」06/28 23:00 八分之一决赛 帕尔梅拉斯 vs 博塔弗戈 詹俊 张路 李子琪,https://tv.iill.top/FB/JQzYem
+「世俱杯」06/28 23:45 八分之一决赛 帕尔梅拉斯 vs 博塔弗戈 赛场原声,https://tv.iill.top/FB/3DTgS3
+「世俱杯」06/28 23:00 八分之一决赛 帕尔梅拉斯 vs 博塔弗戈 詹俊 张路 李子琪,https://tv.iill.top/FB/cYwDJm
+「世俱杯」06/29 03:00 八分之一决赛 本菲卡 vs 切尔西 刘畅 颜强 邵凌霄,https://tv.iill.top/FB/JdLrAX
+「世俱杯」06/29 03:45 八分之一决赛 本菲卡 vs 切尔西 赛场原声,https://tv.iill.top/FB/1ZXwTk
+「世俱杯」06/29 03:00 八分之一决赛 本菲卡 vs 切尔西 刘畅 颜强 邵凌霄,https://tv.iill.top/FB/riIpPs
+「中甲」06/29 14:50 联赛 延边龙鼎 vs 南通支云 解说,https://tv.iill.top/FB/QKeSta
+「中超」06/29 18:15 联赛 青岛西海岸 vs 青岛海牛 孙雨轩 徐云龙,https://tv.iill.top/FB/NfNWyq
+「中超」06/29 18:15 联赛 青岛西海岸 vs 青岛海牛 赛场原声,https://tv.iill.top/FB/rA7Ivm
+「中超」06/29 18:00 联赛 长春亚泰 vs 上海申花 娄一晨 刘越 孙蕊,https://tv.iill.top/FB/3Ohsik
+「中超」06/29 18:15 联赛 长春亚泰 vs 上海申花 赛场原声,https://tv.iill.top/FB/BTkbeo
+「中超」06/29 18:45 联赛 梅州客家 vs 天津津门虎 张昊泽 李毅,https://tv.iill.top/FB/dVKUom
+「中超」06/29 18:45 联赛 梅州客家 vs 天津津门虎 赛场原声,https://tv.iill.top/FB/PyDTng
+「中甲」06/29 19:20 联赛 石家庄功夫 vs 佛山南狮 解说,https://tv.iill.top/FB/y6MrAG
+「中甲」06/29 19:20 联赛 广东广州豹 vs 青岛红狮 解说,https://tv.iill.top/FB/WnvxFg
+「中超」06/29 19:00 联赛 武汉三镇 vs 成都蓉城 袁甲 徐阳 林梦鸽,https://tv.iill.top/FB/gAHfSF
+「中超」06/29 19:20 联赛 武汉三镇 vs 成都蓉城 赛场原声,https://tv.iill.top/FB/4ekOna
+「世俱杯」06/29 23:00 八分之一决赛 巴黎圣日耳曼 vs 迈阿密国际 娄一晨 刘越 魏欣怡,https://tv.iill.top/FB/gIY0L7
+「世俱杯」06/29 23:45 八分之一决赛 巴黎圣日耳曼 vs 迈阿密国际 赛场原声,https://tv.iill.top/FB/VvBbBI
+「世俱杯」06/29 23:00 八分之一决赛 巴黎圣日耳曼 vs 迈阿密国际 娄一晨 刘越 魏欣怡,https://tv.iill.top/FB/PXYFZQ
+「WTT」06/28 23:30 黄友政/薛飞冲冠军 陈垣宇VS安宰贤 黄友政/薛飞冲冠军 陈垣宇VS安宰贤 小马哥,https://tv.iill.top/Migu/5IVTwN
+「MSI」06/29 02:40 GAM vs FUR GAM vs FUR 官方解说,https://tv.iill.top/Migu/93oVNe
+「UFC数字赛」06/29 06:50 UFC第317期：托普里亚VS奥利维拉 UFC第317期：托普里亚VS奥利维拉 王琰博 任中贤 郝俊,https://tv.iill.top/Migu/ncv8dw
+「UFC数字赛」06/29 06:50 UFC第317期：托普里亚VS奥利维拉 UFC第317期：托普里亚VS奥利维拉 陈瑞阳 郑文祺,https://tv.iill.top/Migu/mpNZBz
+「UFC数字赛」06/29 06:50 UFC第317期：托普里亚VS奥利维拉 UFC第317期：托普里亚VS奥利维拉 英文原声,https://tv.iill.top/Migu/ouIF6V
+「MSI」06/29 08:00 BLG vs G2 BLG vs G2 官方解说,https://tv.iill.top/Migu/jxG8QX
+「马拉松系列赛」06/29 07:50 贵州·镇宁黄果树半程马拉松、兵团第十二师半程马拉松 贵州·镇宁黄果树半程马拉松、兵团第十二师半程马拉松 清流播出,https://tv.iill.top/Migu/o6fKyk
+「马拉松系列赛」06/29 07:50 贵州·镇宁黄果树半程马拉松、兵团第十二师半程马拉松 贵州·镇宁黄果树半程马拉松、兵团第十二师半程马拉松 2025兵团第十二师半程马拉松,https://tv.iill.top/Migu/wrydLj
+「KPL」06/29 13:40 杭州LGD.NBW vs 桐乡情久 杭州LGD.NBW vs 桐乡情久 官方解说,https://tv.iill.top/Migu/lGMiCn
+「全运会体操青年资格赛」06/29 14:20 -第四日 -第四日 清流播出,https://tv.iill.top/Migu/oDPd0U
+「KPL」06/29 17:00 北京JDG vs 上海EDG.M 北京JDG vs 上海EDG.M 官方解说,https://tv.iill.top/Migu/OBEpZC
+「国际篮联U19男篮世界杯」06/29 17:40 国际篮联U19世界杯小组赛 德国vs中国 王冠证,https://tv.iill.top/Migu/lKjbor
+「国际篮联U19男篮世界杯」06/29 17:40 国际篮联U19世界杯小组赛 德国vs中国 现场原声,https://tv.iill.top/Migu/5dxFbQ
+「超三联赛」06/29 17:50 德清赛区第2站 淘汰赛及决赛 德清赛区第2站 淘汰赛及决赛 字诚,https://tv.iill.top/Migu/SF9paP
+「江苏城市足球联赛」06/29 18:30 苏州队vs扬州队 解说,https://tv.iill.top/Migu/LbOCqO
+「江苏城市足球联赛」06/29 19:00 泰州队vs徐州队 解说,https://tv.iill.top/Migu/M70T9n
+「江苏城市足球联赛」06/29 19:00 南通队vs宿迁队 解说,https://tv.iill.top/Migu/exDUzS
+「NBL」06/29 19:20 广西威壮vs江西鲸裕清酒 解说,https://tv.iill.top/Migu/wKt8cb
+「NBL」06/29 19:20 广西威壮vs江西鲸裕清酒 赛场原声,https://tv.iill.top/Migu/fQGBLs
+「NBL」06/29 19:20 盐南汤沟国藏vs石家庄翔蓝 解说,https://tv.iill.top/Migu/BUz3B1
+「NBL」06/29 19:20 盐南汤沟国藏vs石家庄翔蓝 赛场原声,https://tv.iill.top/Migu/QVOBjE
+「NBL」06/29 19:20 湖北文旅vs合肥狂风峻茂 解说,https://tv.iill.top/Migu/7uY9g0
+「NBL」06/29 19:20 湖北文旅vs合肥狂风峻茂 赛场原声,https://tv.iill.top/Migu/AtPXzg
+「WTT」06/29 20:00 男女单双打决赛 男女单双打决赛 周冠达,https://tv.iill.top/Migu/QwzkA0
+「WTT」06/29 20:00 男女单双打决赛 男女单双打决赛 1号桌,https://tv.iill.top/Migu/FzWMbb
+「WTT」06/29 20:00 男女单双打决赛 男女单双打决赛 英文解说,https://tv.iill.top/Migu/IamLSp
+「KPL」06/29 20:00 成都AG超玩会 vs 佛山DRG 成都AG超玩会 vs 佛山DRG 官方解说,https://tv.iill.top/Migu/GPe7Fp
 鳳凰衛視·中文「限UA」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「限UA」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「限UA」,https://tv.iill.top/phenix/fhhk
