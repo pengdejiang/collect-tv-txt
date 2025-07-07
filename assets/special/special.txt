@@ -4592,19 +4592,18 @@ CHC 家庭影院,https://tv.iill.top/migu/chcjt
 新动解码在一线,https://tv.iill.top/migu/xdjm
 开封鼓楼,https://tv.iill.top/migu/kfgl
 钱塘江,https://tv.iill.top/migu/qtj
-「NBA」04:25 夏季联赛 湖人VS热火 郑泽鹏,https://tv.iill.top/NBA/ibDXW9
-「NBA」04:25 夏季联赛 湖人VS热火 英文原声,https://tv.iill.top/NBA/IgtOlm
-「NBA」06:25 夏季联赛 马刺VS勇士 王晓晨,https://tv.iill.top/NBA/1h2sDw
-「NBA」06:25 夏季联赛 马刺VS勇士 英文原声,https://tv.iill.top/NBA/5c6r22
-「WTT」09:00 王楚钦、蒯曼晋级 陈幸同笑傲德比 王楚钦、蒯曼晋级 陈幸同笑傲德比 解说切换,https://tv.iill.top/Migu/VwOB6a
-「WTT」09:00 王楚钦、蒯曼晋级 陈幸同笑傲德比 王楚钦、蒯曼晋级 陈幸同笑傲德比 1号桌,https://tv.iill.top/Migu/ykimm9
-「WTT」09:00 王楚钦、蒯曼晋级 陈幸同笑傲德比 王楚钦、蒯曼晋级 陈幸同笑傲德比 2号桌,https://tv.iill.top/Migu/g8AIxi
-「WTT」09:00 王楚钦、蒯曼晋级 陈幸同笑傲德比 王楚钦、蒯曼晋级 陈幸同笑傲德比 英文解说,https://tv.iill.top/Migu/EaU3Pu
-「超三联赛」17:50 贵阳赛区第1站淘汰赛及决赛 贵阳赛区第1站淘汰赛及决赛 李嘉伟,https://tv.iill.top/Migu/1XP6Ow
-「东亚杯」18:00 韩国 vs 中国 娄一晨 刘越 邵凌霄,https://tv.iill.top/Migu/2hmBKj
-「东亚杯」18:50 韩国 vs 中国 清流播出,https://tv.iill.top/Migu/AObiWs
-「UFC前瞻与回顾」19:00 UFC中国赛特辑：重温张名扬、苏木和石铭通向UFC之路 UFC中国赛特辑：重温张名扬、苏木和石铭通向UFC之路 王琰博,https://tv.iill.top/Migu/2YNuXB
-「WTT」20:00 美国大满贯：比赛日 美国大满贯：比赛日 刘国正 程靖淇 周雨 周泽昊,https://tv.iill.top/Migu/t5lYRH
+「NBA」04:25 夏季联赛 湖人VS热火 郑泽鹏,https://tv.iill.top/NBA/LgenQy
+「NBA」04:25 夏季联赛 湖人VS热火 英文原声,https://tv.iill.top/NBA/nkix3C
+「NBA」06:25 夏季联赛 马刺VS勇士 王晓晨,https://tv.iill.top/NBA/wy2cw7
+「NBA」06:25 夏季联赛 马刺VS勇士 英文原声,https://tv.iill.top/NBA/QLgb7U
+「WTT」09:00 王楚钦、蒯曼晋级 陈幸同笑傲德比 王楚钦、蒯曼晋级 陈幸同笑傲德比 解说切换,https://tv.iill.top/Migu/1ErqVD
+「WTT」09:00 王楚钦、蒯曼晋级 陈幸同笑傲德比 王楚钦、蒯曼晋级 陈幸同笑傲德比 1号桌,https://tv.iill.top/Migu/qxSMlk
+「WTT」09:00 王楚钦、蒯曼晋级 陈幸同笑傲德比 王楚钦、蒯曼晋级 陈幸同笑傲德比 英文解说,https://tv.iill.top/Migu/15JYWn
+「超三联赛」17:50 贵阳赛区第1站淘汰赛及决赛 贵阳赛区第1站淘汰赛及决赛 李嘉伟,https://tv.iill.top/Migu/TkkXkW
+「东亚杯」18:00 韩国 vs 中国 娄一晨 刘越 邵凌霄,https://tv.iill.top/Migu/bGPYs2
+「东亚杯」18:50 韩国 vs 中国 清流播出,https://tv.iill.top/Migu/NmInIy
+「UFC前瞻与回顾」19:00 重温张名扬、苏木和石铭通向UFC之路 重温张名扬、苏木和石铭通向UFC之路 王琰博,https://tv.iill.top/Migu/zFLeKk
+「WTT」20:00 美国大满贯：比赛日 美国大满贯：比赛日 刘国正 程靖淇 周雨 周泽昊,https://tv.iill.top/Migu/9qCq26
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk
