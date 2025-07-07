@@ -4592,18 +4592,35 @@ CHC 家庭影院,https://tv.iill.top/migu/chcjt
 新动解码在一线,https://tv.iill.top/migu/xdjm
 开封鼓楼,https://tv.iill.top/migu/kfgl
 钱塘江,https://tv.iill.top/migu/qtj
-「NBA」04:25 夏季联赛 湖人VS热火 郑泽鹏,https://tv.iill.top/NBA/LgenQy
-「NBA」04:25 夏季联赛 湖人VS热火 英文原声,https://tv.iill.top/NBA/nkix3C
-「NBA」06:25 夏季联赛 马刺VS勇士 王晓晨,https://tv.iill.top/NBA/wy2cw7
-「NBA」06:25 夏季联赛 马刺VS勇士 英文原声,https://tv.iill.top/NBA/QLgb7U
-「WTT」09:00 王楚钦、蒯曼晋级 陈幸同笑傲德比 王楚钦、蒯曼晋级 陈幸同笑傲德比 解说切换,https://tv.iill.top/Migu/1ErqVD
-「WTT」09:00 王楚钦、蒯曼晋级 陈幸同笑傲德比 王楚钦、蒯曼晋级 陈幸同笑傲德比 1号桌,https://tv.iill.top/Migu/qxSMlk
-「WTT」09:00 王楚钦、蒯曼晋级 陈幸同笑傲德比 王楚钦、蒯曼晋级 陈幸同笑傲德比 英文解说,https://tv.iill.top/Migu/15JYWn
-「超三联赛」17:50 贵阳赛区第1站淘汰赛及决赛 贵阳赛区第1站淘汰赛及决赛 李嘉伟,https://tv.iill.top/Migu/TkkXkW
-「东亚杯」18:00 韩国 vs 中国 娄一晨 刘越 邵凌霄,https://tv.iill.top/Migu/bGPYs2
-「东亚杯」18:50 韩国 vs 中国 清流播出,https://tv.iill.top/Migu/NmInIy
-「UFC前瞻与回顾」19:00 重温张名扬、苏木和石铭通向UFC之路 重温张名扬、苏木和石铭通向UFC之路 王琰博,https://tv.iill.top/Migu/zFLeKk
-「WTT」20:00 美国大满贯：比赛日 美国大满贯：比赛日 刘国正 程靖淇 周雨 周泽昊,https://tv.iill.top/Migu/9qCq26
+「NBA」07/08 06:55 夏季联赛 雷霆VS76人 董倡硕,https://tv.iill.top/NBA/xvzqWa
+「NBA」07/08 06:55 夏季联赛 雷霆VS76人 英文原声,https://tv.iill.top/NBA/0HafDN
+「NBA」07/08 08:55 夏季联赛 灰熊VS爵士 罗森,https://tv.iill.top/NBA/d03Cu4
+「NBA」07/08 08:55 夏季联赛 灰熊VS爵士 英文原声,https://tv.iill.top/NBA/OX1adS
+「WTT」07/08 02:00 王曼昱率先出战 周启豪迎战阿鲁纳 王曼昱率先出战 周启豪迎战阿鲁纳 解说切换,https://tv.iill.top/Migu/3fIULb
+「WTT」07/08 02:00 王曼昱率先出战 周启豪迎战阿鲁纳 王曼昱率先出战 周启豪迎战阿鲁纳 2号桌,https://tv.iill.top/Migu/zkw5DG
+「WTT」07/08 02:00 王曼昱率先出战 周启豪迎战阿鲁纳 王曼昱率先出战 周启豪迎战阿鲁纳 3号桌,https://tv.iill.top/Migu/a31tv8
+「WTT」07/08 02:00 王曼昱率先出战 周启豪迎战阿鲁纳 王曼昱率先出战 周启豪迎战阿鲁纳 4号桌,https://tv.iill.top/Migu/SMxNkc
+「WTT」07/08 03:30 王曼昱率先出战 周启豪迎战阿鲁纳 王曼昱率先出战 周启豪迎战阿鲁纳 1号桌,https://tv.iill.top/Migu/6My44h
+「WTT」07/08 03:30 王曼昱率先出战 周启豪迎战阿鲁纳 王曼昱率先出战 周启豪迎战阿鲁纳 英文解说,https://tv.iill.top/Migu/hyXDnX
+「MSI」07/08 07:40 AL vs CFO AL vs CFO 官方解说,https://tv.iill.top/Migu/3edn1N
+「WTT」07/08 09:00 林诗栋、王艺迪出战 徐奕vs石洵瑶 林诗栋、王艺迪出战 徐奕vs石洵瑶 解说切换,https://tv.iill.top/Migu/i0R0Bv
+「WTT」07/08 09:00 林诗栋、王艺迪出战 徐奕vs石洵瑶 林诗栋、王艺迪出战 徐奕vs石洵瑶 1号桌,https://tv.iill.top/Migu/n37RJc
+「WTT」07/08 09:00 林诗栋、王艺迪出战 徐奕vs石洵瑶 林诗栋、王艺迪出战 徐奕vs石洵瑶 2号桌,https://tv.iill.top/Migu/uujSYT
+「WTT」07/08 09:00 林诗栋、王艺迪出战 徐奕vs石洵瑶 林诗栋、王艺迪出战 徐奕vs石洵瑶 3号桌,https://tv.iill.top/Migu/uKF8X8
+「WTT」07/08 09:00 林诗栋、王艺迪出战 徐奕vs石洵瑶 林诗栋、王艺迪出战 徐奕vs石洵瑶 4号桌,https://tv.iill.top/Migu/WWWgbk
+「WTT」07/08 09:00 林诗栋、王艺迪出战 徐奕vs石洵瑶 林诗栋、王艺迪出战 徐奕vs石洵瑶 英文解说,https://tv.iill.top/Migu/ssJDXX
+「东亚杯」07/08 18:14 日本 vs 中国香港 张昊泽,https://tv.iill.top/Migu/pnwA6o
+「东亚杯」07/08 18:14 日本 vs 中国香港 清流播出,https://tv.iill.top/Migu/rq2EbC
+「UFC前瞻与回顾」07/08 19:00 激战前夜UFC中国赛特辑第7期：UFC上海站出战选手胜场回顾 激战前夜UFC中国赛特辑第7期：UFC上海站出战选手胜场回顾 王琰博,https://tv.iill.top/Migu/MCMZvc
+「NBL」07/08 19:20 合肥狂风峻茂vs长沙勇胜 解说,https://tv.iill.top/Migu/Sf6fiE
+「NBL」07/08 19:20 合肥狂风峻茂vs长沙勇胜 赛场原声,https://tv.iill.top/Migu/5bzUGF
+「NBL」07/08 19:20 石家庄翔蓝vs广西威壮 解说,https://tv.iill.top/Migu/3r2CRh
+「NBL」07/08 19:20 石家庄翔蓝vs广西威壮 赛场原声,https://tv.iill.top/Migu/JAjH50
+「NBL」07/08 19:20 湖北文旅vs江西鲸裕清酒 解说,https://tv.iill.top/Migu/YkUqnq
+「NBL」07/08 19:20 湖北文旅vs江西鲸裕清酒 赛场原声,https://tv.iill.top/Migu/CWQIgL
+「中国女篮系列热身赛」07/08 19:15 中国vs澳大利亚 吕程 赵爽,https://tv.iill.top/Migu/M3HTDO
+「中国女篮系列热身赛」07/08 19:15 中国vs澳大利亚 清流播出,https://tv.iill.top/Migu/agzndM
+「WTT」07/08 20:00 美国大满贯：比赛日 美国大满贯：比赛日 程靖淇 周雨 侯英超,https://tv.iill.top/Migu/HBN8NX
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk
