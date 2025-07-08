@@ -4592,30 +4592,26 @@ CHC 家庭影院,https://tv.iill.top/migu/chcjt
 新动解码在一线,https://tv.iill.top/migu/xdjm
 开封鼓楼,https://tv.iill.top/migu/kfgl
 钱塘江,https://tv.iill.top/migu/qtj
-「NBA」06:55 夏季联赛 雷霆VS76人 董倡硕,https://tv.iill.top/NBA/hsQp4H
-「NBA」06:55 夏季联赛 雷霆VS76人 英文原声,https://tv.iill.top/NBA/N7YZmG
-「NBA」08:55 夏季联赛 灰熊VS爵士 罗森,https://tv.iill.top/NBA/DCZzV9
-「NBA」08:55 夏季联赛 灰熊VS爵士 英文原声,https://tv.iill.top/NBA/OfTnNX
-「MSI」07:40 AL vs CFO AL vs CFO 官方解说,https://tv.iill.top/Migu/UotkRp
-「WTT」09:00 林诗栋力克法国黑马 林高远出战 林诗栋力克法国黑马 林高远出战 解说切换,https://tv.iill.top/Migu/5vhgsz
-「WTT」09:00 林诗栋力克法国黑马 林高远出战 林诗栋力克法国黑马 林高远出战 1号桌,https://tv.iill.top/Migu/L7xBlP
-「WTT」09:00 林诗栋力克法国黑马 林高远出战 林诗栋力克法国黑马 林高远出战 2号桌,https://tv.iill.top/Migu/NvQ9Fh
-「WTT」09:00 林诗栋力克法国黑马 林高远出战 林诗栋力克法国黑马 林高远出战 3号桌,https://tv.iill.top/Migu/NglYZe
-「WTT」09:00 林诗栋力克法国黑马 林高远出战 林诗栋力克法国黑马 林高远出战 4号桌,https://tv.iill.top/Migu/PEx9dd
-「WTT」09:00 林诗栋力克法国黑马 林高远出战 林诗栋力克法国黑马 林高远出战 英文解说,https://tv.iill.top/Migu/09GBNi
-「东亚杯」18:14 日本 vs 中国香港 张昊泽,https://tv.iill.top/Migu/w28l9H
-「东亚杯」18:14 日本 vs 中国香港 清流播出,https://tv.iill.top/Migu/H6Cj1D
-「UFC前瞻与回顾」19:00 激战前夜UFC中国赛特辑第7期：UFC上海站出战选手胜场回顾 激战前夜UFC中国赛特辑第7期：UFC上海站出战选手胜场回顾 王琰博,https://tv.iill.top/Migu/YoGbS5
-「NBL」19:20 合肥狂风峻茂vs长沙勇胜 解说,https://tv.iill.top/Migu/ZtaCyu
-「NBL」19:20 合肥狂风峻茂vs长沙勇胜 赛场原声,https://tv.iill.top/Migu/KDCuCz
-「NBL」19:20 石家庄翔蓝vs广西威壮 解说,https://tv.iill.top/Migu/ShZFab
-「NBL」19:20 石家庄翔蓝vs广西威壮 赛场原声,https://tv.iill.top/Migu/18jtgU
-「NBL」19:20 湖北文旅vs江西鲸裕清酒 解说,https://tv.iill.top/Migu/lj12Zs
-「NBL」19:20 湖北文旅vs江西鲸裕清酒 赛场原声,https://tv.iill.top/Migu/ZxP37W
-「中国女篮系列热身赛」19:15 中国vs澳大利亚 吕程 赵爽,https://tv.iill.top/Migu/jIPKuS
-「中国女篮系列热身赛」19:15 中国vs澳大利亚 清流播出,https://tv.iill.top/Migu/Rbt1aZ
-「CFA中国之队·国际足球锦标赛」19:30 中国U16 vs 韩国U16 CCTV5+,https://tv.iill.top/Migu/ELOoB3
-「WTT」20:00 美国大满贯：比赛日 美国大满贯：比赛日 程靖淇 周雨 侯英超,https://tv.iill.top/Migu/SvNLih
+「NBA」06:55 夏季联赛 雷霆VS76人 董倡硕,https://tv.iill.top/NBA/OJO6SM
+「NBA」06:55 夏季联赛 雷霆VS76人 英文原声,https://tv.iill.top/NBA/lhJtud
+「NBA」08:55 夏季联赛 灰熊VS爵士 罗森,https://tv.iill.top/NBA/WD2bgr
+「NBA」08:55 夏季联赛 灰熊VS爵士 英文原声,https://tv.iill.top/NBA/iQPyBa
+「MSI」07:40 AL vs CFO AL vs CFO 官方解说,https://tv.iill.top/Migu/YsP4mP
+「WTT」09:00 林诗栋力克法国黑马 林高远止步首轮 林诗栋力克法国黑马 林高远止步首轮 1号桌,https://tv.iill.top/Migu/FNBtlo
+「WTT」09:00 林诗栋力克法国黑马 林高远止步首轮 林诗栋力克法国黑马 林高远止步首轮 英文解说,https://tv.iill.top/Migu/gij5D6
+「东亚杯」18:14 日本 vs 中国香港 张昊泽,https://tv.iill.top/Migu/gS8SUP
+「东亚杯」18:14 日本 vs 中国香港 审片后清流,https://tv.iill.top/Migu/JtG3lN
+「UFC前瞻与回顾」19:00 激战前夜UFC中国赛特辑第7期：UFC上海站出战选手胜场回顾 激战前夜UFC中国赛特辑第7期：UFC上海站出战选手胜场回顾 王琰博,https://tv.iill.top/Migu/MZXEOj
+「NBL」19:20 合肥狂风峻茂vs长沙勇胜 解说,https://tv.iill.top/Migu/3MPX4Q
+「NBL」19:20 合肥狂风峻茂vs长沙勇胜 赛场原声,https://tv.iill.top/Migu/pxePTP
+「NBL」19:20 石家庄翔蓝vs广西威壮 解说,https://tv.iill.top/Migu/9h9VGw
+「NBL」19:20 石家庄翔蓝vs广西威壮 赛场原声,https://tv.iill.top/Migu/uOlcLH
+「NBL」19:20 湖北文旅vs江西鲸裕清酒 解说,https://tv.iill.top/Migu/U3B9WE
+「NBL」19:20 湖北文旅vs江西鲸裕清酒 赛场原声,https://tv.iill.top/Migu/aad32N
+「中国女篮系列热身赛」19:15 中国vs澳大利亚 吕程 赵爽,https://tv.iill.top/Migu/9f77v3
+「中国女篮系列热身赛」19:15 中国vs澳大利亚 清流播出,https://tv.iill.top/Migu/A1Lt41
+「CFA中国之队·国际足球锦标赛」19:30 中国U16 vs 韩国U16 CCTV5+,https://tv.iill.top/Migu/t4t1rk
+「WTT」20:00 美国大满贯：比赛日 美国大满贯：比赛日 程靖淇 周雨 侯英超,https://tv.iill.top/Migu/NSsm2c
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk
