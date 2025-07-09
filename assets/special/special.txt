@@ -4592,36 +4592,38 @@ CHC 家庭影院,https://tv.iill.top/migu/chcjt
 新动解码在一线,https://tv.iill.top/migu/xdjm
 开封鼓楼,https://tv.iill.top/migu/kfgl
 钱塘江,https://tv.iill.top/migu/qtj
-「世俱杯」02:00 半决赛 弗卢米嫩塞 vs 切尔西 娄一晨 刘越 郎鹤炎,https://tv.iill.top/FB/aKHxo9
-「世俱杯」03:30 半决赛 弗卢米嫩塞 vs 切尔西 美国大满贯正赛Day3,https://tv.iill.top/FB/X7KMDZ
-「世俱杯」02:45 半决赛 弗卢米嫩塞 vs 切尔西 赛场原声,https://tv.iill.top/FB/pfB9OF
-「世俱杯」02:45 半决赛 弗卢米嫩塞 vs 切尔西 江忠德,https://tv.iill.top/FB/bqLGHj
-「世俱杯」02:45 半决赛 弗卢米嫩塞 vs 切尔西 洪荒,https://tv.iill.top/FB/JFfODQ
-「世俱杯」02:45 半决赛 弗卢米嫩塞 vs 切尔西 陈渤胄,https://tv.iill.top/FB/6LKYI5
-「世俱杯」02:00 半决赛 弗卢米嫩塞 vs 切尔西 娄一晨 刘越 郎鹤炎,https://tv.iill.top/FB/RbaiZh
-「NBA」06:55 夏季联赛 热火VS勇士 王冠证,https://tv.iill.top/NBA/KMHgFb
-「NBA」06:55 夏季联赛 热火VS勇士 英文原声,https://tv.iill.top/NBA/dnsO5E
-「NBA」06:55 夏季联赛 灰熊VS76人 金哲豪,https://tv.iill.top/NBA/GgGAm1
-「NBA」06:55 夏季联赛 灰熊VS76人 英文原声,https://tv.iill.top/NBA/lpVm1x
-「NBA」08:55 夏季联赛 雷霆VS爵士 王琰博,https://tv.iill.top/NBA/TYxDa6
-「NBA」08:55 夏季联赛 雷霆VS爵士 英文原声,https://tv.iill.top/NBA/WoXcg9
-「NBA」09:55 夏季联赛 湖人VS马刺 王晓晨,https://tv.iill.top/NBA/PGsqcj
-「NBA」09:55 夏季联赛 湖人VS马刺 英文原声,https://tv.iill.top/NBA/0kRK41
-「WTT」03:30 陈幸同单局轰出11-0 蒯曼晋级 陈幸同单局轰出11-0 蒯曼晋级 英文解说,https://tv.iill.top/Migu/KqPgQu
-「MSI」07:40 BLG vs FLY BLG vs FLY 官方解说,https://tv.iill.top/Migu/x8DGB8
-「WTT」09:00 孙颖莎逆转晋级16强 王楚钦3-1高承睿 孙颖莎逆转晋级16强 王楚钦3-1高承睿 解说切换,https://tv.iill.top/Migu/7bcJzv
-「WTT」09:00 孙颖莎逆转晋级16强 王楚钦3-1高承睿 孙颖莎逆转晋级16强 王楚钦3-1高承睿 1号桌,https://tv.iill.top/Migu/z1vFPO
-「WTT」09:00 孙颖莎逆转晋级16强 王楚钦3-1高承睿 孙颖莎逆转晋级16强 王楚钦3-1高承睿 英文解说,https://tv.iill.top/Migu/5b9sOq
-「女足东亚杯」15:20 日本 vs 中国台北 鲁靖明,https://tv.iill.top/Migu/vcom8f
-「女足东亚杯」15:20 日本 vs 中国台北 审片后清流,https://tv.iill.top/Migu/ck05Jq
-「KPL」16:40 西安WE vs 长沙TES.A 西安WE vs 长沙TES.A 官方解说,https://tv.iill.top/Migu/3aE2lS
-「UFC前瞻与回顾」19:00 激战前夜UFC中国赛特辑第8期：重温上海站主赛选手胜场合集 激战前夜UFC中国赛特辑第8期：重温上海站主赛选手胜场合集 王琰博,https://tv.iill.top/Migu/YCR7RO
-「女足东亚杯」18:50 韩国 vs 中国 张昊泽,https://tv.iill.top/Migu/N3etpa
-「女足东亚杯」18:50 韩国 vs 中国 审片后清流,https://tv.iill.top/Migu/mqhGiL
-「NBL」19:20 香港金牛vs盐南苏科雄狮 解说,https://tv.iill.top/Migu/mZ22Gt
-「NBL」19:20 香港金牛vs盐南苏科雄狮 赛场原声,https://tv.iill.top/Migu/NTiIjO
-「KPL」20:00 济南RW侠 vs 上海RNG.M 济南RW侠 vs 上海RNG.M 官方解说,https://tv.iill.top/Migu/dt9DAK
-「WTT」20:00 美国大满贯：比赛日 美国大满贯：比赛日 刘国正 程靖淇 周雨,https://tv.iill.top/Migu/pwJBRG
+「世俱杯」02:00 半决赛 弗卢米嫩塞 vs 切尔西 娄一晨 刘越 郎鹤炎,https://tv.iill.top/FB/3RvWai
+「世俱杯」03:30 半决赛 弗卢米嫩塞 vs 切尔西 美国大满贯正赛Day3,https://tv.iill.top/FB/NIEyCu
+「世俱杯」02:45 半决赛 弗卢米嫩塞 vs 切尔西 赛场原声,https://tv.iill.top/FB/zq8gSB
+「世俱杯」02:45 半决赛 弗卢米嫩塞 vs 切尔西 江忠德,https://tv.iill.top/FB/BFZanM
+「世俱杯」02:45 半决赛 弗卢米嫩塞 vs 切尔西 洪荒,https://tv.iill.top/FB/XmPSRj
+「世俱杯」02:45 半决赛 弗卢米嫩塞 vs 切尔西 陈渤胄,https://tv.iill.top/FB/jKpjIs
+「世俱杯」02:00 半决赛 弗卢米嫩塞 vs 切尔西 娄一晨 刘越 郎鹤炎,https://tv.iill.top/FB/bkg5KP
+「NBA」06:55 夏季联赛 热火VS勇士 王冠证,https://tv.iill.top/NBA/2KiDsP
+「NBA」06:55 夏季联赛 热火VS勇士 英文原声,https://tv.iill.top/NBA/xh9Lf6
+「NBA」06:55 夏季联赛 灰熊VS76人 金哲豪,https://tv.iill.top/NBA/YC4jnn
+「NBA」06:55 夏季联赛 灰熊VS76人 英文原声,https://tv.iill.top/NBA/VhrNPA
+「NBA」08:55 夏季联赛 雷霆VS爵士 王琰博,https://tv.iill.top/NBA/1V8gtI
+「NBA」08:55 夏季联赛 雷霆VS爵士 英文原声,https://tv.iill.top/NBA/GUfnx8
+「NBA」09:55 夏季联赛 湖人VS马刺 王晓晨,https://tv.iill.top/NBA/ugw1pb
+「NBA」09:55 夏季联赛 湖人VS马刺 英文原声,https://tv.iill.top/NBA/FBppCf
+「WTT」03:30 陈幸同单局轰出11-0 蒯曼晋级 陈幸同单局轰出11-0 蒯曼晋级 英文解说,https://tv.iill.top/Migu/Pe75US
+「MSI」07:40 BLG vs FLY BLG vs FLY 官方解说,https://tv.iill.top/Migu/mILAqQ
+「WTT」09:00 孙颖莎逆转晋级16强 王楚钦3-1高承睿 孙颖莎逆转晋级16强 王楚钦3-1高承睿 解说切换,https://tv.iill.top/Migu/bQA8ja
+「WTT」09:00 孙颖莎逆转晋级16强 王楚钦3-1高承睿 孙颖莎逆转晋级16强 王楚钦3-1高承睿 1号桌,https://tv.iill.top/Migu/txYoLr
+「WTT」09:00 孙颖莎逆转晋级16强 王楚钦3-1高承睿 孙颖莎逆转晋级16强 王楚钦3-1高承睿 英文解说,https://tv.iill.top/Migu/LBHjaH
+「女足东亚杯」15:20 日本 vs 中国台北 鲁靖明,https://tv.iill.top/Migu/djDIMu
+「女足东亚杯」15:20 日本 vs 中国台北 审片后清流,https://tv.iill.top/Migu/lNw3Rz
+「中乙」15:50 联赛 湖北青年星vs泰安天贶 解说,https://tv.iill.top/Migu/v9Prw4
+「KPL」16:40 西安WE vs 长沙TES.A 西安WE vs 长沙TES.A 官方解说,https://tv.iill.top/Migu/DilXYn
+「中乙」18:50 联赛 赣州瑞狮vs泉州亚新 解说,https://tv.iill.top/Migu/UgFZZB
+「UFC前瞻与回顾」19:00 激战前夜UFC中国赛特辑第8期：重温上海站主赛选手胜场合集 激战前夜UFC中国赛特辑第8期：重温上海站主赛选手胜场合集 王琰博,https://tv.iill.top/Migu/MSmMqa
+「女足东亚杯」18:50 韩国 vs 中国 张昊泽,https://tv.iill.top/Migu/tAE0Ts
+「女足东亚杯」18:50 韩国 vs 中国 审片后清流,https://tv.iill.top/Migu/lPOgV8
+「NBL」19:20 香港金牛vs盐南苏科雄狮 解说,https://tv.iill.top/Migu/c226vF
+「NBL」19:20 香港金牛vs盐南苏科雄狮 赛场原声,https://tv.iill.top/Migu/pXrNLp
+「KPL」20:00 济南RW侠 vs 上海RNG.M 济南RW侠 vs 上海RNG.M 官方解说,https://tv.iill.top/Migu/6SSEyT
+「WTT」20:00 美国大满贯：比赛日 美国大满贯：比赛日 刘国正 程靖淇 周雨,https://tv.iill.top/Migu/NIVQIm
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk
