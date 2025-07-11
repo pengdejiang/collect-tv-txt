@@ -4592,44 +4592,43 @@ CHC 家庭影院,https://tv.iill.top/migu/chcjt
 新动解码在一线,https://tv.iill.top/migu/xdjm
 开封鼓楼,https://tv.iill.top/migu/kfgl
 钱塘江,https://tv.iill.top/migu/qtj
-「NBA」03:25 夏季联赛 鹈鹕VS森林狼 董倡硕,https://tv.iill.top/NBA/HgamKA
-「NBA」03:25 夏季联赛 鹈鹕VS森林狼 英文原声,https://tv.iill.top/NBA/veIoZq
-「NBA」04:55 夏季联赛 骑士VS步行者 罗森,https://tv.iill.top/NBA/VRkGNu
-「NBA」04:55 夏季联赛 骑士VS步行者 英文原声,https://tv.iill.top/NBA/pp00Dz
-「NBA」05:25 夏季联赛 雷霆VS篮网 王琰博,https://tv.iill.top/NBA/KWBjOk
-「NBA」05:25 夏季联赛 雷霆VS篮网 英文原声,https://tv.iill.top/NBA/WLqjwN
-「NBA」07:25 夏季联赛 魔术VS国王 蔡凯臣,https://tv.iill.top/NBA/exEJfL
-「NBA」07:25 夏季联赛 魔术VS国王 英文原声,https://tv.iill.top/NBA/a30Kbk
-「NBA」07:55 夏季联赛 湖人VS独行侠 王冠证,https://tv.iill.top/NBA/WIEgu6
-「NBA」07:55 夏季联赛 湖人VS独行侠 英文原声,https://tv.iill.top/NBA/JVN70c
-「NBA」09:25 夏季联赛 掘金VS雄鹿 邢晨,https://tv.iill.top/NBA/T3dSIF
-「NBA」09:25 夏季联赛 掘金VS雄鹿 英文原声,https://tv.iill.top/NBA/i1Okry
-「NBA」09:55 夏季联赛 马刺VS76人 王晓晨,https://tv.iill.top/NBA/T9wJGr
-「NBA」09:55 夏季联赛 马刺VS76人 英文原声,https://tv.iill.top/NBA/QbGyYx
-「WTT」03:30 孙颖莎、王曼昱无缘8强 双甜进4强 孙颖莎、王曼昱无缘8强 双甜进4强 解说切换,https://tv.iill.top/Migu/2k2SQD
-「WTT」03:30 孙颖莎、王曼昱无缘8强 双甜进4强 孙颖莎、王曼昱无缘8强 双甜进4强 1号桌,https://tv.iill.top/Migu/ddYNI2
-「WTT」03:30 孙颖莎、王曼昱无缘8强 双甜进4强 孙颖莎、王曼昱无缘8强 双甜进4强 英文解说,https://tv.iill.top/Migu/xyCuG0
-「MSI」07:40 AL vs BLG AL vs BLG 官方解说,https://tv.iill.top/Migu/td0a30
-「WTT」09:00 海产姐妹晋级4强 王楚钦冲击男单8强 海产姐妹晋级4强 王楚钦冲击男单8强 解说切换,https://tv.iill.top/Migu/X1Hb9D
-「WTT」09:00 海产姐妹晋级4强 王楚钦冲击男单8强 海产姐妹晋级4强 王楚钦冲击男单8强 1号桌,https://tv.iill.top/Migu/PyObrl
-「WTT」09:00 海产姐妹晋级4强 王楚钦冲击男单8强 海产姐妹晋级4强 王楚钦冲击男单8强 2号桌,https://tv.iill.top/Migu/eHQ1LB
-「WTT」09:00 海产姐妹晋级4强 王楚钦冲击男单8强 海产姐妹晋级4强 王楚钦冲击男单8强 英文解说,https://tv.iill.top/Migu/2fgolM
-「KPL」13:40 深圳DYG vs 长沙TES.A 深圳DYG vs 长沙TES.A 官方解说,https://tv.iill.top/Migu/YQS0pL
-「KPL」17:00 南通Hero久竞 vs 上海RNG.M 南通Hero久竞 vs 上海RNG.M 官方解说,https://tv.iill.top/Migu/WbeyVZ
-「PEL」17:25 2025夏季赛 第二周 第二天 2025夏季赛 第二周 第二天 官方解说,https://tv.iill.top/Migu/8jJOug
-「PEL」17:25 2025夏季赛 第二周 第二天 2025夏季赛 第二周 第二天 清流,https://tv.iill.top/Migu/4DY4pw
-「PEL」17:50 2025夏季赛 第二周 第二天 2025夏季赛 第二周 第二天 明星视角1,https://tv.iill.top/Migu/7fzi4G
-「PEL」17:50 2025夏季赛 第二周 第二天 2025夏季赛 第二周 第二天 明星视角2,https://tv.iill.top/Migu/fzWxXE
-「PEL」17:50 2025夏季赛 第二周 第二天 2025夏季赛 第二周 第二天 明星视角3,https://tv.iill.top/Migu/ivlcnn
-「PEL」17:50 2025夏季赛 第二周 第二天 2025夏季赛 第二周 第二天 地图流,https://tv.iill.top/Migu/jAyg0r
-「东亚杯」18:50 中国香港 vs 韩国 梁祥宇,https://tv.iill.top/Migu/LVVvoC
-「东亚杯」18:50 中国香港 vs 韩国 审片后清流,https://tv.iill.top/Migu/YPFqzz
-「NBL」19:20 长沙勇胜vs石家庄翔蓝 解说,https://tv.iill.top/Migu/waczfL
-「NBL」19:20 长沙勇胜vs石家庄翔蓝 赛场原声,https://tv.iill.top/Migu/xAWKU7
-「NBL」19:20 合肥狂风峻茂vs江西鲸裕清酒 解说,https://tv.iill.top/Migu/SZoMMy
-「NBL」19:20 合肥狂风峻茂vs江西鲸裕清酒 赛场原声,https://tv.iill.top/Migu/9p8XJK
-「KPL」20:00 重庆狼队 vs 佛山DRG 重庆狼队 vs 佛山DRG 官方解说,https://tv.iill.top/Migu/LI6WmN
-「WTT」20:00 美国大满贯：比赛日 美国大满贯：比赛日 程靖淇 马特 周冠达,https://tv.iill.top/Migu/RUU8tz
+「NBA」03:25 夏季联赛 鹈鹕VS森林狼 董倡硕,https://tv.iill.top/NBA/KlVLuR
+「NBA」03:25 夏季联赛 鹈鹕VS森林狼 英文原声,https://tv.iill.top/NBA/IsyRvg
+「NBA」04:55 夏季联赛 骑士VS步行者 罗森,https://tv.iill.top/NBA/Go7iLb
+「NBA」04:55 夏季联赛 骑士VS步行者 英文原声,https://tv.iill.top/NBA/gTg8kf
+「NBA」05:25 夏季联赛 雷霆VS篮网 王琰博,https://tv.iill.top/NBA/vPgJgG
+「NBA」05:25 夏季联赛 雷霆VS篮网 英文原声,https://tv.iill.top/NBA/cfALe5
+「NBA」07:25 夏季联赛 魔术VS国王 蔡凯臣,https://tv.iill.top/NBA/qDoPsS
+「NBA」07:25 夏季联赛 魔术VS国王 英文原声,https://tv.iill.top/NBA/e1ccrU
+「NBA」07:55 夏季联赛 湖人VS独行侠 王冠证,https://tv.iill.top/NBA/aIyUm4
+「NBA」07:55 夏季联赛 湖人VS独行侠 英文原声,https://tv.iill.top/NBA/6KszgG
+「NBA」09:25 夏季联赛 掘金VS雄鹿 邢晨,https://tv.iill.top/NBA/UnOBwP
+「NBA」09:25 夏季联赛 掘金VS雄鹿 英文原声,https://tv.iill.top/NBA/OZjs2f
+「NBA」09:55 夏季联赛 马刺VS76人 王晓晨,https://tv.iill.top/NBA/nGhGIP
+「NBA」09:55 夏季联赛 马刺VS76人 英文原声,https://tv.iill.top/NBA/6Rkadj
+「WTT」03:30 孙颖莎、王曼昱无缘8强 双甜进4强 孙颖莎、王曼昱无缘8强 双甜进4强 解说切换,https://tv.iill.top/Migu/OeFdpt
+「WTT」03:30 孙颖莎、王曼昱无缘8强 双甜进4强 孙颖莎、王曼昱无缘8强 双甜进4强 1号桌,https://tv.iill.top/Migu/DPB7uM
+「WTT」03:30 孙颖莎、王曼昱无缘8强 双甜进4强 孙颖莎、王曼昱无缘8强 双甜进4强 英文解说,https://tv.iill.top/Migu/psIfKs
+「MSI」07:40 AL vs BLG AL vs BLG 官方解说,https://tv.iill.top/Migu/AQhxFW
+「WTT」09:00 海产姐妹挺进4强 王楚钦横扫晋级8强 海产姐妹挺进4强 王楚钦横扫晋级8强 1号桌,https://tv.iill.top/Migu/emo84j
+「WTT」09:00 海产姐妹挺进4强 王楚钦横扫晋级8强 海产姐妹挺进4强 王楚钦横扫晋级8强 英文解说,https://tv.iill.top/Migu/xpwaED
+「KPL」13:40 深圳DYG vs 长沙TES.A 深圳DYG vs 长沙TES.A 官方解说,https://tv.iill.top/Migu/t6CbMv
+「KPL」17:00 南通Hero久竞 vs 上海RNG.M 南通Hero久竞 vs 上海RNG.M 官方解说,https://tv.iill.top/Migu/KowgWj
+「PEL」17:25 2025夏季赛 第二周 第二天 2025夏季赛 第二周 第二天 官方解说,https://tv.iill.top/Migu/1BGb8Z
+「PEL」17:25 2025夏季赛 第二周 第二天 2025夏季赛 第二周 第二天 清流,https://tv.iill.top/Migu/vaJiMI
+「PEL」17:50 2025夏季赛 第二周 第二天 2025夏季赛 第二周 第二天 明星视角1,https://tv.iill.top/Migu/1sW8Yr
+「PEL」17:50 2025夏季赛 第二周 第二天 2025夏季赛 第二周 第二天 明星视角2,https://tv.iill.top/Migu/Q85xXO
+「PEL」17:50 2025夏季赛 第二周 第二天 2025夏季赛 第二周 第二天 明星视角3,https://tv.iill.top/Migu/Ud8iYX
+「PEL」17:50 2025夏季赛 第二周 第二天 2025夏季赛 第二周 第二天 地图流,https://tv.iill.top/Migu/SZgS4T
+「东亚杯」18:50 中国香港 vs 韩国 梁祥宇,https://tv.iill.top/Migu/59nWGN
+「东亚杯」18:50 中国香港 vs 韩国 审片后清流,https://tv.iill.top/Migu/vkTGQv
+「NBL」19:20 长沙勇胜vs石家庄翔蓝 解说,https://tv.iill.top/Migu/f6AJ4m
+「NBL」19:20 长沙勇胜vs石家庄翔蓝 赛场原声,https://tv.iill.top/Migu/uCPMAm
+「NBL」19:20 合肥狂风峻茂vs江西鲸裕清酒 解说,https://tv.iill.top/Migu/YUQKdd
+「NBL」19:20 合肥狂风峻茂vs江西鲸裕清酒 赛场原声,https://tv.iill.top/Migu/i0bmyQ
+「KPL」20:00 重庆狼队 vs 佛山DRG 重庆狼队 vs 佛山DRG 官方解说,https://tv.iill.top/Migu/70LHO1
+「WTT」20:00 美国大满贯：比赛日 美国大满贯：比赛日 程靖淇 马特 周冠达,https://tv.iill.top/Migu/iasF28
+「WTT」18:30 美国大满贯：比赛日 美国大满贯：比赛日 同看歌手,https://tv.iill.top/Migu/uwUTMS
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk
