@@ -4592,19 +4592,16 @@ CHC 家庭影院,https://tv.iill.top/migu/chcjt
 新动解码在一线,https://tv.iill.top/migu/xdjm
 开封鼓楼,https://tv.iill.top/migu/kfgl
 钱塘江,https://tv.iill.top/migu/qtj
-「NBA」07/21 05:55 夏季联赛 老鹰VS凯尔特人 蔡凯臣,https://tv.iill.top/NBA/PMFhIZ
-「NBA」07/21 05:55 夏季联赛 老鹰VS凯尔特人 英文原声,https://tv.iill.top/NBA/SMc7mw
-「NBA」07/21 07:55 夏季联赛 灰熊VS快船 罗森,https://tv.iill.top/NBA/mfYhBM
-「NBA」07/21 07:55 夏季联赛 灰熊VS快船 英文原声,https://tv.iill.top/NBA/jVKS5f
-「NBA」07/21 09:55 夏季联赛 国王VS黄蜂 陈鑫隆,https://tv.iill.top/NBA/YSIM7O
-「NBA」07/21 09:55 夏季联赛 国王VS黄蜂 英文原声,https://tv.iill.top/NBA/e5NcqE
-「国际马联」07/20 22:00 欧锦赛个人决赛II 欧锦赛个人决赛II 解说,https://tv.iill.top/Migu/1wVtcn
-「WTA」07/20 22:30 泰希曼PK贝古争冠 泰希曼PK贝古争冠 清流,https://tv.iill.top/Migu/SrCvDh
-「WTA」07/20 22:30 泰希曼PK贝古争冠 泰希曼PK贝古争冠 英文原声,https://tv.iill.top/Migu/SKcTEW
-「LPL」07/21 16:30 UP vs TT UP vs TT 官方解说,https://tv.iill.top/Migu/G9ptJe
-「LPL」07/21 19:00 LNG vs NIP LNG vs NIP 官方解说,https://tv.iill.top/Migu/1BC7hK
-「WTA」07/21 23:00 华盛顿站第一日 华盛顿站第一日 清流,https://tv.iill.top/Migu/ekCY2V
-「WTA」07/21 23:00 华盛顿站第一日 华盛顿站第一日 英文原声,https://tv.iill.top/Migu/IB1oYE
+「NBA」05:55 夏季联赛 老鹰VS凯尔特人 蔡凯臣,https://tv.iill.top/NBA/rNGhGv
+「NBA」05:55 夏季联赛 老鹰VS凯尔特人 英文原声,https://tv.iill.top/NBA/fZs532
+「NBA」07:55 夏季联赛 灰熊VS快船 罗森,https://tv.iill.top/NBA/i2VPeX
+「NBA」07:55 夏季联赛 灰熊VS快船 英文原声,https://tv.iill.top/NBA/ceSMLy
+「NBA」09:55 夏季联赛 国王VS黄蜂 陈鑫隆,https://tv.iill.top/NBA/1pJdOi
+「NBA」09:55 夏季联赛 国王VS黄蜂 英文原声,https://tv.iill.top/NBA/nJmoDE
+「LPL」16:30 UP vs TT UP vs TT 官方解说,https://tv.iill.top/Migu/ljkgGr
+「LPL」19:00 LNG vs NIP LNG vs NIP 官方解说,https://tv.iill.top/Migu/fJKgZB
+「WTA」23:00 华盛顿站第一日 华盛顿站第一日 清流,https://tv.iill.top/Migu/51FbfI
+「WTA」23:00 华盛顿站第一日 华盛顿站第一日 英文原声,https://tv.iill.top/Migu/roSqZr
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
