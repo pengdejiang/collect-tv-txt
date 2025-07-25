@@ -4593,46 +4593,68 @@ CHC 家庭影院,https://tv.iill.top/migu/chcjt
 新动解码在一线,https://tv.iill.top/migu/xdjm
 开封鼓楼,https://tv.iill.top/migu/kfgl
 钱塘江,https://tv.iill.top/migu/qtj
-「WTA」01:00 拉杜卡努晋级 大威止步第二轮 拉杜卡努晋级 大威止步第二轮 清流,https://tv.iill.top/Migu/ZCGfG3
-「WTA」01:00 拉杜卡努晋级 大威止步第二轮 拉杜卡努晋级 大威止步第二轮 英文原声,https://tv.iill.top/Migu/4H3u6s
-「“林丹杯”羽毛球公开赛」09:30 （西安站）小组赛 王高伦、赵俊鹏出战 （西安站）小组赛 王高伦、赵俊鹏出战 西安站,https://tv.iill.top/Migu/6vrPmC
-「和美乡村足球超级联赛」13:50 贵州村超20强决赛day1 贵州村超20强决赛day1 分省,https://tv.iill.top/Migu/uhUV3s
-「CBA」14:50 选秀大会训练营汇报赛 选秀大会训练营汇报赛 清流播出,https://tv.iill.top/Migu/RyapSt
-「LPL」16:30 EDG vs NIP EDG vs NIP 官方解说,https://tv.iill.top/Migu/UId3MW
-「WTT」17:00 金娜英/柳韩娜轻松晋级 帕瓦德出战 金娜英/柳韩娜轻松晋级 帕瓦德出战 1号桌,https://tv.iill.top/Migu/ligsum
-「WTT」17:00 金娜英/柳韩娜轻松晋级 帕瓦德出战 金娜英/柳韩娜轻松晋级 帕瓦德出战 2号桌,https://tv.iill.top/Migu/ryly70
-「WTT」17:00 金娜英/柳韩娜轻松晋级 帕瓦德出战 金娜英/柳韩娜轻松晋级 帕瓦德出战 3号桌,https://tv.iill.top/Migu/OJAWIa
-「WTT」17:00 金娜英/柳韩娜轻松晋级 帕瓦德出战 金娜英/柳韩娜轻松晋级 帕瓦德出战 4号桌,https://tv.iill.top/Migu/vz9ViW
-「WTT」17:00 金娜英/柳韩娜轻松晋级 帕瓦德出战 金娜英/柳韩娜轻松晋级 帕瓦德出战 英文解说,https://tv.iill.top/Migu/AR11AC
-「超三联赛」17:50 靖江赛区第2站 淘汰赛及决赛 靖江赛区第2站 淘汰赛及决赛 王冠证,https://tv.iill.top/Migu/gac86a
-「乒超」18:30 樊振东、许昕领衔出战 孙颖莎王曼昱强强对话 樊振东、许昕领衔出战 孙颖莎王曼昱强强对话 小马哥,https://tv.iill.top/Migu/A1tdho
-「乒超」18:30 樊振东、许昕领衔出战 孙颖莎王曼昱强强对话 樊振东、许昕领衔出战 孙颖莎王曼昱强强对话 程靖淇,https://tv.iill.top/Migu/k9mQrC
-「乒超」18:30 樊振东、许昕领衔出战 孙颖莎王曼昱强强对话 樊振东、许昕领衔出战 孙颖莎王曼昱强强对话 侯英超,https://tv.iill.top/Migu/JToLhB
-「乒超」18:30 樊振东、许昕领衔出战 孙颖莎王曼昱强强对话 樊振东、许昕领衔出战 孙颖莎王曼昱强强对话 2号桌,https://tv.iill.top/Migu/bxkbFS
-「乒超」18:30 樊振东、许昕领衔出战 孙颖莎王曼昱强强对话 樊振东、许昕领衔出战 孙颖莎王曼昱强强对话 3号桌,https://tv.iill.top/Migu/JIHtT9
-「乒超」18:30 樊振东、许昕领衔出战 孙颖莎王曼昱强强对话 樊振东、许昕领衔出战 孙颖莎王曼昱强强对话 1号桌,https://tv.iill.top/Migu/T68gm6
-「乒超」18:30 樊振东、许昕领衔出战 孙颖莎王曼昱强强对话 樊振东、许昕领衔出战 孙颖莎王曼昱强强对话 4号桌,https://tv.iill.top/Migu/giPEmw
-「乒超」18:30 樊振东、许昕领衔出战 孙颖莎王曼昱强强对话 樊振东、许昕领衔出战 孙颖莎王曼昱强强对话 5号桌,https://tv.iill.top/Migu/UoV0Ck
-「乒超」19:20 樊振东、许昕领衔出战 孙颖莎王曼昱强强对话 樊振东、许昕领衔出战 孙颖莎王曼昱强强对话 混采区,https://tv.iill.top/Migu/7Ug5TK
-「LPL」19:00 LGD vs LNG LGD vs LNG 官方解说,https://tv.iill.top/Migu/k36jc1
-「NBL」19:20 江西鲸裕清酒vs长沙勇胜 解说,https://tv.iill.top/Migu/ZMWzBZ
-「NBL」19:20 江西鲸裕清酒vs长沙勇胜 现场原声,https://tv.iill.top/Migu/qDTYoz
-「NBL」19:20 广西威壮vs湖北文旅 解说,https://tv.iill.top/Migu/YxjUyb
-「NBL」19:20 广西威壮vs湖北文旅 现场原声,https://tv.iill.top/Migu/OAIflP
-「NBL」19:20 香港金牛vs盐南苏科雄狮 解说,https://tv.iill.top/Migu/KRKDT6
-「NBL」19:20 香港金牛vs盐南苏科雄狮 现场原声,https://tv.iill.top/Migu/33Un6X
-「中国男篮系列热身赛」19:20 中国vs委内瑞拉 邵化谦 孔德昕,https://tv.iill.top/Migu/W6Lxn6
-「中国男篮系列热身赛」19:20 中国vs委内瑞拉 现场原声,https://tv.iill.top/Migu/7iM8g1
-「和美乡村篮球赛」19:45 2025斗阵·泉BA篮球赛 池店赛区 DAY2 2025斗阵·泉BA篮球赛 池店赛区 DAY2 2025: 台商洛阳VS惠安黄塘雅诺斯，晋江西园·绿叶VS晋江池店,https://tv.iill.top/Migu/izW8VA
-「和美乡村篮球赛」19:45 2025斗阵·泉BA篮球赛 宝盖赛区 DAY2 2025斗阵·泉BA篮球赛 宝盖赛区 DAY2 2025: 南安溪美VS丰泽北峰·商会，南安省新VS南安石井,https://tv.iill.top/Migu/9RnxQm
-「WTA」17:00 瓦伦托娃出战 王欣瑜PK诺斯科娃 瓦伦托娃出战 王欣瑜PK诺斯科娃 清流,https://tv.iill.top/Migu/3LCZgx
-「WTA」17:00 瓦伦托娃出战 王欣瑜PK诺斯科娃 瓦伦托娃出战 王欣瑜PK诺斯科娃 英文原声,https://tv.iill.top/Migu/xMnln8
-「WTT」21:00 美和一日双赛 雨果冲八强 美和一日双赛 雨果冲八强 1号桌,https://tv.iill.top/Migu/YthMXC
-「WTT」21:00 美和一日双赛 雨果冲八强 美和一日双赛 雨果冲八强 2号桌,https://tv.iill.top/Migu/PuuQLZ
-「WTT」21:00 美和一日双赛 雨果冲八强 美和一日双赛 雨果冲八强 3号桌,https://tv.iill.top/Migu/o5A2kW
-「WTT」21:00 美和一日双赛 雨果冲八强 美和一日双赛 雨果冲八强 4号桌,https://tv.iill.top/Migu/alkHEm
-「WTT」18:30 美和一日双赛 雨果冲八强 美和一日双赛 雨果冲八强 同看歌手,https://tv.iill.top/Migu/ynqhnd
-「WTT」21:00 美和一日双赛 雨果冲八强 美和一日双赛 雨果冲八强 英文解说,https://tv.iill.top/Migu/s1ncPo
+「中甲」07/26 17:50 联赛 延边龙鼎 vs 辽宁铁人 解说,https://tv.iill.top/FB/oAsY5w
+「中超」07/26 18:30 联赛 上海海港 vs 青岛西海岸 娄一晨 李彦 姚安妮,https://tv.iill.top/FB/O4ePEu
+「中超」07/26 18:45 联赛 上海海港 vs 青岛西海岸 赛场原声,https://tv.iill.top/FB/mrMNFS
+「中甲」07/26 18:50 联赛 陕西联合 vs 佛山南狮 解说,https://tv.iill.top/FB/BDgfpd
+「中甲」07/26 19:20 联赛 石家庄功夫 vs 上海嘉定汇龙 解说,https://tv.iill.top/FB/7YoMcJ
+「中甲」07/26 19:20 联赛 重庆铜梁龙 vs 深圳青年人 解说,https://tv.iill.top/FB/3VatWT
+「中超」07/26 18:00 联赛 成都蓉城 vs 北京国安 苏东 刘越,https://tv.iill.top/FB/ueZK9N
+「中超」07/26 18:00 联赛 成都蓉城 vs 北京国安 袁甲 杨晨 林梦鸽,https://tv.iill.top/FB/PGRxXt
+「中超」07/26 19:20 联赛 成都蓉城 vs 北京国安 石庆圣,https://tv.iill.top/FB/v1VKXR
+「中超」07/26 19:20 联赛 成都蓉城 vs 北京国安 4K赛场原声,https://tv.iill.top/FB/RaSLmR
+「中超」07/26 19:45 联赛 云南玉昆 vs 深圳新鹏城 张天翼 于海,https://tv.iill.top/FB/8h0JHY
+「中超」07/26 19:45 联赛 云南玉昆 vs 深圳新鹏城 赛场原声,https://tv.iill.top/FB/jfx1EI
+「WTA」07/26 00:00 拉杜卡努迎战萨卡里 莱巴金娜冲四强 拉杜卡努迎战萨卡里 莱巴金娜冲四强 清流,https://tv.iill.top/Migu/1jL62C
+「WTA」07/26 00:00 拉杜卡努迎战萨卡里 莱巴金娜冲四强 拉杜卡努迎战萨卡里 莱巴金娜冲四强 英文原声,https://tv.iill.top/Migu/gNR6gi
+「“林丹杯”羽毛球公开赛」07/26 09:00 （西安站）淘汰赛 （西安站）淘汰赛 西安站,https://tv.iill.top/Migu/Jowbcl
+「“林丹杯”羽毛球公开赛」07/26 09:00 （西安站）淘汰赛 （西安站）淘汰赛 西安站,https://tv.iill.top/Migu/g78zcP
+「CBA」07/26 09:50 2025选秀大会 2025选秀大会 清流播出,https://tv.iill.top/Migu/U7si5i
+「乒超」07/26 10:30 王楚钦领衔山东魏桥迎战山东鲁能 王楚钦领衔山东魏桥迎战山东鲁能 周冠达,https://tv.iill.top/Migu/gDfDSB
+「乒超」07/26 10:30 王楚钦领衔山东魏桥迎战山东鲁能 王楚钦领衔山东魏桥迎战山东鲁能 侯英超,https://tv.iill.top/Migu/E4HuC1
+「乒超」07/26 10:30 王楚钦领衔山东魏桥迎战山东鲁能 王楚钦领衔山东魏桥迎战山东鲁能 小马哥,https://tv.iill.top/Migu/QeG162
+「乒超」07/26 10:30 王楚钦领衔山东魏桥迎战山东鲁能 王楚钦领衔山东魏桥迎战山东鲁能 1号桌,https://tv.iill.top/Migu/9yCJ5C
+「乒超」07/26 10:30 王楚钦领衔山东魏桥迎战山东鲁能 王楚钦领衔山东魏桥迎战山东鲁能 2号桌,https://tv.iill.top/Migu/ZfyGiW
+「乒超」07/26 10:30 王楚钦领衔山东魏桥迎战山东鲁能 王楚钦领衔山东魏桥迎战山东鲁能 3号桌,https://tv.iill.top/Migu/XMhDIF
+「乒超」07/26 10:30 王楚钦领衔山东魏桥迎战山东鲁能 王楚钦领衔山东魏桥迎战山东鲁能 4号桌,https://tv.iill.top/Migu/qP61jz
+「乒超」07/26 11:20 王楚钦领衔山东魏桥迎战山东鲁能 王楚钦领衔山东魏桥迎战山东鲁能 混采区,https://tv.iill.top/Migu/uuqgCF
+「超三联赛」07/26 12:50 南昌赛区第1站 小组赛第一轮及第二轮 南昌赛区第1站 小组赛第一轮及第二轮 清流播出,https://tv.iill.top/Migu/tXy0C4
+「和美乡村足球超级联赛」07/26 14:20 韩乔生空降村超解说 巴乔卡洛斯率军出战 韩乔生空降村超解说 巴乔卡洛斯率军出战 分省,https://tv.iill.top/Migu/GMIujB
+「LPL」07/26 14:30 NIP vs UP NIP vs UP 官方解说,https://tv.iill.top/Migu/F88IPP
+「世界泳联世锦赛」07/26 15:25 混合团体、女子1米跳板决赛 混合团体、女子1米跳板决赛 C5,https://tv.iill.top/Migu/YKwjma
+「中乙」07/26 15:50 联赛 北京理工vs泰安天贶 解说,https://tv.iill.top/Migu/nEjyNU
+「中乙」07/26 15:50 联赛 湖北青年星vs江西庐山 解说,https://tv.iill.top/Migu/5eYBZQ
+「中乙」07/26 15:50 联赛 海门珂缔缘vs长春喜都 解说,https://tv.iill.top/Migu/gcWzQ5
+「中乙」07/26 15:50 联赛 上海海港富盛经开vs兰州陇原竞技 解说,https://tv.iill.top/Migu/pA5ocA
+「中乙」07/26 15:50 联赛 山东泰山B队vs山西崇德荣海 解说,https://tv.iill.top/Migu/TUlkRu
+「中乙」07/26 15:50 联赛 杭州临平吴越vs无锡吴钩 解说,https://tv.iill.top/Migu/qCC2Xq
+「LPL」07/26 17:00 AL vs BLG AL vs BLG 官方解说,https://tv.iill.top/Migu/ez9HGB
+「WTT」07/26 17:00 男女单打半决赛及决赛、男女双打决赛 男女单打半决赛及决赛、男女双打决赛 1号桌,https://tv.iill.top/Migu/yoeHAE
+「WTT」07/26 17:00 男女单打半决赛及决赛、男女双打决赛 男女单打半决赛及决赛、男女双打决赛 英文解说,https://tv.iill.top/Migu/Y96qHT
+「乒超」07/26 18:30 王楚钦领衔山东魏桥迎战先锋乒羽陈静 王楚钦领衔山东魏桥迎战先锋乒羽陈静 程靖淇,https://tv.iill.top/Migu/Bc8pDg
+「乒超」07/26 18:30 王楚钦领衔山东魏桥迎战先锋乒羽陈静 王楚钦领衔山东魏桥迎战先锋乒羽陈静 侯英超,https://tv.iill.top/Migu/zpdCSZ
+「乒超」07/26 18:30 王楚钦领衔山东魏桥迎战先锋乒羽陈静 王楚钦领衔山东魏桥迎战先锋乒羽陈静 小马哥,https://tv.iill.top/Migu/AnJCrX
+「乒超」07/26 18:30 王楚钦领衔山东魏桥迎战先锋乒羽陈静 王楚钦领衔山东魏桥迎战先锋乒羽陈静 1号桌,https://tv.iill.top/Migu/chxNGF
+「乒超」07/26 18:30 王楚钦领衔山东魏桥迎战先锋乒羽陈静 王楚钦领衔山东魏桥迎战先锋乒羽陈静 2号桌,https://tv.iill.top/Migu/I2P5Fq
+「乒超」07/26 18:30 王楚钦领衔山东魏桥迎战先锋乒羽陈静 王楚钦领衔山东魏桥迎战先锋乒羽陈静 3号桌,https://tv.iill.top/Migu/23PQQF
+「乒超」07/26 18:30 王楚钦领衔山东魏桥迎战先锋乒羽陈静 王楚钦领衔山东魏桥迎战先锋乒羽陈静 4号桌,https://tv.iill.top/Migu/fcIVhx
+「乒超」07/26 18:30 王楚钦领衔山东魏桥迎战先锋乒羽陈静 王楚钦领衔山东魏桥迎战先锋乒羽陈静 5号桌,https://tv.iill.top/Migu/4P9m8q
+「乒超」07/26 19:20 王楚钦领衔山东魏桥迎战先锋乒羽陈静 王楚钦领衔山东魏桥迎战先锋乒羽陈静 混采区,https://tv.iill.top/Migu/7CBFxz
+「JCK」07/26 18:55 色吉拉胡VS乌马罗夫 泽旺哥哥罗周江措出战 色吉拉胡VS乌马罗夫 泽旺哥哥罗周江措出战 官方解说,https://tv.iill.top/Migu/NcetPk
+「JCK」07/26 18:55 色吉拉胡VS乌马罗夫 泽旺哥哥罗周江措出战 色吉拉胡VS乌马罗夫 泽旺哥哥罗周江措出战 清流,https://tv.iill.top/Migu/oRbdBq
+「LPL」07/26 19:00 JDG vs WE JDG vs WE 官方解说,https://tv.iill.top/Migu/F0XOL5
+「超三联赛」07/26 18:50 南昌赛区第1站 小组赛第三轮 南昌赛区第1站 小组赛第三轮 李嘉伟,https://tv.iill.top/Migu/C3qmUk
+「福建闽港澳台“同心杯”篮球邀请赛」07/26 19:25 福建浔兴俱乐部vs台湾桃园台啤永丰云豹 解说,https://tv.iill.top/Migu/sG1Kpt
+「中女超」07/26 19:20 联赛 江苏无锡女足VS上海农商银行女足 清流播出,https://tv.iill.top/Migu/oqr58V
+「和美乡村篮球赛」07/26 19:45 2025斗阵·泉BA篮球赛 池店赛区 DAY3 2025斗阵·泉BA篮球赛 池店赛区 DAY3 2025: 洛江河市VS晋江西园·绿叶，洛江罗溪VS台商洛阳,https://tv.iill.top/Migu/T915YU
+「和美乡村篮球赛」07/26 19:45 2025斗阵·泉BA篮球赛 宝盖赛区 DAY3 2025斗阵·泉BA篮球赛 宝盖赛区 DAY3 2025: 丰泽北峰·商会VS台商百崎乡·隆盛，南安石井VS石狮宝盖,https://tv.iill.top/Migu/LWZR0r
+「WTA」07/26 20:00 诺斯科娃PK布兹科娃争冠 诺斯科娃PK布兹科娃争冠 清流,https://tv.iill.top/Migu/dZPArs
+「WTA」07/26 20:00 诺斯科娃PK布兹科娃争冠 诺斯科娃PK布兹科娃争冠 英文原声,https://tv.iill.top/Migu/kNxThl
+「WTT」07/26 21:00 混双决赛、男女单打1/4决赛及单双打半决赛 混双决赛、男女单打1/4决赛及单双打半决赛 1号桌,https://tv.iill.top/Migu/gur8Kj
+「WTT」07/26 21:00 混双决赛、男女单打1/4决赛及单双打半决赛 混双决赛、男女单打1/4决赛及单双打半决赛 2号桌,https://tv.iill.top/Migu/LohXSf
+「WTT」07/26 21:00 混双决赛、男女单打1/4决赛及单双打半决赛 混双决赛、男女单打1/4决赛及单双打半决赛 英文解说,https://tv.iill.top/Migu/XGwgRO
+「UFC格斗之夜」07/26 19:30 激战前夜+UFC阿布扎比站：惠特克VS里德尔 激战前夜+UFC阿布扎比站：惠特克VS里德尔 激战前夜陈瑞阳,https://tv.iill.top/Migu/ntlJzg
+「UFC格斗之夜」07/26 23:55 激战前夜+UFC阿布扎比站：惠特克VS里德尔 激战前夜+UFC阿布扎比站：惠特克VS里德尔 ：惠特克vs里德尔(王琰博、郝俊),https://tv.iill.top/Migu/ypakgQ
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
