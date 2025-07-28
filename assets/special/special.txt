@@ -4640,8 +4640,9 @@ CHC 家庭影院,https://tv.iill.top/migu/chcjt
 「WTA」23:00 拉西莫娃出战 鲁塞对战拉杜卡努 拉西莫娃出战 鲁塞对战拉杜卡努 赛场原声,https://tv.iill.top/Migu/IowmjB
 「WTA」23:00 拉西莫娃出战 鲁塞对战拉杜卡努 拉西莫娃出战 鲁塞对战拉杜卡努 英文解说,https://tv.iill.top/Migu/Uq0X0M
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
-無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
-Now 新聞台,https://yang-1989.eu.org/live/Now-332
+無綫新聞,https://yang-1989.eu.org/live/TVB-News-Channel
+TVB Plus,https://yang-1989.eu.org/live/TVB-Plus
+now 新聞,https://yang-1989.eu.org/live/now-332
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk
