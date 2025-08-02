@@ -4593,61 +4593,64 @@ CHC 家庭影院,https://tv.iill.top/migu/chcjt
 新动解码在一线,https://tv.iill.top/migu/xdjm
 开封鼓楼,https://tv.iill.top/migu/kfgl
 钱塘江,https://tv.iill.top/migu/qtj
-「中超」16:30 联赛 云南玉昆 vs 上海申花 娄一晨 刘越,https://tv.iill.top/FB/mZHMdJ
-「中超」16:30 联赛 云南玉昆 vs 上海申花 石庆圣 李彦 邵凌霄,https://tv.iill.top/FB/f4CpfW
-「中超」17:45 联赛 云南玉昆 vs 上海申花 赛场原声,https://tv.iill.top/FB/t6qHib
-「中甲」17:50 联赛 延边龙鼎 vs 石家庄功夫 解说,https://tv.iill.top/FB/bXMadF
-「中甲」18:50 联赛 上海嘉定汇龙 vs 南京城市 解说,https://tv.iill.top/FB/jLIicO
-「中甲」18:50 联赛 陕西联合 vs 重庆铜梁龙 解说,https://tv.iill.top/FB/7H9jCk
-「中甲」18:50 联赛 辽宁铁人 vs 广东广州豹 解说,https://tv.iill.top/FB/fgdr7h
-「中甲」19:20 联赛 广西平果 vs 深圳青年人 解说,https://tv.iill.top/FB/ZKXaYr
-「中超」19:00 联赛 成都蓉城 vs 山东泰山 袁甲 徐阳 李子琪,https://tv.iill.top/FB/CCf8tu
-「中超」19:20 联赛 成都蓉城 vs 山东泰山 赛场原声,https://tv.iill.top/FB/zx3dlH
-「中超」19:20 联赛 青岛西海岸 vs 河南 张昊泽 徐云龙,https://tv.iill.top/FB/pGVs2y
-「中超」19:20 联赛 青岛西海岸 vs 河南 赛场原声,https://tv.iill.top/FB/nJethT
-「中超」19:30 联赛 梅州客家 vs 上海海港 李欣 李壮飞,https://tv.iill.top/FB/TxR9LQ
-「中超」19:45 联赛 梅州客家 vs 上海海港 赛场原声,https://tv.iill.top/FB/uz0bZL
-「WTA」00:30 斯瓦泰克出战 塞瓦斯托娃逆转晋级 斯瓦泰克出战 塞瓦斯托娃逆转晋级 赛场原声,https://tv.iill.top/Migu/dCdMWW
-「WTA」00:30 斯瓦泰克出战 塞瓦斯托娃逆转晋级 斯瓦泰克出战 塞瓦斯托娃逆转晋级 英文解说,https://tv.iill.top/Migu/QXO3wt
-「世界泳联世锦赛」10:00 唐钱婷出战女子50米蛙泳预赛 唐钱婷出战女子50米蛙泳预赛 2025年(游泳)-女子50米自由泳 预赛 等,https://tv.iill.top/Migu/YekOR8
-「和美乡村足球超级联赛」13:40 贵州村超超级星期六 贵州村超超级星期六 贵州村超超级星期六,https://tv.iill.top/Migu/7795Pz
-「KPL」13:40 北京JDG vs 佛山DRG 北京JDG vs 佛山DRG 官方解说,https://tv.iill.top/Migu/B16QIa
-「斯诺克」14:00 2025上海大师赛半决赛：赵心童 vs 凯伦·威尔逊 凯伦·威尔逊vs赵心童 朱蒙,https://tv.iill.top/Migu/Hlgpv7
-「斯诺克」14:00 2025上海大师赛半决赛：赵心童 vs 凯伦·威尔逊 凯伦·威尔逊vs赵心童 半决赛第一阶段 清流,https://tv.iill.top/Migu/XODLCk
-「LPL」14:30 TT vs LGD TT vs LGD 官方解说,https://tv.iill.top/Migu/oWc5uT
-「世界泳联世锦赛」15:00 陈艺文、陈佳出战女子3米板半决赛 陈艺文、陈佳出战女子3米板半决赛 女子3米跳板半决赛,https://tv.iill.top/Migu/8P8jhU
-「中乙」15:50 联赛 长春喜都vs杭州临平吴越 解说,https://tv.iill.top/Migu/VvYtvl
-「中乙」15:50 联赛 山西崇德荣海vs海门珂缔缘 解说,https://tv.iill.top/Migu/gUOxNX
-「中乙」15:50 联赛 泰安天贶vs湖北青年星 解说,https://tv.iill.top/Migu/ZBKUWl
-「中乙」15:50 联赛 兰州陇原竞技vs北京理工 解说,https://tv.iill.top/Migu/c360Bn
-「中乙」15:50 联赛 江西庐山vs山东泰山B队 解说,https://tv.iill.top/Migu/KyoUyA
-「中乙」15:50 联赛 无锡吴钩vs上海海港富盛经开 解说,https://tv.iill.top/Migu/siRKtx
-「LPL」17:00 LNG vs UP LNG vs UP 官方解说,https://tv.iill.top/Migu/CRsnsK
-「KPL」17:00 北京WB vs 广州TTG 北京WB vs 广州TTG 官方解说,https://tv.iill.top/Migu/jsPA8Q
-「世界泳联世锦赛」17:55 女子3米跳板决赛 女子3米跳板决赛 2025年(跳水)-女子3米跳板 决赛,https://tv.iill.top/Migu/vLVeqX
-「全国少年体操U系列锦标赛」18:00 11-12 岁组舞蹈测验 11-12 岁组舞蹈测验 清流播出,https://tv.iill.top/Migu/AaKkBk
-「LPL」19:00 JDG vs AL JDG vs AL 官方解说,https://tv.iill.top/Migu/APE315
-「世界泳联世锦赛」19:20 女子50米蝶泳决赛等 女子50米蝶泳决赛等 2025年(游泳)-女子50米蝶泳 决赛 等,https://tv.iill.top/Migu/e9fPW7
-「江苏城市足球联赛」18:50 镇江队vs南通队 解说,https://tv.iill.top/Migu/DBuRhH
-「江苏城市足球联赛」18:50 淮安队vs苏州队 解说,https://tv.iill.top/Migu/HMOfge
-「斯诺克」19:10 2025上海大师赛半决赛：赵心童 vs 凯伦·威尔逊 凯伦·威尔逊vs赵心童 汪译男 丁文钧,https://tv.iill.top/Migu/2FkhBM
-「斯诺克」19:30 2025上海大师赛半决赛：赵心童 vs 凯伦·威尔逊 凯伦·威尔逊vs赵心童 半决赛第二阶段 清流,https://tv.iill.top/Migu/LTbNgf
-「江西省城市足球超级联赛」19:30 鹰潭VS九江 鹰潭VS九江 解说,https://tv.iill.top/Migu/Rq365q
-「江西省城市足球超级联赛」17:30 鹰潭VS九江 鹰潭VS九江 解说,https://tv.iill.top/Migu/zN1AcI
-「江西省城市足球超级联赛」19:30 上饶VS南昌 上饶VS南昌 解说,https://tv.iill.top/Migu/Egvbht
-「江西省城市足球超级联赛」17:30 上饶VS南昌 上饶VS南昌 解说,https://tv.iill.top/Migu/Zg6RTm
-「江西省城市足球超级联赛」19:30 新余VS赣州 新余VS赣州 解说,https://tv.iill.top/Migu/UIU9Pv
-「江西省城市足球超级联赛」17:30 新余VS赣州 新余VS赣州 解说,https://tv.iill.top/Migu/873DDC
-「江西省城市足球超级联赛」19:30 宜春VS萍乡 宜春VS萍乡 解说,https://tv.iill.top/Migu/UqKixW
-「江西省城市足球超级联赛」17:30 宜春VS萍乡 宜春VS萍乡 解说,https://tv.iill.top/Migu/oqezgd
-「NBL」19:20 湖北文旅vs盐南苏科雄狮 解说,https://tv.iill.top/Migu/PT0f4M
-「NBL」19:20 湖北文旅vs盐南苏科雄狮 现场原声,https://tv.iill.top/Migu/n5CVpu
-「江苏城市足球联赛」18:55 徐州队vs扬州队 解说,https://tv.iill.top/Migu/e9W3cA
-「中女超」19:20 联赛 广东省女足VS江苏无锡女足 清流,https://tv.iill.top/Migu/PYNFg3
-「KPL」20:00 重庆狼队 vs 苏州KSG 重庆狼队 vs 苏州KSG 官方解说,https://tv.iill.top/Migu/YaLVo3
-「WTT」21:00 双打决赛、男女单打1/8决赛及1/4决赛 双打决赛、男女单打1/8决赛及1/4决赛 1号桌,https://tv.iill.top/Migu/nV1t4R
-「WTT」21:00 双打决赛、男女单打1/8决赛及1/4决赛 双打决赛、男女单打1/8决赛及1/4决赛 2号桌,https://tv.iill.top/Migu/TeeK2F
-「WTT」21:00 双打决赛、男女单打1/8决赛及1/4决赛 双打决赛、男女单打1/8决赛及1/4决赛 英文解说,https://tv.iill.top/Migu/y8QpjE
+「中超」16:30 联赛 云南玉昆 vs 上海申花 娄一晨 刘越,https://tv.iill.top/FB/Z0F45A
+「中超」16:30 联赛 云南玉昆 vs 上海申花 石庆圣 李彦 邵凌霄,https://tv.iill.top/FB/wc1QH4
+「中超」17:45 联赛 云南玉昆 vs 上海申花 赛场原声,https://tv.iill.top/FB/z41TBw
+「中甲」17:50 联赛 延边龙鼎 vs 石家庄功夫 解说,https://tv.iill.top/FB/UKxkzJ
+「中甲」18:50 联赛 上海嘉定汇龙 vs 南京城市 解说,https://tv.iill.top/FB/KELR20
+「中甲」18:50 联赛 陕西联合 vs 重庆铜梁龙 解说,https://tv.iill.top/FB/k0J5Xh
+「中甲」18:50 联赛 辽宁铁人 vs 广东广州豹 解说,https://tv.iill.top/FB/byELwy
+「中甲」19:20 联赛 广西平果 vs 深圳青年人 解说,https://tv.iill.top/FB/exsvxu
+「中超」19:00 联赛 成都蓉城 vs 山东泰山 袁甲 徐阳 李子琪,https://tv.iill.top/FB/jOTrAi
+「中超」19:20 联赛 成都蓉城 vs 山东泰山 赛场原声,https://tv.iill.top/FB/XMHUWk
+「中超」19:20 联赛 青岛西海岸 vs 河南 张昊泽 徐云龙,https://tv.iill.top/FB/XMERBf
+「中超」19:20 联赛 青岛西海岸 vs 河南 赛场原声,https://tv.iill.top/FB/L1zQTR
+「中超」19:30 联赛 梅州客家 vs 上海海港 李欣 李壮飞,https://tv.iill.top/FB/SfyJl1
+「中超」19:45 联赛 梅州客家 vs 上海海港 赛场原声,https://tv.iill.top/FB/sbWB1V
+「WTA」00:30 大坂直美横扫晋级 佩古拉遭逆转 大坂直美横扫晋级 佩古拉遭逆转 赛场原声,https://tv.iill.top/Migu/S0hRMR
+「WTA」00:30 大坂直美横扫晋级 佩古拉遭逆转 大坂直美横扫晋级 佩古拉遭逆转 英文解说,https://tv.iill.top/Migu/Z6dan1
+「世界泳联世锦赛」10:00 唐钱婷、程玉洁、吴卿风晋级 唐钱婷、程玉洁、吴卿风晋级 2025年(游泳)-女子50米自由泳 预赛 等,https://tv.iill.top/Migu/M26y8c
+「和美乡村足球超级联赛」13:40 贵州村超超级星期六 贵州村超超级星期六 贵州村超超级星期六,https://tv.iill.top/Migu/zt8SAc
+「KPL」13:40 北京JDG vs 佛山DRG 北京JDG vs 佛山DRG 官方解说,https://tv.iill.top/Migu/Be9vzq
+「斯诺克」14:00 2025上海大师赛半决赛：赵心童 vs 凯伦·威尔逊（第一阶段） 凯伦·威尔逊vs赵心童 朱蒙,https://tv.iill.top/Migu/eaFo4A
+「斯诺克」14:00 2025上海大师赛半决赛：赵心童 vs 凯伦·威尔逊（第一阶段） 凯伦·威尔逊vs赵心童 半决赛第一阶段 清流,https://tv.iill.top/Migu/Cb1wZy
+「LPL」14:30 TT vs LGD TT vs LGD 官方解说,https://tv.iill.top/Migu/uDNjNQ
+「世界泳联世锦赛」15:00 陈艺文、陈佳出战女子3米板半决赛 陈艺文、陈佳出战女子3米板半决赛 女子3米跳板半决赛,https://tv.iill.top/Migu/AQjLTz
+「中乙」15:50 联赛 长春喜都vs杭州临平吴越 解说,https://tv.iill.top/Migu/JUJpTP
+「中乙」15:50 联赛 山西崇德荣海vs海门珂缔缘 解说,https://tv.iill.top/Migu/s0dT7k
+「中乙」15:50 联赛 泰安天贶vs湖北青年星 解说,https://tv.iill.top/Migu/96tqto
+「中乙」15:50 联赛 兰州陇原竞技vs北京理工 解说,https://tv.iill.top/Migu/A6jZEX
+「中乙」15:50 联赛 江西庐山vs山东泰山B队 解说,https://tv.iill.top/Migu/YcC5Yk
+「中乙」15:50 联赛 无锡吴钩vs上海海港富盛经开 解说,https://tv.iill.top/Migu/p91UZZ
+「LPL」17:00 LNG vs UP LNG vs UP 官方解说,https://tv.iill.top/Migu/g2blCZ
+「KPL」17:00 北京WB vs 广州TTG 北京WB vs 广州TTG 官方解说,https://tv.iill.top/Migu/xd9idF
+「世界泳联世锦赛」17:55 女子3米跳板决赛 女子3米跳板决赛 2025年(跳水)-女子3米跳板 决赛,https://tv.iill.top/Migu/3YTTZG
+「全国少年体操U系列锦标赛」18:00 11-12 岁组舞蹈测验 11-12 岁组舞蹈测验 清流播出,https://tv.iill.top/Migu/JyZfuF
+「LPL」19:00 JDG vs AL JDG vs AL 官方解说,https://tv.iill.top/Migu/eORQse
+「世界泳联世锦赛」19:20 女子50米蝶泳决赛等 女子50米蝶泳决赛等 2025年(游泳)-女子50米蝶泳 决赛 等,https://tv.iill.top/Migu/5vuxRX
+「江苏城市足球联赛」18:50 镇江队vs南通队 解说,https://tv.iill.top/Migu/AMGzGR
+「江苏城市足球联赛」18:50 镇江队vs南通队 解说,https://tv.iill.top/Migu/txl5cZ
+「江苏城市足球联赛」18:50 淮安队vs苏州队 解说,https://tv.iill.top/Migu/2BXAc9
+「江苏城市足球联赛」18:50 淮安队vs苏州队 解说,https://tv.iill.top/Migu/aBbwSh
+「斯诺克」19:10 2025上海大师赛半决赛：赵心童 vs 凯伦·威尔逊（第二阶段） 凯伦·威尔逊vs赵心童 汪译男 丁文钧,https://tv.iill.top/Migu/OWtSEd
+「斯诺克」19:30 2025上海大师赛半决赛：赵心童 vs 凯伦·威尔逊（第二阶段） 凯伦·威尔逊vs赵心童 半决赛第二阶段 清流,https://tv.iill.top/Migu/nAXG8L
+「江西省城市足球超级联赛」19:30 鹰潭VS九江 鹰潭VS九江 解说,https://tv.iill.top/Migu/tBkKoI
+「江西省城市足球超级联赛」17:30 鹰潭VS九江 鹰潭VS九江 解说,https://tv.iill.top/Migu/Ni7vh0
+「江西省城市足球超级联赛」19:30 上饶VS南昌 上饶VS南昌 解说,https://tv.iill.top/Migu/Vvg1p2
+「江西省城市足球超级联赛」17:30 上饶VS南昌 上饶VS南昌 解说,https://tv.iill.top/Migu/CyM7w0
+「江西省城市足球超级联赛」19:30 新余VS赣州 新余VS赣州 解说,https://tv.iill.top/Migu/h83dbA
+「江西省城市足球超级联赛」17:30 新余VS赣州 新余VS赣州 解说,https://tv.iill.top/Migu/SKdVHc
+「江西省城市足球超级联赛」19:30 宜春VS萍乡 宜春VS萍乡 解说,https://tv.iill.top/Migu/n4a171
+「江西省城市足球超级联赛」17:30 宜春VS萍乡 宜春VS萍乡 解说,https://tv.iill.top/Migu/pGrnIk
+「NBL」19:20 湖北文旅vs盐南苏科雄狮 解说,https://tv.iill.top/Migu/lghgnH
+「NBL」19:20 湖北文旅vs盐南苏科雄狮 现场原声,https://tv.iill.top/Migu/Lx8ujQ
+「江苏城市足球联赛」18:55 徐州队vs扬州队 解说,https://tv.iill.top/Migu/0aoV7d
+「江苏城市足球联赛」18:55 徐州队vs扬州队 解说,https://tv.iill.top/Migu/ezxn6j
+「中女超」19:20 联赛 广东省女足VS江苏无锡女足 清流,https://tv.iill.top/Migu/DyNHCk
+「KPL」20:00 重庆狼队 vs 苏州KSG 重庆狼队 vs 苏州KSG 官方解说,https://tv.iill.top/Migu/oIIMYR
+「WTT」21:00 张本美和迎战维加 雨果冲击男单8强 张本美和迎战维加 雨果冲击男单8强 1号桌,https://tv.iill.top/Migu/oQbxSp
+「WTT」21:00 张本美和迎战维加 雨果冲击男单8强 张本美和迎战维加 雨果冲击男单8强 2号桌,https://tv.iill.top/Migu/2XgxLE
+「WTT」21:00 张本美和迎战维加 雨果冲击男单8强 张本美和迎战维加 雨果冲击男单8强 英文解说,https://tv.iill.top/Migu/C1COyF
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞,https://yang-1989.eu.org/live/TVB-News-Channel
 TVB Plus,https://yang-1989.eu.org/live/TVB-Plus
