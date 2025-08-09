@@ -4533,155 +4533,163 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 av91.top,https://wbug.xyz/videos/0f58e89f018ae20404e4c7cbc48352f9/g.m3u8?h=3121efe8979c635
 mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h=3121efe8979c635
 免費訂閲：請勿販賣...,https://epg-1.iill.top/v/302.mp4
-維護時間：2025-7-22 #佛系維護...,https://epg-1.iill.top/v/301.mp4
-維護内容：維護 Gather「增加 翡翠/無綫新聞-随时拉闸」,https://epg-1.iill.top/v/302.mp4
+維護時間：2025-8-9 #佛系維護...,https://epg-1.iill.top/v/301.mp4
+維護内容：維護 Gather「•咪咕「TV」支持回看」,https://epg-1.iill.top/v/302.mp4
 公告说明：推流源·「隨時拉閘 / 晚安"0-6"」,https://epg-1.iill.top/v/301.mp4
 限制條件：請保持 訂閲IP 與 觀看IP 一致,https://epg-1.iill.top/v/302.mp4
-Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-CCTV 1 综合,https://tv-1.iill.top/migu/cctv1
-CCTV 2 财经,https://tv-1.iill.top/migu/cctv2
-CCTV 3 综艺,https://tv-1.iill.top/migu/cctv3
-CCTV 4 中文国际,https://tv-1.iill.top/migu/cctv4
-CCTV 4 中文国际·美洲,https://tv-1.iill.top/migu/cctv4m
-CCTV 4 中文国际·欧洲,https://tv-1.iill.top/migu/cctv4o
-CCTV 5 体育,https://tv-1.iill.top/migu/cctv5
-CCTV 5+ 体育赛事,https://tv-1.iill.top/migu/cctv5p
-CCTV 6 电影,https://tv-1.iill.top/migu/cctv6
-CCTV 7 国防军事,https://tv-1.iill.top/migu/cctv7
-CCTV 8 电视剧,https://tv-1.iill.top/migu/cctv8
-CCTV 9 纪录,https://tv-1.iill.top/migu/cctv9
-CCTV 10 科教,https://tv-1.iill.top/migu/cctv10
-CCTV 11 戏曲,https://tv-1.iill.top/migu/cctv11
-CCTV 12 社会与法,https://tv-1.iill.top/migu/cctv12
-CCTV 13 新闻,https://tv-1.iill.top/migu/cctv13
-CCTV 14 少儿,https://tv-1.iill.top/migu/cctv14
-CCTV 15 音乐,https://tv-1.iill.top/migu/cctv15
+CCTV 1 综合「回看」,https://tv-1.iill.top/migu/cctv1
+CCTV 2 财经「回看」,https://tv-1.iill.top/migu/cctv2
+CCTV 3 综艺「回看」,https://tv-1.iill.top/migu/cctv3
+CCTV 4 中文国际「回看」,https://tv-1.iill.top/migu/cctv4
+CCTV 4 中文国际·美洲「回看」,https://tv-1.iill.top/migu/cctv4m
+CCTV 4 中文国际·欧洲「回看」,https://tv-1.iill.top/migu/cctv4o
+CCTV 5 体育「回看」,https://tv-1.iill.top/migu/cctv5
+CCTV 5+ 体育赛事「回看」,https://tv-1.iill.top/migu/cctv5p
+CCTV 6 电影「回看」,https://tv-1.iill.top/migu/cctv6
+CCTV 7 国防军事「回看」,https://tv-1.iill.top/migu/cctv7
+CCTV 8 电视剧「回看」,https://tv-1.iill.top/migu/cctv8
+CCTV 9 纪录「回看」,https://tv-1.iill.top/migu/cctv9
+CCTV 10 科教「回看」,https://tv-1.iill.top/migu/cctv10
+CCTV 11 戏曲「回看」,https://tv-1.iill.top/migu/cctv11
+CCTV 12 社会与法「回看」,https://tv-1.iill.top/migu/cctv12
+CCTV 13 新闻「回看」,https://tv-1.iill.top/migu/cctv13
+CCTV 14 少儿「回看」,https://tv-1.iill.top/migu/cctv14
+CCTV 15 音乐「回看」,https://tv-1.iill.top/migu/cctv15
 CCTV 17 农村农业,https://tv-1.iill.top/migu/cctv17
-CETV 1 中国教育,https://tv-1.iill.top/migu/cetv1
-CETV 2 中国教育,https://tv-1.iill.top/migu/cetv2
-CETV 4 中国教育,https://tv-1.iill.top/migu/cetv4
+CETV 1 中国教育「回看」,https://tv-1.iill.top/migu/cetv1
+CETV 2 中国教育「回看」,https://tv-1.iill.top/migu/cetv2
+CETV 4 中国教育「回看」,https://tv-1.iill.top/migu/cetv4
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-东方卫视,https://tv-1.iill.top/migu/dfws
-江苏卫视,https://tv-1.iill.top/migu/jsws
-广东卫视,https://tv-1.iill.top/migu/gdws
-江西卫视,https://tv-1.iill.top/migu/jxws
-陕西卫视,https://tv-1.iill.top/migu/sxws
-湖北卫视,https://tv-1.iill.top/migu/hubws
-东南卫视,https://tv-1.iill.top/migu/dnws
-海峡卫视,https://tv-1.iill.top/migu/hxws
-上海新闻综合,https://tv-1.iill.top/migu/shxw
-上视东方影视,https://tv-1.iill.top/migu/shys
-CHC 影迷电影,https://tv-1.iill.top/migu/chcym
-CHC 动作电影,https://tv-1.iill.top/migu/chcdz
-CHC 家庭影院,https://tv-1.iill.top/migu/chcjt
-新片放映厅,https://tv-1.iill.top/migu/xpfy
-高清大片,https://tv-1.iill.top/migu/gqdp
-红色轮播台,https://tv-1.iill.top/migu/hslb
-赛事最经典,https://tv-1.iill.top/migu/sszjd
-掼蛋精英赛,https://tv-1.iill.top/migu/gdjs
-体坛名栏汇,https://tv-1.iill.top/migu/ttmh
-咪咕24小时体育台,https://tv-1.iill.top/migu/mgty
-和美乡途轮播台,https://tv-1.iill.top/migu/hmxt
-中国航天"逆袭"之路,https://tv-1.iill.top/migu/zght
-深度对话,https://tv-1.iill.top/migu/sddh
-华语乐坛最强音,https://tv-1.iill.top/migu/hylt
-周杰伦现场,https://tv-1.iill.top/migu/zjl
-最强综艺趴,https://tv-1.iill.top/migu/zqzyp
-嘉佳卡通,https://tv-1.iill.top/migu/jddh
-新动解码在一线,https://tv-1.iill.top/migu/xdjm
-开封鼓楼,https://tv-1.iill.top/migu/kfgl
-钱塘江,https://tv-1.iill.top/migu/qtj
-「中超」18:30 联赛 山东泰山 vs 长春亚泰 苏东 李壮飞 李子琪,https://tv-1.iill.top/FB/sc81Dv
-「中超」18:45 联赛 山东泰山 vs 长春亚泰 赛场原声,https://tv-1.iill.top/FB/ap5tgs
-「中甲」18:50 联赛 大连鲲城 vs 延边龙鼎 解说,https://tv-1.iill.top/FB/Uh0y9C
-「中甲」19:20 联赛 深圳青年人 vs 辽宁铁人 解说,https://tv-1.iill.top/FB/LHdCPV
-「中甲」19:20 联赛 南京城市 vs 陕西联合 解说,https://tv-1.iill.top/FB/WvFR5C
-「中甲」19:20 联赛 重庆铜梁龙 vs 南通支云 解说,https://tv-1.iill.top/FB/oHcHEH
-「中超」18:00 联赛 上海申花 vs 上海海港 梁祥宇 李彦 魏欣怡,https://tv-1.iill.top/FB/tWyBY6
-「中超」19:20 联赛 上海申花 vs 上海海港 石庆圣,https://tv-1.iill.top/FB/k93DOp
-「中超」19:20 联赛 上海申花 vs 上海海港 4K赛场原声,https://tv-1.iill.top/FB/fkpd47
-「中超」19:45 联赛 青岛海牛 vs 云南玉昆 张天翼 徐云龙,https://tv-1.iill.top/FB/GtLCQK
-「中超」19:45 联赛 青岛海牛 vs 云南玉昆 赛场原声,https://tv-1.iill.top/FB/F6pqQN
-「斯诺克」15:00 傅家俊出局 高阳、黄佳浩、蓝裕豪晋级 傅家俊出局 高阳、黄佳浩、蓝裕豪晋级 7号桌,https://tv-1.iill.top/Migu/jOiSqt
-「斯诺克」15:00 傅家俊出局 高阳、黄佳浩、蓝裕豪晋级 傅家俊出局 高阳、黄佳浩、蓝裕豪晋级 8号桌,https://tv-1.iill.top/Migu/X6xpfZ
-「男篮亚洲杯」01:50 叙利亚vs关岛 姜帆,https://tv-1.iill.top/Migu/sYjwgv
-「男篮亚洲杯」01:50 叙利亚vs关岛 现场原声,https://tv-1.iill.top/Migu/Ov4941
-「WTA」05:00 王欣瑜、袁悦携手晋级第二轮 王欣瑜、袁悦携手晋级第二轮 清流,https://tv-1.iill.top/Migu/n2iZz0
-「WTA」05:00 王欣瑜、袁悦携手晋级第二轮 王欣瑜、袁悦携手晋级第二轮 英文原声,https://tv-1.iill.top/Migu/DYU9o3
-「世运会」08:25 滑水第二比赛日女子、男子半决赛 滑水第二比赛日女子、男子半决赛 赛场原声,https://tv-1.iill.top/Migu/WNRsYp
-「WTT」09:00 王楚钦直落三局 陈熠逆转王曼昱 王楚钦直落三局 陈熠逆转王曼昱 视角切换,https://tv-1.iill.top/Migu/eCtm9t
-「WTT」09:15 王楚钦直落三局 陈熠逆转王曼昱 王楚钦直落三局 陈熠逆转王曼昱 混采区,https://tv-1.iill.top/Migu/xKYkeV
-「WTT」09:00 王楚钦直落三局 陈熠逆转王曼昱 王楚钦直落三局 陈熠逆转王曼昱 赛场原声,https://tv-1.iill.top/Migu/h9vmdf
-「WTT」09:00 王楚钦直落三局 陈熠逆转王曼昱 王楚钦直落三局 陈熠逆转王曼昱 英文解说,https://tv-1.iill.top/Migu/7bFu99
-「世运会」08:50 棍网球第三比赛日女子预赛 棍网球第三比赛日女子预赛 赛场原声,https://tv-1.iill.top/Migu/kNUPuS
-「世运会」08:55 浮士德球第一比赛日女子、男子预赛 浮士德球第一比赛日女子、男子预赛 赛场原声,https://tv-1.iill.top/Migu/ZMPZuj
-「世运会」08:55 龙舟第一比赛日 龙舟第一比赛日 赛场原声,https://tv-1.iill.top/Migu/sphVdY
-「世运会」09:20 软式曲棍球第四比赛日 女子、男子预赛 软式曲棍球第四比赛日 女子、男子预赛 赛场原声,https://tv-1.iill.top/Migu/ElzQnQ
-「世运会」09:55 空手道第二比赛日 龚莉晋级决赛 空手道第二比赛日 龚莉晋级决赛 赛场原声,https://tv-1.iill.top/Migu/zAFbEX
-「世运会」09:55 拔河第一比赛日男子铜牌赛、决赛 拔河第一比赛日男子铜牌赛、决赛 赛场原声,https://tv-1.iill.top/Migu/ZSb5KU
-「世运会」09:55 射箭第二比赛日 射箭第二比赛日 赛场原声,https://tv-1.iill.top/Migu/r0PL6o
-「世运会」11:55 单排轮滑球第三比赛日男子预赛 单排轮滑球第三比赛日男子预赛 赛场原声,https://tv-1.iill.top/Migu/ooDIHJ
-「世运会」12:20 棒垒球第四比赛日 男子半决赛 棒垒球第四比赛日 男子半决赛 赛场原声,https://tv-1.iill.top/Migu/z2pDfA
-「超三联赛」12:50 贵阳赛区第2站 小组赛第一轮及第二轮 贵阳赛区第2站 小组赛第一轮及第二轮 清流播出,https://tv-1.iill.top/Migu/SUEEw0
-「和美乡村足球超级联赛」13:30 贵州村超20强总决赛决赛 贵州村超20强总决赛决赛 贵州村超20强总决赛,https://tv-1.iill.top/Migu/GPaThL
-「和美乡村足球超级联赛」13:30 贵州村超20强总决赛决赛 贵州村超20强总决赛决赛 3D视角,https://tv-1.iill.top/Migu/vb2D9k
-「KPL」13:40 上海EDG.M vs 北京JDG 上海EDG.M vs 北京JDG 官方解说,https://tv-1.iill.top/Migu/0HSDk6
-「世运会」13:55 室内荷球第二比赛日 室内荷球第二比赛日 赛场原声,https://tv-1.iill.top/Migu/BxeFBa
-「世运会」13:55 泳池救生第二比赛日 泳池救生第二比赛日 赛场原声,https://tv-1.iill.top/Migu/x0mUpA
-「世运会」13:55 体操第二比赛日 体操第二比赛日 赛场原声,https://tv-1.iill.top/Migu/ePgLsj
-「世运会」21:00 体操第二比赛日 体操第二比赛日 央视开路,https://tv-1.iill.top/Migu/gVTivn
-「LPL」14:30 WE vs BLG WE vs BLG 官方解说,https://tv-1.iill.top/Migu/tmaebD
-「世运会」08:55 掷准飞盘第二比赛日 掷准飞盘第二比赛日 赛场原声,https://tv-1.iill.top/Migu/eTogYm
-「世运会」15:25 沙滩手球第三比赛日女子、男子预赛 沙滩手球第三比赛日女子、男子预赛 赛场原声,https://tv-1.iill.top/Migu/uVyvK6
-「广东省足球超级联赛」15:50 梅州强民VS珠海华发 梅州强民VS珠海华发 2025: 梅州强民VS珠海华发,https://tv-1.iill.top/Migu/gMpqBM
-「上海市足球协会超级联赛」15:30 泽天FC VS 寰越神之花 泽天FC VS 寰越神之花 2025: 泽天FCvs寰越神之花,https://tv-1.iill.top/Migu/3N0UWK
-「男篮亚洲杯」15:50 伊拉克vs菲律宾 蔡凯臣,https://tv-1.iill.top/Migu/JvN6Gv
-「男篮亚洲杯」15:50 伊拉克vs菲律宾 现场原声,https://tv-1.iill.top/Migu/y5ZyeT
-「广东省足球超级联赛」16:00 广州悦高VS阳江西海岸 广州悦高VS阳江西海岸 2025: 广州悦高VS阳江西海岸,https://tv-1.iill.top/Migu/FJUfjQ
-「世运会」15:55 壁球第二比赛日女子、男子16强赛 壁球第二比赛日女子、男子16强赛 赛场原声,https://tv-1.iill.top/Migu/dXiUN2
-「WTT」16:30 向鹏迎战格罗特 孙颖莎vs桥本帆乃香 向鹏迎战格罗特 孙颖莎vs桥本帆乃香 视角切换,https://tv-1.iill.top/Migu/x1XXEQ
-「WTT」16:30 向鹏迎战格罗特 孙颖莎vs桥本帆乃香 向鹏迎战格罗特 孙颖莎vs桥本帆乃香 赛场原声,https://tv-1.iill.top/Migu/TKsLTb
-「WTT」16:45 向鹏迎战格罗特 孙颖莎vs桥本帆乃香 向鹏迎战格罗特 孙颖莎vs桥本帆乃香 混采区,https://tv-1.iill.top/Migu/9w9HsA
-「WTT」16:30 向鹏迎战格罗特 孙颖莎vs桥本帆乃香 向鹏迎战格罗特 孙颖莎vs桥本帆乃香 英文解说,https://tv-1.iill.top/Migu/Lvnhne
-「KPL」17:00 杭州LGD.NBW vs 广州TTG 杭州LGD.NBW vs 广州TTG 官方解说,https://tv-1.iill.top/Migu/LM4uzw
-「PEL」17:05 2025夏季赛 第四周 第三天 2025夏季赛 第四周 第三天 官方解说,https://tv-1.iill.top/Migu/v9ayMp
-「PEL」17:05 2025夏季赛 第四周 第三天 2025夏季赛 第四周 第三天 清流,https://tv-1.iill.top/Migu/WsBSgv
-「PEL」17:50 2025夏季赛 第四周 第三天 2025夏季赛 第四周 第三天 明星视角1,https://tv-1.iill.top/Migu/1kQLx9
-「PEL」17:50 2025夏季赛 第四周 第三天 2025夏季赛 第四周 第三天 明星视角2,https://tv-1.iill.top/Migu/z3cV3B
-「PEL」17:50 2025夏季赛 第四周 第三天 2025夏季赛 第四周 第三天 明星视角3,https://tv-1.iill.top/Migu/XEGXkN
-「PEL」17:50 2025夏季赛 第四周 第三天 2025夏季赛 第四周 第三天 地图流,https://tv-1.iill.top/Migu/UyiTdu
-「LPL」17:45 TES vs WBG TES vs WBG 官方解说,https://tv-1.iill.top/Migu/cY5nGq
-「斯诺克」18:00 龙泽煌、刘宏宇出战 龙泽煌、刘宏宇出战 朱蒙,https://tv-1.iill.top/Migu/hSGAxt
-「斯诺克」18:00 龙泽煌、刘宏宇出战 龙泽煌、刘宏宇出战 1号桌,https://tv-1.iill.top/Migu/gB1XJ0
-「斯诺克」18:00 龙泽煌、刘宏宇出战 龙泽煌、刘宏宇出战 2号桌,https://tv-1.iill.top/Migu/5rbOKo
-「斯诺克」18:00 龙泽煌、刘宏宇出战 龙泽煌、刘宏宇出战 3号桌,https://tv-1.iill.top/Migu/htcYhC
-「斯诺克」18:00 龙泽煌、刘宏宇出战 龙泽煌、刘宏宇出战 4号桌,https://tv-1.iill.top/Migu/9cpD48
-「斯诺克」18:00 龙泽煌、刘宏宇出战 龙泽煌、刘宏宇出战 5号桌,https://tv-1.iill.top/Migu/htRlkB
-「斯诺克」18:00 龙泽煌、刘宏宇出战 龙泽煌、刘宏宇出战 6号桌,https://tv-1.iill.top/Migu/yXAToD
-「斯诺克」18:00 龙泽煌、刘宏宇出战 龙泽煌、刘宏宇出战 7号桌,https://tv-1.iill.top/Migu/7TfeEa
-「斯诺克」18:00 龙泽煌、刘宏宇出战 龙泽煌、刘宏宇出战 8号桌,https://tv-1.iill.top/Migu/J2eGzv
-「世运会」17:55 泰拳第二比赛日女子、男子半决赛 泰拳第二比赛日女子、男子半决赛 赛场原声,https://tv-1.iill.top/Migu/LDL58B
-「世运会」17:55 标准舞混合双人铜牌赛、决赛 标准舞混合双人铜牌赛、决赛 赛场原声,https://tv-1.iill.top/Migu/HweCJb
-「世运会」20:30 标准舞混合双人铜牌赛、决赛 标准舞混合双人铜牌赛、决赛 央视开路,https://tv-1.iill.top/Migu/gEoodm
-「广东省足球超级联赛」18:30 茂名高州联VS深圳科宇盛达 茂名高州联VS深圳科宇盛达 2025: 茂名高州联VS深圳科宇盛达,https://tv-1.iill.top/Migu/9KkSac
-「JCK」18:55 赵国安领衔联合主赛 小蜜蜂杜紫怡出战 赵国安领衔联合主赛 小蜜蜂杜紫怡出战 官方解说,https://tv-1.iill.top/Migu/ph2rC4
-「JCK」18:55 赵国安领衔联合主赛 小蜜蜂杜紫怡出战 赵国安领衔联合主赛 小蜜蜂杜紫怡出战 清流,https://tv-1.iill.top/Migu/zHYTVr
-「LPL」19:00 IG vs JDG IG vs JDG 官方解说,https://tv-1.iill.top/Migu/f2cb4l
-「男篮亚洲杯」17:30 中国vs约旦 李天宇 陈正昊 徐杰,https://tv-1.iill.top/Migu/lPTiVo
-「男篮亚洲杯」18:50 中国vs约旦 现场原声,https://tv-1.iill.top/Migu/RV7DSa
-「男篮亚洲杯」18:00 中国vs约旦 上海申花vs上海海港,https://tv-1.iill.top/Migu/jyFXvm
-「超三联赛」18:50 贵阳赛区第2站 小组赛第三轮 贵阳赛区第2站 小组赛第三轮 张俊卿,https://tv-1.iill.top/Migu/obfgb4
-「广东省足球超级联赛」19:00 南沙湾区青年VS河源乐里 南沙湾区青年VS河源乐里 2025: 南沙湾区青年VS河源乐里,https://tv-1.iill.top/Migu/8VRBzW
-「世运会」08:55 武术套路第二比赛日 武术套路第二比赛日 赛场原声,https://tv-1.iill.top/Migu/xZUopc
-「江西省城市足球超级联赛」19:30 吉安VS宜春 吉安VS宜春 解说,https://tv-1.iill.top/Migu/QUAT2d
-「江西省城市足球超级联赛」17:30 吉安VS宜春 吉安VS宜春 解说,https://tv-1.iill.top/Migu/UJpBw0
-「KPL」20:00 成都AG超玩会 vs 苏州KSG 成都AG超玩会 vs 苏州KSG 官方解说,https://tv-1.iill.top/Migu/SnX393
-「男篮亚洲杯」22:50 印度vs沙特阿拉伯 王冠证,https://tv-1.iill.top/Migu/JPrv1W
-「男篮亚洲杯」22:50 印度vs沙特阿拉伯 现场原声,https://tv-1.iill.top/Migu/0QwyDG
-「WTA」23:00 斯瓦泰克、萨巴伦卡出战 斯瓦泰克、萨巴伦卡出战 清流,https://tv-1.iill.top/Migu/5J4f6X
-「WTA」23:00 斯瓦泰克、萨巴伦卡出战 斯瓦泰克、萨巴伦卡出战 英文原声,https://tv-1.iill.top/Migu/wAduF7
+东方卫视「回看」,https://tv-1.iill.top/migu/dfws
+江苏卫视「回看」,https://tv-1.iill.top/migu/jsws
+广东卫视「回看」,https://tv-1.iill.top/migu/gdws
+江西卫视「回看」,https://tv-1.iill.top/migu/jxws
+陕西卫视「回看」,https://tv-1.iill.top/migu/sxws
+湖北卫视「回看」,https://tv-1.iill.top/migu/hubws
+东南卫视「回看」,https://tv-1.iill.top/migu/dnws
+海峡卫视「回看」,https://tv-1.iill.top/migu/hxws
+上海新闻综合「回看」,https://tv-1.iill.top/migu/shxw
+上视东方影视「回看」,https://tv-1.iill.top/migu/shys
+CHC 影迷电影「回看」,https://tv-1.iill.top/migu/chcym
+CHC 动作电影「回看」,https://tv-1.iill.top/migu/chcdz
+CHC 家庭影院「回看」,https://tv-1.iill.top/migu/chcjt
+四海钓鱼「回看」,https://tv-1.iill.top/migu/shdy
+新片放映「回看」,https://tv-1.iill.top/migu/xpfy
+高清大片「回看」,https://tv-1.iill.top/migu/gqdp
+高能悬疑「回看」,https://tv-1.iill.top/migu/gnxy
+抗战经典影片「回看」,https://tv-1.iill.top/migu/kzjd
+血色山河·抗日战争影像志「回看」,https://tv-1.iill.top/migu/xssh
+咪咕24小时体育「回看」,https://tv-1.iill.top/migu/mgty
+五环传奇「回看」,https://tv-1.iill.top/migu/whcq
+赛事最经典「回看」,https://tv-1.iill.top/migu/sszjd
+掼蛋精英赛「回看」,https://tv-1.iill.top/migu/gdjs
+体坛名栏汇「回看」,https://tv-1.iill.top/migu/ttmh
+和美乡途轮播「回看」,https://tv-1.iill.top/migu/hmxt
+深度对话「回看」,https://tv-1.iill.top/migu/sddh
+最强综艺趴「回看」,https://tv-1.iill.top/migu/zqzyp
+嘉佳卡通「回看」,https://tv-1.iill.top/migu/jddh
+新动力量创一流「回看」,https://tv-1.iill.top/migu/xdll
+钱塘江「回看」,https://tv-1.iill.top/migu/qtj
+「中超」08/10 18:45 联赛 天津津门虎 vs 青岛西海岸 梁祥宇 马延峰,https://tv-1.iill.top/FB/zxmIWz
+「中超」08/10 18:45 联赛 天津津门虎 vs 青岛西海岸 赛场原声,https://tv-1.iill.top/FB/75xnjR
+「中甲」08/10 18:50 联赛 苏州东吴 vs 石家庄功夫 解说,https://tv-1.iill.top/FB/OLmhDh
+「中甲」08/10 19:20 联赛 定南赣联 vs 佛山南狮 解说,https://tv-1.iill.top/FB/6JCZFS
+「中甲」08/10 19:20 联赛 青岛红狮 vs 上海嘉定汇龙 解说,https://tv-1.iill.top/FB/Oquhg8
+「中甲」08/10 19:20 联赛 广东广州豹 vs 广西平果 解说,https://tv-1.iill.top/FB/BwT99d
+「中超」08/10 19:00 联赛 浙江 vs 北京国安 李欣 董路 李子琪,https://tv-1.iill.top/FB/jm29Uk
+「中超」08/10 19:20 联赛 浙江 vs 北京国安 赛场原声,https://tv-1.iill.top/FB/tIPyus
+「中超」08/10 19:45 联赛 武汉三镇 vs 梅州客家 刘腾 王伟,https://tv-1.iill.top/FB/PhsdOr
+「中超」08/10 19:45 联赛 武汉三镇 vs 梅州客家 赛场原声,https://tv-1.iill.top/FB/84zwSE
+「男篮亚洲杯」08/09 22:50 印度vs沙特阿拉伯 王冠证,https://tv-1.iill.top/Migu/3X7XZp
+「男篮亚洲杯」08/09 22:50 印度vs沙特阿拉伯 现场原声,https://tv-1.iill.top/Migu/AV79WE
+「WTA」08/09 23:00 斯瓦泰克、萨巴伦卡出战 斯瓦泰克、萨巴伦卡出战 清流,https://tv-1.iill.top/Migu/PpOrhm
+「WTA」08/09 23:00 斯瓦泰克、萨巴伦卡出战 斯瓦泰克、萨巴伦卡出战 英文原声,https://tv-1.iill.top/Migu/BliGyF
+「男篮亚洲杯」08/10 01:50 中国台北vs新西兰 孔德昕,https://tv-1.iill.top/Migu/ZpvOvg
+「男篮亚洲杯」08/10 01:50 中国台北vs新西兰 现场原声,https://tv-1.iill.top/Migu/8FgBrV
+「UFC格斗之夜」08/10 03:55 ：多利泽VS赫尔南德兹 ：多利泽VS赫尔南德兹 王琰博 郝俊,https://tv-1.iill.top/Migu/myCGmO
+「UFC格斗之夜」08/10 03:55 ：多利泽VS赫尔南德兹 ：多利泽VS赫尔南德兹 英文原声,https://tv-1.iill.top/Migu/rPhZoW
+「UFC格斗之夜」08/10 04:25 ：多利泽VS赫尔南德兹 ：多利泽VS赫尔南德兹 AI字幕测试,https://tv-1.iill.top/Migu/UbZlFR
+「马拉松系列赛」08/10 07:50 2025“阿尔1198”阿尔山马拉松 2025“阿尔1198”阿尔山马拉松 清流播出,https://tv-1.iill.top/Migu/1p6KwJ
+「世运会」08/10 08:55 龙舟第二比赛日 龙舟第二比赛日 赛场原声,https://tv-1.iill.top/Migu/QKkrxY
+「世运会」08/10 08:55 浮士德球第二比赛日女子、男子预赛 浮士德球第二比赛日女子、男子预赛 赛场原声,https://tv-1.iill.top/Migu/Ngm8JS
+「世运会」08/10 08:55 台球第一比赛日女子、男子预赛 台球第一比赛日女子、男子预赛 赛场原声,https://tv-1.iill.top/Migu/HBqv4F
+「WTT」08/10 09:30 陈熠PK王艺迪 王楚钦、石洵瑶登场 陈熠PK王艺迪 王楚钦、石洵瑶登场 视角切换,https://tv-1.iill.top/Migu/2EPQW2
+「WTT」08/10 09:30 陈熠PK王艺迪 王楚钦、石洵瑶登场 陈熠PK王艺迪 王楚钦、石洵瑶登场 赛场原声,https://tv-1.iill.top/Migu/do1SqT
+「WTT」08/10 09:45 陈熠PK王艺迪 王楚钦、石洵瑶登场 陈熠PK王艺迪 王楚钦、石洵瑶登场 混采区,https://tv-1.iill.top/Migu/tSD9wu
+「WTT」08/10 09:30 陈熠PK王艺迪 王楚钦、石洵瑶登场 陈熠PK王艺迪 王楚钦、石洵瑶登场 英文解说,https://tv-1.iill.top/Migu/OVXEb0
+「世运会」08/10 09:20 徒步定向第一比赛日女子、男子决赛 徒步定向第一比赛日女子、男子决赛 赛场原声,https://tv-1.iill.top/Migu/5lUc2L
+「世运会」08/10 09:20 软式曲棍球第五比赛日 女子、男子预赛 软式曲棍球第五比赛日 女子、男子预赛 赛场原声,https://tv-1.iill.top/Migu/yI1mmt
+「世运会」08/10 09:55 潜水第一比赛日 潜水第一比赛日 赛场原声,https://tv-1.iill.top/Migu/ZXNx0E
+「世运会」08/10 09:55 沙滩手球第四比赛日女子、男子1/4决赛 沙滩手球第四比赛日女子、男子1/4决赛 赛场原声,https://tv-1.iill.top/Migu/qvKZdu
+「世运会」08/10 09:55 拔河第二比赛日女子铜牌赛、决赛 拔河第二比赛日女子铜牌赛、决赛 赛场原声,https://tv-1.iill.top/Migu/joFE9j
+「世运会」08/10 12:45 拔河第二比赛日女子铜牌赛、决赛 拔河第二比赛日女子铜牌赛、决赛 央视开路,https://tv-1.iill.top/Migu/pvwlX2
+「世运会」08/10 09:55 柔术第一比赛日 柔术第一比赛日 赛场原声,https://tv-1.iill.top/Migu/bIQqJ9
+「世运会」08/10 09:50 棒垒球第五比赛日 男子铜牌赛、决赛 棒垒球第五比赛日 男子铜牌赛、决赛 赛场原声,https://tv-1.iill.top/Migu/wWutXa
+「世运会」08/10 11:55 壁球第三比赛日女子、男子1/4决赛 壁球第三比赛日女子、男子1/4决赛 赛场原声,https://tv-1.iill.top/Migu/AYJjoh
+「世运会」08/10 12:50 棍网球第四比赛日女子半决赛 棍网球第四比赛日女子半决赛 赛场原声,https://tv-1.iill.top/Migu/AaXvDV
+「世运会」08/10 12:55 滑水第三比赛日女子、男子决赛 滑水第三比赛日女子、男子决赛 赛场原声,https://tv-1.iill.top/Migu/TPUJBY
+「世运会」08/10 15:00 滑水第三比赛日女子、男子决赛 滑水第三比赛日女子、男子决赛 央视开路,https://tv-1.iill.top/Migu/manfqD
+「KPL」08/10 13:40 上海RNG.M vs 常山UUG 上海RNG.M vs 常山UUG 官方解说,https://tv-1.iill.top/Migu/sJcwre
+「世运会」08/10 13:45 台球八球混合1/8决赛 台球八球混合1/8决赛 央视开路,https://tv-1.iill.top/Migu/apilho
+「世运会」08/10 13:55 室内荷球第三比赛日 室内荷球第三比赛日 赛场原声,https://tv-1.iill.top/Migu/2OVXzt
+「世运会」08/10 13:55 体操第三比赛日 体操第三比赛日 赛场原声,https://tv-1.iill.top/Migu/i3oTKG
+「全运会篮球资格赛」08/10 13:50 全运会女篮资格赛A组-江苏vs黑龙江 全运会女篮资格赛A组-江苏vs黑龙江 清流播出,https://tv-1.iill.top/Migu/dF14yN
+「全运会篮球资格赛」08/10 13:50 全运会女篮资格赛B组-山东vs天津 全运会女篮资格赛B组-山东vs天津 清流播出,https://tv-1.iill.top/Migu/klc4lI
+「世运会」08/10 14:25 掷准飞盘第三比赛日铜牌赛、决赛 掷准飞盘第三比赛日铜牌赛、决赛 赛场原声,https://tv-1.iill.top/Migu/IzsC79
+「世运会」08/10 14:55 武术散打第一比赛日女子、男子1/4决赛 武术散打第一比赛日女子、男子1/4决赛 赛场原声,https://tv-1.iill.top/Migu/OD26xr
+「男篮亚洲杯」08/10 15:50 卡塔尔vs澳大利亚 连睿,https://tv-1.iill.top/Migu/SyAr3m
+「男篮亚洲杯」08/10 15:50 卡塔尔vs澳大利亚 现场原声,https://tv-1.iill.top/Migu/GbeWQl
+「广东省足球超级联赛」08/10 16:00 肇庆奥动VS顺德东方 肇庆奥动VS顺德东方 2025: 肇庆奥动VS顺德东方,https://tv-1.iill.top/Migu/FfNjg6
+「LPL」08/10 16:30 TT vs EDG TT vs EDG 官方解说,https://tv-1.iill.top/Migu/0Toin0
+「WTT」08/10 16:30 向鹏迎战张本智和 孙颖莎、陈幸同出战 向鹏迎战张本智和 孙颖莎、陈幸同出战 视角切换,https://tv-1.iill.top/Migu/YvPgYz
+「WTT」08/10 16:30 向鹏迎战张本智和 孙颖莎、陈幸同出战 向鹏迎战张本智和 孙颖莎、陈幸同出战 赛场原声,https://tv-1.iill.top/Migu/ln3r3M
+「WTT」08/10 16:45 向鹏迎战张本智和 孙颖莎、陈幸同出战 向鹏迎战张本智和 孙颖莎、陈幸同出战 混采区,https://tv-1.iill.top/Migu/Nr6NsI
+「WTT」08/10 16:30 向鹏迎战张本智和 孙颖莎、陈幸同出战 向鹏迎战张本智和 孙颖莎、陈幸同出战 英文解说,https://tv-1.iill.top/Migu/p0nOn2
+「全运会篮球资格赛」08/10 16:30 全运会女篮资格赛A组-新疆vs湖北 全运会女篮资格赛A组-新疆vs湖北 清流播出,https://tv-1.iill.top/Migu/g2dXt6
+「全运会篮球资格赛」08/10 16:30 全运会女篮资格赛B组-北京vs河北 全运会女篮资格赛B组-北京vs河北 清流播出,https://tv-1.iill.top/Migu/8EdSZa
+「KPL」08/10 17:00 杭州LGD.NBW vs 北京WB 杭州LGD.NBW vs 北京WB 官方解说,https://tv-1.iill.top/Migu/JMgS8L
+「世运会」08/10 16:50 单排轮滑球第四比赛日男子半决赛 单排轮滑球第四比赛日男子半决赛 赛场原声,https://tv-1.iill.top/Migu/SB8k6E
+「PEL」08/10 17:15 2025夏季赛 第四周 第四天 2025夏季赛 第四周 第四天 官方解说,https://tv-1.iill.top/Migu/lsMMqR
+「PEL」08/10 17:15 2025夏季赛 第四周 第四天 2025夏季赛 第四周 第四天 清流,https://tv-1.iill.top/Migu/earnaJ
+「PEL」08/10 17:50 2025夏季赛 第四周 第四天 2025夏季赛 第四周 第四天 明星视角1,https://tv-1.iill.top/Migu/TzuifD
+「PEL」08/10 17:50 2025夏季赛 第四周 第四天 2025夏季赛 第四周 第四天 明星视角2,https://tv-1.iill.top/Migu/GY8PQ8
+「PEL」08/10 17:50 2025夏季赛 第四周 第四天 2025夏季赛 第四周 第四天 明星视角3,https://tv-1.iill.top/Migu/SxX9SJ
+「PEL」08/10 17:50 2025夏季赛 第四周 第四天 2025夏季赛 第四周 第四天 地图流,https://tv-1.iill.top/Migu/CjyBgQ
+「超三联赛」08/10 17:50 贵阳赛区第2站 淘汰赛及决赛 贵阳赛区第2站 淘汰赛及决赛 陈鑫隆,https://tv-1.iill.top/Migu/yLQ537
+「斯诺克」08/10 18:00 徐思、庞俊旭、吕昊天出战 徐思、庞俊旭、吕昊天出战 秦正,https://tv-1.iill.top/Migu/yYm78c
+「斯诺克」08/10 18:00 徐思、庞俊旭、吕昊天出战 徐思、庞俊旭、吕昊天出战 1号桌,https://tv-1.iill.top/Migu/gTgHpr
+「斯诺克」08/10 18:00 徐思、庞俊旭、吕昊天出战 徐思、庞俊旭、吕昊天出战 2号桌,https://tv-1.iill.top/Migu/3BWZvq
+「斯诺克」08/10 18:00 徐思、庞俊旭、吕昊天出战 徐思、庞俊旭、吕昊天出战 3号桌,https://tv-1.iill.top/Migu/3Kodbw
+「斯诺克」08/10 18:00 徐思、庞俊旭、吕昊天出战 徐思、庞俊旭、吕昊天出战 4号桌,https://tv-1.iill.top/Migu/nnJPxm
+「斯诺克」08/10 18:00 徐思、庞俊旭、吕昊天出战 徐思、庞俊旭、吕昊天出战 5号桌,https://tv-1.iill.top/Migu/JCeHgD
+「斯诺克」08/10 18:00 徐思、庞俊旭、吕昊天出战 徐思、庞俊旭、吕昊天出战 6号桌,https://tv-1.iill.top/Migu/ODvUDv
+「斯诺克」08/10 18:00 徐思、庞俊旭、吕昊天出战 徐思、庞俊旭、吕昊天出战 7号桌,https://tv-1.iill.top/Migu/MCynpD
+「斯诺克」08/10 18:00 徐思、庞俊旭、吕昊天出战 徐思、庞俊旭、吕昊天出战 8号桌,https://tv-1.iill.top/Migu/p9Yqus
+「世运会」08/10 17:55 泰拳第三比赛日女子、男子铜牌赛、决赛 泰拳第三比赛日女子、男子铜牌赛、决赛 赛场原声,https://tv-1.iill.top/Migu/1LW7NC
+「广东省足球超级联赛」08/10 18:30 珠海聚杰VS惠州红树林港 珠海聚杰VS惠州红树林港 2025: 珠海聚杰VS惠州红树林港,https://tv-1.iill.top/Migu/8ZaEQF
+「广东省足球超级联赛」08/10 18:30 广州豹VS惠州澳朗 广州豹VS惠州澳朗 2025: 广州豹VS惠州澳朗,https://tv-1.iill.top/Migu/9JdAVg
+「LPL」08/10 19:00 BLG vs WE BLG vs WE 官方解说,https://tv-1.iill.top/Migu/GUyvR4
+「男篮亚洲杯」08/10 19:00 关岛vs日本 徐秦威,https://tv-1.iill.top/Migu/4AzVbV
+「男篮亚洲杯」08/10 19:00 关岛vs日本 现场原声,https://tv-1.iill.top/Migu/RLnQg8
+「江西省城市足球超级联赛」08/10 19:30 上饶VS九江 上饶VS九江 解说,https://tv-1.iill.top/Migu/xJFXpx
+「江西省城市足球超级联赛」08/10 17:30 上饶VS九江 上饶VS九江 解说,https://tv-1.iill.top/Migu/M6hbwB
+「江西省城市足球超级联赛」08/10 19:30 景德镇VS鹰潭 景德镇VS鹰潭 解说,https://tv-1.iill.top/Migu/ZNeWDl
+「江西省城市足球超级联赛」08/10 17:30 景德镇VS鹰潭 景德镇VS鹰潭 解说,https://tv-1.iill.top/Migu/iYRhtK
+「江西省城市足球超级联赛」08/10 19:30 萍乡VS新余 萍乡VS新余 解说,https://tv-1.iill.top/Migu/HV0oV4
+「江西省城市足球超级联赛」08/10 17:30 萍乡VS新余 萍乡VS新余 解说,https://tv-1.iill.top/Migu/XT7oXr
+「江西省城市足球超级联赛」08/10 19:30 赣州VS抚州 赣州VS抚州 解说,https://tv-1.iill.top/Migu/RCOaeF
+「江西省城市足球超级联赛」08/10 17:30 赣州VS抚州 赣州VS抚州 解说,https://tv-1.iill.top/Migu/H2wTWd
+「NBL」08/10 19:05 2025年全明星 2025年全明星 解说,https://tv-1.iill.top/Migu/k6obgf
+「NBL」08/10 19:05 2025年全明星 2025年全明星 清流播出,https://tv-1.iill.top/Migu/0kb5T1
+「中女超」08/10 19:20 联赛 上海农商银行女足VS武汉车谷江大女足 清流播出,https://tv-1.iill.top/Migu/0ev0js
+「全运会篮球资格赛」08/10 19:20 全运会女篮资格赛A组-山西vs四川 全运会女篮资格赛A组-山西vs四川 清流播出,https://tv-1.iill.top/Migu/TUAmZr
+「全运会篮球资格赛」08/10 19:20 全运会女篮资格赛B组-辽宁vs河南 全运会女篮资格赛B组-辽宁vs河南 清流播出,https://tv-1.iill.top/Migu/q0dghl
+「KPL」08/10 20:00 成都AG超玩会 vs 重庆狼队 成都AG超玩会 vs 重庆狼队 官方解说,https://tv-1.iill.top/Migu/2hvnWZ
+「男篮亚洲杯」08/10 22:50 韩国vs黎巴嫩 王润陶,https://tv-1.iill.top/Migu/HxUnWe
+「男篮亚洲杯」08/10 22:50 韩国vs黎巴嫩 现场原声,https://tv-1.iill.top/Migu/YvwjcT
+「WTA」08/10 23:00 辛辛那提站第四日 辛辛那提站第四日 清流,https://tv-1.iill.top/Migu/I29owC
+「WTA」08/10 23:00 辛辛那提站第四日 辛辛那提站第四日 英文原声,https://tv-1.iill.top/Migu/dwgtsY
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞,https://yang-1989.eu.org/live/TVB-News-Channel
 TVB Plus,https://yang-1989.eu.org/live/TVB-Plus
@@ -4847,19 +4855,16 @@ TV5MONDE Style 生活時尚「4gTV」,https://tv-1.iill.top/4gtv/4gtv-live122
 東森購物 二「4gTV」,https://tv-1.iill.top/4gtv/4gtv-live046
 東森購物 三「4gTV」,https://tv-1.iill.top/4gtv/4gtv-live048
 東森購物 四「4gTV」,https://tv-1.iill.top/4gtv/4gtv-live049
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+广东体育,http://r.jdshipin.com/LiYdg
+广东珠江,http://r.jdshipin.com/sE5vO
 广州综合,http://dns.yiandrive.com:13571/gztv/zhonghe
 广州新闻,http://dns.yiandrive.com:13571/gztv/xinwen
 广州法治,http://dns.yiandrive.com:13571/gztv/fazhi
 广州影视,http://dns.yiandrive.com:13571/gztv/yingshi
 广州南国都市,http://dns.yiandrive.com:13571/gztv/shenghuo
-斯诺克 𝟙,https://live.iill.top/huya/880214
-斯诺克 𝟚,https://live.iill.top/huya/880625
-UFC,https://live.iill.top/huya/880223
-環球電視,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-Red Bull TV「体育」,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-Deluxe Lounge HD「自然」,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips&checkedby:iptvcat.com
+ViuTV,http://r.jdshipin.com/vSJvl
+Sky Sports F1,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35244
+Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 「B站」热门赛事,https://live.iill.top/bilibili/2162281110
 「B站」CS 2,https://live.iill.top/bilibili/21622811
 「虎牙」CS 2,https://live.iill.top/huya/483917
@@ -4915,33 +4920,6 @@ Deluxe Lounge HD「自然」,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailo
 「斗鱼」火影忍者,https://live.iill.top/douyu/1997723
 「斗鱼」跑跑卡丁车,https://live.iill.top/douyu/7722576
 「斗鱼」跑跑卡丁车•手游,https://live.iill.top/douyu/6672862
-音乐石榴「音乐」,https://live.iill.top/huya/17091681
-音乐速递「音乐」,https://live.iill.top/huya/19439762
-治愈•放松「音乐」,https://live.iill.top/huya/21241811
-阅读•学习「音乐」,https://live.iill.top/huya/21241813
-电视剧•1「解说」,https://live.iill.top/huya/21277391
-电视剧•2「解说」,https://live.iill.top/huya/25018873
-电影•1「解说」,https://live.iill.top/huya/20289754
-电影•2「解说」,https://live.iill.top/huya/24983280
-电影•3「解说」,https://live.iill.top/huya/24396428
-动漫•1「解说」,https://live.iill.top/huya/19757963
-恐怖电影「解说」,https://live.iill.top/huya/23419131
-漫威「解说」,https://live.iill.top/huya/17089779
-美剧「解说」,https://live.iill.top/huya/20488841
-七龙珠「解说」,https://live.iill.top/huya/25650806
-止戈电影「解说」,https://live.iill.top/huya/19863777
-挨饿德•1「其他」,https://live.iill.top/huya/20985858
-挨饿德•2「其他」,https://live.iill.top/huya/17693860
-互扇巴掌大赛「其他」,https://live.iill.top/huya/20072873
-荒野求生「其他」,https://live.iill.top/huya/593667
-野行者「其他」,https://live.iill.top/huya/20072663
-跳舞「其他」,https://live.iill.top/huya/24634408
-茶啊二中「动画」,https://live.iill.top/huya/11213191
-哆啦A梦「动漫」,https://live.iill.top/huya/11601963
-航海王「动漫」,https://live.iill.top/huya/16913382
-七龙珠「动漫」,https://live.iill.top/huya/11601966
-猫和老鼠「动漫」,https://live.iill.top/huya/11352879
-中华小当家「动漫」,https://live.iill.top/huya/11342413
 Big Radio,https://stream.hndt.com/live/gudian/playlist.m3u8
 CAPITAL 958,https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
 CityFM|城市广播,http://fm929.cityfm.tw:8080/929.mp3
