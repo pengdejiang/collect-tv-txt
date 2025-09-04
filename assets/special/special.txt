@@ -4821,22 +4821,33 @@ now爆谷台,http://iptv.4666888.xyz/iptv.php?id=20087
 now華劇台,http://iptv.4666888.xyz/iptv.php?id=20091
 Now Sports 英超1台,http://iptv.4666888.xyz/iptv.php?id=20092
 Now Sports 2,http://iptv.4666888.xyz/iptv.php?id=20093
+Now Sports 3,http://iptv.4666888.xyz/iptv.php?id=20084
 愛爾達體育1台,http://iptv.4666888.xyz/iptv.php?id=20232
 愛爾達體育2台,http://iptv.4666888.xyz/iptv.php?id=20233
 Sky Sports F1,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35244
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 TVB 娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-TVB 星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+TVB 星河「粤」,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+TVB 星河「国」,http://iptv.4666888.xyz/iptv.php?id=20102
 亞洲武俠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
+Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
+Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+Astro 欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 八度空間,http://cdn6.163189.xyz/163189/8tv
 愛奇藝,http://php.jdshipin.com/smt.php?id=Qiyi
 CH5,http://cdn6.163189.xyz/163189/ch5
 CH8,http://cdn6.163189.xyz/163189/ch8
 CHU,http://cdn6.163189.xyz/163189/chu
-Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
-Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
-Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-Astro 欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
+Hub娛家,http://iptv.4666888.xyz/iptv.php?id=20287
+Hub都會,http://iptv.4666888.xyz/iptv.php?id=20288
+中天CTI+,http://iptv.4666888.xyz/iptv.php?id=20181
+緯來日本,http://iptv.4666888.xyz/iptv.php?id=20226
+緯來體育,http://iptv.4666888.xyz/iptv.php?id=20225
+EYE TV戲劇,http://iptv.4666888.xyz/iptv.php?id=20230
+龍祥時代,http://iptv.4666888.xyz/iptv.php?id=20247
+好萊塢電影,http://iptv.4666888.xyz/iptv.php?id=20248
+國興衛視,http://iptv.4666888.xyz/iptv.php?id=20315
 「B站」热门赛事,https://live.iill.top/bilibili/2162281110
 「B站」CS 2,https://live.iill.top/bilibili/21622811
 「虎牙」CS 2,https://live.iill.top/huya/483917
