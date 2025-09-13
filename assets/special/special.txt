@@ -4591,57 +4591,78 @@ CHC 家庭影院「回看」,https://tv.iill.top/migu/chcjt
 嘉佳卡通「回看」,https://tv.iill.top/migu/jddh
 新动力量创一流「回看」,https://tv.iill.top/migu/xdll
 钱塘江「回看」,https://tv.iill.top/migu/qtj
-「WTA」00:00 圣保罗站第五日：曾丽美晋级 玛雅爆冷出局,https://tv.iill.top/Migu/NxFnyv
-「WTA」02:00 瓜达拉哈拉站第五日：奥斯塔彭科出局 玛利亚力争四强,https://tv.iill.top/Migu/3QHCJD
-「WTT」12:00 澳门冠军赛：男女单打1/4决赛 王楚钦迎战林昀儒 陈幸同出战 [小马哥],https://tv.iill.top/Migu/4BDHCL
-「WTT」12:00 澳门冠军赛：男女单打1/4决赛 王楚钦迎战林昀儒 陈幸同出战 [赛场原声],https://tv.iill.top/Migu/Ur5nvz
-「WTT」12:00 澳门冠军赛：男女单打1/4决赛 王楚钦迎战林昀儒 陈幸同出战 [英文解说],https://tv.iill.top/Migu/rgoDz9
-「国际射联世界杯」12:30 2025宁波站 10米气手枪决赛,https://tv.iill.top/Migu/6ZB6NC
-「EA SPORT FC Pro 冠军杯」14:00 EA SPORT FC Pro 足球世界挑战赛 EA SPORT FC Pro 足球世界挑战赛第一比赛日,https://tv.iill.top/Migu/qKaJT7
-「全国女子篮球锦标赛」14:30 江苏南钢vs合肥文旅,https://tv.iill.top/Migu/a0kHAy
-「全国女子篮球锦标赛」14:30 山西竹叶青酒vs赣州赣星,https://tv.iill.top/Migu/XlHbKs
-「国际射联世界杯」14:30 2025宁波站 25米手枪速射决赛,https://tv.iill.top/Migu/MHsJnK
-「中乙」16:00 联赛 山西崇德荣海vs武汉三镇B队,https://tv.iill.top/Migu/t0ly1z
-「中乙」16:00 联赛 昆明城星vs泰安天贶,https://tv.iill.top/Migu/Z3R5rY
-「广东省城市足球超级联赛」16:00 梅州强民VS阳江西海岸,https://tv.iill.top/Migu/qjTWbE
-「广东省城市足球超级联赛」16:00 湛江锐虎VS河源乐里,https://tv.iill.top/Migu/yXff2u
-「广东省城市足球超级联赛」16:00 深圳藝品高VS广东广州豹,https://tv.iill.top/Migu/BDPlQj
-「中乙」16:30 联赛 湖北青年星vs温州俱乐部中胤,https://tv.iill.top/Migu/F2tINm
-「LPL」17:00 WBG vs JDG,https://tv.iill.top/Migu/y3USAp
-「全国女子篮球锦标赛」17:00 北京首钢vs陕西天泽,https://tv.iill.top/Migu/AP7Xhz
-「全国女子篮球锦标赛」17:00 四川远达美乐vs厦门白鹭,https://tv.iill.top/Migu/WZOI2h
-「斯诺克」17:00 2025英格兰公开赛：布雷切尔、范争一、傅家俊出战 [1号桌],https://tv.iill.top/Migu/RaiJAC
-「斯诺克」17:00 2025英格兰公开赛：布雷切尔、范争一、傅家俊出战 [朱峰立],https://tv.iill.top/Migu/XuYdNK
-「斯诺克」17:00 2025英格兰公开赛：布雷切尔、范争一、傅家俊出战 [柏林],https://tv.iill.top/Migu/G0Z2me
-「斯诺克」17:00 2025英格兰公开赛：布雷切尔、范争一、傅家俊出战 [2号桌],https://tv.iill.top/Migu/c0DQ5Y
-「斯诺克」17:00 2025英格兰公开赛：布雷切尔、范争一、傅家俊出战 [3号桌],https://tv.iill.top/Migu/55X3GQ
-「斯诺克」17:00 2025英格兰公开赛：布雷切尔、范争一、傅家俊出战 [4号桌],https://tv.iill.top/Migu/wTXrq4
-「超三联赛」18:00 宁波赛区 淘汰赛及决赛 [李月擎],https://tv.iill.top/Migu/nQ8UVL
-「WTT」18:30 澳门冠军赛：男女单打1/4决赛 孙颖莎迎战迪亚兹 王曼昱冲4强 [小马哥],https://tv.iill.top/Migu/1g0aol
-「WTT」18:30 澳门冠军赛：男女单打1/4决赛 孙颖莎迎战迪亚兹 王曼昱冲4强 [赛场原声],https://tv.iill.top/Migu/xq3AW7
-「WTT」18:30 澳门冠军赛：男女单打1/4决赛 孙颖莎迎战迪亚兹 王曼昱冲4强 [英文解说],https://tv.iill.top/Migu/0xEhz5
-「中乙」19:00 联赛 赣州瑞狮vs北京理工,https://tv.iill.top/Migu/R2XEAp
-「广东省城市足球超级联赛」19:00 深圳科宇盛达VS广东蜀地红,https://tv.iill.top/Migu/51IopI
-「广东省城市足球超级联赛」19:00 汕头抽象VS吴川青年,https://tv.iill.top/Migu/tqMRfC
-「广东省城市足球超级联赛」19:00 珠海聚杰VS南沙湾区青年,https://tv.iill.top/Migu/juHFH1
-「武汉城市足球超级联赛」19:00 汉超第5轮 江岸区vs江汉区,https://tv.iill.top/Migu/DbgM25
-「江西省城市足球超级联赛」19:30 九江VS上饶,https://tv.iill.top/Migu/P8xYIm
-「江西省城市足球超级联赛」19:30 鹰潭VS景德镇,https://tv.iill.top/Migu/LN6OX1
-「江西省城市足球超级联赛」19:30 新余VS萍乡,https://tv.iill.top/Migu/QdZXZk
-「江西省城市足球超级联赛」19:30 宜春VS吉安,https://tv.iill.top/Migu/BE8JKv
-「中乙」19:30 联赛 成都蓉城B队vs无锡吴钩,https://tv.iill.top/Migu/cIRTwS
-「中乙」19:30 联赛 海门珂缔缘vs深圳二零二八,https://tv.iill.top/Migu/skznXT
-「全国女子篮球锦标赛」19:30 武汉盛帆黄鹤vs山东赤水河酒,https://tv.iill.top/Migu/vSDYxH
-「全国女子篮球锦标赛」19:30 石家庄英励vs黑龙江上东,https://tv.iill.top/Migu/SC4qgW
-「浙江省城市篮球联赛城市争霸赛」19:30 嘉兴经开区VS台州,https://tv.iill.top/Migu/xqkUpL
-「浙江省城市篮球联赛城市争霸赛」19:30 舟山VS余姚,https://tv.iill.top/Migu/YJbnkO
-「JCK」19:30 觉城之夜104：王绍祥VS夏明权 王绍祥VS夏明权二番战 海来尔克领衔联合主赛,https://tv.iill.top/Migu/2CbR26
-「河南省女子排球城市联赛」19:30 开幕式,https://tv.iill.top/Migu/6NQvbn
-「江苏城市足球联赛」19:35 常州队vs宿迁队,https://tv.iill.top/Migu/lYWGxr
-「湖南省足球联赛」19:38 郴州vs常德,https://tv.iill.top/Migu/Zhg4LZ
-「湖南省足球联赛」19:38 衡阳vs株洲,https://tv.iill.top/Migu/ARARSk
-「湖南省足球联赛」19:38 湘西vs益阳,https://tv.iill.top/Migu/acULTB
-「河南省女子排球城市联赛」20:30 揭幕战,https://tv.iill.top/Migu/gi6Yls
+「英超」19:30 联赛 阿森纳 vs 诺丁汉森林 [詹俊 张路 程思钦],https://tv.iill.top/FB/CZ15cl
+「英超」19:30 联赛 阿森纳 vs 诺丁汉森林 [英文解说],https://tv.iill.top/FB/U1k3p3
+「英超」19:30 联赛 阿森纳 vs 诺丁汉森林 [赛场原声],https://tv.iill.top/FB/kRaiCZ
+「英超」19:30 联赛 阿森纳 vs 诺丁汉森林 [球星视角],https://tv.iill.top/FB/VPP3Kk
+「英超」19:30 联赛 阿森纳 vs 诺丁汉森林 [战术视角],https://tv.iill.top/FB/lDKPlb
+「英超」22:00 联赛 纽卡斯尔联 vs 狼队 [吴桐],https://tv.iill.top/FB/gJFjbN
+「英超」22:00 联赛 纽卡斯尔联 vs 狼队 [英文解说],https://tv.iill.top/FB/A5kKrw
+「英超」22:00 联赛 纽卡斯尔联 vs 狼队 [赛场原声],https://tv.iill.top/FB/6On6YH
+「英超」22:00 联赛 富勒姆 vs 利兹联 [黄航],https://tv.iill.top/FB/ZN75Ka
+「英超」22:00 联赛 富勒姆 vs 利兹联 [英文解说],https://tv.iill.top/FB/02yiPg
+「英超」22:00 联赛 富勒姆 vs 利兹联 [赛场原声],https://tv.iill.top/FB/dOjiPy
+「英超」22:00 联赛 埃弗顿 vs 阿斯顿维拉 [刘焕],https://tv.iill.top/FB/Vsjve3
+「英超」22:00 联赛 埃弗顿 vs 阿斯顿维拉 [英文解说],https://tv.iill.top/FB/EbqKCC
+「英超」22:00 联赛 埃弗顿 vs 阿斯顿维拉 [赛场原声],https://tv.iill.top/FB/VdYJ6D
+「英超」22:00 联赛 水晶宫 vs 桑德兰 [郭灿亮],https://tv.iill.top/FB/TCVVIZ
+「英超」22:00 联赛 水晶宫 vs 桑德兰 [英文解说],https://tv.iill.top/FB/ErANjp
+「英超」22:00 联赛 水晶宫 vs 桑德兰 [赛场原声],https://tv.iill.top/FB/L9cHWG
+「英超」22:00 联赛 伯恩茅斯 vs 布莱顿 [苗锟],https://tv.iill.top/FB/ruCx8E
+「英超」22:00 联赛 伯恩茅斯 vs 布莱顿 [英文解说],https://tv.iill.top/FB/a4PlGY
+「英超」22:00 联赛 伯恩茅斯 vs 布莱顿 [赛场原声],https://tv.iill.top/FB/jgIlWo
+「WTA」00:00 圣保罗站第五日：曾丽美晋级 玛雅爆冷出局,https://tv.iill.top/Migu/r3HGoS
+「WTA」02:00 瓜达拉哈拉站第五日：奥胖、玛利亚出局 阿朗戈冲四强,https://tv.iill.top/Migu/K6MYDG
+「WTT」12:00 澳门冠军赛：男女单打1/4决赛 王楚钦迎战林昀儒 陈幸同出战 [小马哥],https://tv.iill.top/Migu/SnofeN
+「WTT」12:00 澳门冠军赛：男女单打1/4决赛 王楚钦迎战林昀儒 陈幸同出战 [赛场原声],https://tv.iill.top/Migu/hWWdFy
+「WTT」12:00 澳门冠军赛：男女单打1/4决赛 王楚钦迎战林昀儒 陈幸同出战 [英文解说],https://tv.iill.top/Migu/LJeGLZ
+「国际射联世界杯」12:30 2025宁波站 10米气手枪决赛,https://tv.iill.top/Migu/agH0w2
+「EA SPORT FC Pro 冠军杯」14:00 EA SPORT FC Pro 足球世界挑战赛 EA SPORT FC Pro 足球世界挑战赛第一比赛日,https://tv.iill.top/Migu/YJTaKf
+「全国女子篮球锦标赛」14:30 江苏南钢vs合肥文旅,https://tv.iill.top/Migu/7yHgCJ
+「全国女子篮球锦标赛」14:30 山西竹叶青酒vs赣州赣星,https://tv.iill.top/Migu/r6eYf8
+「国际射联世界杯」14:30 2025宁波站 25米手枪速射决赛,https://tv.iill.top/Migu/fmKVRx
+「中乙」16:00 联赛 山西崇德荣海vs武汉三镇B队,https://tv.iill.top/Migu/ttPjA0
+「中乙」16:00 联赛 昆明城星vs泰安天贶,https://tv.iill.top/Migu/4HWzbc
+「广东省城市足球超级联赛」16:00 梅州强民VS阳江西海岸,https://tv.iill.top/Migu/sIMzRd
+「广东省城市足球超级联赛」16:00 湛江锐虎VS河源乐里,https://tv.iill.top/Migu/WYBHy4
+「广东省城市足球超级联赛」16:00 深圳藝品高VS广东广州豹,https://tv.iill.top/Migu/bNO5wK
+「ATP100」16:00 ATP广州黄埔站第四日：克里斯托弗/塞格尔曼迎战日本组合,https://tv.iill.top/Migu/BNU6Qy
+「中乙」16:30 联赛 湖北青年星vs温州俱乐部中胤,https://tv.iill.top/Migu/ofzUBI
+「LPL」16:30 WBG vs JDG,https://tv.iill.top/Migu/DNri9P
+「全国女子篮球锦标赛」17:00 北京首钢vs陕西天泽,https://tv.iill.top/Migu/nUB9zM
+「全国女子篮球锦标赛」17:00 四川远达美乐vs厦门白鹭,https://tv.iill.top/Migu/B5LMQh
+「斯诺克」17:00 2025英格兰公开赛：布雷切尔、范争一、傅家俊出战 [1号桌],https://tv.iill.top/Migu/AXld79
+「斯诺克」17:00 2025英格兰公开赛：布雷切尔、范争一、傅家俊出战 [朱峰立],https://tv.iill.top/Migu/Klaend
+「斯诺克」17:00 2025英格兰公开赛：布雷切尔、范争一、傅家俊出战 [柏林],https://tv.iill.top/Migu/9HUiUE
+「斯诺克」17:00 2025英格兰公开赛：布雷切尔、范争一、傅家俊出战 [2号桌],https://tv.iill.top/Migu/XQwLJL
+「斯诺克」17:00 2025英格兰公开赛：布雷切尔、范争一、傅家俊出战 [3号桌],https://tv.iill.top/Migu/IMoCTT
+「斯诺克」17:00 2025英格兰公开赛：布雷切尔、范争一、傅家俊出战 [4号桌],https://tv.iill.top/Migu/kJlFGN
+「超三联赛」18:00 宁波赛区 淘汰赛及决赛 [李月擎],https://tv.iill.top/Migu/OsdR8e
+「WTT」18:30 澳门冠军赛：男女单打1/4决赛 孙颖莎迎战迪亚兹 王曼昱冲4强 [小马哥],https://tv.iill.top/Migu/xzz2yC
+「WTT」18:30 澳门冠军赛：男女单打1/4决赛 孙颖莎迎战迪亚兹 王曼昱冲4强 [赛场原声],https://tv.iill.top/Migu/7rA1IX
+「WTT」18:30 澳门冠军赛：男女单打1/4决赛 孙颖莎迎战迪亚兹 王曼昱冲4强 [英文解说],https://tv.iill.top/Migu/Y3smAH
+「中乙」19:00 联赛 赣州瑞狮vs北京理工,https://tv.iill.top/Migu/LwkllN
+「广东省城市足球超级联赛」19:00 深圳科宇盛达VS广东蜀地红,https://tv.iill.top/Migu/Lq0SnU
+「广东省城市足球超级联赛」19:00 汕头抽象VS吴川青年,https://tv.iill.top/Migu/ZQWwr3
+「广东省城市足球超级联赛」19:00 珠海聚杰VS南沙湾区青年,https://tv.iill.top/Migu/HwdiCR
+「武汉城市足球超级联赛」19:00 汉超第5轮 江岸区vs江汉区,https://tv.iill.top/Migu/aZV4RW
+「江西省城市足球超级联赛」19:30 九江VS上饶,https://tv.iill.top/Migu/IeJM15
+「江西省城市足球超级联赛」19:30 鹰潭VS景德镇,https://tv.iill.top/Migu/daQ72Z
+「江西省城市足球超级联赛」19:30 新余VS萍乡,https://tv.iill.top/Migu/5daTVp
+「江西省城市足球超级联赛」19:30 宜春VS吉安,https://tv.iill.top/Migu/ZDdS6Y
+「中乙」19:30 联赛 成都蓉城B队vs无锡吴钩,https://tv.iill.top/Migu/gwGvnn
+「中乙」19:30 联赛 海门珂缔缘vs深圳二零二八,https://tv.iill.top/Migu/Era1ph
+「全国女子篮球锦标赛」19:30 武汉盛帆黄鹤vs山东赤水河酒,https://tv.iill.top/Migu/EOJPUV
+「全国女子篮球锦标赛」19:30 石家庄英励vs黑龙江上东,https://tv.iill.top/Migu/zvRtOU
+「浙江省城市篮球联赛城市争霸赛」19:30 嘉兴经开区VS台州,https://tv.iill.top/Migu/QS2Nc8
+「浙江省城市篮球联赛城市争霸赛」19:30 舟山VS余姚,https://tv.iill.top/Migu/bcsBQ8
+「JCK」19:30 觉城之夜104：王绍祥VS夏明权 王绍祥VS夏明权二番战 求伦梁娜出战,https://tv.iill.top/Migu/XIhCDE
+「河南省女子排球城市联赛」19:30 开幕式,https://tv.iill.top/Migu/JmSfA0
+「江苏城市足球联赛」19:35 常州队vs宿迁队,https://tv.iill.top/Migu/TCwoKA
+「湖南省足球联赛」19:38 郴州vs常德,https://tv.iill.top/Migu/pZhQf2
+「湖南省足球联赛」19:38 衡阳vs株洲,https://tv.iill.top/Migu/n8tEMx
+「湖南省足球联赛」19:38 湘西vs益阳,https://tv.iill.top/Migu/XP8QCW
+「河南省女子排球城市联赛」20:30 揭幕战,https://tv.iill.top/Migu/x8wn9u
 CCTV 1 综合,https://tv.iill.top/x/cctv1
 CCTV 5 体育,https://tv.iill.top/x/cctv5
 CCTV 5+ 体育赛事,https://tv.iill.top/x/cctv5+
