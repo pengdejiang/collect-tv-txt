@@ -4591,41 +4591,30 @@ CHC 家庭影院「回看」,https://tv.iill.top/migu/chcjt
 嘉佳卡通「回看」,https://tv.iill.top/migu/jddh
 新动力量创一流「回看」,https://tv.iill.top/migu/xdll
 钱塘江「回看」,https://tv.iill.top/migu/qtj
-「英超」09/14 23:30 联赛 曼城 vs 曼联 [詹俊 张路 林梦鸽],https://tv.iill.top/FB/HRDbUu
-「英超」09/14 23:30 联赛 曼城 vs 曼联 [赛场原声],https://tv.iill.top/FB/k3DpI8
-「英超」09/14 23:30 联赛 曼城 vs 曼联 [球星视角],https://tv.iill.top/FB/00Pph2
-「英超」09/14 23:30 联赛 曼城 vs 曼联 [粤语AI字幕],https://tv.iill.top/FB/CTp6ET
-「英超」09/14 23:30 联赛 曼城 vs 曼联 [闽南语AI字幕],https://tv.iill.top/FB/LKtiUO
-「英超」09/14 23:30 联赛 曼城 vs 曼联 [沪语],https://tv.iill.top/FB/iIoZpo
-「英超」09/14 23:30 联赛 曼城 vs 曼联 [AI字幕],https://tv.iill.top/FB/fYqeBO
-「英超」09/14 23:30 联赛 曼城 vs 曼联 [数据视角],https://tv.iill.top/FB/Do3gGu
-「英超」09/14 23:30 联赛 曼城 vs 曼联 [飞猫视角],https://tv.iill.top/FB/qrhZpZ
-「英超」09/14 23:30 联赛 曼城 vs 曼联 [战术视角],https://tv.iill.top/FB/cTzzUz
-「英超」09/14 23:30 联赛 曼城 vs 曼联 [英文解说],https://tv.iill.top/FB/qUrKQC
-「斯诺克」09/14 23:00 2025英格兰公开赛：白雨露登场 巩晨智、贺国强晋级 [1号桌],https://tv.iill.top/Migu/1ouvRK
-「斯诺克」09/14 23:00 2025英格兰公开赛：白雨露登场 巩晨智、贺国强晋级 [2号桌],https://tv.iill.top/Migu/sFNxK4
-「斯诺克」09/14 23:00 2025英格兰公开赛：白雨露登场 巩晨智、贺国强晋级 [3号桌],https://tv.iill.top/Migu/lXxPjH
-「斯诺克」09/14 23:00 2025英格兰公开赛：白雨露登场 巩晨智、贺国强晋级 [4号桌],https://tv.iill.top/Migu/MKrO2M
-「斯诺克」09/14 23:00 2025英格兰公开赛：白雨露登场 巩晨智、贺国强晋级 [朱峰立],https://tv.iill.top/Migu/IAIqRp
-「WTA」09/15 02:00 圣保罗站决赛：拉乔纳 vs 曾丽美 女单决赛：拉乔纳 vs 曾丽美,https://tv.iill.top/Migu/aKKITD
-「WTA」09/15 07:30 瓜达拉哈拉站决赛：约维奇PK阿朗戈争冠 [赛场原声],https://tv.iill.top/Migu/hBvX4E
-「WTA」09/15 07:30 瓜达拉哈拉站决赛：约维奇PK阿朗戈争冠 [英文原声],https://tv.iill.top/Migu/2XZHfz
-「WTA」09/15 07:30 瓜达拉哈拉站决赛：约维奇PK阿朗戈争冠 [刘钟鸣],https://tv.iill.top/Migu/bY3YMm
-「河南省女子排球城市联赛」09/15 10:00 豫南赛区第二轮 第一阶段（南赛区）第二轮,https://tv.iill.top/Migu/xAhLxd
-「河南省女子排球城市联赛」09/15 13:00 豫北赛区第二轮 第一阶段（北赛区）第二轮,https://tv.iill.top/Migu/XW82Ab
-「超三联赛」09/15 14:00 阜阳卫星赛 淘汰赛,https://tv.iill.top/Migu/zKtoeR
-「乒乓球经典赛事」09/15 14:00 【赛事放映厅】重温WTT中国大满贯：孙颖莎VS伊藤美诚 再战伊藤！孙颖莎强势横扫,https://tv.iill.top/Migu/3NYx3u
-「全国女子篮球锦标赛」09/15 14:30 赣州赣星vs四川远达美乐,https://tv.iill.top/Migu/JYnsAz
-「LPL」09/15 16:30 TES vs BLG,https://tv.iill.top/Migu/bTWUJX
-「全国女子篮球锦标赛」09/15 17:00 山西竹叶青酒vs石家庄英励,https://tv.iill.top/Migu/IInlqU
-「斯诺克」09/15 17:00 2025英格兰公开赛：丁俊晖、斯佳辉登场 [1号桌],https://tv.iill.top/Migu/O42TAx
-「斯诺克」09/15 17:00 2025英格兰公开赛：丁俊晖、斯佳辉登场 [丁文钧],https://tv.iill.top/Migu/GaDnCc
-「斯诺克」09/15 17:00 2025英格兰公开赛：丁俊晖、斯佳辉登场 [柏林],https://tv.iill.top/Migu/QOufhJ
-「斯诺克」09/15 17:00 2025英格兰公开赛：丁俊晖、斯佳辉登场 [2号桌],https://tv.iill.top/Migu/j0OBTZ
-「斯诺克」09/15 17:00 2025英格兰公开赛：丁俊晖、斯佳辉登场 [3号桌],https://tv.iill.top/Migu/kRRsM8
-「斯诺克」09/15 17:00 2025英格兰公开赛：丁俊晖、斯佳辉登场 [4号桌],https://tv.iill.top/Migu/U1BTFh
-「超三联赛」09/15 19:00 阜阳卫星赛 半决赛及决赛,https://tv.iill.top/Migu/uuJ1GX
-「全国女子篮球锦标赛」09/15 19:30 黑龙江上东vs厦门白鹭,https://tv.iill.top/Migu/I1yztI
+「WTA」02:00 圣保罗站决赛：拉乔纳 2 0 曾丽美 女单决赛：拉乔纳 2 0 曾丽美,https://tv.iill.top/Migu/eGMTqO
+「斯诺克」02:00 2025英格兰公开赛：巩晨智、贺国强晋级 [1号桌],https://tv.iill.top/Migu/mumBVr
+「斯诺克」02:00 2025英格兰公开赛：巩晨智、贺国强晋级 [2号桌],https://tv.iill.top/Migu/M0Uk2Q
+「斯诺克」02:00 2025英格兰公开赛：巩晨智、贺国强晋级 [3号桌],https://tv.iill.top/Migu/d4gLfI
+「斯诺克」02:00 2025英格兰公开赛：巩晨智、贺国强晋级 [4号桌],https://tv.iill.top/Migu/NZ1iGz
+「斯诺克」02:00 2025英格兰公开赛：巩晨智、贺国强晋级 [朱峰立],https://tv.iill.top/Migu/ut7GkK
+「WTA」07:30 瓜达拉哈拉站决赛：约维奇PK阿朗戈争冠 [刘钟鸣],https://tv.iill.top/Migu/hc0qfr
+「WTA」07:30 瓜达拉哈拉站决赛：约维奇PK阿朗戈争冠 [赛场原声],https://tv.iill.top/Migu/lPV39q
+「WTA」07:30 瓜达拉哈拉站决赛：约维奇PK阿朗戈争冠 [英文原声],https://tv.iill.top/Migu/sWi1Q9
+「河南省女子排球城市联赛」10:00 豫南赛区第二轮 第一阶段（南赛区）第二轮,https://tv.iill.top/Migu/uoUNFY
+「河南省女子排球城市联赛」13:00 豫北赛区第二轮 第一阶段（北赛区）第二轮,https://tv.iill.top/Migu/07l3li
+「超三联赛」14:00 阜阳卫星赛 淘汰赛,https://tv.iill.top/Migu/8s4Y2N
+「乒乓球经典赛事」14:00 【赛事放映厅】重温WTT中国大满贯：孙颖莎VS伊藤美诚 再战伊藤！孙颖莎强势横扫,https://tv.iill.top/Migu/4FtXO3
+「全国女子篮球锦标赛」14:30 赣州赣星vs四川远达美乐,https://tv.iill.top/Migu/KAkmzt
+「LPL」16:30 TES vs BLG,https://tv.iill.top/Migu/Aa5wUC
+「全国女子篮球锦标赛」17:00 山西竹叶青酒vs石家庄英励,https://tv.iill.top/Migu/1SoGYX
+「斯诺克」17:00 2025英格兰公开赛：丁俊晖、斯佳辉登场 [1号桌],https://tv.iill.top/Migu/ziMWwx
+「斯诺克」17:00 2025英格兰公开赛：丁俊晖、斯佳辉登场 [丁文钧],https://tv.iill.top/Migu/JHrdgo
+「斯诺克」17:00 2025英格兰公开赛：丁俊晖、斯佳辉登场 [柏林],https://tv.iill.top/Migu/1Rt5R3
+「斯诺克」17:00 2025英格兰公开赛：丁俊晖、斯佳辉登场 [2号桌],https://tv.iill.top/Migu/0e1CW9
+「斯诺克」17:00 2025英格兰公开赛：丁俊晖、斯佳辉登场 [3号桌],https://tv.iill.top/Migu/vhAnVU
+「斯诺克」17:00 2025英格兰公开赛：丁俊晖、斯佳辉登场 [4号桌],https://tv.iill.top/Migu/0w1XHJ
+「超三联赛」19:00 阜阳卫星赛 半决赛及决赛,https://tv.iill.top/Migu/OroRQb
+「全国女子篮球锦标赛」19:30 黑龙江上东vs厦门白鹭,https://tv.iill.top/Migu/azTESR
 CCTV 1 综合,https://tv.iill.top/x/cctv1
 CCTV 5 体育,https://tv.iill.top/x/cctv5
 CCTV 5+ 体育赛事,https://tv.iill.top/x/cctv5+
