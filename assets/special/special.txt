@@ -4590,16 +4590,45 @@ CHC 影迷电影「回看」,https://tv.iill.top/migu/chcym
 新动力量创一流「回看」,https://tv.iill.top/migu/xdll
 钱塘江「回看」,https://tv.iill.top/migu/qtj
 CCTV 1 综合,https://tv.iill.top/x/cctv1
+CCTV 2 财经,https://tv.iill.top/x/cctv2
+CCTV 3 综艺,https://tv.iill.top/x/cctv3
+CCTV 4 中文国际,https://tv.iill.top/x/cctv4
 CCTV 5 体育,https://tv.iill.top/x/cctv5
 CCTV 5+ 体育赛事,https://tv.iill.top/x/cctv5+
+CCTV 6 电影,https://tv.iill.top/x/cctv6
+CCTV 7 国防军事,https://tv.iill.top/x/cctv7
+CCTV 8 电视剧,https://tv.iill.top/x/cctv8
+CCTV 9 纪录,https://tv.iill.top/x/cctv9
+CCTV 10 科教,https://tv.iill.top/x/cctv10
+CCTV 11 戏曲,https://tv.iill.top/x/cctv11
+CCTV 12 社会与法,https://tv.iill.top/x/cctv12
 CCTV 13 新闻,https://tv.iill.top/x/cctv13
+CCTV 14 少儿,https://tv.iill.top/x/cctv14
+CCTV 15 音乐,https://tv.iill.top/x/cctv15
 CCTV 16 奥林匹克,https://tv.iill.top/x/cctv16
+CCTV 17 农村农业,https://tv.iill.top/x/cctv17
 北京卫视,https://tv.iill.top/x/bjws
 江苏卫视,https://tv.iill.top/x/jsws
 东方卫视,https://tv.iill.top/x/dfws
 湖南卫视,https://tv.iill.top/x/hnws
 浙江卫视,https://tv.iill.top/x/zjws
 广东卫视,https://tv.iill.top/x/gdws
+广西卫视,https://tv.iill.top/x/gxws
+深圳卫视,https://tv.iill.top/x/szws
+四川卫视,https://tv.iill.top/x/scws
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg-1.iill.top/logo/重庆卫视.png" group-title="•央卫「海外」"重庆卫视,https://tv.iill.top/x/cqws
+海南卫视,https://tv.iill.top/x/hainws
+湖北卫视,https://tv.iill.top/x/hbws
+江西卫视,https://tv.iill.top/x/jxws
+贵州卫视,https://tv.iill.top/x/gzws
+东南卫视,https://tv.iill.top/x/dnws
+河南卫视,https://tv.iill.top/x/henws
+天津卫视,https://tv.iill.top/x/tjws
+山东卫视,https://tv.iill.top/x/sdws
+黑龙江卫视,https://tv.iill.top/x/hljws
+安徽卫视,https://tv.iill.top/x/ahws
+吉林卫视,https://tv.iill.top/x/jlws
+辽宁卫视,https://tv.iill.top/x/lnws
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
 now新聞台,https://yang-1989.eu.org/live/now-332
