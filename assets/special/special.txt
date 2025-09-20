@@ -4599,21 +4599,22 @@ CHC 家庭影院「回看」,https://tv.iill.top/migu/chcjt
 嘉佳卡通「回看」,https://tv.iill.top/migu/jddh
 新动力量创一流「回看」,https://tv.iill.top/migu/xdll
 钱塘江「回看」,https://tv.iill.top/migu/qtj
-「英超」19:30 联赛 利物浦 vs 埃弗顿 [苏东 黄健翔],https://tv.iill.top/FB/VIRaWq
-「英超」19:30 联赛 利物浦 vs 埃弗顿 [赛场原声],https://tv.iill.top/FB/6QSt7A
-「英超」19:30 联赛 利物浦 vs 埃弗顿 [英文解说],https://tv.iill.top/FB/1AZKX3
-「英超」22:00 联赛 狼队 vs 利兹联 [苗锟],https://tv.iill.top/FB/bJ7xS6
-「英超」22:00 联赛 狼队 vs 利兹联 [赛场原声],https://tv.iill.top/FB/BHcZDL
-「英超」22:00 联赛 狼队 vs 利兹联 [英文解说],https://tv.iill.top/FB/8oty58
-「英超」22:00 联赛 西汉姆联 vs 水晶宫 [黄航],https://tv.iill.top/FB/BBdgNh
-「英超」22:00 联赛 西汉姆联 vs 水晶宫 [赛场原声],https://tv.iill.top/FB/Q95YV5
-「英超」22:00 联赛 西汉姆联 vs 水晶宫 [英文解说],https://tv.iill.top/FB/yVuVSB
-「英超」22:00 联赛 伯恩利 vs 诺丁汉森林 [刘焕],https://tv.iill.top/FB/URhFH1
-「英超」22:00 联赛 伯恩利 vs 诺丁汉森林 [赛场原声],https://tv.iill.top/FB/Z1GuM1
-「英超」22:00 联赛 伯恩利 vs 诺丁汉森林 [英文解说],https://tv.iill.top/FB/E1btjR
-「英超」22:00 联赛 布赖顿 vs 托特纳姆热刺 [娄一晨 李彦],https://tv.iill.top/FB/dawz9V
-「英超」22:00 联赛 布赖顿 vs 托特纳姆热刺 [赛场原声],https://tv.iill.top/FB/qBZIJt
-「英超」22:00 联赛 布赖顿 vs 托特纳姆热刺 [英文解说],https://tv.iill.top/FB/iVvGYv
+「英超」19:30 联赛 利物浦 vs 埃弗顿 [苏东 黄健翔],https://tv.iill.top/FB/pbxZ2X
+「英超」19:30 联赛 利物浦 vs 埃弗顿 [赛场原声],https://tv.iill.top/FB/0T8lcD
+「英超」19:30 联赛 利物浦 vs 埃弗顿 [英文解说],https://tv.iill.top/FB/AyAkgE
+「英超」19:30 联赛 利物浦 vs 埃弗顿 [苏东 黄健翔],https://tv.iill.top/FB/4tfzPR
+「英超」22:00 联赛 狼队 vs 利兹联 [苗锟],https://tv.iill.top/FB/aMJrI5
+「英超」22:00 联赛 狼队 vs 利兹联 [赛场原声],https://tv.iill.top/FB/Ssx365
+「英超」22:00 联赛 狼队 vs 利兹联 [英文解说],https://tv.iill.top/FB/ja4g7O
+「英超」22:00 联赛 西汉姆联 vs 水晶宫 [黄航],https://tv.iill.top/FB/VW00Es
+「英超」22:00 联赛 西汉姆联 vs 水晶宫 [赛场原声],https://tv.iill.top/FB/KDsgqM
+「英超」22:00 联赛 西汉姆联 vs 水晶宫 [英文解说],https://tv.iill.top/FB/VbWjtw
+「英超」22:00 联赛 伯恩利 vs 诺丁汉森林 [刘焕],https://tv.iill.top/FB/bMvdwT
+「英超」22:00 联赛 伯恩利 vs 诺丁汉森林 [赛场原声],https://tv.iill.top/FB/0xU0AE
+「英超」22:00 联赛 伯恩利 vs 诺丁汉森林 [英文解说],https://tv.iill.top/FB/3hTWQt
+「英超」22:00 联赛 布赖顿 vs 托特纳姆热刺 [娄一晨 李彦],https://tv.iill.top/FB/JfTThE
+「英超」22:00 联赛 布赖顿 vs 托特纳姆热刺 [赛场原声],https://tv.iill.top/FB/GgzU6w
+「英超」22:00 联赛 布赖顿 vs 托特纳姆热刺 [英文解说],https://tv.iill.top/FB/nW7m7y
 CCTV 1 综合,https://tv.iill.top/x/cctv1
 CCTV 2 财经,https://tv.iill.top/x/cctv2
 CCTV 3 综艺,https://tv.iill.top/x/cctv3
