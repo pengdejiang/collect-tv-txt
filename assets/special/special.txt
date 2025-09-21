@@ -4599,39 +4599,27 @@ CHC 家庭影院「回看」,https://tv.iill.top/migu/chcjt
 嘉佳卡通「回看」,https://tv.iill.top/migu/jddh
 新动力量创一流「回看」,https://tv.iill.top/migu/xdll
 钱塘江「回看」,https://tv.iill.top/migu/qtj
-「英超」09/20 22:00 联赛 狼队 vs 利兹联 [苗锟],https://tv.iill.top/FB/TvYUmK
-「英超」09/20 22:00 联赛 狼队 vs 利兹联 [赛场原声],https://tv.iill.top/FB/0j0hOg
-「英超」09/20 22:00 联赛 狼队 vs 利兹联 [英文解说],https://tv.iill.top/FB/R3TyId
-「英超」09/20 22:00 联赛 西汉姆联 vs 水晶宫 [黄航],https://tv.iill.top/FB/fZLLfx
-「英超」09/20 22:00 联赛 西汉姆联 vs 水晶宫 [赛场原声],https://tv.iill.top/FB/cI6NLz
-「英超」09/20 22:00 联赛 西汉姆联 vs 水晶宫 [英文解说],https://tv.iill.top/FB/jserdY
-「英超」09/20 22:00 联赛 伯恩利 vs 诺丁汉森林 [刘焕],https://tv.iill.top/FB/KeRBu0
-「英超」09/20 22:00 联赛 伯恩利 vs 诺丁汉森林 [赛场原声],https://tv.iill.top/FB/iVHyZd
-「英超」09/20 22:00 联赛 伯恩利 vs 诺丁汉森林 [英文解说],https://tv.iill.top/FB/lAzZ8i
-「英超」09/20 22:00 联赛 布赖顿 vs 托特纳姆热刺 [娄一晨 李彦],https://tv.iill.top/FB/Zso3J4
-「英超」09/20 22:00 联赛 布赖顿 vs 托特纳姆热刺 [4K赛场原声],https://tv.iill.top/FB/iL1WoV
-「英超」09/20 22:00 联赛 布赖顿 vs 托特纳姆热刺 [英文解说],https://tv.iill.top/FB/d64W2x
-「英超」09/21 00:30 联赛 曼联 vs 切尔西 [詹俊 张路],https://tv.iill.top/FB/5EiSVP
-「英超」09/21 00:30 联赛 曼联 vs 切尔西 [赛场原声],https://tv.iill.top/FB/ZqBFzP
-「英超」09/21 00:30 联赛 曼联 vs 切尔西 [江忠德],https://tv.iill.top/FB/kM6Z7V
-「英超」09/21 00:30 联赛 曼联 vs 切尔西 [洪荒],https://tv.iill.top/FB/OVLemh
-「英超」09/21 00:30 联赛 曼联 vs 切尔西 [陈渤胄],https://tv.iill.top/FB/IyWMBZ
-「英超」09/21 00:30 联赛 曼联 vs 切尔西 [詹俊 张路 程思钦],https://tv.iill.top/FB/mf8HF4
-「英超」09/21 00:30 联赛 曼联 vs 切尔西 [英文解说],https://tv.iill.top/FB/LnzYHM
-「英超」09/21 03:00 联赛 富勒姆 vs 布伦特福德 [刘畅 徐阳],https://tv.iill.top/FB/KsOYIM
-「英超」09/21 03:00 联赛 富勒姆 vs 布伦特福德 [赛场原声],https://tv.iill.top/FB/r4hU5T
-「英超」09/21 03:00 联赛 富勒姆 vs 布伦特福德 [英文解说],https://tv.iill.top/FB/SXwjE9
-「英超」09/21 21:00 联赛 桑德兰 vs 阿斯顿维拉 [郭灿亮],https://tv.iill.top/FB/gUg0l5
-「英超」09/21 21:00 联赛 桑德兰 vs 阿斯顿维拉 [赛场原声],https://tv.iill.top/FB/lBo5Ks
-「英超」09/21 21:00 联赛 桑德兰 vs 阿斯顿维拉 [英文解说],https://tv.iill.top/FB/5nJekX
-「英超」09/21 21:00 联赛 伯恩茅斯 vs 纽卡斯尔联 [吴桐],https://tv.iill.top/FB/CL2vV2
-「英超」09/21 21:00 联赛 伯恩茅斯 vs 纽卡斯尔联 [赛场原声],https://tv.iill.top/FB/5eP1i2
-「英超」09/21 21:00 联赛 伯恩茅斯 vs 纽卡斯尔联 [英文解说],https://tv.iill.top/FB/GNTScf
-「英超」09/21 23:30 联赛 阿森纳 vs 曼城 [詹俊 刘越 邵凌霄],https://tv.iill.top/FB/vjBlPn
-「英超」09/21 23:30 联赛 阿森纳 vs 曼城 [4K赛场原声],https://tv.iill.top/FB/v8mTx0
-「英超」09/21 23:30 联赛 阿森纳 vs 曼城 [江忠德],https://tv.iill.top/FB/jnt8cH
-「英超」09/21 23:30 联赛 阿森纳 vs 曼城 [洪荒],https://tv.iill.top/FB/KeUaEq
-「英超」09/21 23:30 联赛 阿森纳 vs 曼城 [英文解说],https://tv.iill.top/FB/jlGq7r
+「英超」00:30 联赛 曼联 vs 切尔西 [詹俊 张路],https://tv.iill.top/FB/EB3ngM
+「英超」00:30 联赛 曼联 vs 切尔西 [赛场原声],https://tv.iill.top/FB/uHQ03m
+「英超」00:30 联赛 曼联 vs 切尔西 [江忠德],https://tv.iill.top/FB/69RoE6
+「英超」00:30 联赛 曼联 vs 切尔西 [洪荒],https://tv.iill.top/FB/bOlawD
+「英超」00:30 联赛 曼联 vs 切尔西 [陈渤胄],https://tv.iill.top/FB/bPMWeE
+「英超」00:30 联赛 曼联 vs 切尔西 [詹俊 张路 程思钦],https://tv.iill.top/FB/gKs2ED
+「英超」00:30 联赛 曼联 vs 切尔西 [英文解说],https://tv.iill.top/FB/jCFkQz
+「英超」03:00 联赛 富勒姆 vs 布伦特福德 [刘畅 徐阳],https://tv.iill.top/FB/CEgYcN
+「英超」03:00 联赛 富勒姆 vs 布伦特福德 [赛场原声],https://tv.iill.top/FB/zvHT0g
+「英超」03:00 联赛 富勒姆 vs 布伦特福德 [英文解说],https://tv.iill.top/FB/Rn70UR
+「英超」21:00 联赛 桑德兰 vs 阿斯顿维拉 [郭灿亮],https://tv.iill.top/FB/5gdfnz
+「英超」21:00 联赛 桑德兰 vs 阿斯顿维拉 [赛场原声],https://tv.iill.top/FB/MlpqRL
+「英超」21:00 联赛 桑德兰 vs 阿斯顿维拉 [英文解说],https://tv.iill.top/FB/2u6RpJ
+「英超」21:00 联赛 伯恩茅斯 vs 纽卡斯尔联 [吴桐],https://tv.iill.top/FB/YcRJGO
+「英超」21:00 联赛 伯恩茅斯 vs 纽卡斯尔联 [赛场原声],https://tv.iill.top/FB/KDj54r
+「英超」21:00 联赛 伯恩茅斯 vs 纽卡斯尔联 [英文解说],https://tv.iill.top/FB/d141MB
+「英超」23:30 联赛 阿森纳 vs 曼城 [詹俊 刘越 邵凌霄],https://tv.iill.top/FB/AFCiMG
+「英超」23:30 联赛 阿森纳 vs 曼城 [4K赛场原声],https://tv.iill.top/FB/ymjN1a
+「英超」23:30 联赛 阿森纳 vs 曼城 [江忠德],https://tv.iill.top/FB/KJ4rBq
+「英超」23:30 联赛 阿森纳 vs 曼城 [洪荒],https://tv.iill.top/FB/lrLFV1
+「英超」23:30 联赛 阿森纳 vs 曼城 [英文解说],https://tv.iill.top/FB/Jt0oK9
 CCTV 1 综合,https://tv.iill.top/x/cctv1
 CCTV 2 财经,https://tv.iill.top/x/cctv2
 CCTV 3 综艺,https://tv.iill.top/x/cctv3
