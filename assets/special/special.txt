@@ -4599,74 +4599,73 @@ CHC 家庭影院「回看」,https://tv.iill.top/migu-1/chcjt
 嘉佳卡通「回看」,https://tv.iill.top/migu-1/jddh
 新动力量创一流「回看」,https://tv.iill.top/migu-1/xdll
 钱塘江「回看」,https://tv.iill.top/migu-1/qtj
-「亚冠二级」00:00 二级小组赛 维达特 vs 阿尔瓦斯尔 [王子睿],https://tv.iill.top/FB/FWAKHx
-「亚冠二级」00:00 二级小组赛 维达特 vs 阿尔瓦斯尔 [赛场原声],https://tv.iill.top/FB/5Vc8lE
-「亚冠二级」00:00 二级小组赛 德黑兰独立 vs 穆哈拉克 [乔迁],https://tv.iill.top/FB/RQUUaj
-「亚冠二级」00:00 二级小组赛 德黑兰独立 vs 穆哈拉克 [赛场原声],https://tv.iill.top/FB/3GPCMA
-「亚冠二级」02:15 二级小组赛 艾尔扎拉 vs 利雅得胜利 [刘畅],https://tv.iill.top/FB/lSwb2I
-「亚冠二级」02:15 二级小组赛 艾尔扎拉 vs 利雅得胜利 [赛场原声],https://tv.iill.top/FB/E4eFKP
-「亚冠二级」02:15 二级小组赛 哈列迪亞 vs 阿卡达格 [吴子越],https://tv.iill.top/FB/qbBbdt
-「亚冠二级」02:15 二级小组赛 哈列迪亞 vs 阿卡达格 [赛场原声],https://tv.iill.top/FB/ykjWoC
-「亚冠二级」15:45 二级小组赛 麦克阿瑟FC vs 北京国安 [孙雨轩 徐云龙 李子琪],https://tv.iill.top/FB/IFY0ql
-「亚冠二级」15:45 二级小组赛 麦克阿瑟FC vs 北京国安 [赛场原声],https://tv.iill.top/FB/87D7Ct
-「亚冠二级」18:00 二级小组赛 香港东方 vs 南定 [盛斌],https://tv.iill.top/FB/cmvifZ
-「亚冠二级」18:00 二级小组赛 香港东方 vs 南定 [赛场原声],https://tv.iill.top/FB/xcAW9Q
-「亚冠二级」18:00 二级小组赛 淡宾尼流浪 vs 曼谷玻璃 [乔迁],https://tv.iill.top/FB/LpWvaq
-「亚冠二级」18:00 二级小组赛 淡宾尼流浪 vs 曼谷玻璃 [赛场原声],https://tv.iill.top/FB/XnS50L
-「亚冠二级」18:00 二级小组赛 浦项铁人 vs 卡雅 [吴子越],https://tv.iill.top/FB/UYDapC
-「亚冠二级」18:00 二级小组赛 浦项铁人 vs 卡雅 [赛场原声],https://tv.iill.top/FB/474JCY
-「亚冠二级」20:15 二级小组赛 Công An Hà Nội vs 和富大埔 [鲁靖明],https://tv.iill.top/FB/GdYVUb
-「亚冠二级」20:15 二级小组赛 Công An Hà Nội vs 和富大埔 [赛场原声],https://tv.iill.top/FB/SFAn0z
-「亚冠二级」20:15 二级小组赛 拉查布里府 vs 大阪钢巴 [周楚雄],https://tv.iill.top/FB/DNFEzQ
-「亚冠二级」20:15 二级小组赛 拉查布里府 vs 大阪钢巴 [赛场原声],https://tv.iill.top/FB/Y1aomg
-「玄奘之路戈壁挑战赛」07:30 竞赛日Day1,https://tv.iill.top/Migu/h3DzOn
-「玄奘之路戈壁挑战赛」08:00 谁是第六人竞赛日Day1,https://tv.iill.top/Migu/XbUlQt
-「中国马术巡回赛」09:30 ·上海站第三日,https://tv.iill.top/Migu/lVKOvH
-「WTT」11:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 孙颖莎vs王晓彤 “头头”组合晋级4强 [小马哥],https://tv.iill.top/Migu/gKNmkd
-「WTT」11:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 孙颖莎vs王晓彤 “头头”组合晋级4强 [周泽昊 周冠达],https://tv.iill.top/Migu/5ePdY0
-「WTT」11:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 孙颖莎vs王晓彤 “头头”组合晋级4强 [1号桌],https://tv.iill.top/Migu/NHCy3I
-「WTT」11:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 孙颖莎vs王晓彤 “头头”组合晋级4强 [2号桌],https://tv.iill.top/Migu/rDzoKs
-「WTT」11:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 孙颖莎vs王晓彤 “头头”组合晋级4强 [3号桌],https://tv.iill.top/Migu/tUup0Q
-「WTT」11:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 孙颖莎vs王晓彤 “头头”组合晋级4强 [4号桌],https://tv.iill.top/Migu/TUlIGm
-「WTT」11:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 孙颖莎vs王晓彤 “头头”组合晋级4强 [智能字幕],https://tv.iill.top/Migu/HBJZnS
-「WTT」11:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 孙颖莎vs王晓彤 “头头”组合晋级4强 [小马哥],https://tv.iill.top/Migu/hElEJI
-「中国网球公开赛」13:00 女子单双打1/4决赛：高芙冲击四强 阿尼西莫娃迎战保利尼 [钻石球场（4K清流）],https://tv.iill.top/Migu/JsnRSk
-「中国网球公开赛」13:00 女子单双打1/4决赛：高芙冲击四强 阿尼西莫娃迎战保利尼 [乔迁],https://tv.iill.top/Migu/Oxo8yD
-「中国网球公开赛」13:00 女子单双打1/4决赛：高芙冲击四强 阿尼西莫娃迎战保利尼 [独家单边采访],https://tv.iill.top/Migu/Yn6VWF
-「中国网球公开赛」13:00 女子单双打1/4决赛：高芙冲击四强 阿尼西莫娃迎战保利尼 [钻石球场（清流）],https://tv.iill.top/Migu/OCCHLb
-「中国网球公开赛」13:00 女子单双打1/4决赛：高芙冲击四强 阿尼西莫娃迎战保利尼 [演播室：李宁、刘钟鸣],https://tv.iill.top/Migu/F6oGGi
-「中国网球公开赛」13:00 女子单双打1/4决赛：高芙冲击四强 阿尼西莫娃迎战保利尼 [演播室：李宁、单文强],https://tv.iill.top/Migu/YpD9Ba
-「中国网球公开赛」13:00 女子单双打1/4决赛：高芙冲击四强 阿尼西莫娃迎战保利尼 [鸿昆],https://tv.iill.top/Migu/NAlPSc
-「超三联赛」14:00 张家港争霸赛 四分之一决赛 [李嘉伟 蔡凯臣],https://tv.iill.top/Migu/XSCRwe
-「四川省城市足球联赛」15:00 南充丝绸源点队 VS 广安板楯蛮队,https://tv.iill.top/Migu/85Awua
-「U23亚洲杯」15:00 沙特阿拉伯亚足联抽签仪式 [涂远],https://tv.iill.top/Migu/dipYYQ
-「U23亚洲杯」15:00 沙特阿拉伯亚足联抽签仪式 [赛场原声],https://tv.iill.top/Migu/UOui4h
-「四川省城市足球联赛」15:30 遂宁舍得干队 VS 巴中红叶队,https://tv.iill.top/Migu/w69URc
-「斯诺克」16:30 国锦赛资格赛：张安达、刘宏宇、吉米·怀特出战 [秦正],https://tv.iill.top/Migu/Ys07hK
-「斯诺克」16:30 国锦赛资格赛：张安达、刘宏宇、吉米·怀特出战 [1号桌],https://tv.iill.top/Migu/CaWEfQ
-「斯诺克」16:30 国锦赛资格赛：张安达、刘宏宇、吉米·怀特出战 [2号桌],https://tv.iill.top/Migu/ML7MRk
-「斯诺克」16:30 国锦赛资格赛：张安达、刘宏宇、吉米·怀特出战 [3号桌],https://tv.iill.top/Migu/q6B8ha
-「斯诺克」16:30 国锦赛资格赛：张安达、刘宏宇、吉米·怀特出战 [4号桌],https://tv.iill.top/Migu/7yA3ZE
-「斯诺克」16:30 国锦赛资格赛：张安达、刘宏宇、吉米·怀特出战 [5号桌],https://tv.iill.top/Migu/jCzxip
-「斯诺克」16:30 国锦赛资格赛：张安达、刘宏宇、吉米·怀特出战 [6号桌],https://tv.iill.top/Migu/0B7ZTr
-「斯诺克」16:30 国锦赛资格赛：张安达、刘宏宇、吉米·怀特出战 [7号桌],https://tv.iill.top/Migu/J7vYFU
-「玄奘之路戈壁挑战赛」17:30 咪咕OOH夜Day2 咪咕OOH夜 戈壁四天三晚不断播,https://tv.iill.top/Migu/B0XJHG
-「WTT」18:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 王楚钦晚间双赛！莎头对阵雨果情侣档 [周泽昊],https://tv.iill.top/Migu/puJzMu
-「WTT」18:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 王楚钦晚间双赛！莎头对阵雨果情侣档 [周冠达 程靖淇 侯英超],https://tv.iill.top/Migu/OZB5Fi
-「WTT」18:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 王楚钦晚间双赛！莎头对阵雨果情侣档 [李宏德],https://tv.iill.top/Migu/yoJMml
-「WTT」18:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 王楚钦晚间双赛！莎头对阵雨果情侣档 [1号桌],https://tv.iill.top/Migu/87wFLU
-「WTT」18:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 王楚钦晚间双赛！莎头对阵雨果情侣档 [2号桌],https://tv.iill.top/Migu/ljpz6Y
-「WTT」18:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 王楚钦晚间双赛！莎头对阵雨果情侣档 [智能字幕],https://tv.iill.top/Migu/V3Mr14
-「WTT」18:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 王楚钦晚间双赛！莎头对阵雨果情侣档 [3号桌],https://tv.iill.top/Migu/AmCSOS
-「超三联赛」19:00 张家港争霸赛 半决赛及决赛 [李嘉伟 蔡凯臣],https://tv.iill.top/Migu/72xeNf
-「浙江省城市篮球联赛」19:30 嘉兴VS富阳,https://tv.iill.top/Migu/x3358n
-「浙江省城市篮球联赛」19:30 苍南VS绍兴,https://tv.iill.top/Migu/Xiyoes
-「浙江省城市篮球联赛」19:30 台州湾新区VS宁波,https://tv.iill.top/Migu/YrdIqV
-「浙江稠州银行杯职业篮球对抗赛」19:30 浙江稠州金租vs上海久事,https://tv.iill.top/Migu/MNgh1d
-「四川省城市足球联赛」19:35 达州川汉子队 VS 成都锦城队,https://tv.iill.top/Migu/Kqa4rd
-「四川省城市足球联赛」19:35 凉山好医生队 VS 眉山射天狼队,https://tv.iill.top/Migu/4QiagK
-「四川省城市足球联赛」19:35 乐山味道非常队 VS 攀枝花攀钢钢铁勇士队,https://tv.iill.top/Migu/XsIa84
-「湖南省足球联赛」19:38 娄底vs大湾区湖南人,https://tv.iill.top/Migu/FwSaau
+「亚冠二级」00:00 二级小组赛 维达特 vs 阿尔瓦斯尔 [王子睿],https://tv.iill.top/FB/uAiYNP
+「亚冠二级」00:00 二级小组赛 维达特 vs 阿尔瓦斯尔 [赛场原声],https://tv.iill.top/FB/w92gr3
+「亚冠二级」00:00 二级小组赛 德黑兰独立 vs 穆哈拉克 [乔迁],https://tv.iill.top/FB/PkfbN8
+「亚冠二级」00:00 二级小组赛 德黑兰独立 vs 穆哈拉克 [赛场原声],https://tv.iill.top/FB/TMUsDT
+「亚冠二级」02:15 二级小组赛 艾尔扎拉 vs 利雅得胜利 [刘畅],https://tv.iill.top/FB/6x3tkc
+「亚冠二级」02:15 二级小组赛 艾尔扎拉 vs 利雅得胜利 [赛场原声],https://tv.iill.top/FB/TinPHe
+「亚冠二级」02:15 二级小组赛 哈列迪亞 vs 阿卡达格 [吴子越],https://tv.iill.top/FB/ye0f6S
+「亚冠二级」02:15 二级小组赛 哈列迪亞 vs 阿卡达格 [赛场原声],https://tv.iill.top/FB/J2JcbM
+「亚冠二级」15:45 二级小组赛 麦克阿瑟FC vs 北京国安 [赛场原声],https://tv.iill.top/FB/inKTV2
+「亚冠二级」18:00 二级小组赛 香港东方 vs 南定 [盛斌],https://tv.iill.top/FB/tQm98v
+「亚冠二级」18:00 二级小组赛 香港东方 vs 南定 [赛场原声],https://tv.iill.top/FB/kfus9K
+「亚冠二级」18:00 二级小组赛 淡宾尼流浪 vs 曼谷玻璃 [乔迁],https://tv.iill.top/FB/UFfCzR
+「亚冠二级」18:00 二级小组赛 淡宾尼流浪 vs 曼谷玻璃 [赛场原声],https://tv.iill.top/FB/sLg09k
+「亚冠二级」18:00 二级小组赛 浦项铁人 vs 卡雅 [吴子越],https://tv.iill.top/FB/TjRaBz
+「亚冠二级」18:00 二级小组赛 浦项铁人 vs 卡雅 [赛场原声],https://tv.iill.top/FB/kMfV1o
+「亚冠二级」20:15 二级小组赛 Công An Hà Nội vs 和富大埔 [鲁靖明],https://tv.iill.top/FB/HNX0RM
+「亚冠二级」20:15 二级小组赛 Công An Hà Nội vs 和富大埔 [赛场原声],https://tv.iill.top/FB/i0OXEj
+「亚冠二级」20:15 二级小组赛 拉查布里府 vs 大阪钢巴 [周楚雄],https://tv.iill.top/FB/hgUut3
+「亚冠二级」20:15 二级小组赛 拉查布里府 vs 大阪钢巴 [赛场原声],https://tv.iill.top/FB/TECFqq
+「玄奘之路戈壁挑战赛」07:30 竞赛日Day1,https://tv.iill.top/Migu/yah6Tu
+「玄奘之路戈壁挑战赛」08:00 谁是第六人竞赛日Day1,https://tv.iill.top/Migu/JTBgqC
+「中国马术巡回赛」09:30 ·上海站第三日,https://tv.iill.top/Migu/czdG9j
+「WTT」11:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 孙颖莎vs王晓彤 “头头”组合晋级4强 [小马哥],https://tv.iill.top/Migu/AC0EQf
+「WTT」11:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 孙颖莎vs王晓彤 “头头”组合晋级4强 [周泽昊 周冠达],https://tv.iill.top/Migu/9diRzw
+「WTT」11:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 孙颖莎vs王晓彤 “头头”组合晋级4强 [1号桌],https://tv.iill.top/Migu/BkqM5m
+「WTT」11:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 孙颖莎vs王晓彤 “头头”组合晋级4强 [2号桌],https://tv.iill.top/Migu/EWnZPs
+「WTT」11:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 孙颖莎vs王晓彤 “头头”组合晋级4强 [3号桌],https://tv.iill.top/Migu/Y42zbh
+「WTT」11:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 孙颖莎vs王晓彤 “头头”组合晋级4强 [4号桌],https://tv.iill.top/Migu/0RusJU
+「WTT」11:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 孙颖莎vs王晓彤 “头头”组合晋级4强 [智能字幕],https://tv.iill.top/Migu/1XREUd
+「WTT」11:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 孙颖莎vs王晓彤 “头头”组合晋级4强 [小马哥],https://tv.iill.top/Migu/HI6SKy
+「中国网球公开赛」13:00 女子单双打1/4决赛：高芙冲击四强 阿尼西莫娃迎战保利尼 [钻石球场（4K清流）],https://tv.iill.top/Migu/eWaYGw
+「中国网球公开赛」13:00 女子单双打1/4决赛：高芙冲击四强 阿尼西莫娃迎战保利尼 [乔迁],https://tv.iill.top/Migu/n31Hak
+「中国网球公开赛」13:00 女子单双打1/4决赛：高芙冲击四强 阿尼西莫娃迎战保利尼 [独家单边采访],https://tv.iill.top/Migu/DK7WXS
+「中国网球公开赛」13:00 女子单双打1/4决赛：高芙冲击四强 阿尼西莫娃迎战保利尼 [钻石球场（清流）],https://tv.iill.top/Migu/x7XYEQ
+「中国网球公开赛」13:00 女子单双打1/4决赛：高芙冲击四强 阿尼西莫娃迎战保利尼 [演播室：李宁、刘钟鸣],https://tv.iill.top/Migu/0PxV6p
+「中国网球公开赛」13:00 女子单双打1/4决赛：高芙冲击四强 阿尼西莫娃迎战保利尼 [演播室：李宁、单文强],https://tv.iill.top/Migu/73gYdv
+「中国网球公开赛」13:00 女子单双打1/4决赛：高芙冲击四强 阿尼西莫娃迎战保利尼 [鸿昆],https://tv.iill.top/Migu/gOxEp3
+「超三联赛」14:00 张家港争霸赛 四分之一决赛 [李嘉伟 蔡凯臣],https://tv.iill.top/Migu/de3uqP
+「四川省城市足球联赛」15:00 南充丝绸源点队 VS 广安板楯蛮队,https://tv.iill.top/Migu/ILlVNt
+「U23亚洲杯」15:00 沙特阿拉伯亚足联抽签仪式 [涂远],https://tv.iill.top/Migu/IM7osX
+「U23亚洲杯」15:00 沙特阿拉伯亚足联抽签仪式 [赛场原声],https://tv.iill.top/Migu/ev32MT
+「四川省城市足球联赛」15:30 遂宁舍得干队 VS 巴中红叶队,https://tv.iill.top/Migu/RQiuq8
+「斯诺克」16:30 国锦赛资格赛：张安达、刘宏宇、吉米·怀特出战 [秦正],https://tv.iill.top/Migu/eSm0hV
+「斯诺克」16:30 国锦赛资格赛：张安达、刘宏宇、吉米·怀特出战 [1号桌],https://tv.iill.top/Migu/dK25OO
+「斯诺克」16:30 国锦赛资格赛：张安达、刘宏宇、吉米·怀特出战 [2号桌],https://tv.iill.top/Migu/sxSeIj
+「斯诺克」16:30 国锦赛资格赛：张安达、刘宏宇、吉米·怀特出战 [3号桌],https://tv.iill.top/Migu/wRrALO
+「斯诺克」16:30 国锦赛资格赛：张安达、刘宏宇、吉米·怀特出战 [4号桌],https://tv.iill.top/Migu/GEx5xE
+「斯诺克」16:30 国锦赛资格赛：张安达、刘宏宇、吉米·怀特出战 [5号桌],https://tv.iill.top/Migu/7ug0w8
+「斯诺克」16:30 国锦赛资格赛：张安达、刘宏宇、吉米·怀特出战 [6号桌],https://tv.iill.top/Migu/s1ugoC
+「斯诺克」16:30 国锦赛资格赛：张安达、刘宏宇、吉米·怀特出战 [7号桌],https://tv.iill.top/Migu/FONTzE
+「玄奘之路戈壁挑战赛」17:30 咪咕OOH夜Day2 咪咕OOH夜 戈壁四天三晚不断播,https://tv.iill.top/Migu/3EKfHy
+「WTT」18:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 王楚钦晚间双赛！莎头对阵雨果情侣档 [周泽昊],https://tv.iill.top/Migu/YG4Ifc
+「WTT」18:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 王楚钦晚间双赛！莎头对阵雨果情侣档 [周冠达 程靖淇 侯英超],https://tv.iill.top/Migu/OkSTCf
+「WTT」18:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 王楚钦晚间双赛！莎头对阵雨果情侣档 [李宏德],https://tv.iill.top/Migu/hpIg6J
+「WTT」18:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 王楚钦晚间双赛！莎头对阵雨果情侣档 [1号桌],https://tv.iill.top/Migu/C3ZeTx
+「WTT」18:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 王楚钦晚间双赛！莎头对阵雨果情侣档 [2号桌],https://tv.iill.top/Migu/pzbkba
+「WTT」18:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 王楚钦晚间双赛！莎头对阵雨果情侣档 [智能字幕],https://tv.iill.top/Migu/LjMNwc
+「WTT」18:00 中国大满贯：男女单打1/8决赛、双打1/4决赛及混双半决赛 王楚钦晚间双赛！莎头对阵雨果情侣档 [3号桌],https://tv.iill.top/Migu/SZCfRc
+「超三联赛」19:00 张家港争霸赛 半决赛及决赛 [李嘉伟 蔡凯臣],https://tv.iill.top/Migu/J1QrPz
+「浙江省城市篮球联赛」19:30 嘉兴VS富阳,https://tv.iill.top/Migu/ZrMdMs
+「浙江省城市篮球联赛」19:30 苍南VS绍兴,https://tv.iill.top/Migu/T1OGeo
+「浙江省城市篮球联赛」19:30 台州湾新区VS宁波,https://tv.iill.top/Migu/CZKGi2
+「浙江稠州银行杯职业篮球对抗赛」19:30 浙江稠州金租vs上海久事,https://tv.iill.top/Migu/vvrjBF
+「四川省城市足球联赛」19:35 达州川汉子队 VS 成都锦城队,https://tv.iill.top/Migu/NonYya
+「四川省城市足球联赛」19:35 凉山好医生队 VS 眉山射天狼队,https://tv.iill.top/Migu/QLKro3
+「四川省城市足球联赛」19:35 乐山味道非常队 VS 攀枝花攀钢钢铁勇士队,https://tv.iill.top/Migu/ktFcLA
+「湖南省足球联赛」19:38 娄底vs大湾区湖南人,https://tv.iill.top/Migu/hX4IAc
 CCTV 1 综合,https://tv.iill.top/x/cctv1
 CCTV 2 财经,https://tv.iill.top/x/cctv2
 CCTV 3 综艺,https://tv.iill.top/x/cctv3
