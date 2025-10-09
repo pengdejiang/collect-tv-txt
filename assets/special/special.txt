@@ -4599,45 +4599,35 @@ CHC 家庭影院「回看」,https://tv.iill.top/migu-1/chcjt
 嘉佳卡通「回看」,https://tv.iill.top/migu-1/jddh
 新动力量创一流「回看」,https://tv.iill.top/migu-1/xdll
 钱塘江「回看」,https://tv.iill.top/migu-1/qtj
-「世预亚」07:30 NBA季前赛 马刺VS热火 [全场集锦],https://tv.iill.top/FB/AhZvBp
-「NBA」07:30 季前赛 马刺VS热火 [王晓晨],https://tv.iill.top/NBA/dZsm0b
-「NBA」07:30 季前赛 马刺VS热火 [英文原声],https://tv.iill.top/NBA/ZOCMxX
-「NBA」08:00 季前赛 爵士VS火箭 [王冠证],https://tv.iill.top/NBA/cgEJ8E
-「NBA」08:00 季前赛 爵士VS火箭 [英文原声],https://tv.iill.top/NBA/p1XfIP
-「NBA」08:00 季前赛 凯尔特人VS灰熊 [邵化谦],https://tv.iill.top/NBA/iTVJFN
-「NBA」08:00 季前赛 凯尔特人VS灰熊 [英文原声],https://tv.iill.top/NBA/7ofp88
-「NBA」10:00 季前赛 开拓者VS勇士 [连睿 周鹏 小七],https://tv.iill.top/NBA/QzWor5
-「NBA」10:00 季前赛 开拓者VS勇士 [英文原声],https://tv.iill.top/NBA/53Idkq
-「NBA」10:00 季前赛 猛龙VS国王 [刘芳宇],https://tv.iill.top/NBA/rLjOMI
-「NBA」10:00 季前赛 猛龙VS国王 [英文原声],https://tv.iill.top/NBA/8bmL6W
-「全国女子篮球锦标赛」11:00 别克LPGA高尔夫锦标赛第一轮,https://tv.iill.top/Migu/e6k0kq
-「超三联赛」14:00 贵阳卫星赛 小组赛下午场,https://tv.iill.top/Migu/uDFrZe
-「斯诺克」14:00 2025西安大奖赛32进16：丁俊晖、斯佳辉出战 袁思俊PK囧哥 [朱蒙],https://tv.iill.top/Migu/NGVLem
-「斯诺克」14:00 2025西安大奖赛32进16：丁俊晖、斯佳辉出战 袁思俊PK囧哥 [朱峰立],https://tv.iill.top/Migu/fUg84b
-「斯诺克」14:00 2025西安大奖赛32进16：丁俊晖、斯佳辉出战 袁思俊PK囧哥 [1号桌],https://tv.iill.top/Migu/RX4SL5
-「斯诺克」14:00 2025西安大奖赛32进16：丁俊晖、斯佳辉出战 袁思俊PK囧哥 [2号桌],https://tv.iill.top/Migu/tltm4Y
-「斯诺克」14:00 2025西安大奖赛32进16：丁俊晖、斯佳辉出战 袁思俊PK囧哥 [3号桌],https://tv.iill.top/Migu/MHxybR
-「斯诺克」14:00 2025西安大奖赛32进16：丁俊晖、斯佳辉出战 袁思俊PK囧哥 [4号桌],https://tv.iill.top/Migu/lTFDBJ
-「斯诺克」14:00 2025西安大奖赛32进16：丁俊晖、斯佳辉出战 袁思俊PK囧哥 [5号桌],https://tv.iill.top/Migu/kavj0b
-「斯诺克」14:00 2025西安大奖赛32进16：丁俊晖、斯佳辉出战 袁思俊PK囧哥 [6号桌],https://tv.iill.top/Migu/9Wl0Sk
-「斯诺克」14:00 2025西安大奖赛32进16：丁俊晖、斯佳辉出战 袁思俊PK囧哥 [7号桌],https://tv.iill.top/Migu/vLyVXl
-「斯诺克」14:00 2025西安大奖赛32进16：丁俊晖、斯佳辉出战 袁思俊PK囧哥 [8号桌],https://tv.iill.top/Migu/YUrINx
-「全国女子篮球锦标赛」14:30 合肥文旅vs黑龙江上东,https://tv.iill.top/Migu/yJDoR0
-「武汉城市足球超级联赛」15:00 高校组 武昌职业学院vs武汉城市职业学院,https://tv.iill.top/Migu/RMlBOw
-「全国女子篮球锦标赛」17:00 河南豫光金铅vs厦门白鹭,https://tv.iill.top/Migu/2Jiv2b
-「乒乓球经典赛事」18:00 【赛事放映厅】重温2025WTT中国大满贯王曼昱女单夺冠 全力出击！王曼昱问鼎女单,https://tv.iill.top/Migu/vGpotQ
-「超三联赛」19:00 贵阳卫星赛 小组赛晚间场,https://tv.iill.top/Migu/ulg93F
-「斯诺克」19:20 2025西安大奖赛32进16：周跃龙大战威廉姆斯 奥沙利文PK马奎尔 [朱峰立],https://tv.iill.top/Migu/8gVwYB
-「斯诺克」19:20 2025西安大奖赛32进16：周跃龙大战威廉姆斯 奥沙利文PK马奎尔 [秦正],https://tv.iill.top/Migu/ZiWqOk
-「斯诺克」19:20 2025西安大奖赛32进16：周跃龙大战威廉姆斯 奥沙利文PK马奎尔 [1号桌],https://tv.iill.top/Migu/omhRJK
-「斯诺克」19:20 2025西安大奖赛32进16：周跃龙大战威廉姆斯 奥沙利文PK马奎尔 [2号桌],https://tv.iill.top/Migu/rKK77T
-「斯诺克」19:20 2025西安大奖赛32进16：周跃龙大战威廉姆斯 奥沙利文PK马奎尔 [3号桌],https://tv.iill.top/Migu/iTsVNf
-「斯诺克」19:20 2025西安大奖赛32进16：周跃龙大战威廉姆斯 奥沙利文PK马奎尔 [4号桌],https://tv.iill.top/Migu/xZtAmI
-「斯诺克」19:20 2025西安大奖赛32进16：周跃龙大战威廉姆斯 奥沙利文PK马奎尔 [5号桌],https://tv.iill.top/Migu/kZ1Im4
-「斯诺克」19:20 2025西安大奖赛32进16：周跃龙大战威廉姆斯 奥沙利文PK马奎尔 [6号桌],https://tv.iill.top/Migu/fZDKrg
-「斯诺克」19:20 2025西安大奖赛32进16：周跃龙大战威廉姆斯 奥沙利文PK马奎尔 [7号桌],https://tv.iill.top/Migu/zTeeE9
-「斯诺克」19:20 2025西安大奖赛32进16：周跃龙大战威廉姆斯 奥沙利文PK马奎尔 [8号桌],https://tv.iill.top/Migu/6vh5o7
-「全国女子篮球锦标赛」19:30 陕西天泽vs新疆天山,https://tv.iill.top/Migu/FrPldq
+「世预亚」07:30 NBA季前赛 马刺VS热火 [全场集锦],https://tv.iill.top/FB/DjlohT
+「NBA」07:30 季前赛 马刺VS热火 [王晓晨],https://tv.iill.top/NBA/Gi2xsw
+「NBA」07:30 季前赛 马刺VS热火 [英文原声],https://tv.iill.top/NBA/hRzCWN
+「NBA」08:00 季前赛 爵士VS火箭 [王冠证],https://tv.iill.top/NBA/YhVMtk
+「NBA」08:00 季前赛 爵士VS火箭 [英文原声],https://tv.iill.top/NBA/nFlOCd
+「NBA」08:00 季前赛 凯尔特人VS灰熊 [邵化谦],https://tv.iill.top/NBA/OGob82
+「NBA」08:00 季前赛 凯尔特人VS灰熊 [英文原声],https://tv.iill.top/NBA/n45F77
+「NBA」10:00 季前赛 开拓者VS勇士 [连睿 周鹏 小七],https://tv.iill.top/NBA/BSE9tg
+「NBA」10:00 季前赛 开拓者VS勇士 [英文原声],https://tv.iill.top/NBA/iNNJzt
+「NBA」10:00 季前赛 猛龙VS国王 [刘芳宇],https://tv.iill.top/NBA/3wqQhV
+「NBA」10:00 季前赛 猛龙VS国王 [英文原声],https://tv.iill.top/NBA/rb3WG1
+「全国女子篮球锦标赛」11:00 别克LPGA高尔夫锦标赛第一轮,https://tv.iill.top/Migu/iOWMDC
+「超三联赛」14:00 贵阳卫星赛 小组赛下午场,https://tv.iill.top/Migu/SURNxp
+「斯诺克」14:00 2025西安大奖赛32进16：丁俊晖囧哥晋级 斯佳辉4 5淘汰,https://tv.iill.top/Migu/0yl50u
+「全国女子篮球锦标赛」15:00 武职5 0武城,https://tv.iill.top/Migu/fHCDhE
+「全国女子篮球锦标赛」18:00 【赛事放映厅】重温2025WTT中国大满贯王曼昱女单夺冠 全力出击！王曼昱问鼎女单,https://tv.iill.top/Migu/FffZwN
+「超三联赛」19:00 贵阳卫星赛 小组赛晚间场,https://tv.iill.top/Migu/Ns5oZj
+「武汉城市足球超级联赛」19:00 武汉理工大学vs武汉大学,https://tv.iill.top/Migu/9WCU20
+「斯诺克」19:20 2025西安大奖赛32进16：周跃龙大战威廉姆斯 奥沙利文PK马奎尔 [朱峰立],https://tv.iill.top/Migu/nmdRzX
+「斯诺克」19:20 2025西安大奖赛32进16：周跃龙大战威廉姆斯 奥沙利文PK马奎尔 [秦正],https://tv.iill.top/Migu/oK5KAA
+「斯诺克」19:20 2025西安大奖赛32进16：周跃龙大战威廉姆斯 奥沙利文PK马奎尔 [1号桌],https://tv.iill.top/Migu/qRtdcO
+「斯诺克」19:20 2025西安大奖赛32进16：周跃龙大战威廉姆斯 奥沙利文PK马奎尔 [2号桌],https://tv.iill.top/Migu/E9hVva
+「斯诺克」19:20 2025西安大奖赛32进16：周跃龙大战威廉姆斯 奥沙利文PK马奎尔 [3号桌],https://tv.iill.top/Migu/dBkLgw
+「斯诺克」19:20 2025西安大奖赛32进16：周跃龙大战威廉姆斯 奥沙利文PK马奎尔 [4号桌],https://tv.iill.top/Migu/81jXho
+「斯诺克」19:20 2025西安大奖赛32进16：周跃龙大战威廉姆斯 奥沙利文PK马奎尔 [5号桌],https://tv.iill.top/Migu/m2WlsS
+「斯诺克」19:20 2025西安大奖赛32进16：周跃龙大战威廉姆斯 奥沙利文PK马奎尔 [6号桌],https://tv.iill.top/Migu/vTwqYX
+「斯诺克」19:20 2025西安大奖赛32进16：周跃龙大战威廉姆斯 奥沙利文PK马奎尔 [7号桌],https://tv.iill.top/Migu/sPSzip
+「斯诺克」19:20 2025西安大奖赛32进16：周跃龙大战威廉姆斯 奥沙利文PK马奎尔 [8号桌],https://tv.iill.top/Migu/FRNhQb
+「全国女子篮球锦标赛」19:30 陕西天泽vs新疆天山,https://tv.iill.top/Migu/FjShCI
 CCTV 1 综合,https://tv.iill.top/x/cctv1
 CCTV 2 财经,https://tv.iill.top/x/cctv2
 CCTV 3 综艺,https://tv.iill.top/x/cctv3
