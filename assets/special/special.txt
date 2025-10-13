@@ -4599,38 +4599,46 @@ CHC 家庭影院「回看」,https://tv.iill.top/migu-1/chcjt
 嘉佳卡通「回看」,https://tv.iill.top/migu-1/jddh
 新动力量创一流「回看」,https://tv.iill.top/migu-1/xdll
 钱塘江「回看」,https://tv.iill.top/migu-1/qtj
-「NBA」03:00 季前赛 猛龙VS奇才 [英文原声],https://tv.iill.top/NBA/fA6A16
-「NBA」06:00 季前赛 热火VS魔术 [25/26赛季季前赛全场集锦：热火104:120魔术（20251013）],https://tv.iill.top/NBA/LLIDQm
-「NBA」06:00 季前赛 热火VS魔术 [刘沛元],https://tv.iill.top/NBA/6NilMj
-「NBA」06:00 季前赛 热火VS魔术 [英文原声],https://tv.iill.top/NBA/L3wiU3
-「NBA」07:00 季前赛 雄鹿VS公牛 [刘圳展],https://tv.iill.top/NBA/NjANxp
-「NBA」07:00 季前赛 雄鹿VS公牛 [英文原声],https://tv.iill.top/NBA/dBRKhC
-「NBA」07:00 季前赛 骑士VS凯尔特人 [季孟年],https://tv.iill.top/NBA/TmrORk
-「NBA」07:00 季前赛 骑士VS凯尔特人 [英文原声],https://tv.iill.top/NBA/AexK9a
-「NBA」09:30 季前赛 掘金VS快船 [全场集锦],https://tv.iill.top/NBA/3dhzE5
-「NBA」09:30 季前赛 掘金VS快船 [周赫],https://tv.iill.top/NBA/LN8zfA
-「NBA」09:30 季前赛 掘金VS快船 [英文原声],https://tv.iill.top/NBA/F3aBDe
-「NBA」09:30 季前赛 勇士VS湖人 [庄宁宇 陈正昊 魏欣怡],https://tv.iill.top/NBA/DjV7Wn
-「NBA」09:30 季前赛 勇士VS湖人 [英文原声],https://tv.iill.top/NBA/brltB6
-「湖南省足球联赛」03:00 NBA季前赛 猛龙VS奇才 [陈鑫隆],https://tv.iill.top/Migu/tfrJko
-「全国女子篮球锦标赛」11:00 败部第二轮 第一场,https://tv.iill.top/Migu/EHszah
-「乒乓球亚锦赛」12:30 ：男女团排位赛、1/4决赛 王楚钦、孙颖莎率国乒力争开门红 [周冠达 侯英超],https://tv.iill.top/Migu/YRRzwa
-「乒乓球亚锦赛」12:30 ：男女团排位赛、1/4决赛 王楚钦、孙颖莎率国乒力争开门红 [石楚阳],https://tv.iill.top/Migu/TgDAtQ
-「WTA」13:00 济南国际网球公开赛 女单、女双第一轮：马烨欣迎战卡辛采娃 施晗PK孙璐璐,https://tv.iill.top/Migu/P9jnNd
-「WTA」13:00 宁波网球公开赛女子单双打第一轮：张帅女双登场 王曦雨迎战施耐德,https://tv.iill.top/Migu/5IayWx
-「斯诺克」14:00 2025西安大奖赛决赛第一阶段：首阶段马克·威廉姆斯 7 1 肖恩·墨菲 [朱蒙],https://tv.iill.top/Migu/cX7nUo
-「斯诺克」14:00 2025西安大奖赛决赛第一阶段：首阶段马克·威廉姆斯 7 1 肖恩·墨菲 [1号桌],https://tv.iill.top/Migu/bQgeXi
-「独牙传奇中式九球大师赛」14:00 败部第二轮 第二场,https://tv.iill.top/Migu/Gy4vDf
-「全国女子篮球锦标赛」17:00 胜部第二轮 第一场,https://tv.iill.top/Migu/maAj9P
-「乒乓球亚锦赛」18:30 男团1/4决赛：中国vs伊朗 王楚钦率中国男团力争开门红 [周冠达 侯英超],https://tv.iill.top/Migu/CJmkBW
-「乒乓球亚锦赛」18:30 男团1/4决赛：中国vs伊朗 王楚钦率中国男团力争开门红 [赛场原声],https://tv.iill.top/Migu/0PwmH3
-「斯诺克」19:20 2025西安大奖赛决赛第二阶段：马克·威廉姆斯 vs 肖恩·墨菲 [柏林],https://tv.iill.top/Migu/VxuBF4
-「斯诺克」19:20 2025西安大奖赛决赛第二阶段：马克·威廉姆斯 vs 肖恩·墨菲 [1号桌],https://tv.iill.top/Migu/X8eLMM
-「全国女子篮球锦标赛」19:30 陕西天泽vs北京首钢,https://tv.iill.top/Migu/HZM36K
-「全国女子篮球锦标赛」19:30 山东赤水河酒vs江苏南钢,https://tv.iill.top/Migu/J2gcnb
-「独牙传奇中式九球大师赛」20:00 胜部第二轮 第二场,https://tv.iill.top/Migu/p9WjaE
-「乒乓球亚锦赛」21:00 女团1/4决赛：中国vsTBD 孙颖莎领衔中国女团冲击4强 [周冠达 侯英超],https://tv.iill.top/Migu/wf1qlu
-「乒乓球亚锦赛」21:00 女团1/4决赛：中国vsTBD 孙颖莎领衔中国女团冲击4强 [赛场原声],https://tv.iill.top/Migu/viCfNA
+「NBA」10/14 06:00 季前赛 热火VS老鹰 [英文原声],https://tv.iill.top/NBA/Hx15Z0
+「NBA」10/14 07:00 季前赛 马刺VS步行者 [罗森],https://tv.iill.top/NBA/4CGmX2
+「NBA」10/14 07:00 季前赛 马刺VS步行者 [英文原声],https://tv.iill.top/NBA/teLyEC
+「NBA」10/14 07:30 季前赛 奇才VS尼克斯 [王凯],https://tv.iill.top/NBA/Tv9jTs
+「NBA」10/14 07:30 季前赛 奇才VS尼克斯 [英文原声],https://tv.iill.top/NBA/mzBcVD
+「NBA」10/14 08:00 季前赛 广州朗肽海本VS森林狼 [张泽欣 季孟年],https://tv.iill.top/NBA/q0nvWQ
+「NBA」10/14 08:00 季前赛 广州朗肽海本VS森林狼 [英文原声],https://tv.iill.top/NBA/ynI3Yj
+「NBA」10/14 09:00 季前赛 独行侠VS爵士 [邵化谦],https://tv.iill.top/NBA/x7rKPX
+「NBA」10/14 09:00 季前赛 独行侠VS爵士 [英文原声],https://tv.iill.top/NBA/VEQah7
+「乒乓球亚锦赛」10/14 06:00 NBA季前赛 热火VS老鹰 [邢晨],https://tv.iill.top/Migu/oOB1bU
+「全国女子篮球锦标赛」10/14 10:00 浙江稠州银行vs武汉盛帆黄鹤,https://tv.iill.top/Migu/GbwfUY
+「独牙传奇中式九球大师赛」10/14 11:00 败部第三轮 第一场,https://tv.iill.top/Migu/UXvzV1
+「乒乓球亚锦赛」10/14 12:30 ：男女团半决赛、排位赛 [周泽昊 侯英超],https://tv.iill.top/Migu/jO6lHK
+「乒乓球亚锦赛」10/14 12:30 ：男女团半决赛、排位赛 [周冠达 刘国正],https://tv.iill.top/Migu/lqMtxZ
+「乒乓球亚锦赛」10/14 12:30 ：男女团半决赛、排位赛 [1号桌],https://tv.iill.top/Migu/ok4Yql
+「乒乓球亚锦赛」10/14 12:30 ：男女团半决赛、排位赛 [2号桌],https://tv.iill.top/Migu/yDLeQh
+「乒乓球亚锦赛」10/14 12:30 ：男女团半决赛、排位赛 [3号桌],https://tv.iill.top/Migu/YVKpro
+「乒乓球亚锦赛」10/14 12:30 ：男女团半决赛、排位赛 [4号桌],https://tv.iill.top/Migu/UiQgd2
+「乒乓球亚锦赛」10/14 12:30 ：男女团半决赛、排位赛 [周泽昊 小马哥],https://tv.iill.top/Migu/O6vAUc
+「WTA」10/14 13:00 济南国际网球公开赛Day10：女单、女双第一轮,https://tv.iill.top/Migu/0cceVm
+「WTA」10/14 13:00 宁波网球公开赛Day2：张帅、朱琳、王欣瑜先后出战 [中心球场],https://tv.iill.top/Migu/hQLOhh
+「WTA」10/14 13:00 宁波网球公开赛Day2：张帅、朱琳、王欣瑜先后出战 [大看台球场],https://tv.iill.top/Migu/8X06Mq
+「WTA」10/14 13:00 宁波网球公开赛Day2：张帅、朱琳、王欣瑜先后出战 [鸿昆],https://tv.iill.top/Migu/Be6qUL
+「WTA」10/14 13:00 宁波网球公开赛Day2：张帅、朱琳、王欣瑜先后出战 [鸿昆],https://tv.iill.top/Migu/uONJkD
+「WTA」10/14 13:00 宁波网球公开赛Day2：张帅、朱琳、王欣瑜先后出战 [刘钟鸣],https://tv.iill.top/Migu/NWIetC
+「WTA」10/14 13:00 宁波网球公开赛Day2：张帅、朱琳、王欣瑜先后出战 [刘钟鸣],https://tv.iill.top/Migu/7rrQZC
+「环广西公路自行车世界巡回赛」10/14 13:05 环广西Stage1：防城港城市绕圈赛,https://tv.iill.top/Migu/darR5i
+「独牙传奇中式九球大师赛」10/14 14:00 败部第三轮 第二场,https://tv.iill.top/Migu/lTRhlT
+「全国女子篮球锦标赛」10/14 14:30 上海浦发银行vs山东赤水河酒,https://tv.iill.top/Migu/3bZnSj
+「全国女子篮球锦标赛」10/14 17:00 辽宁vs江苏南钢,https://tv.iill.top/Migu/OBc34c
+「独牙传奇中式九球大师赛」10/14 17:00 胜部第三轮,https://tv.iill.top/Migu/dDrODn
+「斯诺克」10/14 17:00 苏格兰公开赛资格赛Day1 [1号桌],https://tv.iill.top/Migu/ktmjBN
+「斯诺克」10/14 17:00 苏格兰公开赛资格赛Day1 [2号桌],https://tv.iill.top/Migu/kuLtxQ
+「斯诺克」10/14 17:00 苏格兰公开赛资格赛Day1 [3号桌],https://tv.iill.top/Migu/Bz0OeA
+「斯诺克」10/14 17:00 苏格兰公开赛资格赛Day1 [4号桌],https://tv.iill.top/Migu/FmFcQE
+「斯诺克」10/14 17:00 苏格兰公开赛资格赛Day1 [朱峰立],https://tv.iill.top/Migu/QEKSZH
+「UTS」10/14 18:15 Ultimate Tennis Showdown 香港站Day1 香港站Day1,https://tv.iill.top/Migu/W1yFIQ
+「全国女子篮球锦标赛」10/14 19:30 山西竹叶青酒vs四川远达美乐,https://tv.iill.top/Migu/Hiarvs
+「浙江省城市篮球联赛」10/14 19:30 普陀VS丽水,https://tv.iill.top/Migu/Qv5T5q
+「独牙传奇中式九球大师赛」10/14 20:00 败部第四轮,https://tv.iill.top/Migu/iFpq8y
 CCTV 1 综合,https://tv.iill.top/x/cctv1
 CCTV 2 财经,https://tv.iill.top/x/cctv2
 CCTV 3 综艺,https://tv.iill.top/x/cctv3
