@@ -4851,7 +4851,7 @@ iQIYI,http://php.jdshipin.com/smt.php?id=Qiyi
 Channel 5,http://cdn6.163189.xyz/163189/ch5
 Channel 8,http://cdn6.163189.xyz/163189/ch8
 Channel U,http://cdn6.163189.xyz/163189/chu
-「B站」热门赛事,https://live.iill.top/bilibili/2162281110
+「B站」热门赛事,https://live.iill.top/bilibili/10
 「B站」CS 2,https://live.iill.top/bilibili/21622811
 「虎牙」CS 2,https://live.iill.top/huya/483917
 「B站」英雄联盟,https://live.iill.top/bilibili/6
