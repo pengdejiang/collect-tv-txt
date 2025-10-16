@@ -4599,34 +4599,38 @@ CHC 家庭影院「回看」,https://tv.iill.top/migu-1/chcjt
 嘉佳卡通「回看」,https://tv.iill.top/migu-1/jddh
 新动力量创一流「回看」,https://tv.iill.top/migu-1/xdll
 钱塘江「回看」,https://tv.iill.top/migu-1/qtj
-「NBA」07:00 季前赛 灰熊VS黄蜂 [英文原声],https://tv.iill.top/NBA/neGtL4
-「NBA」07:30 季前赛 猛龙VS凯尔特人 [蔡凯臣],https://tv.iill.top/NBA/x00HHf
-「NBA」07:30 季前赛 猛龙VS凯尔特人 [英文原声],https://tv.iill.top/NBA/xQERt6
-「NBA」10:00 季前赛 快船VS国王 [连睿],https://tv.iill.top/NBA/0JjomC
-「NBA」10:00 季前赛 快船VS国王 [英文原声],https://tv.iill.top/NBA/6lnaBo
-「NBA」10:30 季前赛 独行侠VS湖人 [李天宇 陈正昊 王羽希],https://tv.iill.top/NBA/BZsjcx
-「NBA」10:30 季前赛 独行侠VS湖人 [英文原声供审片],https://tv.iill.top/NBA/M6879I
-「NBA」10:30 季前赛 独行侠VS湖人 [英文原声],https://tv.iill.top/NBA/SmkaTw
-「全国女子篮球锦标赛」07:00 NBA季前赛 灰熊VS黄蜂 [罗森],https://tv.iill.top/Migu/it05Pr
-「中国马协系列赛」09:30 第十二届浪琴表北京国际马术大师赛第一日 北京国际马术大师赛Day1,https://tv.iill.top/Migu/5ts48t
-「全国女子篮球锦标赛」10:00 浙江稠州银行vs山西竹叶青酒,https://tv.iill.top/Migu/w3WTwe
-「WTA」10:30 大阪站第四日：梅尔滕斯、费尔南德斯出战,https://tv.iill.top/Migu/eOEnm0
-「独牙传奇中式九球大师赛」12:00 双败第一轮 64进32双败淘汰,https://tv.iill.top/Migu/d8LHes
-「WTA」13:00 济南国际网球公开赛Day12：高馨妤、马烨欣出战,https://tv.iill.top/Migu/6hE3AS
-「WTA」13:00 宁波网球公开赛Day4：莱巴、保总出战 袁悦PK亚历山德洛娃,https://tv.iill.top/Migu/LTaWgS
-「环广西公路自行车世界巡回赛」13:35 环广西Stage3：靖西 巴马赛段,https://tv.iill.top/Migu/XoIrrw
-「全国女子篮球锦标赛」14:30 上海浦发银行vs辽宁,https://tv.iill.top/Migu/XgnYBw
-「全国女子篮球锦标赛」16:00 东莞新彤盛vs厦门白鹭,https://tv.iill.top/Migu/p15F66
-「斯诺克」17:00 苏格兰公开赛资格赛：白雨露、常冰玉出战 [1号桌],https://tv.iill.top/Migu/WoE3Xv
-「斯诺克」17:00 苏格兰公开赛资格赛：白雨露、常冰玉出战 [2号桌],https://tv.iill.top/Migu/WPEzEg
-「斯诺克」17:00 苏格兰公开赛资格赛：白雨露、常冰玉出战 [3号桌],https://tv.iill.top/Migu/Oix872
-「斯诺克」17:00 苏格兰公开赛资格赛：白雨露、常冰玉出战 [4号桌],https://tv.iill.top/Migu/pUfg3p
-「斯诺克」17:00 苏格兰公开赛资格赛：白雨露、常冰玉出战 [柏林],https://tv.iill.top/Migu/lvDDuy
-「全国女子篮球锦标赛」17:00 江苏南钢vs山东赤水河酒,https://tv.iill.top/Migu/ADTibw
-「独牙传奇中式九球大师赛」18:00 胜部第二轮、败部第二轮 64进32双败淘汰,https://tv.iill.top/Migu/RgORZ1
-「浙江省城市篮球联赛」19:30 苍南VS永康,https://tv.iill.top/Migu/cliAGp
-「全国女子篮球锦标赛」19:30 四川远达美乐vs武汉盛帆黄鹤,https://tv.iill.top/Migu/wLVFwQ
-「全国女子篮球锦标赛」19:30 新疆天山vs赣州赣星,https://tv.iill.top/Migu/DNzUbW
+「NBA」07:00 季前赛 灰熊VS黄蜂 [英文原声],https://tv.iill.top/NBA/w2vEep
+「NBA」07:30 季前赛 猛龙VS凯尔特人 [蔡凯臣],https://tv.iill.top/NBA/HxzuD8
+「NBA」07:30 季前赛 猛龙VS凯尔特人 [英文原声],https://tv.iill.top/NBA/0Tzurh
+「NBA」10:00 季前赛 快船VS国王 [连睿],https://tv.iill.top/NBA/L9JlOk
+「NBA」10:00 季前赛 快船VS国王 [英文原声],https://tv.iill.top/NBA/4RQcyb
+「NBA」10:30 季前赛 独行侠VS湖人 [洛杉矶快船vs萨克拉门托国王(连睿)],https://tv.iill.top/NBA/kJGa2i
+「NBA」10:30 季前赛 独行侠VS湖人 [英文原声],https://tv.iill.top/NBA/ZkS0DC
+「全国女子篮球锦标赛」07:00 NBA季前赛 灰熊VS黄蜂 [罗森],https://tv.iill.top/Migu/eCSuUJ
+「中国马协系列赛」09:30 第十二届浪琴表北京国际马术大师赛第一日 北京国际马术大师赛Day1,https://tv.iill.top/Migu/D4plgA
+「全国女子篮球锦标赛」10:30 NBA季前赛 独行侠VS湖人 [李天宇 陈正昊 王羽希],https://tv.iill.top/Migu/IIOgZy
+「WTA」10:30 大阪站第四日：梅尔滕斯、费尔南德斯出战,https://tv.iill.top/Migu/D0UVtX
+「WTA」11:30 济南国际网球公开赛Day12：高馨妤、马烨欣出战,https://tv.iill.top/Migu/lwJajb
+「独牙传奇中式九球大师赛」12:00 双败第一轮 64进32双败淘汰,https://tv.iill.top/Migu/L0ZiJx
+「WTA」13:00 宁波网球公开赛Day4：莱巴、保总出战 袁悦PK亚历山德洛娃 [鸿昆],https://tv.iill.top/Migu/Huhr7c
+「WTA」13:00 宁波网球公开赛Day4：莱巴、保总出战 袁悦PK亚历山德洛娃 [鸿昆],https://tv.iill.top/Migu/Tn0pAx
+「WTA」13:00 宁波网球公开赛Day4：莱巴、保总出战 袁悦PK亚历山德洛娃 [佟艺],https://tv.iill.top/Migu/y6DxFp
+「WTA」13:00 宁波网球公开赛Day4：莱巴、保总出战 袁悦PK亚历山德洛娃 [中心球场],https://tv.iill.top/Migu/97XLRg
+「WTA」13:00 宁波网球公开赛Day4：莱巴、保总出战 袁悦PK亚历山德洛娃 [大看台球场],https://tv.iill.top/Migu/K4Jtlo
+「WTA」13:00 宁波网球公开赛Day4：莱巴、保总出战 袁悦PK亚历山德洛娃 [李宁],https://tv.iill.top/Migu/4toz1l
+「环广西公路自行车世界巡回赛」13:35 环广西Stage3：靖西 巴马赛段,https://tv.iill.top/Migu/YuVho2
+「全国女子篮球锦标赛」14:30 上海浦发银行vs辽宁,https://tv.iill.top/Migu/QjA20N
+「全国女子篮球锦标赛」16:00 东莞新彤盛vs厦门白鹭,https://tv.iill.top/Migu/QdExCJ
+「斯诺克」17:00 苏格兰公开赛资格赛：白雨露、常冰玉出战 [切换桌次],https://tv.iill.top/Migu/aYA7ul
+「斯诺克」17:00 苏格兰公开赛资格赛：白雨露、常冰玉出战 [1号桌],https://tv.iill.top/Migu/pDvD7T
+「斯诺克」17:00 苏格兰公开赛资格赛：白雨露、常冰玉出战 [2号桌],https://tv.iill.top/Migu/OFdFWw
+「斯诺克」17:00 苏格兰公开赛资格赛：白雨露、常冰玉出战 [3号桌],https://tv.iill.top/Migu/9ct6eh
+「斯诺克」17:00 苏格兰公开赛资格赛：白雨露、常冰玉出战 [4号桌],https://tv.iill.top/Migu/cn1ts0
+「全国女子篮球锦标赛」17:00 江苏南钢vs山东赤水河酒,https://tv.iill.top/Migu/x2epGa
+「独牙传奇中式九球大师赛」18:00 胜部第二轮、败部第二轮 64进32双败淘汰,https://tv.iill.top/Migu/wXJDNV
+「浙江省城市篮球联赛」19:30 苍南VS永康,https://tv.iill.top/Migu/imkKOG
+「全国女子篮球锦标赛」19:30 四川远达美乐vs武汉盛帆黄鹤,https://tv.iill.top/Migu/0708UY
+「全国女子篮球锦标赛」19:30 新疆天山vs赣州赣星,https://tv.iill.top/Migu/jZ888p
 CCTV 1 综合,https://tv.iill.top/x/cctv1
 CCTV 2 财经,https://tv.iill.top/x/cctv2
 CCTV 3 综艺,https://tv.iill.top/x/cctv3
