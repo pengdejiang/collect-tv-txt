@@ -4599,110 +4599,111 @@ CHC 家庭影院「回看」,https://tv.iill.top/migu-1/chcjt
 嘉佳卡通「回看」,https://tv.iill.top/migu-1/jddh
 新动力量创一流「回看」,https://tv.iill.top/migu-1/xdll
 钱塘江「回看」,https://tv.iill.top/migu-1/qtj
-「西甲」04:00 联赛 皇家贝蒂斯 vs 马德里竞技 [张昊泽 李欣],https://tv.iill.top/FB/ymZOQ8
-「西甲」04:00 联赛 皇家贝蒂斯 vs 马德里竞技 [AI视角],https://tv.iill.top/FB/pKSYhK
-「西甲」04:00 联赛 皇家贝蒂斯 vs 马德里竞技 [赛场原声],https://tv.iill.top/FB/5NdE3q
-「西甲」04:00 联赛 皇家贝蒂斯 vs 马德里竞技 [张昊泽 李欣],https://tv.iill.top/FB/Bew8tw
-「NBA」07:00 常规赛 魔术VS76人 [盛哲],https://tv.iill.top/NBA/hdG0xn
-「NBA」07:00 常规赛 魔术VS76人 [英文原声],https://tv.iill.top/NBA/XqwNWl
-「NBA」07:00 常规赛 骑士VS活塞 [刘圳展],https://tv.iill.top/NBA/mB4kNh
-「NBA」07:00 常规赛 骑士VS活塞 [英文原声],https://tv.iill.top/NBA/ON3qPu
-「NBA」08:00 常规赛 凯尔特人VS鹈鹕 [季孟年],https://tv.iill.top/NBA/ST4WhQ
-「NBA」08:00 常规赛 凯尔特人VS鹈鹕 [英文原声],https://tv.iill.top/NBA/MWILVX
-「NBA」08:00 常规赛 猛龙VS马刺 [王晓晨],https://tv.iill.top/NBA/hHRzVi
-「NBA」08:00 常规赛 猛龙VS马刺 [英文原声],https://tv.iill.top/NBA/G7whRK
-「NBA」08:00 常规赛 老鹰VS公牛 [张泽欣],https://tv.iill.top/NBA/bdHlEz
-「NBA」08:00 常规赛 老鹰VS公牛 [英文原声],https://tv.iill.top/NBA/CvGgwf
-「NBA」08:00 常规赛 篮网VS火箭 [连睿],https://tv.iill.top/NBA/oE4qbz
-「NBA」08:00 常规赛 篮网VS火箭 [英文原声],https://tv.iill.top/NBA/Tunag8
-「NBA」08:30 常规赛 雷霆VS独行侠 [姜帆 闫宇峰],https://tv.iill.top/NBA/wu2Rky
-「NBA」08:30 常规赛 雷霆VS独行侠 [英文原声],https://tv.iill.top/NBA/rsR94S
-「NBA」09:00 常规赛 太阳VS爵士 [殷文玉],https://tv.iill.top/NBA/5cYxj6
-「NBA」09:00 常规赛 太阳VS爵士 [英文原声],https://tv.iill.top/NBA/xegDFr
-「NBA」09:30 常规赛 掘金VS森林狼 [蔡凯臣 王润陶],https://tv.iill.top/NBA/cBbebS
-「NBA」09:30 常规赛 掘金VS森林狼 [英文原声],https://tv.iill.top/NBA/FRmPJy
-「NBA」10:00 常规赛 灰熊VS勇士 [王冠证 徐咏 魏欣怡],https://tv.iill.top/NBA/EqctoS
-「NBA」10:00 常规赛 灰熊VS勇士 [英文原声],https://tv.iill.top/NBA/jY6WV5
-「NBA」10:00 常规赛 灰熊VS勇士 [董倡硕],https://tv.iill.top/NBA/MwyaYu
-「NBA」10:30 常规赛 开拓者VS湖人 [杨健 苏群 李根],https://tv.iill.top/NBA/UIPUBa
-「NBA」10:30 常规赛 开拓者VS湖人 [郑泽鹏],https://tv.iill.top/NBA/etTVXR
-「NBA」10:30 常规赛 开拓者VS湖人 [邢晨],https://tv.iill.top/NBA/cC8WGx
-「NBA」10:30 常规赛 开拓者VS湖人 [莫俊祺],https://tv.iill.top/NBA/dd0dnT
-「NBA」10:30 常规赛 开拓者VS湖人 [洪荒],https://tv.iill.top/NBA/tfOK74
-「NBA」10:30 常规赛 开拓者VS湖人 [英文原声],https://tv.iill.top/NBA/QCbth8
-「世界跆拳道锦标赛」09:00 2025年第5日 刁李星君、宋洁出战,https://tv.iill.top/Migu/O3weBX
-「WTA」11:00 江西网球公开赛正赛Day2:朱琳领衔出战 袁悦、白卓璇登场,https://tv.iill.top/Migu/mI5nnO
-「和美乡村篮球赛」15:00 2025福建“村BA”篮球赛DAY2,https://tv.iill.top/Migu/Vn1zhr
-「浙江省城市篮球联赛」19:30 长兴VS台州湾新区,https://tv.iill.top/Migu/lvS27Z
-「WTT」20:00 蒙彼利埃冠军赛：男女单打1/16决赛 陈幸同冲首胜 温瑞博迎战吴晙诚 [小马哥 周泽昊],https://tv.iill.top/Migu/z2MWys
-「WTT」20:00 蒙彼利埃冠军赛：男女单打1/16决赛 陈幸同冲首胜 温瑞博迎战吴晙诚 [赛场原声],https://tv.iill.top/Migu/DS0Svt
-「WTT」20:00 蒙彼利埃冠军赛：男女单打1/16决赛 陈幸同冲首胜 温瑞博迎战吴晙诚 [英文解说],https://tv.iill.top/Migu/4P8Zhn
-「WTT」20:00 蒙彼利埃冠军赛：男女单打1/16决赛 陈幸同冲首胜 温瑞博迎战吴晙诚 [小马哥 周泽昊],https://tv.iill.top/Migu/YHKFxy
-「WTT」20:00 蒙彼利埃冠军赛：男女单打1/16决赛 陈幸同冲首胜 温瑞博迎战吴晙诚 [智能字幕],https://tv.iill.top/Migu/N1SBX8
-「WTT」20:00 蒙彼利埃冠军赛：男女单打1/16决赛 陈幸同冲首胜 温瑞博迎战吴晙诚 [小马哥 周泽昊],https://tv.iill.top/Migu/r5vHDo
-「法甲」10/27 00:15 联赛 欧塞尔 vs 勒阿弗尔 [邵煊],https://tv.iill.top/HuiK/AYh3Ei
-「法甲」10/27 00:15 联赛 欧塞尔 vs 勒阿弗尔 [赛场原声],https://tv.iill.top/HuiK/3AxVs2
-「法甲」10/27 00:15 联赛 雷恩 vs 尼斯 [盛斌],https://tv.iill.top/HuiK/jcGk0r
-「法甲」10/27 00:15 联赛 雷恩 vs 尼斯 [赛场原声],https://tv.iill.top/HuiK/nr3DQU
-「法甲」10/27 00:15 联赛 昂热 vs 洛里昂 [李永熙],https://tv.iill.top/HuiK/nAqGPX
-「法甲」10/27 00:15 联赛 昂热 vs 洛里昂 [赛场原声],https://tv.iill.top/HuiK/vZ5Coe
-「英超」10/27 00:30 联赛 埃弗顿 vs 托特纳姆热刺 [娄一晨 刘越 邵凌霄],https://tv.iill.top/HuiK/t164UR
-「英超」10/27 00:30 联赛 埃弗顿 vs 托特纳姆热刺 [英文原声],https://tv.iill.top/HuiK/2BLtZP
-「英超」10/27 00:30 联赛 埃弗顿 vs 托特纳姆热刺 [4K赛场原声],https://tv.iill.top/HuiK/IaEr8J
-「英超」10/27 00:30 联赛 埃弗顿 vs 托特纳姆热刺 [战术视角],https://tv.iill.top/HuiK/Aihseg
-「德甲」10/27 00:30 联赛 斯图加特 vs 美因茨 [赵宇],https://tv.iill.top/HuiK/ciHUST
-「德甲」10/27 00:30 联赛 斯图加特 vs 美因茨 [赛场原声],https://tv.iill.top/HuiK/cFeAs2
-「意甲」10/27 01:00 联赛 佛罗伦萨 vs 博洛尼亚 [涂远],https://tv.iill.top/HuiK/2elq3s
-「意甲」10/27 01:00 联赛 佛罗伦萨 vs 博洛尼亚 [赛场原声],https://tv.iill.top/HuiK/7iwbyq
-「WTT」10/27 01:00 伦敦球星挑战赛：男女单打决赛 美和问鼎女单 邱党力克张本智和夺冠 [周冠达],https://tv.iill.top/HuiK/d5kDAo
-「WTT」10/27 01:00 伦敦球星挑战赛：男女单打决赛 美和问鼎女单 邱党力克张本智和夺冠 [赛场原声],https://tv.iill.top/HuiK/yFHq4W
-「WTT」10/27 01:00 伦敦球星挑战赛：男女单打决赛 美和问鼎女单 邱党力克张本智和夺冠 [智能字幕],https://tv.iill.top/HuiK/LGoaFi
-「WTT」10/27 01:00 伦敦球星挑战赛：男女单打决赛 美和问鼎女单 邱党力克张本智和夺冠 [周冠达],https://tv.iill.top/HuiK/ZTeRed
-「西甲」10/27 01:30 联赛 奥萨苏纳 vs 塞尔塔 [张天翼],https://tv.iill.top/HuiK/vYejlK
-「西甲」10/27 01:30 联赛 奥萨苏纳 vs 塞尔塔 [赛场原声],https://tv.iill.top/HuiK/Pie1mG
-「NBA」10/27 02:00 常规赛 篮网VS马刺 [金哲豪],https://tv.iill.top/HuiK/mEdiAR
-「NBA」10/27 02:00 常规赛 篮网VS马刺 [英文原声],https://tv.iill.top/HuiK/sBepj4
-「斯诺克」10/27 03:00 北爱尔兰公开赛决赛：利索夫斯基夺生涯首冠 [1号桌],https://tv.iill.top/HuiK/FJ8Ju4
-「斯诺克」10/27 03:00 北爱尔兰公开赛决赛：利索夫斯基夺生涯首冠 [朱蒙],https://tv.iill.top/HuiK/gP4Nrq
-「NBA」10/27 03:30 常规赛 凯尔特人VS活塞 [25/26赛季常规赛全场集锦：凯尔特人113:119活塞],https://tv.iill.top/HuiK/NZrBNf
-「NBA」10/27 03:30 常规赛 凯尔特人VS活塞 [董倡硕],https://tv.iill.top/HuiK/zpJeFo
-「NBA」10/27 03:30 常规赛 凯尔特人VS活塞 [英文原声],https://tv.iill.top/HuiK/ddpKkz
-「法甲」10/27 03:45 联赛 里昂 vs 斯特拉斯堡 [李秉昊],https://tv.iill.top/HuiK/x5hLOB
-「法甲」10/27 03:45 联赛 里昂 vs 斯特拉斯堡 [赛场原声],https://tv.iill.top/HuiK/DVJVOd
-「意甲」10/27 03:45 联赛 拉齐奥 vs 尤文图斯 [吴桐 刘腾],https://tv.iill.top/HuiK/uaU8Cn
-「意甲」10/27 03:45 联赛 拉齐奥 vs 尤文图斯 [赛场原声],https://tv.iill.top/HuiK/Fq5Y0k
-「意甲」10/27 03:45 联赛 拉齐奥 vs 尤文图斯 [吴桐 刘腾],https://tv.iill.top/HuiK/cjBtRy
-「西甲」10/27 04:00 联赛 巴列卡诺 vs 阿拉维斯 [周楚雄],https://tv.iill.top/HuiK/MxLMPx
-「西甲」10/27 04:00 联赛 巴列卡诺 vs 阿拉维斯 [赛场原声],https://tv.iill.top/HuiK/7Mylcg
-「NBA」10/27 06:00 常规赛 尼克斯VS热火 [殷文玉],https://tv.iill.top/HuiK/BNecyC
-「NBA」10/27 06:00 常规赛 尼克斯VS热火 [英文原声],https://tv.iill.top/HuiK/Fx30k1
-「NBA」10/27 06:00 常规赛 黄蜂VS奇才 [刘沛元],https://tv.iill.top/HuiK/bfrANV
-「NBA」10/27 06:00 常规赛 黄蜂VS奇才 [英文原声],https://tv.iill.top/HuiK/yzNek6
-「NBA」10/27 06:00 常规赛 雄鹿VS骑士 [刘圳展],https://tv.iill.top/HuiK/y5gLhZ
-「NBA」10/27 06:00 常规赛 雄鹿VS骑士 [英文原声],https://tv.iill.top/HuiK/g6nGpj
-「NBA」10/27 07:00 常规赛 步行者VS森林狼 [罗森],https://tv.iill.top/HuiK/KNqcMM
-「NBA」10/27 07:00 常规赛 步行者VS森林狼 [英文原声],https://tv.iill.top/HuiK/DcYZ6W
-「NBA」10/27 07:30 常规赛 猛龙VS独行侠 [盛哲],https://tv.iill.top/HuiK/8wSq5y
-「NBA」10/27 07:30 常规赛 猛龙VS独行侠 [英文原声],https://tv.iill.top/HuiK/NDo0fD
-「NBA」10/27 09:00 常规赛 开拓者VS快船 [连睿 苏群 李根],https://tv.iill.top/HuiK/3hD50H
-「NBA」10/27 09:00 常规赛 开拓者VS快船 [邢晨],https://tv.iill.top/HuiK/I0GVIf
-「NBA」10/27 09:00 常规赛 开拓者VS快船 [大史],https://tv.iill.top/HuiK/SHHIev
-「NBA」10/27 09:00 常规赛 开拓者VS快船 [同看湖人],https://tv.iill.top/HuiK/ew4umC
-「NBA」10/27 09:00 常规赛 开拓者VS快船 [莫俊祺],https://tv.iill.top/HuiK/T7Mijn
-「NBA」10/27 09:00 常规赛 开拓者VS快船 [洪荒],https://tv.iill.top/HuiK/eBzftZ
-「NBA」10/27 09:00 常规赛 开拓者VS快船 [英文原声],https://tv.iill.top/HuiK/eF492p
-「NBA」10/27 09:00 常规赛 湖人VS国王 [全场集锦],https://tv.iill.top/HuiK/jbLswr
-「NBA」10/27 09:00 常规赛 湖人VS国王 [李天宇 陈正昊 王羽希],https://tv.iill.top/HuiK/UABRDs
-「NBA」10/27 09:00 常规赛 湖人VS国王 [郑泽鹏],https://tv.iill.top/HuiK/swjagq
-「NBA」10/27 09:00 常规赛 湖人VS国王 [同看开拓者],https://tv.iill.top/HuiK/3QV2dD
-「NBA」10/27 09:00 常规赛 湖人VS国王 [英文原声],https://tv.iill.top/HuiK/hXPiID
-「WTA」10/27 11:00 江西网球公开赛正赛Day1：郭涵煜逆转取胜 郑妩双强势晋级,https://tv.iill.top/HuiK/rCp0Nx
-「全运会」10/27 14:00 水球 男子7 8名排位赛,https://tv.iill.top/HuiK/DGeGAB
-「全运会」10/27 15:30 水球 男子5 6名排位赛,https://tv.iill.top/HuiK/otVysU
-「世界跆拳道锦标赛」10/27 17:30 2025年第4日 项启彰获男子80公斤级银牌,https://tv.iill.top/HuiK/a3vzrd
-「全运会」10/27 18:00 水球 男子铜牌赛,https://tv.iill.top/HuiK/EFto3L
-「和美乡村篮球赛」10/27 18:30 2025福建“村BA”篮球赛DAY1,https://tv.iill.top/HuiK/dHr39S
-「全运会」10/27 19:30 水球 男子金牌赛,https://tv.iill.top/HuiK/lFw9mT
+「西甲」04:00 联赛 皇家贝蒂斯 vs 马德里竞技 [张昊泽 李欣],https://tv.iill.top/FB/EH44dN
+「西甲」04:00 联赛 皇家贝蒂斯 vs 马德里竞技 [AI视角],https://tv.iill.top/FB/eqpuPc
+「西甲」04:00 联赛 皇家贝蒂斯 vs 马德里竞技 [赛场原声],https://tv.iill.top/FB/l7R74J
+「西甲」04:00 联赛 皇家贝蒂斯 vs 马德里竞技 [张昊泽 李欣],https://tv.iill.top/FB/YPHAa1
+「NBA」07:00 常规赛 魔术VS76人 [盛哲],https://tv.iill.top/NBA/nA7ebO
+「NBA」07:00 常规赛 魔术VS76人 [英文原声],https://tv.iill.top/NBA/16c28f
+「NBA」07:00 常规赛 骑士VS活塞 [25/26赛季常规赛全场集锦：骑士116:95活塞（20251028）],https://tv.iill.top/NBA/MGzalS
+「NBA」07:00 常规赛 骑士VS活塞 [刘圳展],https://tv.iill.top/NBA/W2m3nj
+「NBA」07:00 常规赛 骑士VS活塞 [英文原声],https://tv.iill.top/NBA/xHMWjs
+「NBA」08:00 常规赛 凯尔特人VS鹈鹕 [季孟年],https://tv.iill.top/NBA/BXTEYq
+「NBA」08:00 常规赛 凯尔特人VS鹈鹕 [英文原声],https://tv.iill.top/NBA/H6xzzf
+「NBA」08:00 常规赛 猛龙VS马刺 [王晓晨],https://tv.iill.top/NBA/zIpnrH
+「NBA」08:00 常规赛 猛龙VS马刺 [英文原声],https://tv.iill.top/NBA/eDIFBB
+「NBA」08:00 常规赛 老鹰VS公牛 [张泽欣],https://tv.iill.top/NBA/z9LekX
+「NBA」08:00 常规赛 老鹰VS公牛 [英文原声],https://tv.iill.top/NBA/sFqA5j
+「NBA」08:00 常规赛 篮网VS火箭 [连睿],https://tv.iill.top/NBA/aG3EWp
+「NBA」08:00 常规赛 篮网VS火箭 [英文原声],https://tv.iill.top/NBA/cPYWpk
+「NBA」08:30 常规赛 雷霆VS独行侠 [25/26赛季常规赛全场集锦：雷霆101:94独行侠（20251028）],https://tv.iill.top/NBA/NzzxLJ
+「NBA」08:30 常规赛 雷霆VS独行侠 [姜帆 闫宇峰],https://tv.iill.top/NBA/Ad5Wwi
+「NBA」08:30 常规赛 雷霆VS独行侠 [英文原声],https://tv.iill.top/NBA/8Btrhe
+「NBA」09:00 常规赛 太阳VS爵士 [殷文玉],https://tv.iill.top/NBA/P89ULv
+「NBA」09:00 常规赛 太阳VS爵士 [英文原声],https://tv.iill.top/NBA/l0fWHm
+「NBA」09:30 常规赛 掘金VS森林狼 [蔡凯臣 王润陶],https://tv.iill.top/NBA/ZIkS2y
+「NBA」09:30 常规赛 掘金VS森林狼 [英文原声],https://tv.iill.top/NBA/BUbP5P
+「NBA」10:00 常规赛 灰熊VS勇士 [王冠证 徐咏 魏欣怡],https://tv.iill.top/NBA/ohBVHP
+「NBA」10:00 常规赛 灰熊VS勇士 [英文原声],https://tv.iill.top/NBA/YESJC1
+「NBA」10:00 常规赛 灰熊VS勇士 [董倡硕],https://tv.iill.top/NBA/EZ3SV8
+「NBA」10:30 常规赛 开拓者VS湖人 [杨健 苏群 李根],https://tv.iill.top/NBA/YgMkCa
+「NBA」10:30 常规赛 开拓者VS湖人 [郑泽鹏],https://tv.iill.top/NBA/t0EHeG
+「NBA」10:30 常规赛 开拓者VS湖人 [邢晨],https://tv.iill.top/NBA/XYSgd3
+「NBA」10:30 常规赛 开拓者VS湖人 [莫俊祺],https://tv.iill.top/NBA/nB2dSa
+「NBA」10:30 常规赛 开拓者VS湖人 [洪荒],https://tv.iill.top/NBA/TtDHWk
+「NBA」10:30 常规赛 开拓者VS湖人 [英文原声],https://tv.iill.top/NBA/A9mpNF
+「世界跆拳道锦标赛」09:00 2025年第5日 刁李星君、宋洁出战,https://tv.iill.top/Migu/BUERGl
+「WTA」11:00 江西网球公开赛正赛Day2:朱琳领衔出战 袁悦、白卓璇登场 朱琳PK帕克斯,https://tv.iill.top/Migu/U86oZ5
+「和美乡村篮球赛」15:00 2025福建“村BA”篮球赛DAY2,https://tv.iill.top/Migu/NFDuUM
+「浙江省城市篮球联赛」19:30 长兴VS台州湾新区,https://tv.iill.top/Migu/i9sAaw
+「WTT」20:00 蒙彼利埃冠军赛：男女单打1/16决赛 陈幸同冲首胜 温瑞博迎战吴晙诚 [小马哥 周泽昊],https://tv.iill.top/Migu/yHYles
+「WTT」20:00 蒙彼利埃冠军赛：男女单打1/16决赛 陈幸同冲首胜 温瑞博迎战吴晙诚 [赛场原声],https://tv.iill.top/Migu/prlUFh
+「WTT」20:00 蒙彼利埃冠军赛：男女单打1/16决赛 陈幸同冲首胜 温瑞博迎战吴晙诚 [智能字幕],https://tv.iill.top/Migu/B3aF65
+「WTT」20:00 蒙彼利埃冠军赛：男女单打1/16决赛 陈幸同冲首胜 温瑞博迎战吴晙诚 [小马哥 周泽昊],https://tv.iill.top/Migu/mPoHpd
+「WTT」20:00 蒙彼利埃冠军赛：男女单打1/16决赛 陈幸同冲首胜 温瑞博迎战吴晙诚 [小马哥 周泽昊],https://tv.iill.top/Migu/9URA27
+「法甲」10/27 00:15 联赛 欧塞尔 vs 勒阿弗尔 [邵煊],https://tv.iill.top/HuiK/ZJpvod
+「法甲」10/27 00:15 联赛 欧塞尔 vs 勒阿弗尔 [赛场原声],https://tv.iill.top/HuiK/2cwUo9
+「法甲」10/27 00:15 联赛 雷恩 vs 尼斯 [盛斌],https://tv.iill.top/HuiK/GCP6SL
+「法甲」10/27 00:15 联赛 雷恩 vs 尼斯 [赛场原声],https://tv.iill.top/HuiK/fPxvpP
+「法甲」10/27 00:15 联赛 昂热 vs 洛里昂 [李永熙],https://tv.iill.top/HuiK/gSFxz5
+「法甲」10/27 00:15 联赛 昂热 vs 洛里昂 [赛场原声],https://tv.iill.top/HuiK/O5FCOk
+「英超」10/27 00:30 联赛 埃弗顿 vs 托特纳姆热刺 [娄一晨 刘越 邵凌霄],https://tv.iill.top/HuiK/ewb433
+「英超」10/27 00:30 联赛 埃弗顿 vs 托特纳姆热刺 [英文原声],https://tv.iill.top/HuiK/wLKkja
+「英超」10/27 00:30 联赛 埃弗顿 vs 托特纳姆热刺 [4K赛场原声],https://tv.iill.top/HuiK/x1AFp6
+「英超」10/27 00:30 联赛 埃弗顿 vs 托特纳姆热刺 [战术视角],https://tv.iill.top/HuiK/hM4yCA
+「德甲」10/27 00:30 联赛 斯图加特 vs 美因茨 [赵宇],https://tv.iill.top/HuiK/MaqJhc
+「德甲」10/27 00:30 联赛 斯图加特 vs 美因茨 [赛场原声],https://tv.iill.top/HuiK/buo5a7
+「意甲」10/27 01:00 联赛 佛罗伦萨 vs 博洛尼亚 [涂远],https://tv.iill.top/HuiK/XtdmsB
+「意甲」10/27 01:00 联赛 佛罗伦萨 vs 博洛尼亚 [赛场原声],https://tv.iill.top/HuiK/US6Yo1
+「WTT」10/27 01:00 伦敦球星挑战赛：男女单打决赛 美和问鼎女单 邱党力克张本智和夺冠 [周冠达],https://tv.iill.top/HuiK/2ry7zp
+「WTT」10/27 01:00 伦敦球星挑战赛：男女单打决赛 美和问鼎女单 邱党力克张本智和夺冠 [赛场原声],https://tv.iill.top/HuiK/VisnjS
+「WTT」10/27 01:00 伦敦球星挑战赛：男女单打决赛 美和问鼎女单 邱党力克张本智和夺冠 [智能字幕],https://tv.iill.top/HuiK/stQYTb
+「WTT」10/27 01:00 伦敦球星挑战赛：男女单打决赛 美和问鼎女单 邱党力克张本智和夺冠 [周冠达],https://tv.iill.top/HuiK/I0OH2i
+「西甲」10/27 01:30 联赛 奥萨苏纳 vs 塞尔塔 [张天翼],https://tv.iill.top/HuiK/7bEt2A
+「西甲」10/27 01:30 联赛 奥萨苏纳 vs 塞尔塔 [赛场原声],https://tv.iill.top/HuiK/epILhI
+「NBA」10/27 02:00 常规赛 篮网VS马刺 [金哲豪],https://tv.iill.top/HuiK/iROdpA
+「NBA」10/27 02:00 常规赛 篮网VS马刺 [英文原声],https://tv.iill.top/HuiK/vCkhG6
+「斯诺克」10/27 03:00 北爱尔兰公开赛决赛：利索夫斯基夺生涯首冠 [1号桌],https://tv.iill.top/HuiK/WehHXm
+「斯诺克」10/27 03:00 北爱尔兰公开赛决赛：利索夫斯基夺生涯首冠 [朱蒙],https://tv.iill.top/HuiK/fKLeLi
+「NBA」10/27 03:30 常规赛 凯尔特人VS活塞 [25/26赛季常规赛全场集锦：凯尔特人113:119活塞],https://tv.iill.top/HuiK/CMaPql
+「NBA」10/27 03:30 常规赛 凯尔特人VS活塞 [董倡硕],https://tv.iill.top/HuiK/ssRncT
+「NBA」10/27 03:30 常规赛 凯尔特人VS活塞 [英文原声],https://tv.iill.top/HuiK/r9KeVf
+「法甲」10/27 03:45 联赛 里昂 vs 斯特拉斯堡 [李秉昊],https://tv.iill.top/HuiK/hbL6w1
+「法甲」10/27 03:45 联赛 里昂 vs 斯特拉斯堡 [赛场原声],https://tv.iill.top/HuiK/1ltGUk
+「意甲」10/27 03:45 联赛 拉齐奥 vs 尤文图斯 [吴桐 刘腾],https://tv.iill.top/HuiK/X02Us6
+「意甲」10/27 03:45 联赛 拉齐奥 vs 尤文图斯 [赛场原声],https://tv.iill.top/HuiK/MzG4Th
+「意甲」10/27 03:45 联赛 拉齐奥 vs 尤文图斯 [吴桐 刘腾],https://tv.iill.top/HuiK/4nvuyf
+「西甲」10/27 04:00 联赛 巴列卡诺 vs 阿拉维斯 [周楚雄],https://tv.iill.top/HuiK/VxbKvi
+「西甲」10/27 04:00 联赛 巴列卡诺 vs 阿拉维斯 [赛场原声],https://tv.iill.top/HuiK/Wk6YGb
+「NBA」10/27 06:00 常规赛 尼克斯VS热火 [殷文玉],https://tv.iill.top/HuiK/EqBAOA
+「NBA」10/27 06:00 常规赛 尼克斯VS热火 [英文原声],https://tv.iill.top/HuiK/c8G8NJ
+「NBA」10/27 06:00 常规赛 黄蜂VS奇才 [刘沛元],https://tv.iill.top/HuiK/uDoFGN
+「NBA」10/27 06:00 常规赛 黄蜂VS奇才 [英文原声],https://tv.iill.top/HuiK/CizGEQ
+「NBA」10/27 06:00 常规赛 雄鹿VS骑士 [刘圳展],https://tv.iill.top/HuiK/hKdR4B
+「NBA」10/27 06:00 常规赛 雄鹿VS骑士 [英文原声],https://tv.iill.top/HuiK/HqXnVg
+「NBA」10/27 07:00 常规赛 步行者VS森林狼 [罗森],https://tv.iill.top/HuiK/sDAVMu
+「NBA」10/27 07:00 常规赛 步行者VS森林狼 [英文原声],https://tv.iill.top/HuiK/bZuR63
+「NBA」10/27 07:30 常规赛 猛龙VS独行侠 [盛哲],https://tv.iill.top/HuiK/j0NTf8
+「NBA」10/27 07:30 常规赛 猛龙VS独行侠 [英文原声],https://tv.iill.top/HuiK/cXQpie
+「NBA」10/27 09:00 常规赛 开拓者VS快船 [连睿 苏群 李根],https://tv.iill.top/HuiK/YIHTxR
+「NBA」10/27 09:00 常规赛 开拓者VS快船 [邢晨],https://tv.iill.top/HuiK/0EJ2nN
+「NBA」10/27 09:00 常规赛 开拓者VS快船 [大史],https://tv.iill.top/HuiK/jKit34
+「NBA」10/27 09:00 常规赛 开拓者VS快船 [同看湖人],https://tv.iill.top/HuiK/fVW4sk
+「NBA」10/27 09:00 常规赛 开拓者VS快船 [莫俊祺],https://tv.iill.top/HuiK/Pg7ZSY
+「NBA」10/27 09:00 常规赛 开拓者VS快船 [洪荒],https://tv.iill.top/HuiK/oyyjPN
+「NBA」10/27 09:00 常规赛 开拓者VS快船 [英文原声],https://tv.iill.top/HuiK/YJaKL8
+「NBA」10/27 09:00 常规赛 湖人VS国王 [全场集锦],https://tv.iill.top/HuiK/66pi8x
+「NBA」10/27 09:00 常规赛 湖人VS国王 [李天宇 陈正昊 王羽希],https://tv.iill.top/HuiK/4n12ad
+「NBA」10/27 09:00 常规赛 湖人VS国王 [郑泽鹏],https://tv.iill.top/HuiK/WXzD06
+「NBA」10/27 09:00 常规赛 湖人VS国王 [同看开拓者],https://tv.iill.top/HuiK/dPYphV
+「NBA」10/27 09:00 常规赛 湖人VS国王 [英文原声],https://tv.iill.top/HuiK/7nKGV6
+「WTA」10/27 11:00 江西网球公开赛正赛Day1：郭涵煜逆转取胜 郑妩双强势晋级,https://tv.iill.top/HuiK/g0U312
+「全运会」10/27 14:00 水球 男子7 8名排位赛,https://tv.iill.top/HuiK/AUOSK3
+「全运会」10/27 15:30 水球 男子5 6名排位赛,https://tv.iill.top/HuiK/Qnf24M
+「世界跆拳道锦标赛」10/27 17:30 2025年第4日 项启彰获男子80公斤级银牌,https://tv.iill.top/HuiK/MqE9ru
+「全运会」10/27 18:00 水球 男子铜牌赛,https://tv.iill.top/HuiK/AoZhBW
+「和美乡村篮球赛」10/27 18:30 2025福建“村BA”篮球赛DAY1,https://tv.iill.top/HuiK/3nyVMp
+「全运会」10/27 19:30 水球 男子金牌赛,https://tv.iill.top/HuiK/fLVtto
 CCTV 1 综合,https://tv.iill.top/x/cctv1
 CCTV 2 财经,https://tv.iill.top/x/cctv2
 CCTV 3 综艺,https://tv.iill.top/x/cctv3
