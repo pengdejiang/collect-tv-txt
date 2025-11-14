@@ -4599,26 +4599,95 @@ CHC 家庭影院「回看」,https://tv.iill.top/migu-1/chcjt
 嘉佳卡通「回看」,https://tv.iill.top/migu-1/jddh
 新动力量创一流「回看」,https://tv.iill.top/migu-1/xdll
 钱塘江「回看」,https://tv.iill.top/migu-1/qtj
-「全运会」11/14 09:55 乒乓球 第8比赛日热身场 [热身场],https://tv.iill.top/QYH/CigcSI
-「全运会」11/14 10:00 樊振东率上海男团出战 林高远领衔粤队 [肖扬],https://tv.iill.top/QYH/tVcpLG
-「全运会」11/14 10:00 樊振东率上海男团出战 林高远领衔粤队 [1号桌],https://tv.iill.top/QYH/cAhzQ5
-「全运会」11/14 10:00 樊振东率上海男团出战 林高远领衔粤队 [石楚阳],https://tv.iill.top/QYH/kDy1Rs
-「全运会」11/14 10:00 樊振东率上海男团出战 林高远领衔粤队 [综合信号],https://tv.iill.top/QYH/yvYAio
-「全运会」11/14 10:00 樊振东率上海男团出战 林高远领衔粤队 [运动员视角1],https://tv.iill.top/QYH/cE6nNS
-「全运会」11/14 10:00 樊振东率上海男团出战 林高远领衔粤队 [运动员视角2],https://tv.iill.top/QYH/TBkqgs
-「全运会」11/14 17:45 马龙王楚钦领衔北京队 诗与远方冲金 [周泽昊 小马哥 美丫],https://tv.iill.top/QYH/c3GGlN
-「全运会」11/14 17:45 马龙王楚钦领衔北京队 诗与远方冲金 [周冠达 邓亚萍],https://tv.iill.top/QYH/1AAZDR
-「全运会」11/14 17:45 马龙王楚钦领衔北京队 诗与远方冲金 [1号桌],https://tv.iill.top/QYH/JlFt9q
-「全运会」11/14 17:45 马龙王楚钦领衔北京队 诗与远方冲金 [综合信号],https://tv.iill.top/QYH/XSND9H
-「全运会」11/14 17:45 马龙王楚钦领衔北京队 诗与远方冲金 [运动员视角1],https://tv.iill.top/QYH/aVKTkZ
-「全运会」11/14 17:45 马龙王楚钦领衔北京队 诗与远方冲金 [运动员视角2],https://tv.iill.top/QYH/BWfEvK
-「“优雅天使杯”国际艺术体操锦标赛」11/14 10:50 “优雅天使杯”国际艺术体操邀请赛day3上午场 优雅天使杯day3上午场,https://tv.iill.top/Migu/ija4LN
-「PWC完美世界CS挑战赛」11/14 11:00 PWC中国区八强正赛第二日,https://tv.iill.top/Migu/xqsjht
-「“优雅天使杯”国际艺术体操锦标赛」11/14 13:20 “优雅天使杯”国际艺术体操邀请赛day3下午场 优雅天使杯day3下午场,https://tv.iill.top/Migu/7Don4D
-「UFC前瞻与回顾」11/14 19:00 UFC激战前夜：UFC322主赛选手特辑 [王琰博],https://tv.iill.top/Migu/8ryMEp
-「河南省女子排球城市联赛」11/14 19:30 2025年第二阶段（C组）第十一轮,https://tv.iill.top/Migu/qtSACB
-「浙江省城市篮球联赛」11/14 19:30 长兴VS绍兴,https://tv.iill.top/Migu/S9dQxP
-「浙江省城市篮球联赛」11/14 19:30 永康VS富阳,https://tv.iill.top/Migu/9XIrRr
+「全运会」09:55 乒乓球 第8比赛日热身场 [热身场],https://tv.iill.top/QYH/Bm4LaL
+「全运会」10:00 樊振东率上海男团出战 林高远领衔粤队 [肖扬],https://tv.iill.top/QYH/4fUPck
+「全运会」10:00 樊振东率上海男团出战 林高远领衔粤队 [1号桌],https://tv.iill.top/QYH/rnHzue
+「全运会」10:00 樊振东率上海男团出战 林高远领衔粤队 [石楚阳],https://tv.iill.top/QYH/qiJBEr
+「全运会」10:00 樊振东率上海男团出战 林高远领衔粤队 [综合信号],https://tv.iill.top/QYH/5VGX3Z
+「全运会」10:00 樊振东率上海男团出战 林高远领衔粤队 [运动员视角1],https://tv.iill.top/QYH/6Yk88z
+「全运会」10:00 樊振东率上海男团出战 林高远领衔粤队 [运动员视角2],https://tv.iill.top/QYH/jwqY64
+「全运会」10:00 樊振东率上海男团出战 林高远领衔粤队 [2号桌],https://tv.iill.top/QYH/86gN4V
+「全运会」10:00 樊振东率上海男团出战 林高远领衔粤队 [3号桌],https://tv.iill.top/QYH/8rUvcW
+「全运会」10:00 樊振东率上海男团出战 林高远领衔粤队 [6号桌],https://tv.iill.top/QYH/ijwlBH
+「全运会」10:00 樊振东率上海男团出战 林高远领衔粤队 [7号桌],https://tv.iill.top/QYH/qG8ZJC
+「全运会」10:00 樊振东率上海男团出战 林高远领衔粤队 [5号桌],https://tv.iill.top/QYH/5I0S3N
+「全运会」10:00 樊振东率上海男团出战 林高远领衔粤队 [4号桌],https://tv.iill.top/QYH/3uHoM9
+「全运会」10:00 樊振东率上海男团出战 林高远领衔粤队 [8号桌],https://tv.iill.top/QYH/XZCFhg
+「全运会」12:50 篮球男子18岁以下组小组赛 上海vs浙江 [王冠证],https://tv.iill.top/QYH/DSMIYn
+「全运会」12:50 篮球男子18岁以下组小组赛 上海vs浙江 [赛场原声],https://tv.iill.top/QYH/tF1JGg
+「全运会」12:50 篮球男子18岁以下组小组赛 湖南vs辽宁 [赛场原声],https://tv.iill.top/QYH/DXsMcd
+「全运会」12:50 篮球男子18岁以下组小组赛 湖南vs辽宁 [综合信号],https://tv.iill.top/QYH/wPV3Qx
+「全运会」12:50 篮球男子18岁以下组小组赛 湖南vs辽宁 [进攻视角],https://tv.iill.top/QYH/hnVLGC
+「全运会」12:50 篮球男子18岁以下组小组赛 湖南vs辽宁 [45度视角1],https://tv.iill.top/QYH/Q3C5tD
+「全运会」12:50 篮球男子18岁以下组小组赛 湖南vs辽宁 [45度视角2],https://tv.iill.top/QYH/aBzqN1
+「全运会」12:55 三人篮球 第3比赛日1/4决赛下午场 [李月擎 周钰波],https://tv.iill.top/QYH/ymqpuw
+「全运会」12:55 三人篮球 第3比赛日1/4决赛下午场 [赛场原声],https://tv.iill.top/QYH/sALJwu
+「全运会」12:55 三人篮球 第3比赛日1/4决赛下午场 [赛场原声],https://tv.iill.top/QYH/6LYi43
+「全运会」12:55 三人篮球 第3比赛日1/4决赛下午场 [综合信号],https://tv.iill.top/QYH/bjUXz7
+「全运会」12:55 三人篮球 第3比赛日1/4决赛下午场 [全景视角],https://tv.iill.top/QYH/Kuap3A
+「全运会」12:55 三人篮球 第3比赛日1/4决赛下午场 [近景视角],https://tv.iill.top/QYH/1POjrb
+「全运会」12:55 三人篮球 第3比赛日1/4决赛下午场 [篮板视角],https://tv.iill.top/QYH/bBi5Tr
+「全运会」12:55 三人篮球 第3比赛日1/4决赛下午场 [李月擎 周钰波],https://tv.iill.top/QYH/vp0SkC
+「全运会」13:20 篮球女子成年组5 8排位赛 上海vs北京 [赛场原声],https://tv.iill.top/QYH/DRLkcX
+「全运会」13:20 篮球女子成年组5 8排位赛 上海vs北京 [综合信号],https://tv.iill.top/QYH/BDp3bs
+「全运会」13:20 篮球女子成年组5 8排位赛 上海vs北京 [全景视角],https://tv.iill.top/QYH/wMblVt
+「全运会」13:20 篮球女子成年组5 8排位赛 上海vs北京 [纵向视角1],https://tv.iill.top/QYH/M31Fpr
+「全运会」13:20 篮球女子成年组5 8排位赛 上海vs北京 [纵向视角2],https://tv.iill.top/QYH/K35FLl
+「全运会」13:20 篮球女子成年组5 8排位赛 湖北vs山东 [赛场原声],https://tv.iill.top/QYH/edyejF
+「全运会」13:20 篮球女子成年组5 8排位赛 湖北vs山东 [综合信号],https://tv.iill.top/QYH/AzMB9P
+「全运会」13:20 篮球女子成年组5 8排位赛 湖北vs山东 [全景视角],https://tv.iill.top/QYH/lfgVwX
+「全运会」13:20 篮球女子成年组5 8排位赛 湖北vs山东 [纵向视角1],https://tv.iill.top/QYH/ARIiAT
+「全运会」13:20 篮球女子成年组5 8排位赛 湖北vs山东 [纵向视角2],https://tv.iill.top/QYH/DiLgAV
+「全运会」13:50 篮球男子22岁以下组小组赛 浙江vs江西 [赛场原声],https://tv.iill.top/QYH/KC8iwv
+「全运会」15:50 篮球女子成年组半决赛 广东vs辽宁 [赛场原声],https://tv.iill.top/QYH/jLVQKv
+「全运会」15:50 篮球女子成年组半决赛 广东vs辽宁 [综合信号],https://tv.iill.top/QYH/gUVLWK
+「全运会」15:50 篮球女子成年组半决赛 广东vs辽宁 [全景视角],https://tv.iill.top/QYH/M1Qmzy
+「全运会」15:50 篮球女子成年组半决赛 广东vs辽宁 [纵向视角1],https://tv.iill.top/QYH/RVRsu4
+「全运会」15:50 篮球女子成年组半决赛 广东vs辽宁 [纵向视角2],https://tv.iill.top/QYH/vhLOPH
+「全运会」15:50 篮球女子22岁以下组1/4决赛 江苏vs重庆 [赛场原声],https://tv.iill.top/QYH/5ZYoXf
+「全运会」16:20 篮球男子18岁以下组小组赛 北京vs河北 [赛场原声],https://tv.iill.top/QYH/24Dmhq
+「全运会」16:20 篮球男子18岁以下组小组赛 北京vs河北 [综合信号],https://tv.iill.top/QYH/yXVBjc
+「全运会」16:20 篮球男子18岁以下组小组赛 北京vs河北 [进攻视角],https://tv.iill.top/QYH/B1q5lu
+「全运会」16:20 篮球男子18岁以下组小组赛 北京vs河北 [45度视角1],https://tv.iill.top/QYH/XkiYOw
+「全运会」16:20 篮球男子18岁以下组小组赛 北京vs河北 [45度视角2],https://tv.iill.top/QYH/NlSa3S
+「全运会」16:20 篮球男子18岁以下组小组赛 山东vs江苏 [赛场原声],https://tv.iill.top/QYH/MObxY5
+「全运会」16:50 篮球男子22岁以下组小组赛 天津vs广东 [孙锐],https://tv.iill.top/QYH/t28q9o
+「全运会」16:50 篮球男子22岁以下组小组赛 天津vs广东 [赛场原声],https://tv.iill.top/QYH/MdKtio
+「全运会」17:45 马龙王楚钦领衔北京队 诗与远方冲金 [周泽昊 小马哥 美丫],https://tv.iill.top/QYH/uW3wTz
+「全运会」17:45 马龙王楚钦领衔北京队 诗与远方冲金 [周冠达 邓亚萍],https://tv.iill.top/QYH/dFoWc5
+「全运会」17:45 马龙王楚钦领衔北京队 诗与远方冲金 [1号桌],https://tv.iill.top/QYH/tRm8QZ
+「全运会」17:45 马龙王楚钦领衔北京队 诗与远方冲金 [综合信号],https://tv.iill.top/QYH/XbCbwp
+「全运会」17:45 马龙王楚钦领衔北京队 诗与远方冲金 [运动员视角1],https://tv.iill.top/QYH/biXYKj
+「全运会」17:45 马龙王楚钦领衔北京队 诗与远方冲金 [运动员视角2],https://tv.iill.top/QYH/5JlXg4
+「全运会」17:45 马龙王楚钦领衔北京队 诗与远方冲金 [2号桌],https://tv.iill.top/QYH/tEDtSa
+「全运会」17:45 马龙王楚钦领衔北京队 诗与远方冲金 [3号桌],https://tv.iill.top/QYH/8JaoAq
+「全运会」17:45 马龙王楚钦领衔北京队 诗与远方冲金 [5号桌],https://tv.iill.top/QYH/aB1aUJ
+「全运会」17:45 马龙王楚钦领衔北京队 诗与远方冲金 [4号桌],https://tv.iill.top/QYH/ULdq3V
+「全运会」17:45 马龙王楚钦领衔北京队 诗与远方冲金 [6号桌],https://tv.iill.top/QYH/MMFonA
+「全运会」17:45 马龙王楚钦领衔北京队 诗与远方冲金 [7号桌],https://tv.iill.top/QYH/p6QFla
+「全运会」17:45 马龙王楚钦领衔北京队 诗与远方冲金 [9号桌],https://tv.iill.top/QYH/eGYdc6
+「全运会」18:55 三人篮球 第3比赛日1/4决赛晚间场 [赛场原声],https://tv.iill.top/QYH/dGbxCO
+「全运会」19:20 篮球女子成年组半决赛 江苏vs四川 [赛场原声],https://tv.iill.top/QYH/8NyAmW
+「全运会」19:20 篮球女子成年组半决赛 江苏vs四川 [综合信号],https://tv.iill.top/QYH/8i63i7
+「全运会」19:20 篮球女子成年组半决赛 江苏vs四川 [全景视角],https://tv.iill.top/QYH/4U95z2
+「全运会」19:20 篮球女子成年组半决赛 江苏vs四川 [纵向视角1],https://tv.iill.top/QYH/OgHzII
+「全运会」19:20 篮球女子成年组半决赛 江苏vs四川 [纵向视角2],https://tv.iill.top/QYH/Go7JeY
+「全运会」19:20 篮球女子成年组半决赛 江苏vs四川 [吕程],https://tv.iill.top/QYH/HrAtVi
+「全运会」19:20 篮球女子22岁以下组1/4决赛 山东vs北京 [赛场原声],https://tv.iill.top/QYH/V4stck
+「全运会」19:50 篮球男子18岁以下组小组赛 广东vs吉林 [赛场原声],https://tv.iill.top/QYH/ZqVnKb
+「全运会」19:50 篮球男子18岁以下组小组赛 广东vs吉林 [综合信号],https://tv.iill.top/QYH/OZ9sIg
+「全运会」19:50 篮球男子18岁以下组小组赛 广东vs吉林 [进攻视角],https://tv.iill.top/QYH/hFUpqd
+「全运会」19:50 篮球男子18岁以下组小组赛 广东vs吉林 [45度视角1],https://tv.iill.top/QYH/Znvn8C
+「全运会」19:50 篮球男子18岁以下组小组赛 广东vs吉林 [45度视角2],https://tv.iill.top/QYH/DRIxPk
+「全运会」19:50 篮球男子18岁以下组小组赛 四川vs湖北 [赛场原声],https://tv.iill.top/QYH/RneEXX
+「全运会」19:50 篮球男子22岁以下组小组赛 山东vs湖北 [赛场原声],https://tv.iill.top/QYH/y9fBdO
+「“优雅天使杯”国际艺术体操锦标赛」10:50 “优雅天使杯”国际艺术体操邀请赛day3上午场 优雅天使杯day3上午场,https://tv.iill.top/Migu/W5M1D5
+「PWC完美世界CS挑战赛」11:00 PWC中国区八强正赛第二日,https://tv.iill.top/Migu/J93RiI
+「“优雅天使杯”国际艺术体操锦标赛」13:20 “优雅天使杯”国际艺术体操邀请赛day3下午场 优雅天使杯day3下午场,https://tv.iill.top/Migu/4xUeKv
+「UFC前瞻与回顾」19:00 UFC激战前夜：UFC322主赛选手特辑 [王琰博],https://tv.iill.top/Migu/HUxdUp
+「河南省女子排球城市联赛」19:30 2025年第二阶段（C组）第十一轮,https://tv.iill.top/Migu/tfYBCA
+「浙江省城市篮球联赛」19:30 长兴VS绍兴,https://tv.iill.top/Migu/xEY3Qt
+「浙江省城市篮球联赛」19:30 永康VS富阳,https://tv.iill.top/Migu/uC0RUo
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk
