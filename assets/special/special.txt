@@ -4599,193 +4599,81 @@ CHC 家庭影院「回看」,https://tv.iill.top/migu-1/chcjt
 嘉佳卡通「回看」,https://tv.iill.top/migu-1/jddh
 新动力量创一流「回看」,https://tv.iill.top/migu-1/xdll
 钱塘江「回看」,https://tv.iill.top/migu-1/qtj
-「全运会」07:25 马拉松竞走混合接力决赛 杨家玉、石升吉夺金 [赛场原声],https://tv.iill.top/QYH/zIehpP
-「全运会」08:25 群众网球 广东男团摘金 江苏女团夺冠 [赛场原声],https://tv.iill.top/QYH/cajGGh
-「全运会」08:50 游泳 多项预赛 张展硕预赛第一晋级决赛 [王子睿],https://tv.iill.top/QYH/i6ulyu
-「全运会」08:50 游泳 多项预赛 张展硕预赛第一晋级决赛 [CCTV16],https://tv.iill.top/QYH/XCp0rs
-「全运会」08:50 游泳 多项预赛 张展硕预赛第一晋级决赛 [赛场原声],https://tv.iill.top/QYH/obDwWO
-「全运会」08:50 游泳 多项预赛 张展硕预赛第一晋级决赛 [近景视角],https://tv.iill.top/QYH/727yJg
-「全运会」08:50 游泳 多项预赛 张展硕预赛第一晋级决赛 [轨道视角],https://tv.iill.top/QYH/MuBd44
-「全运会」08:50 游泳 多项预赛 张展硕预赛第一晋级决赛 [全程视角],https://tv.iill.top/QYH/HLRW7K
-「全运会」08:50 游泳 多项预赛 张展硕预赛第一晋级决赛 [综合信号],https://tv.iill.top/QYH/T4nJmb
-「全运会」09:20 田径 多项预赛及复赛 女子链球赵杰头名晋级 [赛场原声],https://tv.iill.top/QYH/XhsXR7
-「全运会」09:20 田径 多项预赛及复赛 女子链球赵杰头名晋级 [综合信号],https://tv.iill.top/QYH/1scVpT
-「全运会」09:20 田径 多项预赛及复赛 女子链球赵杰头名晋级 [田1],https://tv.iill.top/QYH/SMp8O0
-「全运会」09:20 田径 多项预赛及复赛 女子链球赵杰头名晋级 [女子链球及格赛],https://tv.iill.top/QYH/fscenN
-「全运会」09:20 田径 多项预赛及复赛 女子链球赵杰头名晋级 [男子跳远及格赛],https://tv.iill.top/QYH/yKUMUh
-「全运会」09:20 田径 多项预赛及复赛 女子链球赵杰头名晋级 [田2],https://tv.iill.top/QYH/4YO6Hw
-「全运会」09:20 田径 多项预赛及复赛 女子链球赵杰头名晋级 [田3],https://tv.iill.top/QYH/EkZfE3
-「全运会」09:50 网球 王欣瑜女单速胜 稍后女双再登场 [赛场原声],https://tv.iill.top/QYH/YVVraz
-「全运会」09:50 网球 王欣瑜女单速胜 稍后女双再登场 [综合信号],https://tv.iill.top/QYH/uc5OV6
-「全运会」09:50 网球 王欣瑜女单速胜 稍后女双再登场 [群众网球],https://tv.iill.top/QYH/IPJcy8
-「全运会」09:50 网球 王欣瑜女单速胜 稍后女双再登场 [战术视角],https://tv.iill.top/QYH/CyEmAn
-「全运会」09:50 网球 王欣瑜女单速胜 稍后女双再登场 [运动员视角1],https://tv.iill.top/QYH/QbrY9r
-「全运会」09:50 网球 王欣瑜女单速胜 稍后女双再登场 [运动员视角2],https://tv.iill.top/QYH/MD552J
-「全运会」09:50 篮球男子22岁以下组1/4决赛 河南70 97广东 [赛场原声],https://tv.iill.top/QYH/HViVQK
-「全运会」09:55 乒乓球 第11比赛日热身场 [热身场],https://tv.iill.top/QYH/otHHhL
-「全运会」10:00 排球 女子成年组1/4交叉赛 江苏3 0辽宁 [战术视角],https://tv.iill.top/QYH/4w9Ykl
-「全运会」10:00 排球 女子成年组1/4交叉赛 江苏3 0辽宁 [综合信号],https://tv.iill.top/QYH/CMNXIj
-「全运会」10:00 排球 女子成年组1/4交叉赛 江苏3 0辽宁 [鸿昆],https://tv.iill.top/QYH/n8O3XV
-「全运会」10:00 排球 女子成年组1/4交叉赛 江苏3 0辽宁 [赛场原声],https://tv.iill.top/QYH/2y7D4N
-「全运会」10:00 排球 女子成年组1/4交叉赛 江苏3 0辽宁 [网口视角],https://tv.iill.top/QYH/f6VaU9
-「全运会」10:00 排球 女子成年组1/4交叉赛 江苏3 0辽宁 [近景视角],https://tv.iill.top/QYH/EPYQR8
-「全运会」12:50 排球第16比赛日 女子成年组1/4交叉赛 北京vs山东等 [解说],https://tv.iill.top/QYH/GTh0M2
-「全运会」12:50 排球第16比赛日 女子成年组1/4交叉赛 北京vs山东等 [女子成年组 澳门vs广东],https://tv.iill.top/QYH/KFJL0f
-「全运会」12:50 排球第16比赛日 女子成年组1/4交叉赛 北京vs山东等 [女子成年组 云南vs浙江],https://tv.iill.top/QYH/tS5lzq
-「全运会」12:50 排球第16比赛日 女子成年组1/4交叉赛 北京vs山东等 [赛场原声],https://tv.iill.top/QYH/13Xv1u
-「全运会」12:50 排球第16比赛日 女子成年组1/4交叉赛 北京vs山东等 [赛场原声],https://tv.iill.top/QYH/Vytv2r
-「全运会」12:50 排球第16比赛日 女子成年组1/4交叉赛 北京vs山东等 [赛场原声],https://tv.iill.top/QYH/ngZLbf
-「全运会」12:50 排球第16比赛日 女子成年组1/4交叉赛 北京vs山东等 [解说],https://tv.iill.top/QYH/XxhFQP
-「全运会」12:50 排球第16比赛日 女子成年组1/4交叉赛 北京vs山东等 [女子U18 重庆vs北京],https://tv.iill.top/QYH/C51Vyf
-「全运会」12:50 排球第16比赛日 女子成年组1/4交叉赛 北京vs山东等 [女子U20 福建vs内蒙古],https://tv.iill.top/QYH/VRwPKZ
-「全运会」12:50 排球第16比赛日 女子成年组1/4交叉赛 北京vs山东等 [女子U18 江苏vs河北],https://tv.iill.top/QYH/Gv7sA8
-「全运会」12:50 排球第16比赛日 女子成年组1/4交叉赛 北京vs山东等 [女子U20 上海vs天津],https://tv.iill.top/QYH/uECNLu
-「全运会」12:50 排球第16比赛日 女子成年组1/4交叉赛 北京vs山东等 [女子U18 内蒙古vs福建],https://tv.iill.top/QYH/Zr8Wai
-「全运会」12:50 排球第16比赛日 女子成年组1/4交叉赛 北京vs山东等 [女子U18 河南vs四川],https://tv.iill.top/QYH/xFfeAu
-「全运会」12:50 排球第16比赛日 女子成年组1/4交叉赛 北京vs山东等 [女子U20 山东vs江苏],https://tv.iill.top/QYH/0CLFLc
-「全运会」12:50 排球第16比赛日 女子成年组1/4交叉赛 北京vs山东等 [女子U18 上海vs浙江],https://tv.iill.top/QYH/6zoxjI
-「全运会」12:50 排球第16比赛日 女子成年组1/4交叉赛 北京vs山东等 [范贵懿],https://tv.iill.top/QYH/a9NEcO
-「全运会」12:50 排球第16比赛日 女子成年组1/4交叉赛 北京vs山东等 [女子成年组 四川vs香港],https://tv.iill.top/QYH/5ARCEz
-「全运会」12:50 排球第16比赛日 女子成年组1/4交叉赛 北京vs山东等 [女子U18 广东vs山东],https://tv.iill.top/QYH/sSxflm
-「全运会」12:50 篮球男子18岁以下组9 11排位赛 湖北87 113河北 [赛场原声],https://tv.iill.top/QYH/CaZDRm
-「全运会」13:00 排球女子成年组1/4交叉赛 [范贵懿],https://tv.iill.top/QYH/yDhtRH
-「全运会」13:00 排球女子成年组1/4交叉赛 [赛场原声],https://tv.iill.top/QYH/c9hP1z
-「全运会」13:00 排球女子成年组1/4交叉赛 [战术视角],https://tv.iill.top/QYH/B1V9Qz
-「全运会」13:00 排球女子成年组1/4交叉赛 [网口视角],https://tv.iill.top/QYH/lkgygQ
-「全运会」13:00 排球女子成年组1/4交叉赛 [近景视角],https://tv.iill.top/QYH/zWDyq5
-「全运会」13:50 羽毛球 陈雨菲出战 石宇奇伤退 [1号场（杨弋非）],https://tv.iill.top/QYH/obLlpA
-「全运会」13:50 羽毛球 陈雨菲出战 石宇奇伤退 [2号场（鸿昆）],https://tv.iill.top/QYH/wf3LVe
-「全运会」13:50 羽毛球 陈雨菲出战 石宇奇伤退 [3号场（孙宁智）],https://tv.iill.top/QYH/W6sH9Z
-「全运会」13:50 羽毛球 陈雨菲出战 石宇奇伤退 [1号场],https://tv.iill.top/QYH/ocTrkk
-「全运会」13:50 羽毛球 陈雨菲出战 石宇奇伤退 [2号场],https://tv.iill.top/QYH/141Xle
-「全运会」13:50 羽毛球 陈雨菲出战 石宇奇伤退 [3号场],https://tv.iill.top/QYH/HKMIMX
-「全运会」13:50 羽毛球 陈雨菲出战 石宇奇伤退 [综合信号],https://tv.iill.top/QYH/lIiW0I
-「全运会」13:50 羽毛球 陈雨菲出战 石宇奇伤退 [运动员视角1],https://tv.iill.top/QYH/wOckhe
-「全运会」13:50 羽毛球 陈雨菲出战 石宇奇伤退 [运动员视角2],https://tv.iill.top/QYH/kHELM1
-「全运会」13:50 羽毛球 陈雨菲出战 石宇奇伤退 [网口视角],https://tv.iill.top/QYH/zLQ8tA
-「全运会」13:50 羽毛球 陈雨菲出战 石宇奇伤退 [CCTV16],https://tv.iill.top/QYH/pcktYT
-「全运会」13:50 羽毛球 陈雨菲出战 石宇奇伤退 [5号场],https://tv.iill.top/QYH/8Amaks
-「全运会」13:50 羽毛球 陈雨菲出战 石宇奇伤退 [4号场],https://tv.iill.top/QYH/RnOLVt
-「全运会」13:50 羽毛球 陈雨菲出战 石宇奇伤退 [4号场（马秉聪）],https://tv.iill.top/QYH/C1CgHB
-「全运会」13:50 篮球男子22岁以下组1/4决赛 辽宁78 96上海 [赛场原声],https://tv.iill.top/QYH/SUOXMv
-「全运会」16:00 排球女子成年组1/4交叉赛 [樊宇良],https://tv.iill.top/QYH/dNxNea
-「全运会」16:00 排球女子成年组1/4交叉赛 [赛场原声],https://tv.iill.top/QYH/jBLSQ3
-「全运会」16:00 排球女子成年组1/4交叉赛 [综合信号],https://tv.iill.top/QYH/960W08
-「全运会」16:00 排球女子成年组1/4交叉赛 [战术视角],https://tv.iill.top/QYH/YakTQ4
-「全运会」16:00 排球女子成年组1/4交叉赛 [网口视角],https://tv.iill.top/QYH/8V3TBU
-「全运会」16:00 排球女子成年组1/4交叉赛 [近景视角],https://tv.iill.top/QYH/0klMDU
-「全运会」16:20 篮球男子18岁以下组5 8排位赛 吉林vs四川 [赛场原声],https://tv.iill.top/QYH/Ns8LSI
-「全运会」16:20 篮球男子18岁以下组5 8排位赛 吉林vs四川 [赛场原声],https://tv.iill.top/QYH/o6ETQk
-「全运会」16:20 篮球男子18岁以下组5 8排位赛 北京vs辽宁 [赛场原声],https://tv.iill.top/QYH/WVSXKF
-「全运会」16:20 篮球男子18岁以下组5 8排位赛 北京vs辽宁 [综合信号],https://tv.iill.top/QYH/U49jLE
-「全运会」16:20 篮球男子18岁以下组5 8排位赛 北京vs辽宁 [进攻视角],https://tv.iill.top/QYH/xQdkVg
-「全运会」16:20 篮球男子18岁以下组5 8排位赛 北京vs辽宁 [45度视角1],https://tv.iill.top/QYH/Wgu4xF
-「全运会」16:20 篮球男子18岁以下组5 8排位赛 北京vs辽宁 [45度视角2],https://tv.iill.top/QYH/yEmxnc
-「全运会」16:50 篮球男子22岁以下组1/4决赛 浙江vs山东 [赛场原声],https://tv.iill.top/QYH/TXe1P7
-「全运会」17:50 陈梦团体赛首秀 梁靖崑率队冲胜 [小马哥],https://tv.iill.top/QYH/QHLX2X
-「全运会」17:50 陈梦团体赛首秀 梁靖崑率队冲胜 [周泽昊],https://tv.iill.top/QYH/qNpnWV
-「全运会」17:50 陈梦团体赛首秀 梁靖崑率队冲胜 [2号桌],https://tv.iill.top/QYH/R7gxwF
-「全运会」17:50 陈梦团体赛首秀 梁靖崑率队冲胜 [热身场],https://tv.iill.top/QYH/D2NqTP
-「全运会」17:50 陈梦团体赛首秀 梁靖崑率队冲胜 [1号桌],https://tv.iill.top/QYH/yZc35D
-「全运会」17:50 陈梦团体赛首秀 梁靖崑率队冲胜 [5号桌],https://tv.iill.top/QYH/VfebXA
-「全运会」17:50 陈梦团体赛首秀 梁靖崑率队冲胜 [3号桌],https://tv.iill.top/QYH/fAwcxH
-「全运会」17:50 陈梦团体赛首秀 梁靖崑率队冲胜 [4号桌],https://tv.iill.top/QYH/6KMMvG
-「全运会」17:50 陈梦团体赛首秀 梁靖崑率队冲胜 [6号桌],https://tv.iill.top/QYH/UmKapt
-「全运会」17:50 陈梦团体赛首秀 梁靖崑率队冲胜 [7号桌],https://tv.iill.top/QYH/yjijNl
-「全运会」17:50 陈梦团体赛首秀 梁靖崑率队冲胜 [9号桌],https://tv.iill.top/QYH/FULOMy
-「全运会」17:50 陈梦团体赛首秀 梁靖崑率队冲胜 [运动员视角2],https://tv.iill.top/QYH/kMUGZq
-「全运会」17:50 陈梦团体赛首秀 梁靖崑率队冲胜 [运动员视角1],https://tv.iill.top/QYH/JdgZyC
-「全运会」17:50 陈梦团体赛首秀 梁靖崑率队冲胜 [综合信号],https://tv.iill.top/QYH/7G0Eb6
-「全运会」18:20 体操 多项个人单项决赛 张博恒出战 [钟宇峰],https://tv.iill.top/QYH/npnnj0
-「全运会」18:20 体操 多项个人单项决赛 张博恒出战 [赛场原声],https://tv.iill.top/QYH/Mh6XNI
-「全运会」18:20 体操 多项个人单项决赛 张博恒出战 [跳马],https://tv.iill.top/QYH/TtzISN
-「全运会」18:20 体操 多项个人单项决赛 张博恒出战 [双杠],https://tv.iill.top/QYH/YaJQw8
-「全运会」18:20 体操 多项个人单项决赛 张博恒出战 [单杠],https://tv.iill.top/QYH/DqK7nb
-「全运会」18:20 体操 多项个人单项决赛 张博恒出战 [自由操],https://tv.iill.top/QYH/z4lhVP
-「全运会」18:20 体操 多项个人单项决赛 张博恒出战 [平衡木],https://tv.iill.top/QYH/dFCgpr
-「全运会」18:20 体操 多项个人单项决赛 张博恒出战 [PGM综合],https://tv.iill.top/QYH/IHDO9y
-「全运会」18:40 田径 多项预赛及决赛 晚间上演百米飞人大战 [解说],https://tv.iill.top/QYH/aSYOZA
-「全运会」18:40 田径 多项预赛及决赛 晚间上演百米飞人大战 [综合信号],https://tv.iill.top/QYH/YtNLHV
-「全运会」18:40 田径 多项预赛及决赛 晚间上演百米飞人大战 [田1],https://tv.iill.top/QYH/NfCc8b
-「全运会」18:40 田径 多项预赛及决赛 晚间上演百米飞人大战 [赛场原声],https://tv.iill.top/QYH/AjHcos
-「全运会」18:40 田径 多项预赛及决赛 晚间上演百米飞人大战 [女子标枪决赛],https://tv.iill.top/QYH/hM3XBt
-「全运会」18:40 田径 多项预赛及决赛 晚间上演百米飞人大战 [女子跳远及格赛],https://tv.iill.top/QYH/NTWZY6
-「全运会」18:40 田径 多项预赛及决赛 晚间上演百米飞人大战 [田2],https://tv.iill.top/QYH/rr1Gxw
-「全运会」18:40 田径 多项预赛及决赛 晚间上演百米飞人大战 [田3],https://tv.iill.top/QYH/s04G07
-「全运会」18:50 游泳 多项决赛 张展硕、张雨霏冲击金牌 [柳亚鹏],https://tv.iill.top/QYH/JrWW1L
-「全运会」18:50 游泳 多项决赛 张展硕、张雨霏冲击金牌 [赛场原声],https://tv.iill.top/QYH/dnZ5Ut
-「全运会」18:50 游泳 多项决赛 张展硕、张雨霏冲击金牌 [近景视角],https://tv.iill.top/QYH/1swbY5
-「全运会」18:50 游泳 多项决赛 张展硕、张雨霏冲击金牌 [轨道视角],https://tv.iill.top/QYH/Dx7CtE
-「全运会」18:50 游泳 多项决赛 张展硕、张雨霏冲击金牌 [全程视角],https://tv.iill.top/QYH/XT6eKy
-「全运会」18:50 游泳 多项决赛 张展硕、张雨霏冲击金牌 [综合信号],https://tv.iill.top/QYH/JXLlpA
-「全运会」19:00 排球 女子成年组1/4交叉赛 北京vs山东 [王岩岑],https://tv.iill.top/QYH/144yHo
-「全运会」19:00 排球 女子成年组1/4交叉赛 北京vs山东 [赛场原声],https://tv.iill.top/QYH/gUWeUe
-「全运会」19:00 排球 女子成年组1/4交叉赛 北京vs山东 [综合信号],https://tv.iill.top/QYH/BXwl0V
-「全运会」19:00 排球 女子成年组1/4交叉赛 北京vs山东 [战术视角],https://tv.iill.top/QYH/PS1I9g
-「全运会」19:00 排球 女子成年组1/4交叉赛 北京vs山东 [网口视角],https://tv.iill.top/QYH/tq6IED
-「全运会」19:00 排球 女子成年组1/4交叉赛 北京vs山东 [近景视角],https://tv.iill.top/QYH/oE0oGf
-「全运会」19:50 篮球男子18岁以下组半决赛 山东vs浙江 [赛场原声],https://tv.iill.top/QYH/CnQLEn
-「全运会」19:50 篮球男子18岁以下组半决赛 上海vs广东 [赛场原声],https://tv.iill.top/QYH/kvVINw
-「全运会」19:50 篮球男子18岁以下组半决赛 上海vs广东 [综合信号],https://tv.iill.top/QYH/MMF9be
-「全运会」19:50 篮球男子18岁以下组半决赛 上海vs广东 [进攻视角],https://tv.iill.top/QYH/hFivVs
-「全运会」19:50 篮球男子18岁以下组半决赛 上海vs广东 [45度视角1],https://tv.iill.top/QYH/7JPmsr
-「全运会」19:50 篮球男子18岁以下组半决赛 上海vs广东 [45度视角2],https://tv.iill.top/QYH/tzzlHH
-「全运会」19:50 篮球男子22岁以下组1/4决赛 北京vs天津 [赛场原声],https://tv.iill.top/QYH/Mq6UjP
-「NBA」04:30 常规赛 快船VS凯尔特人 [英文原声],https://tv.iill.top/NBA/bqQQE5
-「NBA」05:00 常规赛 国王VS马刺 [王晓晨],https://tv.iill.top/NBA/qSikuT
-「NBA」05:00 常规赛 国王VS马刺 [英文原声],https://tv.iill.top/NBA/f0mdYQ
-「NBA」07:00 常规赛 篮网VS奇才 [25/26赛季常规赛全场集锦：篮网129:106奇才（20251117）],https://tv.iill.top/NBA/MOl9L1
-「NBA」07:00 常规赛 篮网VS奇才 [刘圳展],https://tv.iill.top/NBA/rN96d1
-「NBA」07:00 常规赛 篮网VS奇才 [英文原声],https://tv.iill.top/NBA/MIC20U
-「NBA」08:00 常规赛 勇士VS鹈鹕 [王冠证 郭维盛 魏欣怡],https://tv.iill.top/NBA/JADY2r
-「NBA」08:00 常规赛 勇士VS鹈鹕 [英文原声],https://tv.iill.top/NBA/uASGUm
-「NBA」08:00 常规赛 勇士VS鹈鹕 [拜月宁],https://tv.iill.top/NBA/BWXxYY
-「NBA」08:00 常规赛 魔术VS火箭 [25/26赛季常规赛全场集锦：魔术113:117火箭（20251117）],https://tv.iill.top/NBA/j39VuB
-「NBA」08:00 常规赛 魔术VS火箭 [连睿 周鹏],https://tv.iill.top/NBA/NHM9T3
-「NBA」08:00 常规赛 魔术VS火箭 [英文原声],https://tv.iill.top/NBA/Tx10xI
-「NBA」08:30 常规赛 开拓者VS独行侠 [邵化谦 季孟年 秋童],https://tv.iill.top/NBA/dawK2a
-「NBA」08:30 常规赛 开拓者VS独行侠 [邢晨],https://tv.iill.top/NBA/Ojo2ZP
-「NBA」08:30 常规赛 开拓者VS独行侠 [英文原声],https://tv.iill.top/NBA/M8fBPq
-「NBA」09:00 常规赛 老鹰VS太阳 [25/26赛季常规赛全场集锦：老鹰124:122太阳（20251117）],https://tv.iill.top/NBA/q8YB4O
-「NBA」09:00 常规赛 老鹰VS太阳 [殷文玉],https://tv.iill.top/NBA/dHcqhb
-「NBA」09:00 常规赛 老鹰VS太阳 [英文原声],https://tv.iill.top/NBA/0v7aHS
-「NBA」09:00 常规赛 公牛VS爵士 [25/26赛季常规赛全场集锦：公牛147:150爵士（20251117）],https://tv.iill.top/NBA/8UK9r9
-「NBA」09:00 常规赛 公牛VS爵士 [张泽欣],https://tv.iill.top/NBA/YuRfs0
-「NBA」09:00 常规赛 公牛VS爵士 [英文原声],https://tv.iill.top/NBA/BG64lw
-「英女超」04:30 NBA常规赛 快船VS凯尔特人 [蔡凯臣],https://tv.iill.top/Migu/xNImt2
-「WTT」21:00 马斯喀特球星挑战赛：男单资格赛第一、二轮 郭勇、冯耀恩出战 林仲勋vs汪洋,https://tv.iill.top/Migu/99YZRt
-「NBA」11/16 06:00 常规赛 灰熊VS骑士 [刘芳宇],https://tv.iill.top/HuiK/MyZm4A
-「NBA」11/16 06:00 常规赛 灰熊VS骑士 [英文原声],https://tv.iill.top/HuiK/BRfd9e
-「UFC数字赛」11/16 07:00 UFC第322期：拼尽全力！张伟丽判定憾负舍甫琴科 [王琰博 郝俊 张名扬],https://tv.iill.top/HuiK/IdTIk9
-「UFC数字赛」11/16 07:00 UFC第322期：拼尽全力！张伟丽判定憾负舍甫琴科 [英文原声],https://tv.iill.top/HuiK/f3jfAA
-「UFC数字赛」11/16 07:00 UFC第322期：拼尽全力！张伟丽判定憾负舍甫琴科 [智能字幕],https://tv.iill.top/HuiK/IKk2vx
-「逐马计划」11/16 07:30 2025南京马拉松,https://tv.iill.top/HuiK/kvtLM8
-「马拉松系列赛」11/16 07:30 天目湖、桂林、广安、池州马拉松等,https://tv.iill.top/HuiK/Ge7bm4
-「逐马计划」11/16 07:30 “郑州银行杯”2025郑州马拉松赛,https://tv.iill.top/HuiK/wsJvWe
-「中国鲈钓巅峰赛」11/16 07:50 第三站Day2,https://tv.iill.top/HuiK/qsnXuy
-「NBA」11/16 08:00 常规赛 猛龙VS步行者 [25/26赛季常规赛全场集锦：猛龙129:111步行者（20251116）],https://tv.iill.top/HuiK/N2vp44
-「NBA」11/16 08:00 常规赛 猛龙VS步行者 [徐秦威],https://tv.iill.top/HuiK/BYsQ5b
-「NBA」11/16 08:00 常规赛 猛龙VS步行者 [英文原声],https://tv.iill.top/HuiK/0IuY6M
-「NBA」11/16 08:00 常规赛 雷霆VS黄蜂 [罗森],https://tv.iill.top/HuiK/FCbeMx
-「NBA」11/16 08:00 常规赛 雷霆VS黄蜂 [英文原声],https://tv.iill.top/HuiK/fqtZc2
-「“勇者之冠”青少年腰旗橄榄球赛」11/16 08:00 第十三届NFL FLAG总决赛Day2 Day2,https://tv.iill.top/HuiK/92EF6Y
-「NBA」11/16 09:00 常规赛 掘金VS森林狼 [25/26赛季常规赛全场集锦：掘金123:112森林狼（20251116）],https://tv.iill.top/HuiK/4tYJZp
-「NBA」11/16 09:00 常规赛 掘金VS森林狼 [刘圳展 郭维盛 金佳悦],https://tv.iill.top/HuiK/mB1vUh
-「NBA」11/16 09:00 常规赛 掘金VS森林狼 [同看UFC322张伟丽],https://tv.iill.top/HuiK/0Yfm5y
-「NBA」11/16 09:00 常规赛 掘金VS森林狼 [英文原声],https://tv.iill.top/HuiK/kocokv
-「NBA」11/16 09:00 常规赛 湖人VS雄鹿 [杨健 曾令旭 刘铁],https://tv.iill.top/HuiK/cQPVFO
-「NBA」11/16 09:00 常规赛 湖人VS雄鹿 [解说],https://tv.iill.top/HuiK/qbpWZz
-「NBA」11/16 09:00 常规赛 湖人VS雄鹿 [郑泽鹏],https://tv.iill.top/HuiK/f9fvrd
-「NBA」11/16 09:00 常规赛 湖人VS雄鹿 [英文原声],https://tv.iill.top/HuiK/CmByDz
-「PWC完美世界CS挑战赛」11/16 11:00 PWC中国区八强正赛第四日,https://tv.iill.top/HuiK/aLjhfC
-「四川省城市足球联赛」11/16 16:00 2025年河南省女子排球城市联赛第二阶段（C组）第十二轮,https://tv.iill.top/HuiK/QPAJ1w
-「亚冠女足」11/16 16:00 小组赛 拉古纳公马 vs 墨尔本城 [涂远],https://tv.iill.top/HuiK/GJERKV
-「亚冠女足」11/16 16:00 小组赛 拉古纳公马 vs 墨尔本城 [赛场原声],https://tv.iill.top/HuiK/Nr7pJH
-「浙江省城市篮球联赛」11/16 19:30 诸暨73 65湖州,https://tv.iill.top/HuiK/CNpIkY
-「浙江省城市篮球联赛」11/16 19:30 普陀53 63苍南,https://tv.iill.top/HuiK/93DJLA
-「湖南省足球联赛」11/16 20:00 亚冠女足小组赛 狮城水手 vs 胡志明市 [兰子非],https://tv.iill.top/HuiK/sCXgRG
-「亚冠女足」11/16 20:00 小组赛 狮城水手 vs 胡志明市 [赛场原声],https://tv.iill.top/HuiK/6WIZWC
-「国际马联系列赛」11/16 21:55 马术场地障碍世界杯西欧联赛,https://tv.iill.top/HuiK/poPi7T
+「全运会」11/18 12:50 篮球男子18岁以下组7 8排位赛 吉林vs北京 [赛场原声],https://tv.iill.top/QYH/3YRFuU
+「全运会」11/18 12:50 篮球男子18岁以下组7 8排位赛 吉林vs北京 [进攻视角],https://tv.iill.top/QYH/Ajp1Uf
+「全运会」11/18 12:50 篮球男子18岁以下组7 8排位赛 吉林vs北京 [45度视角1],https://tv.iill.top/QYH/RSFVf8
+「全运会」11/18 12:50 篮球男子18岁以下组7 8排位赛 吉林vs北京 [45度视角2],https://tv.iill.top/QYH/L4bc4e
+「全运会」11/18 12:50 篮球男子18岁以下组7 8排位赛 吉林vs北京 [综合信号],https://tv.iill.top/QYH/9VK729
+「全运会」11/18 13:45 羽毛球 翁泓阳冲决赛 陈雨菲PK韩悦 [鸿昆 蔡赟 谌龙],https://tv.iill.top/QYH/9afRJc
+「全运会」11/18 13:45 羽毛球 翁泓阳冲决赛 陈雨菲PK韩悦 [1号场],https://tv.iill.top/QYH/F06d5a
+「全运会」11/18 13:45 羽毛球 翁泓阳冲决赛 陈雨菲PK韩悦 [2号场],https://tv.iill.top/QYH/fYiDJl
+「全运会」11/18 13:45 羽毛球 翁泓阳冲决赛 陈雨菲PK韩悦 [综合信号],https://tv.iill.top/QYH/pEhkgr
+「全运会」11/18 13:45 羽毛球 翁泓阳冲决赛 陈雨菲PK韩悦 [运动员视角1],https://tv.iill.top/QYH/5JWD2E
+「全运会」11/18 13:45 羽毛球 翁泓阳冲决赛 陈雨菲PK韩悦 [运动员视角2],https://tv.iill.top/QYH/IJ3DE9
+「全运会」11/18 13:45 羽毛球 翁泓阳冲决赛 陈雨菲PK韩悦 [网口视角],https://tv.iill.top/QYH/DJnKKh
+「全运会」11/18 13:45 羽毛球 翁泓阳冲决赛 陈雨菲PK韩悦 [杨弋非],https://tv.iill.top/QYH/aK3ukP
+「全运会」11/18 13:50 篮球男子22岁以下组9 11排位赛 福建vs香港 [赛场原声],https://tv.iill.top/QYH/m4L2Er
+「全运会」11/18 16:20 篮球男子18岁以下组铜牌赛 [综合信号],https://tv.iill.top/QYH/Ha0scm
+「全运会」11/18 16:20 篮球男子18岁以下组铜牌赛 [进攻视角],https://tv.iill.top/QYH/AVoysU
+「全运会」11/18 16:20 篮球男子18岁以下组铜牌赛 [45度视角1],https://tv.iill.top/QYH/ydo2V8
+「全运会」11/18 16:20 篮球男子18岁以下组铜牌赛 [45度视角2],https://tv.iill.top/QYH/6H7Dg7
+「全运会」11/18 16:20 篮球男子18岁以下组铜牌赛 [赛场原声],https://tv.iill.top/QYH/pBR4mn
+「全运会」11/18 16:20 篮球男子18岁以下组5 6排位赛 四川vs辽宁 [赛场原声],https://tv.iill.top/QYH/e3S40a
+「全运会」11/18 16:50 篮球男子22岁以下组5 8排位赛 河南vs辽宁 [赛场原声],https://tv.iill.top/QYH/qx6Lvz
+「全运会」11/18 19:50 篮球男子18岁以下组金牌赛 [张泽欣],https://tv.iill.top/QYH/0AtrWu
+「全运会」11/18 19:50 篮球男子18岁以下组金牌赛 [赛场原声],https://tv.iill.top/QYH/Mchr6x
+「全运会」11/18 19:50 篮球男子18岁以下组金牌赛 [综合信号],https://tv.iill.top/QYH/KbQ3YE
+「全运会」11/18 19:50 篮球男子18岁以下组金牌赛 [进攻视角],https://tv.iill.top/QYH/wHsjKg
+「全运会」11/18 19:50 篮球男子18岁以下组金牌赛 [45度视角1],https://tv.iill.top/QYH/KxX6Fx
+「全运会」11/18 19:50 篮球男子18岁以下组金牌赛 [45度视角2],https://tv.iill.top/QYH/jiiiYa
+「全运会」11/18 19:50 篮球男子22岁以下组5 8排位赛 浙江vs天津 [赛场原声],https://tv.iill.top/QYH/secRfM
+「NBA」11/18 08:00 常规赛 步行者VS活塞 [王冠证],https://tv.iill.top/NBA/qSqZJC
+「NBA」11/18 08:00 常规赛 步行者VS活塞 [英文原声],https://tv.iill.top/NBA/LQITMl
+「NBA」11/18 08:00 常规赛 快船VS76人 [杨健 马健 裴优],https://tv.iill.top/NBA/FPucPH
+「NBA」11/18 08:00 常规赛 快船VS76人 [大史],https://tv.iill.top/NBA/YHmwCf
+「NBA」11/18 08:00 常规赛 快船VS76人 [英文原声],https://tv.iill.top/NBA/GChAPf
+「NBA」11/18 08:00 常规赛 雄鹿VS骑士 [姜帆],https://tv.iill.top/NBA/Qso5Kn
+「NBA」11/18 08:00 常规赛 雄鹿VS骑士 [英文原声],https://tv.iill.top/NBA/Bqw2bu
+「NBA」11/18 08:30 常规赛 尼克斯VS热火 [邵化谦],https://tv.iill.top/NBA/PJO8BN
+「NBA」11/18 08:30 常规赛 尼克斯VS热火 [英文原声],https://tv.iill.top/NBA/eq4bgY
+「NBA」11/18 08:30 常规赛 黄蜂VS猛龙 [王凯],https://tv.iill.top/NBA/Ui9g1Q
+「NBA」11/18 08:30 常规赛 黄蜂VS猛龙 [英文原声],https://tv.iill.top/NBA/cEznSO
+「NBA」11/18 09:00 常规赛 独行侠VS森林狼 [庄宁宇 徐咏 刘潇涵],https://tv.iill.top/NBA/KlDhZB
+「NBA」11/18 09:00 常规赛 独行侠VS森林狼 [英文原声],https://tv.iill.top/NBA/CQM9gM
+「NBA」11/18 09:00 常规赛 雷霆VS鹈鹕 [罗森],https://tv.iill.top/NBA/rthHSM
+「NBA」11/18 09:00 常规赛 雷霆VS鹈鹕 [英文原声],https://tv.iill.top/NBA/6Q6EFE
+「NBA」11/18 10:00 常规赛 公牛VS掘金 [徐秦威],https://tv.iill.top/NBA/XuNKL2
+「NBA」11/18 10:00 常规赛 公牛VS掘金 [英文原声],https://tv.iill.top/NBA/rPdDD5
+「WTT」11/18 15:00 马斯喀特球星挑战赛：男单资格赛第三轮,https://tv.iill.top/Migu/NuVyFA
+「浙江省城市篮球联赛」11/18 19:30 柯城VS余姚,https://tv.iill.top/Migu/SeiY7O
+「浙江省城市篮球联赛」11/18 19:30 绍兴VS丽水,https://tv.iill.top/Migu/OV7xuc
+「乒乓球欧冠」11/17 04:30 常规赛 快船VS凯尔特人 [蔡凯臣],https://tv.iill.top/HuiK/96cQB9
+「NBA」11/17 04:30 常规赛 快船VS凯尔特人 [英文原声],https://tv.iill.top/HuiK/4Iuytv
+「NBA」11/17 05:00 常规赛 国王VS马刺 [王晓晨],https://tv.iill.top/HuiK/aXKl4f
+「NBA」11/17 05:00 常规赛 国王VS马刺 [英文原声],https://tv.iill.top/HuiK/3edUNy
+「NBA」11/17 07:00 常规赛 篮网VS奇才 [25/26赛季常规赛全场集锦：篮网129:106奇才（20251117）],https://tv.iill.top/HuiK/FmLsT3
+「NBA」11/17 07:00 常规赛 篮网VS奇才 [刘圳展],https://tv.iill.top/HuiK/gLfI7I
+「NBA」11/17 07:00 常规赛 篮网VS奇才 [英文原声],https://tv.iill.top/HuiK/uUmr7z
+「NBA」11/17 08:00 常规赛 勇士VS鹈鹕 [王冠证 郭维盛 魏欣怡],https://tv.iill.top/HuiK/b1LbWX
+「NBA」11/17 08:00 常规赛 勇士VS鹈鹕 [英文原声],https://tv.iill.top/HuiK/PoRT5h
+「NBA」11/17 08:00 常规赛 勇士VS鹈鹕 [拜月宁],https://tv.iill.top/HuiK/DvbUko
+「NBA」11/17 08:00 常规赛 魔术VS火箭 [25/26赛季常规赛全场集锦：魔术113:117火箭（20251117）],https://tv.iill.top/HuiK/UGsA9o
+「NBA」11/17 08:00 常规赛 魔术VS火箭 [连睿 周鹏],https://tv.iill.top/HuiK/yGmtmV
+「NBA」11/17 08:00 常规赛 魔术VS火箭 [英文原声],https://tv.iill.top/HuiK/TZ2ANl
+「NBA」11/17 08:30 常规赛 开拓者VS独行侠 [邵化谦 季孟年 秋童],https://tv.iill.top/HuiK/PdI6LZ
+「NBA」11/17 08:30 常规赛 开拓者VS独行侠 [邢晨],https://tv.iill.top/HuiK/kNScC4
+「NBA」11/17 08:30 常规赛 开拓者VS独行侠 [英文原声],https://tv.iill.top/HuiK/B9nkqB
+「NBA」11/17 09:00 常规赛 老鹰VS太阳 [25/26赛季常规赛全场集锦：老鹰124:122太阳（20251117）],https://tv.iill.top/HuiK/VeXTYE
+「NBA」11/17 09:00 常规赛 老鹰VS太阳 [殷文玉],https://tv.iill.top/HuiK/aweZMx
+「NBA」11/17 09:00 常规赛 老鹰VS太阳 [英文原声],https://tv.iill.top/HuiK/69WHzf
+「NBA」11/17 09:00 常规赛 公牛VS爵士 [25/26赛季常规赛全场集锦：公牛147:150爵士（20251117）],https://tv.iill.top/HuiK/qIdfmj
+「NBA」11/17 09:00 常规赛 公牛VS爵士 [张泽欣],https://tv.iill.top/HuiK/EamXmP
+「NBA」11/17 09:00 常规赛 公牛VS爵士 [英文原声],https://tv.iill.top/HuiK/Q01C7C
+「亚冠女足」11/17 15:00 小组赛 巴姆 vs 东孟加拉 [吴桐],https://tv.iill.top/HuiK/ETtn6F
+「亚冠女足」11/17 15:00 小组赛 巴姆 vs 东孟加拉 [赛场原声],https://tv.iill.top/HuiK/321O6e
+「亚冠女足」11/17 19:00 小组赛 武汉车谷江大 vs 纳萨夫 [林梦鸽 刘畅],https://tv.iill.top/HuiK/NBkkBQ
+「亚冠女足」11/17 19:00 小组赛 武汉车谷江大 vs 纳萨夫 [赛场原声],https://tv.iill.top/HuiK/6FPQVp
+「WTT」11/17 21:00 马斯喀特球星挑战赛：男单资格赛第一、二轮 郭勇横扫速胜 林仲勋3 1汪洋,https://tv.iill.top/HuiK/hpEkOm
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk
