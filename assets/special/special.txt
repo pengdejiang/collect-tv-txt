@@ -4599,83 +4599,81 @@ CHC 家庭影院「回看」,https://tv.iill.top/migu-1/chcjt
 嘉佳卡通「回看」,https://tv.iill.top/migu-1/jddh
 新动力量创一流「回看」,https://tv.iill.top/migu-1/xdll
 钱塘江「回看」,https://tv.iill.top/migu-1/qtj
-「NBA」11/21 08:00 常规赛 快船VS魔术 [孙博 王润陶 秋童],https://tv.iill.top/NBA/Y20X1q
-「NBA」11/21 08:00 常规赛 快船VS魔术 [大史],https://tv.iill.top/NBA/KQtlxZ
-「NBA」11/21 08:00 常规赛 快船VS魔术 [英文原声],https://tv.iill.top/NBA/8Wf4EO
-「NBA」11/21 09:00 常规赛 老鹰VS马刺 [王晓晨 周赫],https://tv.iill.top/NBA/ecvRpR
-「NBA」11/21 09:00 常规赛 老鹰VS马刺 [英文原声],https://tv.iill.top/NBA/AiZnpG
-「NBA」11/21 09:00 常规赛 76人VS雄鹿 [盛哲],https://tv.iill.top/NBA/BJF2sz
-「NBA」11/21 09:00 常规赛 76人VS雄鹿 [英文原声],https://tv.iill.top/NBA/kk3RMR
-「NBA」11/21 09:00 常规赛 国王VS灰熊 [贾磊],https://tv.iill.top/NBA/84swpe
-「NBA」11/21 09:00 常规赛 国王VS灰熊 [英文原声],https://tv.iill.top/NBA/cw2CdJ
-「斯诺克」11/20 22:00 利雅得狂欢季沙特大师赛1/4决赛：正播艾伦迎战希金斯 罗伯逊4 0晋级 [秦正],https://tv.iill.top/Migu/yqtaPc
-「斯诺克」11/20 22:00 利雅得狂欢季沙特大师赛1/4决赛：正播艾伦迎战希金斯 罗伯逊4 0晋级 [清流],https://tv.iill.top/Migu/czqMSO
-「斯诺克」11/21 03:00 利雅得狂欢季沙特大师赛1/4决赛：赵心童迎战墨菲 特鲁姆普PK威廉姆斯 [朱蒙],https://tv.iill.top/Migu/qV7pEq
-「斯诺克」11/21 03:00 利雅得狂欢季沙特大师赛1/4决赛：赵心童迎战墨菲 特鲁姆普PK威廉姆斯 [清流],https://tv.iill.top/Migu/Ql9jYo
-「WTT」11/21 15:00 马斯喀特球星挑战赛：男女单打1/8决赛 [刘馨蕊],https://tv.iill.top/Migu/O7FjWP
-「WTT」11/21 15:00 马斯喀特球星挑战赛：男女单打1/8决赛 [1号桌],https://tv.iill.top/Migu/z8GlLx
-「WTT」11/21 15:00 马斯喀特球星挑战赛：男女单打1/8决赛 [2号桌],https://tv.iill.top/Migu/RZecDp
-「WTT」11/21 15:00 马斯喀特球星挑战赛：男女单打1/8决赛 [3号桌],https://tv.iill.top/Migu/UqKXEr
-「WTT」11/21 15:00 马斯喀特球星挑战赛：男女单打1/8决赛 [4号桌],https://tv.iill.top/Migu/LrJPBr
-「WTT」11/21 15:00 马斯喀特球星挑战赛：男女单打1/8决赛 [智能字幕],https://tv.iill.top/Migu/N674uZ
-「河南省女子排球城市联赛」11/21 19:30 2025年第二阶段（C组）第十三轮,https://tv.iill.top/Migu/hOEoBl
-「浙江省城市篮球联赛」11/21 19:30 舟山VS台州,https://tv.iill.top/Migu/bkdoOy
-「浙江省城市篮球联赛」11/21 19:30 嘉兴经开区VS温州,https://tv.iill.top/Migu/YHYDwQ
-「湖南省足球联赛」11/21 19:38 郴州vs湘西,https://tv.iill.top/Migu/mUrzmP
-「WTT」11/21 21:00 马斯喀特球星挑战赛：男女单打1/4决赛及双打决赛 [凌维康 周泽昊],https://tv.iill.top/Migu/wQVIvv
-「WTT」11/21 21:00 马斯喀特球星挑战赛：男女单打1/4决赛及双打决赛 [1号桌],https://tv.iill.top/Migu/uIGnDJ
-「WTT」11/21 21:00 马斯喀特球星挑战赛：男女单打1/4决赛及双打决赛 [2号桌],https://tv.iill.top/Migu/YCdDaA
-「WTT」11/21 21:00 马斯喀特球星挑战赛：男女单打1/4决赛及双打决赛 [3号桌],https://tv.iill.top/Migu/O8rzBN
-「WTT」11/21 21:00 马斯喀特球星挑战赛：男女单打1/4决赛及双打决赛 [英文原声],https://tv.iill.top/Migu/B1jfEd
-「WTT」11/21 21:00 马斯喀特球星挑战赛：男女单打1/4决赛及双打决赛 [凌维康 周泽昊],https://tv.iill.top/Migu/3d0J4q
-「斯诺克」11/21 22:00 利雅得狂欢季沙特大师赛半决赛 [清流],https://tv.iill.top/Migu/sAEwSv
-「斯诺克」11/21 22:00 利雅得狂欢季沙特大师赛半决赛 [柏林],https://tv.iill.top/Migu/QoegHf
-「斯诺克」11/20 03:00 利雅得狂欢季沙特大师赛第二轮：丁俊晖不敌希金斯 墨菲4 0奥沙利文 [朱峰立],https://tv.iill.top/HuiK/G5ZoBm
-「斯诺克」11/20 03:00 利雅得狂欢季沙特大师赛第二轮：丁俊晖不敌希金斯 墨菲4 0奥沙利文 [清流],https://tv.iill.top/HuiK/gFhBp7
-「NBA」11/20 08:00 常规赛 黄蜂VS步行者 [25/26赛季常规赛全场集锦：黄蜂118:127步行者（20251120）],https://tv.iill.top/HuiK/MCiq5E
-「NBA」11/20 08:00 常规赛 黄蜂VS步行者 [贾磊],https://tv.iill.top/HuiK/J2D3uB
-「NBA」11/20 08:00 常规赛 黄蜂VS步行者 [英文原声],https://tv.iill.top/HuiK/5GlPlQ
-「NBA」11/20 08:00 常规赛 猛龙VS76人 [王冠证],https://tv.iill.top/HuiK/85SmBv
-「NBA」11/20 08:00 常规赛 猛龙VS76人 [英文原声],https://tv.iill.top/HuiK/yOJjYj
-「NBA」11/20 08:00 常规赛 火箭VS骑士 [25/26赛季常规赛全场集锦：火箭114:104骑士（20251120）],https://tv.iill.top/HuiK/kie3L4
-「NBA」11/20 08:00 常规赛 火箭VS骑士 [王晓晨 马健 佳依],https://tv.iill.top/HuiK/rB0fTU
-「NBA」11/20 08:00 常规赛 火箭VS骑士 [周鹏],https://tv.iill.top/HuiK/rNFUBG
-「NBA」11/20 08:00 常规赛 火箭VS骑士 [英文原声],https://tv.iill.top/HuiK/Sgjpuu
-「NBA」11/20 08:30 常规赛 勇士VS热火 [李天宇 陈正昊 魏欣怡],https://tv.iill.top/HuiK/brrMuJ
-「NBA」11/20 08:30 常规赛 勇士VS热火 [拜月宁],https://tv.iill.top/HuiK/o3YHKa
-「NBA」11/20 08:30 常规赛 勇士VS热火 [英文原声],https://tv.iill.top/HuiK/tRl6O5
-「NBA」11/20 09:00 常规赛 掘金VS鹈鹕 [盛哲],https://tv.iill.top/HuiK/AvzAyL
-「NBA」11/20 09:00 常规赛 掘金VS鹈鹕 [英文原声],https://tv.iill.top/HuiK/dwFpDG
-「NBA」11/20 09:00 常规赛 国王VS雷霆 [25/26赛季常规赛全场集锦：国王99:113雷霆（20251120）],https://tv.iill.top/HuiK/Pva6SV
-「NBA」11/20 09:00 常规赛 国王VS雷霆 [连睿],https://tv.iill.top/HuiK/URcR9o
-「NBA」11/20 09:00 常规赛 国王VS雷霆 [英文原声],https://tv.iill.top/HuiK/nTpye7
-「NBA」11/20 09:00 常规赛 奇才VS森林狼 [25/26赛季常规赛全场集锦：奇才109:120森林狼（20251120）],https://tv.iill.top/HuiK/b2jPEP
-「NBA」11/20 09:00 常规赛 奇才VS森林狼 [殷文玉],https://tv.iill.top/HuiK/kz6io4
-「NBA」11/20 09:00 常规赛 奇才VS森林狼 [英文原声],https://tv.iill.top/HuiK/c2IhX0
-「NBA」11/20 10:30 常规赛 尼克斯VS独行侠 [邵化谦 季孟年],https://tv.iill.top/HuiK/M56DIG
-「NBA」11/20 10:30 常规赛 尼克斯VS独行侠 [英文原声],https://tv.iill.top/HuiK/llYoH2
-「NBA」11/20 11:00 常规赛 公牛VS开拓者 [孙博 闫宇峰],https://tv.iill.top/HuiK/gWGxhJ
-「NBA」11/20 11:00 常规赛 公牛VS开拓者 [邢晨],https://tv.iill.top/HuiK/xLMBby
-「NBA」11/20 11:00 常规赛 公牛VS开拓者 [英文原声],https://tv.iill.top/HuiK/Pn287X
-「亚冠女足」11/20 15:00 小组赛 东孟加拉 vs 武汉车谷江大 [林梦鸽 吴桐],https://tv.iill.top/HuiK/hVmJbs
-「亚冠女足」11/20 15:00 小组赛 东孟加拉 vs 武汉车谷江大 [赛场原声],https://tv.iill.top/HuiK/FiaiNl
-「WTT」11/20 15:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打1/4决赛 林昀儒/郑怡静晋级 早田五局险胜 [刘馨蕊 凌维康],https://tv.iill.top/HuiK/J9hYny
-「WTT」11/20 15:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打1/4决赛 林昀儒/郑怡静晋级 早田五局险胜 [1号桌],https://tv.iill.top/HuiK/OmmfPY
-「WTT」11/20 15:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打1/4决赛 林昀儒/郑怡静晋级 早田五局险胜 [2号桌],https://tv.iill.top/HuiK/Y1SCXY
-「WTT」11/20 15:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打1/4决赛 林昀儒/郑怡静晋级 早田五局险胜 [3号桌],https://tv.iill.top/HuiK/CAEn8H
-「WTT」11/20 15:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打1/4决赛 林昀儒/郑怡静晋级 早田五局险胜 [4号桌],https://tv.iill.top/HuiK/GCKmRX
-「WTT」11/20 15:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打1/4决赛 林昀儒/郑怡静晋级 早田五局险胜 [智能字幕],https://tv.iill.top/HuiK/GZlj9t
-「亚冠女足」11/20 19:00 小组赛 纳萨夫 vs 巴姆 [刘畅],https://tv.iill.top/HuiK/Ri0fBv
-「亚冠女足」11/20 19:00 小组赛 纳萨夫 vs 巴姆 [赛场原声],https://tv.iill.top/HuiK/WsBAA9
-「浙江省城市篮球联赛」11/20 19:30 庆元74 87诸暨,https://tv.iill.top/HuiK/Tuv3cS
-「WTT」11/20 21:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打半决赛 大藤/横井出战 阿鲁纳迎首秀 [2号桌],https://tv.iill.top/HuiK/hcuvFQ
-「WTT」11/20 21:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打半决赛 大藤/横井出战 阿鲁纳迎首秀 [1号桌],https://tv.iill.top/HuiK/6WHxBF
-「WTT」11/20 21:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打半决赛 大藤/横井出战 阿鲁纳迎首秀 [3号桌],https://tv.iill.top/HuiK/LQ0M8z
-「WTT」11/20 21:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打半决赛 大藤/横井出战 阿鲁纳迎首秀 [4号桌],https://tv.iill.top/HuiK/YZyQKm
-「WTT」11/20 21:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打半决赛 大藤/横井出战 阿鲁纳迎首秀 [英文原声],https://tv.iill.top/HuiK/lk2BFe
-「WTT」11/20 21:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打半决赛 大藤/横井出战 阿鲁纳迎首秀 [朱子恒],https://tv.iill.top/HuiK/xiHF7K
-「斯诺克」11/20 22:00 利雅得狂欢季沙特大师赛1/4决赛：正播艾伦迎战希金斯 罗伯逊4 0晋级 [秦正],https://tv.iill.top/HuiK/lCoE3y
-「斯诺克」11/20 22:00 利雅得狂欢季沙特大师赛1/4决赛：正播艾伦迎战希金斯 罗伯逊4 0晋级 [清流],https://tv.iill.top/HuiK/JngQwJ
+「NBA」08:00 常规赛 快船VS魔术 [孙博 王润陶 秋童],https://tv.iill.top/NBA/Irhk8n
+「NBA」08:00 常规赛 快船VS魔术 [大史],https://tv.iill.top/NBA/e4ZDf0
+「NBA」08:00 常规赛 快船VS魔术 [英文原声],https://tv.iill.top/NBA/Yg8Q1C
+「NBA」09:00 常规赛 老鹰VS马刺 [王晓晨 周赫],https://tv.iill.top/NBA/qQ41pL
+「NBA」09:00 常规赛 老鹰VS马刺 [英文原声],https://tv.iill.top/NBA/lJET5w
+「NBA」09:00 常规赛 76人VS雄鹿 [盛哲],https://tv.iill.top/NBA/c5WTvN
+「NBA」09:00 常规赛 76人VS雄鹿 [英文原声],https://tv.iill.top/NBA/hwtg2I
+「NBA」09:00 常规赛 国王VS灰熊 [贾磊],https://tv.iill.top/NBA/aiifX5
+「NBA」09:00 常规赛 国王VS灰熊 [英文原声],https://tv.iill.top/NBA/bptZ4c
+「斯诺克」03:00 利雅得狂欢季沙特大师赛1/4决赛：赵心童4 2墨菲 特鲁姆普4 0晋级 [朱蒙],https://tv.iill.top/Migu/zWVe55
+「斯诺克」03:00 利雅得狂欢季沙特大师赛1/4决赛：赵心童4 2墨菲 特鲁姆普4 0晋级 [清流],https://tv.iill.top/Migu/alcjUA
+「WTT」15:00 马斯喀特球星挑战赛：男女单打1/8决赛 A·勒布伦出战 金娜英vs朴康贤 [刘馨蕊],https://tv.iill.top/Migu/e7k7Qp
+「WTT」15:00 马斯喀特球星挑战赛：男女单打1/8决赛 A·勒布伦出战 金娜英vs朴康贤 [1号桌],https://tv.iill.top/Migu/RnaTPF
+「WTT」15:00 马斯喀特球星挑战赛：男女单打1/8决赛 A·勒布伦出战 金娜英vs朴康贤 [2号桌],https://tv.iill.top/Migu/mvCuMw
+「WTT」15:00 马斯喀特球星挑战赛：男女单打1/8决赛 A·勒布伦出战 金娜英vs朴康贤 [3号桌],https://tv.iill.top/Migu/lN6oqt
+「WTT」15:00 马斯喀特球星挑战赛：男女单打1/8决赛 A·勒布伦出战 金娜英vs朴康贤 [4号桌],https://tv.iill.top/Migu/Ub1vc4
+「WTT」15:00 马斯喀特球星挑战赛：男女单打1/8决赛 A·勒布伦出战 金娜英vs朴康贤 [智能字幕],https://tv.iill.top/Migu/qnpVxu
+「河南省女子排球城市联赛」19:30 2025年第二阶段（C组）第十三轮,https://tv.iill.top/Migu/Mu0coB
+「浙江省城市篮球联赛」19:30 舟山VS台州,https://tv.iill.top/Migu/e3MqUM
+「浙江省城市篮球联赛」19:30 嘉兴经开区VS温州,https://tv.iill.top/Migu/GpUKAe
+「湖南省足球联赛」19:38 郴州vs湘西,https://tv.iill.top/Migu/DgxzU5
+「WTT」21:00 马斯喀特球星挑战赛：男女单打1/4决赛及双打决赛 [凌维康 周泽昊],https://tv.iill.top/Migu/ze7wip
+「WTT」21:00 马斯喀特球星挑战赛：男女单打1/4决赛及双打决赛 [1号桌],https://tv.iill.top/Migu/33DanG
+「WTT」21:00 马斯喀特球星挑战赛：男女单打1/4决赛及双打决赛 [2号桌],https://tv.iill.top/Migu/E5IiIZ
+「WTT」21:00 马斯喀特球星挑战赛：男女单打1/4决赛及双打决赛 [3号桌],https://tv.iill.top/Migu/kZoq6P
+「WTT」21:00 马斯喀特球星挑战赛：男女单打1/4决赛及双打决赛 [英文原声],https://tv.iill.top/Migu/2DCSTD
+「WTT」21:00 马斯喀特球星挑战赛：男女单打1/4决赛及双打决赛 [凌维康 周泽昊],https://tv.iill.top/Migu/cTRYF4
+「斯诺克」22:00 利雅得狂欢季沙特大师赛半决赛 [清流],https://tv.iill.top/Migu/R07zFl
+「斯诺克」22:00 利雅得狂欢季沙特大师赛半决赛 [柏林],https://tv.iill.top/Migu/9BGWbx
+「斯诺克」11/20 03:00 利雅得狂欢季沙特大师赛第二轮：丁俊晖不敌希金斯 墨菲4 0奥沙利文 [朱峰立],https://tv.iill.top/HuiK/xXrkHo
+「斯诺克」11/20 03:00 利雅得狂欢季沙特大师赛第二轮：丁俊晖不敌希金斯 墨菲4 0奥沙利文 [清流],https://tv.iill.top/HuiK/u4NCRR
+「NBA」11/20 08:00 常规赛 黄蜂VS步行者 [25/26赛季常规赛全场集锦：黄蜂118:127步行者（20251120）],https://tv.iill.top/HuiK/1RIqCP
+「NBA」11/20 08:00 常规赛 黄蜂VS步行者 [贾磊],https://tv.iill.top/HuiK/xp5z0P
+「NBA」11/20 08:00 常规赛 黄蜂VS步行者 [英文原声],https://tv.iill.top/HuiK/Uf3oSF
+「NBA」11/20 08:00 常规赛 猛龙VS76人 [王冠证],https://tv.iill.top/HuiK/8nilAo
+「NBA」11/20 08:00 常规赛 猛龙VS76人 [英文原声],https://tv.iill.top/HuiK/ldbyef
+「NBA」11/20 08:00 常规赛 火箭VS骑士 [25/26赛季常规赛全场集锦：火箭114:104骑士（20251120）],https://tv.iill.top/HuiK/l0M6Ct
+「NBA」11/20 08:00 常规赛 火箭VS骑士 [王晓晨 马健 佳依],https://tv.iill.top/HuiK/cM7iJb
+「NBA」11/20 08:00 常规赛 火箭VS骑士 [周鹏],https://tv.iill.top/HuiK/OZXXOR
+「NBA」11/20 08:00 常规赛 火箭VS骑士 [英文原声],https://tv.iill.top/HuiK/UstG0L
+「NBA」11/20 08:30 常规赛 勇士VS热火 [李天宇 陈正昊 魏欣怡],https://tv.iill.top/HuiK/wWpYNY
+「NBA」11/20 08:30 常规赛 勇士VS热火 [拜月宁],https://tv.iill.top/HuiK/xyIlex
+「NBA」11/20 08:30 常规赛 勇士VS热火 [英文原声],https://tv.iill.top/HuiK/Yrj8W3
+「NBA」11/20 09:00 常规赛 掘金VS鹈鹕 [盛哲],https://tv.iill.top/HuiK/rd5oj7
+「NBA」11/20 09:00 常规赛 掘金VS鹈鹕 [英文原声],https://tv.iill.top/HuiK/7HmM65
+「NBA」11/20 09:00 常规赛 国王VS雷霆 [25/26赛季常规赛全场集锦：国王99:113雷霆（20251120）],https://tv.iill.top/HuiK/l4B6f3
+「NBA」11/20 09:00 常规赛 国王VS雷霆 [连睿],https://tv.iill.top/HuiK/mZ5vqs
+「NBA」11/20 09:00 常规赛 国王VS雷霆 [英文原声],https://tv.iill.top/HuiK/bzQK5V
+「NBA」11/20 09:00 常规赛 奇才VS森林狼 [25/26赛季常规赛全场集锦：奇才109:120森林狼（20251120）],https://tv.iill.top/HuiK/nmAE33
+「NBA」11/20 09:00 常规赛 奇才VS森林狼 [殷文玉],https://tv.iill.top/HuiK/oyMdgM
+「NBA」11/20 09:00 常规赛 奇才VS森林狼 [英文原声],https://tv.iill.top/HuiK/UG2SMZ
+「NBA」11/20 10:30 常规赛 尼克斯VS独行侠 [邵化谦 季孟年],https://tv.iill.top/HuiK/c64qzN
+「NBA」11/20 10:30 常规赛 尼克斯VS独行侠 [英文原声],https://tv.iill.top/HuiK/zYiymG
+「NBA」11/20 11:00 常规赛 公牛VS开拓者 [孙博 闫宇峰],https://tv.iill.top/HuiK/W5PnyB
+「NBA」11/20 11:00 常规赛 公牛VS开拓者 [邢晨],https://tv.iill.top/HuiK/F2Ktc2
+「NBA」11/20 11:00 常规赛 公牛VS开拓者 [英文原声],https://tv.iill.top/HuiK/vdt6DT
+「亚冠女足」11/20 15:00 小组赛 东孟加拉 vs 武汉车谷江大 [林梦鸽 吴桐],https://tv.iill.top/HuiK/M7FBaN
+「亚冠女足」11/20 15:00 小组赛 东孟加拉 vs 武汉车谷江大 [赛场原声],https://tv.iill.top/HuiK/X2RYyu
+「WTT」11/20 15:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打1/4决赛 林昀儒/郑怡静晋级 早田五局险胜 [刘馨蕊 凌维康],https://tv.iill.top/HuiK/ICghEg
+「WTT」11/20 15:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打1/4决赛 林昀儒/郑怡静晋级 早田五局险胜 [1号桌],https://tv.iill.top/HuiK/sykYSR
+「WTT」11/20 15:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打1/4决赛 林昀儒/郑怡静晋级 早田五局险胜 [2号桌],https://tv.iill.top/HuiK/csGNQl
+「WTT」11/20 15:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打1/4决赛 林昀儒/郑怡静晋级 早田五局险胜 [3号桌],https://tv.iill.top/HuiK/Ic8mcS
+「WTT」11/20 15:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打1/4决赛 林昀儒/郑怡静晋级 早田五局险胜 [4号桌],https://tv.iill.top/HuiK/KQMa1T
+「WTT」11/20 15:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打1/4决赛 林昀儒/郑怡静晋级 早田五局险胜 [智能字幕],https://tv.iill.top/HuiK/n92e8P
+「亚冠女足」11/20 19:00 小组赛 纳萨夫 vs 巴姆 [刘畅],https://tv.iill.top/HuiK/MarXKk
+「亚冠女足」11/20 19:00 小组赛 纳萨夫 vs 巴姆 [赛场原声],https://tv.iill.top/HuiK/M0akjK
+「浙江省城市篮球联赛」11/20 19:30 庆元74 87诸暨,https://tv.iill.top/HuiK/LLuO32
+「WTT」11/20 21:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打半决赛 林昀儒/郑怡静挺进决赛 张禹珍速胜 [朱子恒],https://tv.iill.top/HuiK/Llf9cC
+「WTT」11/20 21:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打半决赛 林昀儒/郑怡静挺进决赛 张禹珍速胜 [1号桌],https://tv.iill.top/HuiK/Qcy2kO
+「WTT」11/20 21:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打半决赛 林昀儒/郑怡静挺进决赛 张禹珍速胜 [2号桌],https://tv.iill.top/HuiK/qLOXEt
+「WTT」11/20 21:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打半决赛 林昀儒/郑怡静挺进决赛 张禹珍速胜 [3号桌],https://tv.iill.top/HuiK/8Cck5j
+「WTT」11/20 21:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打半决赛 林昀儒/郑怡静挺进决赛 张禹珍速胜 [4号桌],https://tv.iill.top/HuiK/hyhSTx
+「WTT」11/20 21:00 马斯喀特球星挑战赛：男女单打1/16决赛及双打半决赛 林昀儒/郑怡静挺进决赛 张禹珍速胜 [英文原声],https://tv.iill.top/HuiK/7cCebD
+「斯诺克」11/20 22:00 利雅得狂欢季沙特大师赛1/4决赛：艾伦4 2战胜希金斯 罗伯逊4 0晋级 [秦正],https://tv.iill.top/HuiK/YeQzS2
+「斯诺克」11/20 22:00 利雅得狂欢季沙特大师赛1/4决赛：艾伦4 2战胜希金斯 罗伯逊4 0晋级 [清流],https://tv.iill.top/HuiK/kWu82l
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk
