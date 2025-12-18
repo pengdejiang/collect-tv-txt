@@ -4538,67 +4538,12 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 公告说明：推流源·「隨時拉閘 / 晚安"0-6"」,https://epg.iill.top/v/301.mp4
 限制條件：請保持 訂閲IP 與 觀看IP 一致,https://epg.iill.top/v/302.mp4
 Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-CCTV 1 综合「回看」,https://tv.iill.top/migu/cctv1&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CCTV 2 财经「回看」,https://tv.iill.top/migu/cctv2&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CCTV 3 综艺「回看」,https://tv.iill.top/migu/cctv3&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CCTV 4 中文国际「回看」,https://tv.iill.top/migu/cctv4&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CCTV 4 中文国际·美洲「回看」,https://tv.iill.top/migu/cctv4m&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CCTV 4 中文国际·欧洲「回看」,https://tv.iill.top/migu/cctv4o&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CCTV 5 体育「回看」,https://tv.iill.top/migu/cctv5&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CCTV 5+ 体育赛事「回看」,https://tv.iill.top/migu/cctv5+&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CCTV 6 电影「回看」,https://tv.iill.top/migu/cctv6&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CCTV 7 国防军事「回看」,https://tv.iill.top/migu/cctv7&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CCTV 8 电视剧「回看」,https://tv.iill.top/migu/cctv8&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CCTV 9 纪录「回看」,https://tv.iill.top/migu/cctv9&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CCTV 10 科教「回看」,https://tv.iill.top/migu/cctv10&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CCTV 11 戏曲「回看」,https://tv.iill.top/migu/cctv11&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CCTV 12 社会与法「回看」,https://tv.iill.top/migu/cctv12&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CCTV 13 新闻「回看」,https://tv.iill.top/migu/cctv13&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CCTV 14 少儿「回看」,https://tv.iill.top/migu/cctv14&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CCTV 15 音乐「回看」,https://tv.iill.top/migu/cctv15&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CCTV 17 农村农业「回看」,https://tv.iill.top/migu/cctv17&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CETV 1 中国教育「回看」,https://tv.iill.top/migu/cetv1&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CETV 2 中国教育「回看」,https://tv.iill.top/migu/cetv2&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CETV 4 中国教育「回看」,https://tv.iill.top/migu/cetv4&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CGTN「回看」,https://tv.iill.top/CGTN/cgtn&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CGTN Documentary「回看」,https://tv.iill.top/CGTN/cgtn_doc&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CGTN Русский「回看」,https://tv.iill.top/CGTN/cgtn_russian&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CGTN Français「回看」,https://tv.iill.top/CGTN/cgtn_francais&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CGTN Español「回看」,https://tv.iill.top/CGTN/cgtn_espanol&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CGTN العربية「回看」,https://tv.iill.top/CGTN/cgtn_arabic&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-浙江卫视,https://tv.iill.top/migu/zjws&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-湖南卫视「回看」,https://tv.iill.top/migu/hnws&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-东方卫视「回看」,https://tv.iill.top/migu/dfws&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-江苏卫视「回看」,https://tv.iill.top/migu/jsws&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-广东卫视「回看」,https://tv.iill.top/migu/gdws&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-江西卫视「回看」,https://tv.iill.top/migu/jxws&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-陕西卫视「回看」,https://tv.iill.top/migu/sxws&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-湖北卫视「回看」,https://tv.iill.top/migu/hubws&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-东南卫视「回看」,https://tv.iill.top/migu/dnws&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-海峡卫视「回看」,https://tv.iill.top/migu/hxws&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-辽宁卫视「回看」,https://tv.iill.top/migu/lnws&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-四海钓鱼「回看」,https://tv.iill.top/migu/shdy&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-上海新闻综合「回看」,https://tv.iill.top/migu/shxw&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-上视东方影视「回看」,https://tv.iill.top/migu/shys&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CHC 影迷电影「回看」,https://tv.iill.top/migu/chcym&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CHC 动作电影「回看」,https://tv.iill.top/migu/chcdz&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-CHC 家庭影院「回看」,https://tv.iill.top/migu/chcjt&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-新片放映「回看」,https://tv.iill.top/migu/xpfy&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-高清大片「回看」,https://tv.iill.top/migu/gqdp&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-高能悬疑「回看」,https://tv.iill.top/migu/gnxy&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-经典香港电影「回看」,https://tv.iill.top/migu/hkdy&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-抗战经典影片「回看」,https://tv.iill.top/migu/kzjd&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-血色山河·抗日战争影像志「回看」,https://tv.iill.top/migu/xssh&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-咪咕24小时体育「回看」,https://tv.iill.top/migu/mgty&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-五环传奇「回看」,https://tv.iill.top/migu/whcq&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-赛事最经典「回看」,https://tv.iill.top/migu/sszjd&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-掼蛋精英赛「回看」,https://tv.iill.top/migu/gdjs&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-体坛名栏汇「回看」,https://tv.iill.top/migu/ttmh&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-和美乡途轮播「回看」,https://tv.iill.top/migu/hmxt&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-最强综艺趴「回看」,https://tv.iill.top/migu/zqzyp&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-嘉佳卡通「回看」,https://tv.iill.top/migu/jddh&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-新动力量创一流「回看」,https://tv.iill.top/migu/xdll&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-钱塘江「回看」,https://tv.iill.top/migu/qtj&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
+TNT Sport 1,https://hls.iill.top/api/TNT-Sports-1/playlist.m3u8
+TNT Sport 2,https://hls.iill.top/api/TNT-Sports-2/playlist.m3u8
+TNT Sport 3,https://hls.iill.top/api/TNT-Sports-3/playlist.m3u8
+TNT Sport 4,https://hls.iill.top/api/TNT-Sports-4/playlist.m3u8
+Hub Premier 1,https://hls.iill.top/api/Hub-Premier-1/playlist.m3u8
+Hub Premier 2,https://hls.iill.top/api/Hub-Premier-2-4K/playlist.m3u8
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
 鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
 鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
@@ -4622,9 +4567,6 @@ RTHK 33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/s
 RTHK 34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
 RTHK 35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 RTHK 36,https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8
-tvN,https://hls.iill.top/api/tvN/playlist.m3u8
-BBC Earth,https://hls.iill.top/api/BBC-Earth/playlist.m3u8
-BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/playlist.m3u8
 澳門蓮花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 澳門Macau,https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 澳門葡文,https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
