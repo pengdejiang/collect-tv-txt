@@ -4542,6 +4542,9 @@ TNT Sport 1,https://hls.iill.top/api/TNT-Sports-1/playlist.m3u8
 TNT Sport 2,https://hls.iill.top/api/TNT-Sports-2/playlist.m3u8
 TNT Sport 3,https://hls.iill.top/api/TNT-Sports-3/playlist.m3u8
 TNT Sport 4,https://hls.iill.top/api/TNT-Sports-4/playlist.m3u8
+BBC Earth,https://hls.iill.top/api/BBC-Earth/playlist.m3u8
+BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/playlist.m3u8
+Discovery,https://hls.iill.top/api/Discovery/playlist.m3u8
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw&token=f8a8e23f2e176e1718e1c409ec528a939c7bfc51f6efb38b36dbd0313a82adc2
 鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx&token=f8a8e23f2e176e1718e1c409ec528a939c7bfc51f6efb38b36dbd0313a82adc2
 鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk&token=f8a8e23f2e176e1718e1c409ec528a939c7bfc51f6efb38b36dbd0313a82adc2
