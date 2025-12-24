@@ -4536,7 +4536,7 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 維護時間：2025-11-11 #佛系維護...,https://epg.iill.top/v/301.mp4
 維護内容：維護 Gather「增加 •咪咕「全運會」"」,https://epg.iill.top/v/302.mp4
 公告说明：推流源·「隨時拉閘 / 晚安"0-6"」,https://epg.iill.top/v/301.mp4
-限制條件：請保持 訂閲IP 與 觀看IP 一致,https://epg.iill.top/v/302.mp4
+建議使用：請保持 个人觀看 請勿頻繁切換,https://epg-1.iill.top/v/301.mp4
 Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 TNT Sport 1,https://hls.iill.top/api/TNT-Sports-1/playlist.m3u8
 TNT Sport 2,https://hls.iill.top/api/TNT-Sports-2/playlist.m3u8
