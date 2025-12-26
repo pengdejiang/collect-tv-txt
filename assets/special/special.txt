@@ -4542,9 +4542,30 @@ TNT Sport 1,https://hls.iill.top/api/TNT-Sports-1/playlist.m3u8
 TNT Sport 2,https://hls.iill.top/api/TNT-Sports-2/playlist.m3u8
 TNT Sport 3,https://hls.iill.top/api/TNT-Sports-3/playlist.m3u8
 TNT Sport 4,https://hls.iill.top/api/TNT-Sports-4/playlist.m3u8
-BBC Earth,https://hls.iill.top/api/BBC-Earth/playlist.m3u8
-BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/playlist.m3u8
-Discovery,https://hls.iill.top/api/Discovery/playlist.m3u8
+beIN Sports 1,http://hls.iill.top/api/beIN-Sports-1/playlist.m3u8
+beIN Sports 2,http://hls.iill.top/api/beIN-Sports-2/playlist.m3u8
+beIN Sports 3,http://hls.iill.top/api/beIN-Sports-3/playlist.m3u8
+beIN Sports 4,http://hls.iill.top/api/beIN-Sports-4/playlist.m3u8
+beIN Sports 5,http://hls.iill.top/api/beIN-Sports-5/playlist.m3u8
+Hub Premier 1,http://hls.iill.top/api/Hub-Premier-1/playlist.m3u8
+Hub Premier 2,http://hls.iill.top/api/Hub-Premier-2/playlist.m3u8
+Hub Premier 3,http://hls.iill.top/api/Hub-Premier-3/playlist.m3u8
+Hub Premier 4,http://hls.iill.top/api/Hub-Premier-4/playlist.m3u8
+Hub Premier 5,http://hls.iill.top/api/Hub-Premier-5/playlist.m3u8
+Hub Premier 6,http://hls.iill.top/api/Hub-Premier-6/playlist.m3u8
+Hub Premier 7,http://hls.iill.top/api/Hub-Premier-7/playlist.m3u8
+Hub Premier 8,http://hls.iill.top/api/Hub-Premier-8/playlist.m3u8
+Hub Sports 1,http://hls.iill.top/api/Hub-Sports-1/playlist.m3u8
+Hub Sports 2,http://hls.iill.top/api/Hub-Sports-2/playlist.m3u8
+Hub Sports 3,http://hls.iill.top/api/Hub-Sports-3/playlist.m3u8
+Hub Sports 4,http://hls.iill.top/api/Hub-Sports-4/playlist.m3u8
+Hub Sports 5,http://hls.iill.top/api/Hub-Sports-5/playlist.m3u8
+Hub Sports 6,http://hls.iill.top/api/Hub-Sports-6/playlist.m3u8
+Hub Sports 7,http://hls.iill.top/api/Hub-Sports-7/playlist.m3u8
+Hub Sports 8,http://hls.iill.top/api/Hub-Sports-8/playlist.m3u8
+Fight Sports,http://hls.iill.top/api/Fight-Sports/playlist.m3u8
+Spotv-1,http://hls.iill.top/api/Spotv-1/playlist.m3u8
+Spotv-2,http://hls.iill.top/api/Spotv-2/playlist.m3u8
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw&token=793e513846294e1a2b3e7fd78bfa0ce25e8ba37d19cb6313cd73da84af8c9508
 鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx&token=793e513846294e1a2b3e7fd78bfa0ce25e8ba37d19cb6313cd73da84af8c9508
 鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk&token=793e513846294e1a2b3e7fd78bfa0ce25e8ba37d19cb6313cd73da84af8c9508
