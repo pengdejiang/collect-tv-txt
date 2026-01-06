@@ -4533,8 +4533,8 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 av91.top,https://wbug.xyz/videos/0f58e89f018ae20404e4c7cbc48352f9/g.m3u8?h=3121efe8979c635
 mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h=3121efe8979c635
 免費訂閲：請勿販賣...,https://epg.iill.top/v/302.mp4
-維護時間：2025-11-11 #佛系維護...,https://epg.iill.top/v/301.mp4
-維護内容：維護 Gather「增加 •咪咕「全運會」"」,https://epg.iill.top/v/302.mp4
+維護時間：2026-1-6 #佛系維護...,https://epg.iill.top/v/301.mp4
+維護内容：維護 Gather「恢復 •咪咕「TV」"」,https://epg.iill.top/v/302.mp4
 公告说明：推流源·「隨時拉閘 / 晚安"0-6"」,https://epg.iill.top/v/301.mp4
 建議使用：請保持 个人觀看 請勿頻繁切換,https://epg-1.iill.top/v/301.mp4
 Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -4564,8 +4564,8 @@ Hub Sports 6,http://hls.iill.top/api/Hub-Sports-6/playlist.m3u8
 Hub Sports 7,http://hls.iill.top/api/Hub-Sports-7/playlist.m3u8
 Hub Sports 8,http://hls.iill.top/api/Hub-Sports-8/playlist.m3u8
 Fight Sports,http://hls.iill.top/api/Fight-Sports/playlist.m3u8
-Spotv-1,http://hls.iill.top/api/Spotv-1/playlist.m3u8
-Spotv-2,http://hls.iill.top/api/Spotv-2/playlist.m3u8
+Spotv 1,http://hls.iill.top/api/Spotv-1/playlist.m3u8
+Spotv 2,http://hls.iill.top/api/Spotv-2/playlist.m3u8
 中国天气「回看」,https://tv.iill.top/migu/zgtq&token=cc939526aed05a9c3f42c88c61fb8cb76c2acee2ebd65691e243451029eb7b84
 CCTV 1 综合「回看」,https://tv.iill.top/migu/cctv1&token=cc939526aed05a9c3f42c88c61fb8cb76c2acee2ebd65691e243451029eb7b84
 CCTV 2 财经「回看」,https://tv.iill.top/migu/cctv2&token=cc939526aed05a9c3f42c88c61fb8cb76c2acee2ebd65691e243451029eb7b84
@@ -4655,7 +4655,7 @@ RTHK 36,https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u
 BBC Earth,https://hls.iill.top/api/BBC-Earth/playlist.m3u8
 BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/playlist.m3u8
 Discovery,https://hls.iill.top/api/Discovery/playlist.m3u8
-澳門蓮花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+澳門蓮花,https://tv.iill.top/mo/lotustv&token=cc939526aed05a9c3f42c88c61fb8cb76c2acee2ebd65691e243451029eb7b84
 澳門Macau,https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 澳門葡文,https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 澳視澳門,https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
@@ -4830,18 +4830,18 @@ Channel U,http://cdn6.163189.xyz/163189/chu
 第一财经,https://cdn3.163189.xyz/163189/dycj
 广东体育,http://r.jdshipin.com/LiYdg
 广东珠江,http://r.jdshipin.com/sE5vO
-广州综合,http://cn.yycx.eu.org:12838/gztv/zhonghe
-广州新闻,http://cn.yycx.eu.org:12838/gztv/xinwen
-广州法治,http://cn.yycx.eu.org:12838/gztv/fazhi
-广州南国都市,http://cn.yycx.eu.org:12838/gztv/shenghuo
-东方卫视,http://cn.yycx.eu.org:12838/sh/dfws
-五星体育,http://cn.yycx.eu.org:12838/sh/wxty
-第一财经,http://cn.yycx.eu.org:12838/sh/dycj
-上海新闻综合,http://cn.yycx.eu.org:12838/sh/xwzh
-上海都市频道,http://cn.yycx.eu.org:12838/sh/dspd
-新纪实,http://cn.yycx.eu.org:12838/sh/xjs
-魔都眼,http://cn.yycx.eu.org:12838/sh/mdy
-爱上海,http://cn.yycx.eu.org:12838/sh/ash
+广州综合,http://dxa.yiandrive.com:39319/gztv/zhonghe
+广州新闻,http://dxa.yiandrive.com:39319/gztv/xinwen
+广州法治,http://dxa.yiandrive.com:39319/gztv/fazhi
+广州南国都市,http://dxa.yiandrive.com:39319/gztv/shenghuo
+东方卫视,http://dxa.yiandrive.com:39319/sh/dfws
+五星体育,http://dxa.yiandrive.com:39319/sh/wxty
+第一财经,http://dxa.yiandrive.com:39319/sh/dycj
+上海新闻综合,http://dxa.yiandrive.com:39319/sh/xwzh
+上海都市频道,http://dxa.yiandrive.com:39319/sh/dspd
+新纪实,http://dxa.yiandrive.com:39319/sh/xjs
+魔都眼,http://dxa.yiandrive.com:39319/sh/mdy
+爱上海,http://dxa.yiandrive.com:39319/sh/ash
 「B站」热门赛事,https://live.iill.top/bilibili/10
 「B站」CS 2,https://live.iill.top/bilibili/21622811
 「虎牙」CS 2,https://live.iill.top/huya/483917
