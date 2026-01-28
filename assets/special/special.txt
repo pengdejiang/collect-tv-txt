@@ -4620,10 +4620,10 @@ RTHK 36,https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u
 智林體育「LiTV」,https://tv.iill.top/litv/4gtv-4gtv101&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
 東森新聞「LiTV」,https://tv.iill.top/litv/4gtv-4gtv152&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
 東森財經「LiTV」,https://tv.iill.top/litv/4gtv-4gtv153&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
-TVBS「LiTV」,https://tv.iill.top/litv/4gtv-4gtv073&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
-TVBS 新聞「LiTV」,https://tv.iill.top/litv/4gtv-4gtv072&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
-TVBS 歡樂「LiTV」,https://tv.iill.top/litv/4gtv-4gtv068&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
-TVBS 精采「LiTV」,https://tv.iill.top/litv/4gtv-4gtv067&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
+TVBS「4gTV」,https://tv.iill.top/4gtv/media-live073&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
+TVBS 新聞「4gTV」,https://tv.iill.top/4gtv/media-live072&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
+TVBS 歡樂「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv068&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
+TVBS 精采「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv067&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
 TVBS 綜藝「4gTV」,https://tv.iill.top/4gtv/4gtv-live087&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
 TVBS 台劇「4gTV」,https://tv.iill.top/4gtv/4gtv-live088&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
 中天亞洲「LiTV」,https://tv.iill.top/litv/4gtv-4gtv109&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
