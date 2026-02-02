@@ -4540,14 +4540,13 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 BBC Earth,https://hls.iill.top/api/BBC-Earth/index.m3u8
 BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
 Discovery,https://hls.iill.top/api/Discovery/index.m3u8
-天映頻道,https://hls.iill.topapi/typd/index.m3u8
-動物星球,https://hls.iill.topapi/dwxq/index.m3u8
-緯來日本,https://hls.iill.topapi/wlrb/index.m3u8
-緯來體育,https://hls.iill.topapi/wlty/index.m3u8
-緯來電影,https://hls.iill.topapi/wldy/index.m3u8
-東森電影,https://hls.iill.topapi/dsdy/index.m3u8
-東森洋片,https://hls.iill.topapi/dsyp/index.m3u8
-龍翔時代,https://hls.iill.topapi/lxsd/index.m3u8
+動物星球,https://hls.iill.top/api/dwxq/index.m3u8
+緯來日本,https://hls.iill.top/api/wlrb/index.m3u8
+緯來體育,https://hls.iill.top/api/wlty/index.m3u8
+緯來電影,https://hls.iill.top/api/wldy/index.m3u8
+東森電影,https://hls.iill.top/api/dsdy/index.m3u8
+東森洋片,https://hls.iill.top/api/dsyp/index.m3u8
+龍翔時代,https://hls.iill.top/api/lxsd/index.m3u8
 NBA TV,https://hls.iill.top/api/NBA/index.m3u8
 TNT Sport 1,https://hls.iill.top/api/TNT-Sports-1/index.m3u8
 TNT Sport 2,https://hls.iill.top/api/TNT-Sports-2/index.m3u8
