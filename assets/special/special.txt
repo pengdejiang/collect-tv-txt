@@ -4588,15 +4588,15 @@ Now財經台,https://yang-1989.eu.org/live/now-333
 Now Sports 精選,https://yang-1989.eu.org/live/now-630
 ViuTV,https://yang-1989.eu.org/live/ViuTV
 ViuTVsix,https://yang-1989.eu.org/live/ViuTVsix
-HOY 國際財經台「限HK」,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-HOY TV「限HK」,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-HOY 資訊台「限HK」,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-HOY 生活台,https://tv.iill.top/hoy/8?token=c688a89daea5c2b3eb57b69723ef8a009fd609be8021069b1e87d90e77ab8da0
-HOY 劇集台,https://tv.iill.top/hoy/9?token=c688a89daea5c2b3eb57b69723ef8a009fd609be8021069b1e87d90e77ab8da0
-HOY 怪談台,https://tv.iill.top/hoy/10?token=c688a89daea5c2b3eb57b69723ef8a009fd609be8021069b1e87d90e77ab8da0
-HOY 體育台,https://tv.iill.top/hoy/11?token=c688a89daea5c2b3eb57b69723ef8a009fd609be8021069b1e87d90e77ab8da0
-RTHK 31「限HK」,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-RTHK 32「限HK」,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+HOY 國際財經台,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+HOY 資訊台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+HOY 生活台,https://edge.media.seaovers.live/856b503e276cc4912b6c0b42cb01878d/baselive/v2/6TV1VW9W.m3u8
+HOY 劇集台,https://edge.media.seaovers.live/856b503e276cc49100c1dde528ee8cde/baselive/v2/DPL3J6FY.m3u8
+HOY 怪談台,https://edge.media.seaovers.live/856b503e276cc49197dd54aa8a0c740e/baselive/v2/TPLUZIFF.m3u8
+HOY 體育台,https://edge.media.seaovers.live/856b503e276cc4917dc388396c23668b/baselive/v2/J0LMZVOV.m3u8
+RTHK 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+RTHK 32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 RTHK 33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 RTHK 34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
 RTHK 35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
