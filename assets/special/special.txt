@@ -4547,7 +4547,8 @@ Discovery,https://hls.iill.top/api/Discovery/index.m3u8
 東森電影,https://hls.iill.top/api/dsdy/index.m3u8
 東森洋片,https://hls.iill.top/api/dsyp/index.m3u8
 龍祥時代,https://hls.iill.top/api/lxsd/index.m3u8
-NBA TV,https://hls.iill.top/api/NBA/index.m3u8
+Eurosport 1,https://hls.iill.top/api/Eurosport-1/index.m3u8
+Eurosport 2,https://hls.iill.top/api/Eurosport-2/index.m3u8
 TNT Sport 1,https://hls.iill.top/api/TNT-Sports-1/index.m3u8
 TNT Sport 2,https://hls.iill.top/api/TNT-Sports-2/index.m3u8
 TNT Sport 3,https://hls.iill.top/api/TNT-Sports-3/index.m3u8
@@ -4574,8 +4575,7 @@ Hub Sports 6,https://hls.iill.top/api/Hub-Sports-6/index.m3u8
 Hub Sports 7,https://hls.iill.top/api/Hub-Sports-7/index.m3u8
 Hub Sports 8,https://hls.iill.top/api/Hub-Sports-8/index.m3u8
 Fight Sports,https://hls.iill.top/api/Fight-Sports/index.m3u8
-Eurosport 1,https://hls.iill.top/api/Eurosport-1/index.m3u8
-Eurosport 2,https://hls.iill.top/api/Eurosport-2/index.m3u8
+NBA TV,https://hls.iill.top/api/NBA/index.m3u8
 Spotv 1,https://hls.iill.top/api/Spotv-1/index.m3u8
 Spotv 2,https://hls.iill.top/api/Spotv-2/index.m3u8
 鳳凰衛視·中文「回看」,http://dxa.yiandrive.com:39319/phenix/fhzw
