@@ -4540,6 +4540,10 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 BBC Earth,https://hls.iill.top/api/BBC-Earth/index.m3u8
 BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
 Discovery,https://hls.iill.top/api/Discovery/index.m3u8
+HBO,https://hls.iill.top/api/HBO/index.m3u8
+HBO Hits,https://hls.iill.top/api/HBO-Hits/index.m3u8
+HBO Family,https://hls.iill.top/api/HBO-Family/index.m3u8
+HBO Signature,https://hls.iill.top/api/HBO-Signature/index.m3u8
 動物星球,https://hls.iill.top/api/dwxq/index.m3u8
 緯來日本,https://hls.iill.top/api/wlrb/index.m3u8
 緯來體育,https://hls.iill.top/api/wlty/index.m3u8
