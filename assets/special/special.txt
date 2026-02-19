@@ -4734,7 +4734,6 @@ TV5MONDE STYLE 生活時尚「4gTV」,https://tv.iill.top/4gtv/4gtv-live122
 東森購物 三「4gTV」,https://tv.iill.top/4gtv/4gtv-live048
 東森購物 四「4gTV」,https://tv.iill.top/4gtv/4gtv-live0499
 新唐人亞太「4gTV」,https://tv.iill.top/4gtv/4gtv-live050
-Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 鳳凰衛視·中文,https://cdn6.163189.xyz/163189/fhzw
 鳳凰衛視·資訊,https://cdn6.163189.xyz/163189/fhzx
 鳳凰衛視·香港,https://cdn6.163189.xyz/163189/fhhk
@@ -4759,12 +4758,31 @@ iQIYI,https://o11.163189.xyz/stream/live/iqiyi/
 Channel 5,http://cdn6.163189.xyz/163189/ch5
 Channel 8,http://cdn6.163189.xyz/163189/ch8
 Channel U,http://cdn6.163189.xyz/163189/ch
+鳳凰衛視·資訊,https://ytb.178.indevs.in/?id=fN9uYWCjQaw
+CCTV4,https://ytb.178.indevs.in/?id=7j92Myu2wzg
+CCTV4美洲,https://ytb.178.indevs.in/?id=f6Kq93wnaZ8
+CGTN,https://ytb.178.indevs.in/?id=BOy2xDU1LC8
+中天新聞,https://ytb.178.indevs.in/?id=vr3XyVCR4T0
+TVBS,https://ytb.178.indevs.in/?id=o_-hSMgpAzs
+Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 广东珠江,http://r.jdshipin.com/sE5vO
 广州综合,http://dxa.yiandrive.com:39191/gztv/zhonghe
 广州新闻,http://dxa.yiandrive.com:39191/gztv/xinwen
 广州法治,http://dxa.yiandrive.com:39191/gztv/fazhi
 广州南国都市,http://dxa.yiandrive.com:39191/gztv/shenghuo
+浙江卫视,https://tv.iill.top/migu/zjws
+湖南卫视「回看」,https://tv.iill.top/migu/hnws
+辽宁卫视「回看」,https://tv.iill.top/migu/lnws
+CHC 影迷电影「回看」,https://tv.iill.top/migu/chcym
+CHC 动作电影「回看」,https://tv.iill.top/migu/chcdz
+CHC 家庭影院「回看」,https://tv.iill.top/migu/chcjt
+CGTN「回看」,https://tv.iill.top/CGTN/cgtn
+CGTN Documentary「回看」,https://tv.iill.top/CGTN/cgtn_doc
+CGTN Русский「回看」,https://tv.iill.top/CGTN/cgtn_russian
+CGTN Français「回看」,https://tv.iill.top/CGTN/cgtn_francais
+CGTN Español「回看」,https://tv.iill.top/CGTN/cgtn_espanol
+CGTN العربية「回看」,https://tv.iill.top/CGTN/cgtn_arabic
 「B站」热门赛事,https://live.iill.top/bilibili/10
 「B站」CS 2,https://live.iill.top/bilibili/21622811
 「虎牙」CS 2,https://live.iill.top/huya/483917
