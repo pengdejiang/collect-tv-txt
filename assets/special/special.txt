@@ -4648,7 +4648,7 @@ TVBS 精采「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv067
 寰宇財經「ofiii」,https://tv.iill.top/ofiii/4gtv-4gtv158
 華視「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv041
 華視新聞「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv052
-民視「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv155
+民視「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv002
 民視台灣「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv001
 民視影劇「4gTV」,https://tv.iill.top/4gtv/litv-ftv09
 民視新聞「4gTV」,https://tv.iill.top/4gtv/litv-ftv13
