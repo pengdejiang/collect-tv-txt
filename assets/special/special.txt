@@ -4539,6 +4539,7 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 建議使用：請保持 个人觀看 請勿頻繁切換,https://epg-1.iill.top/v/301.mp4
 翡翠台,https://hls.iill.top/api/TVB-Jade/index.m3u8
 無綫新聞台,https://hls.iill.top/api/TVB-News/index.m3u8
+TVB Plus,https://hls.iill.top/api/TVB-Plus/index.m3u8
 BBC Earth,https://hls.iill.top/api/BBC-Earth/index.m3u8
 BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
 Discovery,https://hls.iill.top/api/Discovery/index.m3u8
