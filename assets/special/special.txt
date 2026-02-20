@@ -4533,8 +4533,8 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 av91.top,https://wbug.xyz/videos/0f58e89f018ae20404e4c7cbc48352f9/g.m3u8?h=3121efe8979c635
 mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h=3121efe8979c635
 免費訂閲：請勿販賣...,https://epg.iill.top/v/302.mp4
-維護時間：2026-2-2 #佛系維護...,https://epg.iill.top/v/301.mp4
-維護内容：維護 Gather「調整 •台灣「限制」"」,https://epg.iill.top/v/302.mp4
+維護時間：2026-2-19 #佛系維護...,https://epg.iill.top/v/301.mp4
+維護内容：維護 Gather「調整限制 / 維護資源」,https://epg.iill.top/v/302.mp4
 公告说明：推流源·「隨時拉閘 / 晚安"0-6"」,https://epg.iill.top/v/301.mp4
 建議使用：請保持 个人觀看 請勿頻繁切換,https://epg-1.iill.top/v/301.mp4
 翡翠台,https://hls.iill.top/api/TVB-Jade/index.m3u8
@@ -4737,20 +4737,20 @@ TV5MONDE STYLE 生活時尚「4gTV」,https://tv.iill.top/4gtv/4gtv-live122
 鳳凰衛視·中文,https://cdn6.163189.xyz/163189/fhzw
 鳳凰衛視·資訊,https://cdn6.163189.xyz/163189/fhzx
 鳳凰衛視·香港,https://cdn6.163189.xyz/163189/fhhk
-翡翠台 4K,https://o11.163189.xyz/stream/tvb/fct4k/
-翡翠台,https://o11.163189.xyz/stream/tvb/tvbp/
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/
-TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
+翡翠台 4K「多音轨字幕」,https://o11.163189.xyz/stream/tvb/fct4k/
+翡翠台「多音轨字幕」,https://o11.163189.xyz/stream/tvb/tvbp/
+明珠台「多音轨字幕」,https://o11.163189.xyz/stream/tvb/mzt/
+TVB Plus「多音轨字幕」,https://o11.163189.xyz/stream/tvb/tvbp/
 無綫新聞台,https://cdn6.163189.xyz/163189/wxxw
 Now新聞台,https://cdn.163189.xyz/163189/now
 娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 千禧經典台,https://o11.163189.xyz/stream/live/tvbc/
 天映频道,https://o11.163189.xyz/stream/live/typd/
 天映經典,https://o11.163189.xyz/stream/live/ccm/
-TVB 星河,https://o11.163189.xyz/stream/live/tvbxh/
 亞洲武俠,https://cdn6.163189.xyz/163189/yzwx
-Astro AOD,https://o11.163189.xyz/stream/live/aod/
-Astro AEC,https://o11.163189.xyz/stream/live/aec/
+TVB 星河「多音轨字幕」,https://o11.163189.xyz/stream/live/tvbxh/
+Astro AOD「多音轨字幕」,https://o11.163189.xyz/stream/live/aod/
+Astro AEC「多音轨字幕」,https://o11.163189.xyz/stream/live/aec/
 Astro QJ,https://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
 Astro 欢喜台,https://o11.163189.xyz/stream/live/hxt/
 iQIYI,https://o11.163189.xyz/stream/live/iqiyi/
@@ -4758,12 +4758,12 @@ iQIYI,https://o11.163189.xyz/stream/live/iqiyi/
 Channel 5,http://cdn6.163189.xyz/163189/ch5
 Channel 8,http://cdn6.163189.xyz/163189/ch8
 Channel U,http://cdn6.163189.xyz/163189/ch
-鳳凰衛視·資訊,https://ytb.178.indevs.in/?id=fN9uYWCjQaw
-CCTV4,https://ytb.178.indevs.in/?id=7j92Myu2wzg
-CCTV4美洲,https://ytb.178.indevs.in/?id=f6Kq93wnaZ8
-CGTN,https://ytb.178.indevs.in/?id=BOy2xDU1LC8
-中天新聞,https://ytb.178.indevs.in/?id=vr3XyVCR4T0
-TVBS,https://ytb.178.indevs.in/?id=o_-hSMgpAzs
+鳳凰衛視·資訊「YouTube」,https://ytb.178.indevs.in/?id=fN9uYWCjQaw
+CCTV4「YouTube」,https://ytb.178.indevs.in/?id=7j92Myu2wzg
+CCTV4 美洲「YouTube」,https://ytb.178.indevs.in/?id=f6Kq93wnaZ8
+CGTN「YouTube」,https://ytb.178.indevs.in/?id=BOy2xDU1LC8
+中天新聞「YouTube」,https://ytb.178.indevs.in/?id=vr3XyVCR4T0
+TVBS「YouTube」,https://ytb.178.indevs.in/?id=o_-hSMgpAzs
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 广东珠江,http://r.jdshipin.com/sE5vO
@@ -5799,5 +5799,5 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 「电视伴音」CETV3,https://piccpndali.v.myalicdn.com/audio/cetv3_2.m3u8
 「电视伴音」CETV4,https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
 ---------------,https://epg.iill.top/v/302.mp4
-仅支持安卓·不懂问ChatGPT,https://epg.iill.top/v/301.mp4
+仅支持安卓·不懂问 Ai,https://epg.iill.top/v/301.mp4
 https://github.com/YanG-1989,https://epg.iill.top/v/302.mp4
